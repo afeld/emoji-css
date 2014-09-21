@@ -25,6 +25,14 @@
  */
 
 $(function() {
+  // http://stackoverflow.com/a/1219983/358804
+  function htmlEncode(value){
+    //create a in-memory div, set it's inner text(which jQuery automatically encodes)
+    //then grab the encoded contents back out.  The div never exists on the page.
+    return $('<div/>').text(value).html();
+  }
+
+
   ZeroClipboard.config({
     forceHandCursor: true
   });
@@ -32,9 +40,15 @@ $(function() {
 
   $.jnotify.setup({ 'delay': 1000, 'fadeSpeed': 500 });
 
+  clip.on('copy', function(event) {
+    var name = clip.getData('text/plain');
+    var el = '<i class="em em-' + name + '"></i>';
+    event.clipboardData.setData('text/plain', el);
+  });
+
   clip.on('aftercopy', function(event) {
     var text = event.data['text/plain'];
-    $.jnotify('Copied <code>' + text + '</code>');
+    $.jnotify('Copied <code>' + htmlEncode(text) + '</code>');
   });
 
   function isElementMatching(element, needle) {
