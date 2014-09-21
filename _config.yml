@@ -1,3 +1,5 @@
 collections:
   emoji:
     output: true
+sass:
+  style: :compressed
