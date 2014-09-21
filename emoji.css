@@ -13,8 +13,9 @@
 }
 
 {% for emo in site.collections.emoji.files %}
+  {% comment %} This needs to match index.html. {% endcomment %}
   {% assign filename = emo.path | replace:'/_emoji/','' %}
-  {% assign name = filename | replace:'.png','' %}
+  {% assign name = filename | replace:'.png','' | replace:'+','--' %}
 
   .em-{{ name }} {
     background-image: url('emoji/{{ filename }}');
