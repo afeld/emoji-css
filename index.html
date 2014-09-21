@@ -12,6 +12,7 @@
     <meta property="og:url" content="http://www.emoji-cheat-sheet.com/" />
     <link rel="shortcut icon" href="public/favicon.ico"/>
     <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet">
+    <link href="emoji.css" rel="stylesheet">
     <link href="public/style.css" rel="stylesheet">
   </head>
   <body id="content">
@@ -25,10 +26,9 @@
     </p>
     <ul class="people emojis" id="emoji-people">
       {% for emo in site.collections.emoji.files %}
-        {% assign filename = emo.path | replace:'/_emoji/','' %}
-        {% assign name = filename | replace:'.png','' %}
-        <li class="emoji" data-clipboard-text="{{ name }}">
-          <img src="emoji/{{ filename }}" alt="{{ name }}" /> :<span class="name">{{ name }}</span>:
+        {% assign name = emo.path | replace:'/_emoji/','' | replace:'.png','' %}
+        <li class="emoji" data-clipboard-text="em-{{ name }}">
+          <i class="em em-{{ name }}"></i> em-<span class="name">{{ name }}</span>
         </li>
       {% endfor %}
     </ul>

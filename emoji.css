@@ -1,0 +1,22 @@
+---
+---
+
+.em {
+  height: 1.5em;
+  width: 1.5em;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+{% for emo in site.collections.emoji.files %}
+  {% assign filename = emo.path | replace:'/_emoji/','' %}
+  {% assign name = filename | replace:'.png','' %}
+
+  .em-{{ name }} {
+    background-image: url('emoji/{{ filename }}');
+  }
+{% endfor %}
