@@ -42,14 +42,6 @@ ul {
     position: relative;
     border-bottom: 1px solid rgba(0,0,0,.1);
     padding: 10px 0 7px 0; }
-  #footer {
-    padding: 8px 20px;
-    background: rgba(200,200,200,.2);
-    border-top-left-radius: 4px;
-    border-top-right-radius: 4px;
-    border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd; }
 
 .search {
   position: absolute;

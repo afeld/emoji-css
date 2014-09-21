@@ -4,12 +4,12 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Emoji cheat sheet for Campfire and GitHub</title>
+    <title>Emoji CSS</title>
     <meta charset="utf-8">
-    <meta property="og:title" content="Emoji cheat sheet for Campfire and GitHub" />
-    <meta property="og:image" content="http://www.emoji-cheat-sheet.com/graphics/emojis/thumbsup.png" />
+    <meta property="og:title" content="Emoji CSS" />
+    <meta property="og:image" content="http://afeld.github.io/emoji-css/emoji/thumbsup.png" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://www.emoji-cheat-sheet.com/" />
+    <meta property="og:url" content="http://afeld.github.io/emoji-css/" />
     <link rel="shortcut icon" href="public/favicon.ico"/>
     <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet">
     <link href="emoji.css" rel="stylesheet">
@@ -17,12 +17,17 @@
   </head>
   <body id="content">
     <div id="header">
-      <h1>Emoji cheat sheet</h1>
+      <h1>Emoji CSS</h1>
       <input class="search" placeholder="Instant Search">
     </div>
     <p>
-      However some of the emoji codes are not super easy to remember, <em>so here is a little cheat sheet</em>.<br>
+      Want to include emoji in your HTML? Just include the stylesheet below, then add <code>&lt;i&gt;</code> tags to insert emoji. That's it!<br>
       &#x2708; <b>Got flash enabled? Click the emoji code and it will be copied to your clipboard.</b>
+      <pre><code>
+&lt;link href="http://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"&gt;
+
+&lt;i class="em em-some-emoji"&gt;&lt;/i&gt;
+      </code></pre>
     </p>
     <ul class="people emojis" id="emoji-people">
       {% for emo in site.collections.emoji.files %}
@@ -33,21 +38,6 @@
         </li>
       {% endfor %}
     </ul>
-    <div id="footer">
-      <p>
-        &#x2714; Emoji-cheat-sheet.com is not affiliated with 37signals, LLC. or GitHub Inc. in any way.
-      </p>
-      <p>
-        &#x267A; Built using bits from
-        <a href="http://www.steamdev.com/zclip">zClip</a>,
-        <a href="http://subtlepatterns.com/">SubtlePatterns</a>,
-        <a href="http://www.givainc.com/labs/jnotify_jquery_plugin.htm">jnotify</a>, and
-        <a href="http://listjs.com/">list.js</a>.
-      </p>
-      <a href="https://github.com/arvida/emoji-cheat-sheet.com">
-        <img src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" id="github" alt="Fork me on GitHub">
-      </a>
-    </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.1.6/ZeroClipboard.min.js"></script>
     <script src="public/script.js"></script>
