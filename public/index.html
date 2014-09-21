@@ -25,16 +25,13 @@
     </p>
     <ul class="people emojis" id="emoji-people">
       {% for emo in site.collections.emoji.files %}
-        <li>
-          <div>
-            {% assign filename = emo.path | replace:'/_emoji/','' %}
-            {% assign name = filename | replace:'.png','' %}
-            <img src="../emoji/{{ filename }}" alt="{{ name }}" /> :<span class="name">{{ name }}</span>:
-          </div>
+        {% assign filename = emo.path | replace:'/_emoji/','' %}
+        {% assign name = filename | replace:'.png','' %}
+        <li class="emoji" data-clipboard-text="{{ name }}">
+          <img src="../emoji/{{ filename }}" alt="{{ name }}" /> :<span class="name">{{ name }}</span>:
         </li>
       {% endfor %}
     </ul>
-    <div id="flash-test"></div>
     <div id="footer">
       <p>
         &#x2714; Emoji-cheat-sheet.com is not affiliated with 37signals, LLC. or GitHub Inc. in any way.
@@ -51,6 +48,7 @@
       </a>
     </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="script.js?5"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/zeroclipboard/2.1.6/ZeroClipboard.min.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
