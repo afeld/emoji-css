@@ -32,6 +32,22 @@ ul {
       height: 22px;
       width: 22px; }
 
+pre,
+code {
+  background-color: #444;
+  border-radius: 5px;
+  color: #fff;
+}
+pre {
+  padding: 10px;
+}
+code {
+  padding: 3px 4px;
+}
+pre > code {
+  padding: 0;
+}
+
 #content {
   margin: 0 auto;
   padding: 0 30px; }
