@@ -14,3 +14,4 @@ open http://localhost:4000
 
 * https://github.com/arvida/emoji-cheat-sheet.com#want-to-add-emojis-to-your-projects
 * https://github.com/jch/html-pipeline
+* http://noahmanger.github.io/emoji-text-replacement/
