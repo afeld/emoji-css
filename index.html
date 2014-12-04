@@ -28,7 +28,8 @@
 &lt;i class="em em-some-emoji"&gt;&lt;/i&gt;</code></pre>
     </p>
     <ul class="emojis">
-      {% for emo in site.collections.emoji.files %}
+      {% assign files = site.collections.emoji.files | sort:'path' %}
+      {% for emo in files %}
         {% comment %} This needs to match emoji.css. {% endcomment %}
         {% assign name = emo.path | replace:'/_emoji/','' | replace:'.png','' | replace:'+','--' %}
         <li class="emoji" data-clipboard-text="{{ name }}">
