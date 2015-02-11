@@ -1,4 +1,4 @@
-# Emoji CSS
+# Emoji CSS :smiley:
 
 An easy way to include emoji in your HTML. Inspired by [Font Awesome](http://fortawesome.github.io/Font-Awesome/); site ripped off of [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
 
