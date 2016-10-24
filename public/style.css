@@ -79,19 +79,6 @@ pre > code {
     top: 0; }
 }
 
-#flash-test {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 1px;
-  height: 1px; }
-
-#github {
-  position: absolute;
-  top: 0;
-  right: 0;
-  border: 0; }
-
 .jnotify-container {
   position: fixed;
   top: 1em;
