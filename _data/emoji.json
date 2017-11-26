@@ -1,0 +1,7827 @@
+[
+  {
+    "name": "HASH KEY",
+    "unified": "0023-FE0F-20E3",
+    "short_name": "hash"
+  },
+  {
+    "name": null,
+    "unified": "002A-FE0F-20E3",
+    "short_name": "keycap_star"
+  },
+  {
+    "name": "KEYCAP 0",
+    "unified": "0030-FE0F-20E3",
+    "short_name": "zero"
+  },
+  {
+    "name": "KEYCAP 1",
+    "unified": "0031-FE0F-20E3",
+    "short_name": "one"
+  },
+  {
+    "name": "KEYCAP 2",
+    "unified": "0032-FE0F-20E3",
+    "short_name": "two"
+  },
+  {
+    "name": "KEYCAP 3",
+    "unified": "0033-FE0F-20E3",
+    "short_name": "three"
+  },
+  {
+    "name": "KEYCAP 4",
+    "unified": "0034-FE0F-20E3",
+    "short_name": "four"
+  },
+  {
+    "name": "KEYCAP 5",
+    "unified": "0035-FE0F-20E3",
+    "short_name": "five"
+  },
+  {
+    "name": "KEYCAP 6",
+    "unified": "0036-FE0F-20E3",
+    "short_name": "six"
+  },
+  {
+    "name": "KEYCAP 7",
+    "unified": "0037-FE0F-20E3",
+    "short_name": "seven"
+  },
+  {
+    "name": "KEYCAP 8",
+    "unified": "0038-FE0F-20E3",
+    "short_name": "eight"
+  },
+  {
+    "name": "KEYCAP 9",
+    "unified": "0039-FE0F-20E3",
+    "short_name": "nine"
+  },
+  {
+    "name": "MAHJONG TILE RED DRAGON",
+    "unified": "1F004",
+    "short_name": "mahjong"
+  },
+  {
+    "name": "PLAYING CARD BLACK JOKER",
+    "unified": "1F0CF",
+    "short_name": "black_joker"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
+    "unified": "1F170-FE0F",
+    "short_name": "a"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
+    "unified": "1F171-FE0F",
+    "short_name": "b"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
+    "unified": "1F17E-FE0F",
+    "short_name": "o2"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
+    "unified": "1F17F-FE0F",
+    "short_name": "parking"
+  },
+  {
+    "name": "NEGATIVE SQUARED AB",
+    "unified": "1F18E",
+    "short_name": "ab"
+  },
+  {
+    "name": "SQUARED CL",
+    "unified": "1F191",
+    "short_name": "cl"
+  },
+  {
+    "name": "SQUARED COOL",
+    "unified": "1F192",
+    "short_name": "cool"
+  },
+  {
+    "name": "SQUARED FREE",
+    "unified": "1F193",
+    "short_name": "free"
+  },
+  {
+    "name": "SQUARED ID",
+    "unified": "1F194",
+    "short_name": "id"
+  },
+  {
+    "name": "SQUARED NEW",
+    "unified": "1F195",
+    "short_name": "new"
+  },
+  {
+    "name": "SQUARED NG",
+    "unified": "1F196",
+    "short_name": "ng"
+  },
+  {
+    "name": "SQUARED OK",
+    "unified": "1F197",
+    "short_name": "ok"
+  },
+  {
+    "name": "SQUARED SOS",
+    "unified": "1F198",
+    "short_name": "sos"
+  },
+  {
+    "name": "SQUARED UP WITH EXCLAMATION MARK",
+    "unified": "1F199",
+    "short_name": "up"
+  },
+  {
+    "name": "SQUARED VS",
+    "unified": "1F19A",
+    "short_name": "vs"
+  },
+  {
+    "name": "Ascension Island Flag",
+    "unified": "1F1E6-1F1E8",
+    "short_name": "flag-ac"
+  },
+  {
+    "name": "Andorra Flag",
+    "unified": "1F1E6-1F1E9",
+    "short_name": "flag-ad"
+  },
+  {
+    "name": "United Arab Emirates Flag",
+    "unified": "1F1E6-1F1EA",
+    "short_name": "flag-ae"
+  },
+  {
+    "name": "Afghanistan Flag",
+    "unified": "1F1E6-1F1EB",
+    "short_name": "flag-af"
+  },
+  {
+    "name": "Antigua & Barbuda Flag",
+    "unified": "1F1E6-1F1EC",
+    "short_name": "flag-ag"
+  },
+  {
+    "name": "Anguilla Flag",
+    "unified": "1F1E6-1F1EE",
+    "short_name": "flag-ai"
+  },
+  {
+    "name": "Albania Flag",
+    "unified": "1F1E6-1F1F1",
+    "short_name": "flag-al"
+  },
+  {
+    "name": "Armenia Flag",
+    "unified": "1F1E6-1F1F2",
+    "short_name": "flag-am"
+  },
+  {
+    "name": "Angola Flag",
+    "unified": "1F1E6-1F1F4",
+    "short_name": "flag-ao"
+  },
+  {
+    "name": "Antarctica Flag",
+    "unified": "1F1E6-1F1F6",
+    "short_name": "flag-aq"
+  },
+  {
+    "name": "Argentina Flag",
+    "unified": "1F1E6-1F1F7",
+    "short_name": "flag-ar"
+  },
+  {
+    "name": "American Samoa Flag",
+    "unified": "1F1E6-1F1F8",
+    "short_name": "flag-as"
+  },
+  {
+    "name": "Austria Flag",
+    "unified": "1F1E6-1F1F9",
+    "short_name": "flag-at"
+  },
+  {
+    "name": "Australia Flag",
+    "unified": "1F1E6-1F1FA",
+    "short_name": "flag-au"
+  },
+  {
+    "name": "Aruba Flag",
+    "unified": "1F1E6-1F1FC",
+    "short_name": "flag-aw"
+  },
+  {
+    "name": "Åland Islands Flag",
+    "unified": "1F1E6-1F1FD",
+    "short_name": "flag-ax"
+  },
+  {
+    "name": "Azerbaijan Flag",
+    "unified": "1F1E6-1F1FF",
+    "short_name": "flag-az"
+  },
+  {
+    "name": "Bosnia & Herzegovina Flag",
+    "unified": "1F1E7-1F1E6",
+    "short_name": "flag-ba"
+  },
+  {
+    "name": "Barbados Flag",
+    "unified": "1F1E7-1F1E7",
+    "short_name": "flag-bb"
+  },
+  {
+    "name": "Bangladesh Flag",
+    "unified": "1F1E7-1F1E9",
+    "short_name": "flag-bd"
+  },
+  {
+    "name": "Belgium Flag",
+    "unified": "1F1E7-1F1EA",
+    "short_name": "flag-be"
+  },
+  {
+    "name": "Burkina Faso Flag",
+    "unified": "1F1E7-1F1EB",
+    "short_name": "flag-bf"
+  },
+  {
+    "name": "Bulgaria Flag",
+    "unified": "1F1E7-1F1EC",
+    "short_name": "flag-bg"
+  },
+  {
+    "name": "Bahrain Flag",
+    "unified": "1F1E7-1F1ED",
+    "short_name": "flag-bh"
+  },
+  {
+    "name": "Burundi Flag",
+    "unified": "1F1E7-1F1EE",
+    "short_name": "flag-bi"
+  },
+  {
+    "name": "Benin Flag",
+    "unified": "1F1E7-1F1EF",
+    "short_name": "flag-bj"
+  },
+  {
+    "name": "St. Barthélemy Flag",
+    "unified": "1F1E7-1F1F1",
+    "short_name": "flag-bl"
+  },
+  {
+    "name": "Bermuda Flag",
+    "unified": "1F1E7-1F1F2",
+    "short_name": "flag-bm"
+  },
+  {
+    "name": "Brunei Flag",
+    "unified": "1F1E7-1F1F3",
+    "short_name": "flag-bn"
+  },
+  {
+    "name": "Bolivia Flag",
+    "unified": "1F1E7-1F1F4",
+    "short_name": "flag-bo"
+  },
+  {
+    "name": "Caribbean Netherlands Flag",
+    "unified": "1F1E7-1F1F6",
+    "short_name": "flag-bq"
+  },
+  {
+    "name": "Brazil Flag",
+    "unified": "1F1E7-1F1F7",
+    "short_name": "flag-br"
+  },
+  {
+    "name": "Bahamas Flag",
+    "unified": "1F1E7-1F1F8",
+    "short_name": "flag-bs"
+  },
+  {
+    "name": "Bhutan Flag",
+    "unified": "1F1E7-1F1F9",
+    "short_name": "flag-bt"
+  },
+  {
+    "name": "Bouvet Island Flag",
+    "unified": "1F1E7-1F1FB",
+    "short_name": "flag-bv"
+  },
+  {
+    "name": "Botswana Flag",
+    "unified": "1F1E7-1F1FC",
+    "short_name": "flag-bw"
+  },
+  {
+    "name": "Belarus Flag",
+    "unified": "1F1E7-1F1FE",
+    "short_name": "flag-by"
+  },
+  {
+    "name": "Belize Flag",
+    "unified": "1F1E7-1F1FF",
+    "short_name": "flag-bz"
+  },
+  {
+    "name": "Canada Flag",
+    "unified": "1F1E8-1F1E6",
+    "short_name": "flag-ca"
+  },
+  {
+    "name": "Cocos (Keeling) Islands Flag",
+    "unified": "1F1E8-1F1E8",
+    "short_name": "flag-cc"
+  },
+  {
+    "name": "Congo - Kinshasa Flag",
+    "unified": "1F1E8-1F1E9",
+    "short_name": "flag-cd"
+  },
+  {
+    "name": "Central African Republic Flag",
+    "unified": "1F1E8-1F1EB",
+    "short_name": "flag-cf"
+  },
+  {
+    "name": "Congo - Brazzaville Flag",
+    "unified": "1F1E8-1F1EC",
+    "short_name": "flag-cg"
+  },
+  {
+    "name": "Switzerland Flag",
+    "unified": "1F1E8-1F1ED",
+    "short_name": "flag-ch"
+  },
+  {
+    "name": "Côte d’Ivoire Flag",
+    "unified": "1F1E8-1F1EE",
+    "short_name": "flag-ci"
+  },
+  {
+    "name": "Cook Islands Flag",
+    "unified": "1F1E8-1F1F0",
+    "short_name": "flag-ck"
+  },
+  {
+    "name": "Chile Flag",
+    "unified": "1F1E8-1F1F1",
+    "short_name": "flag-cl"
+  },
+  {
+    "name": "Cameroon Flag",
+    "unified": "1F1E8-1F1F2",
+    "short_name": "flag-cm"
+  },
+  {
+    "name": "China Flag",
+    "unified": "1F1E8-1F1F3",
+    "short_name": "cn"
+  },
+  {
+    "name": "Colombia Flag",
+    "unified": "1F1E8-1F1F4",
+    "short_name": "flag-co"
+  },
+  {
+    "name": "Clipperton Island Flag",
+    "unified": "1F1E8-1F1F5",
+    "short_name": "flag-cp"
+  },
+  {
+    "name": "Costa Rica Flag",
+    "unified": "1F1E8-1F1F7",
+    "short_name": "flag-cr"
+  },
+  {
+    "name": "Cuba Flag",
+    "unified": "1F1E8-1F1FA",
+    "short_name": "flag-cu"
+  },
+  {
+    "name": "Cape Verde Flag",
+    "unified": "1F1E8-1F1FB",
+    "short_name": "flag-cv"
+  },
+  {
+    "name": "Curaçao Flag",
+    "unified": "1F1E8-1F1FC",
+    "short_name": "flag-cw"
+  },
+  {
+    "name": "Christmas Island Flag",
+    "unified": "1F1E8-1F1FD",
+    "short_name": "flag-cx"
+  },
+  {
+    "name": "Cyprus Flag",
+    "unified": "1F1E8-1F1FE",
+    "short_name": "flag-cy"
+  },
+  {
+    "name": "Czechia Flag",
+    "unified": "1F1E8-1F1FF",
+    "short_name": "flag-cz"
+  },
+  {
+    "name": "Germany Flag",
+    "unified": "1F1E9-1F1EA",
+    "short_name": "de"
+  },
+  {
+    "name": "Diego Garcia Flag",
+    "unified": "1F1E9-1F1EC",
+    "short_name": "flag-dg"
+  },
+  {
+    "name": "Djibouti Flag",
+    "unified": "1F1E9-1F1EF",
+    "short_name": "flag-dj"
+  },
+  {
+    "name": "Denmark Flag",
+    "unified": "1F1E9-1F1F0",
+    "short_name": "flag-dk"
+  },
+  {
+    "name": "Dominica Flag",
+    "unified": "1F1E9-1F1F2",
+    "short_name": "flag-dm"
+  },
+  {
+    "name": "Dominican Republic Flag",
+    "unified": "1F1E9-1F1F4",
+    "short_name": "flag-do"
+  },
+  {
+    "name": "Algeria Flag",
+    "unified": "1F1E9-1F1FF",
+    "short_name": "flag-dz"
+  },
+  {
+    "name": "Ceuta & Melilla Flag",
+    "unified": "1F1EA-1F1E6",
+    "short_name": "flag-ea"
+  },
+  {
+    "name": "Ecuador Flag",
+    "unified": "1F1EA-1F1E8",
+    "short_name": "flag-ec"
+  },
+  {
+    "name": "Estonia Flag",
+    "unified": "1F1EA-1F1EA",
+    "short_name": "flag-ee"
+  },
+  {
+    "name": "Egypt Flag",
+    "unified": "1F1EA-1F1EC",
+    "short_name": "flag-eg"
+  },
+  {
+    "name": "Western Sahara Flag",
+    "unified": "1F1EA-1F1ED",
+    "short_name": "flag-eh"
+  },
+  {
+    "name": "Eritrea Flag",
+    "unified": "1F1EA-1F1F7",
+    "short_name": "flag-er"
+  },
+  {
+    "name": "Spain Flag",
+    "unified": "1F1EA-1F1F8",
+    "short_name": "es"
+  },
+  {
+    "name": "Ethiopia Flag",
+    "unified": "1F1EA-1F1F9",
+    "short_name": "flag-et"
+  },
+  {
+    "name": "European Union Flag",
+    "unified": "1F1EA-1F1FA",
+    "short_name": "flag-eu"
+  },
+  {
+    "name": "Finland Flag",
+    "unified": "1F1EB-1F1EE",
+    "short_name": "flag-fi"
+  },
+  {
+    "name": "Fiji Flag",
+    "unified": "1F1EB-1F1EF",
+    "short_name": "flag-fj"
+  },
+  {
+    "name": "Falkland Islands Flag",
+    "unified": "1F1EB-1F1F0",
+    "short_name": "flag-fk"
+  },
+  {
+    "name": "Micronesia Flag",
+    "unified": "1F1EB-1F1F2",
+    "short_name": "flag-fm"
+  },
+  {
+    "name": "Faroe Islands Flag",
+    "unified": "1F1EB-1F1F4",
+    "short_name": "flag-fo"
+  },
+  {
+    "name": "France Flag",
+    "unified": "1F1EB-1F1F7",
+    "short_name": "fr"
+  },
+  {
+    "name": "Gabon Flag",
+    "unified": "1F1EC-1F1E6",
+    "short_name": "flag-ga"
+  },
+  {
+    "name": "United Kingdom Flag",
+    "unified": "1F1EC-1F1E7",
+    "short_name": "gb"
+  },
+  {
+    "name": "Grenada Flag",
+    "unified": "1F1EC-1F1E9",
+    "short_name": "flag-gd"
+  },
+  {
+    "name": "Georgia Flag",
+    "unified": "1F1EC-1F1EA",
+    "short_name": "flag-ge"
+  },
+  {
+    "name": "French Guiana Flag",
+    "unified": "1F1EC-1F1EB",
+    "short_name": "flag-gf"
+  },
+  {
+    "name": "Guernsey Flag",
+    "unified": "1F1EC-1F1EC",
+    "short_name": "flag-gg"
+  },
+  {
+    "name": "Ghana Flag",
+    "unified": "1F1EC-1F1ED",
+    "short_name": "flag-gh"
+  },
+  {
+    "name": "Gibraltar Flag",
+    "unified": "1F1EC-1F1EE",
+    "short_name": "flag-gi"
+  },
+  {
+    "name": "Greenland Flag",
+    "unified": "1F1EC-1F1F1",
+    "short_name": "flag-gl"
+  },
+  {
+    "name": "Gambia Flag",
+    "unified": "1F1EC-1F1F2",
+    "short_name": "flag-gm"
+  },
+  {
+    "name": "Guinea Flag",
+    "unified": "1F1EC-1F1F3",
+    "short_name": "flag-gn"
+  },
+  {
+    "name": "Guadeloupe Flag",
+    "unified": "1F1EC-1F1F5",
+    "short_name": "flag-gp"
+  },
+  {
+    "name": "Equatorial Guinea Flag",
+    "unified": "1F1EC-1F1F6",
+    "short_name": "flag-gq"
+  },
+  {
+    "name": "Greece Flag",
+    "unified": "1F1EC-1F1F7",
+    "short_name": "flag-gr"
+  },
+  {
+    "name": "South Georgia & South Sandwich Islands Flag",
+    "unified": "1F1EC-1F1F8",
+    "short_name": "flag-gs"
+  },
+  {
+    "name": "Guatemala Flag",
+    "unified": "1F1EC-1F1F9",
+    "short_name": "flag-gt"
+  },
+  {
+    "name": "Guam Flag",
+    "unified": "1F1EC-1F1FA",
+    "short_name": "flag-gu"
+  },
+  {
+    "name": "Guinea-Bissau Flag",
+    "unified": "1F1EC-1F1FC",
+    "short_name": "flag-gw"
+  },
+  {
+    "name": "Guyana Flag",
+    "unified": "1F1EC-1F1FE",
+    "short_name": "flag-gy"
+  },
+  {
+    "name": "Hong Kong SAR China Flag",
+    "unified": "1F1ED-1F1F0",
+    "short_name": "flag-hk"
+  },
+  {
+    "name": "Heard & McDonald Islands Flag",
+    "unified": "1F1ED-1F1F2",
+    "short_name": "flag-hm"
+  },
+  {
+    "name": "Honduras Flag",
+    "unified": "1F1ED-1F1F3",
+    "short_name": "flag-hn"
+  },
+  {
+    "name": "Croatia Flag",
+    "unified": "1F1ED-1F1F7",
+    "short_name": "flag-hr"
+  },
+  {
+    "name": "Haiti Flag",
+    "unified": "1F1ED-1F1F9",
+    "short_name": "flag-ht"
+  },
+  {
+    "name": "Hungary Flag",
+    "unified": "1F1ED-1F1FA",
+    "short_name": "flag-hu"
+  },
+  {
+    "name": "Canary Islands Flag",
+    "unified": "1F1EE-1F1E8",
+    "short_name": "flag-ic"
+  },
+  {
+    "name": "Indonesia Flag",
+    "unified": "1F1EE-1F1E9",
+    "short_name": "flag-id"
+  },
+  {
+    "name": "Ireland Flag",
+    "unified": "1F1EE-1F1EA",
+    "short_name": "flag-ie"
+  },
+  {
+    "name": "Israel Flag",
+    "unified": "1F1EE-1F1F1",
+    "short_name": "flag-il"
+  },
+  {
+    "name": "Isle of Man Flag",
+    "unified": "1F1EE-1F1F2",
+    "short_name": "flag-im"
+  },
+  {
+    "name": "India Flag",
+    "unified": "1F1EE-1F1F3",
+    "short_name": "flag-in"
+  },
+  {
+    "name": "British Indian Ocean Territory Flag",
+    "unified": "1F1EE-1F1F4",
+    "short_name": "flag-io"
+  },
+  {
+    "name": "Iraq Flag",
+    "unified": "1F1EE-1F1F6",
+    "short_name": "flag-iq"
+  },
+  {
+    "name": "Iran Flag",
+    "unified": "1F1EE-1F1F7",
+    "short_name": "flag-ir"
+  },
+  {
+    "name": "Iceland Flag",
+    "unified": "1F1EE-1F1F8",
+    "short_name": "flag-is"
+  },
+  {
+    "name": "Italy Flag",
+    "unified": "1F1EE-1F1F9",
+    "short_name": "it"
+  },
+  {
+    "name": "Jersey Flag",
+    "unified": "1F1EF-1F1EA",
+    "short_name": "flag-je"
+  },
+  {
+    "name": "Jamaica Flag",
+    "unified": "1F1EF-1F1F2",
+    "short_name": "flag-jm"
+  },
+  {
+    "name": "Jordan Flag",
+    "unified": "1F1EF-1F1F4",
+    "short_name": "flag-jo"
+  },
+  {
+    "name": "Japan Flag",
+    "unified": "1F1EF-1F1F5",
+    "short_name": "jp"
+  },
+  {
+    "name": "Kenya Flag",
+    "unified": "1F1F0-1F1EA",
+    "short_name": "flag-ke"
+  },
+  {
+    "name": "Kyrgyzstan Flag",
+    "unified": "1F1F0-1F1EC",
+    "short_name": "flag-kg"
+  },
+  {
+    "name": "Cambodia Flag",
+    "unified": "1F1F0-1F1ED",
+    "short_name": "flag-kh"
+  },
+  {
+    "name": "Kiribati Flag",
+    "unified": "1F1F0-1F1EE",
+    "short_name": "flag-ki"
+  },
+  {
+    "name": "Comoros Flag",
+    "unified": "1F1F0-1F1F2",
+    "short_name": "flag-km"
+  },
+  {
+    "name": "St. Kitts & Nevis Flag",
+    "unified": "1F1F0-1F1F3",
+    "short_name": "flag-kn"
+  },
+  {
+    "name": "North Korea Flag",
+    "unified": "1F1F0-1F1F5",
+    "short_name": "flag-kp"
+  },
+  {
+    "name": "South Korea Flag",
+    "unified": "1F1F0-1F1F7",
+    "short_name": "kr"
+  },
+  {
+    "name": "Kuwait Flag",
+    "unified": "1F1F0-1F1FC",
+    "short_name": "flag-kw"
+  },
+  {
+    "name": "Cayman Islands Flag",
+    "unified": "1F1F0-1F1FE",
+    "short_name": "flag-ky"
+  },
+  {
+    "name": "Kazakhstan Flag",
+    "unified": "1F1F0-1F1FF",
+    "short_name": "flag-kz"
+  },
+  {
+    "name": "Laos Flag",
+    "unified": "1F1F1-1F1E6",
+    "short_name": "flag-la"
+  },
+  {
+    "name": "Lebanon Flag",
+    "unified": "1F1F1-1F1E7",
+    "short_name": "flag-lb"
+  },
+  {
+    "name": "St. Lucia Flag",
+    "unified": "1F1F1-1F1E8",
+    "short_name": "flag-lc"
+  },
+  {
+    "name": "Liechtenstein Flag",
+    "unified": "1F1F1-1F1EE",
+    "short_name": "flag-li"
+  },
+  {
+    "name": "Sri Lanka Flag",
+    "unified": "1F1F1-1F1F0",
+    "short_name": "flag-lk"
+  },
+  {
+    "name": "Liberia Flag",
+    "unified": "1F1F1-1F1F7",
+    "short_name": "flag-lr"
+  },
+  {
+    "name": "Lesotho Flag",
+    "unified": "1F1F1-1F1F8",
+    "short_name": "flag-ls"
+  },
+  {
+    "name": "Lithuania Flag",
+    "unified": "1F1F1-1F1F9",
+    "short_name": "flag-lt"
+  },
+  {
+    "name": "Luxembourg Flag",
+    "unified": "1F1F1-1F1FA",
+    "short_name": "flag-lu"
+  },
+  {
+    "name": "Latvia Flag",
+    "unified": "1F1F1-1F1FB",
+    "short_name": "flag-lv"
+  },
+  {
+    "name": "Libya Flag",
+    "unified": "1F1F1-1F1FE",
+    "short_name": "flag-ly"
+  },
+  {
+    "name": "Morocco Flag",
+    "unified": "1F1F2-1F1E6",
+    "short_name": "flag-ma"
+  },
+  {
+    "name": "Monaco Flag",
+    "unified": "1F1F2-1F1E8",
+    "short_name": "flag-mc"
+  },
+  {
+    "name": "Moldova Flag",
+    "unified": "1F1F2-1F1E9",
+    "short_name": "flag-md"
+  },
+  {
+    "name": "Montenegro Flag",
+    "unified": "1F1F2-1F1EA",
+    "short_name": "flag-me"
+  },
+  {
+    "name": "St. Martin Flag",
+    "unified": "1F1F2-1F1EB",
+    "short_name": "flag-mf"
+  },
+  {
+    "name": "Madagascar Flag",
+    "unified": "1F1F2-1F1EC",
+    "short_name": "flag-mg"
+  },
+  {
+    "name": "Marshall Islands Flag",
+    "unified": "1F1F2-1F1ED",
+    "short_name": "flag-mh"
+  },
+  {
+    "name": "Macedonia Flag",
+    "unified": "1F1F2-1F1F0",
+    "short_name": "flag-mk"
+  },
+  {
+    "name": "Mali Flag",
+    "unified": "1F1F2-1F1F1",
+    "short_name": "flag-ml"
+  },
+  {
+    "name": "Myanmar (Burma) Flag",
+    "unified": "1F1F2-1F1F2",
+    "short_name": "flag-mm"
+  },
+  {
+    "name": "Mongolia Flag",
+    "unified": "1F1F2-1F1F3",
+    "short_name": "flag-mn"
+  },
+  {
+    "name": "Macau SAR China Flag",
+    "unified": "1F1F2-1F1F4",
+    "short_name": "flag-mo"
+  },
+  {
+    "name": "Northern Mariana Islands Flag",
+    "unified": "1F1F2-1F1F5",
+    "short_name": "flag-mp"
+  },
+  {
+    "name": "Martinique Flag",
+    "unified": "1F1F2-1F1F6",
+    "short_name": "flag-mq"
+  },
+  {
+    "name": "Mauritania Flag",
+    "unified": "1F1F2-1F1F7",
+    "short_name": "flag-mr"
+  },
+  {
+    "name": "Montserrat Flag",
+    "unified": "1F1F2-1F1F8",
+    "short_name": "flag-ms"
+  },
+  {
+    "name": "Malta Flag",
+    "unified": "1F1F2-1F1F9",
+    "short_name": "flag-mt"
+  },
+  {
+    "name": "Mauritius Flag",
+    "unified": "1F1F2-1F1FA",
+    "short_name": "flag-mu"
+  },
+  {
+    "name": "Maldives Flag",
+    "unified": "1F1F2-1F1FB",
+    "short_name": "flag-mv"
+  },
+  {
+    "name": "Malawi Flag",
+    "unified": "1F1F2-1F1FC",
+    "short_name": "flag-mw"
+  },
+  {
+    "name": "Mexico Flag",
+    "unified": "1F1F2-1F1FD",
+    "short_name": "flag-mx"
+  },
+  {
+    "name": "Malaysia Flag",
+    "unified": "1F1F2-1F1FE",
+    "short_name": "flag-my"
+  },
+  {
+    "name": "Mozambique Flag",
+    "unified": "1F1F2-1F1FF",
+    "short_name": "flag-mz"
+  },
+  {
+    "name": "Namibia Flag",
+    "unified": "1F1F3-1F1E6",
+    "short_name": "flag-na"
+  },
+  {
+    "name": "New Caledonia Flag",
+    "unified": "1F1F3-1F1E8",
+    "short_name": "flag-nc"
+  },
+  {
+    "name": "Niger Flag",
+    "unified": "1F1F3-1F1EA",
+    "short_name": "flag-ne"
+  },
+  {
+    "name": "Norfolk Island Flag",
+    "unified": "1F1F3-1F1EB",
+    "short_name": "flag-nf"
+  },
+  {
+    "name": "Nigeria Flag",
+    "unified": "1F1F3-1F1EC",
+    "short_name": "flag-ng"
+  },
+  {
+    "name": "Nicaragua Flag",
+    "unified": "1F1F3-1F1EE",
+    "short_name": "flag-ni"
+  },
+  {
+    "name": "Netherlands Flag",
+    "unified": "1F1F3-1F1F1",
+    "short_name": "flag-nl"
+  },
+  {
+    "name": "Norway Flag",
+    "unified": "1F1F3-1F1F4",
+    "short_name": "flag-no"
+  },
+  {
+    "name": "Nepal Flag",
+    "unified": "1F1F3-1F1F5",
+    "short_name": "flag-np"
+  },
+  {
+    "name": "Nauru Flag",
+    "unified": "1F1F3-1F1F7",
+    "short_name": "flag-nr"
+  },
+  {
+    "name": "Niue Flag",
+    "unified": "1F1F3-1F1FA",
+    "short_name": "flag-nu"
+  },
+  {
+    "name": "New Zealand Flag",
+    "unified": "1F1F3-1F1FF",
+    "short_name": "flag-nz"
+  },
+  {
+    "name": "Oman Flag",
+    "unified": "1F1F4-1F1F2",
+    "short_name": "flag-om"
+  },
+  {
+    "name": "Panama Flag",
+    "unified": "1F1F5-1F1E6",
+    "short_name": "flag-pa"
+  },
+  {
+    "name": "Peru Flag",
+    "unified": "1F1F5-1F1EA",
+    "short_name": "flag-pe"
+  },
+  {
+    "name": "French Polynesia Flag",
+    "unified": "1F1F5-1F1EB",
+    "short_name": "flag-pf"
+  },
+  {
+    "name": "Papua New Guinea Flag",
+    "unified": "1F1F5-1F1EC",
+    "short_name": "flag-pg"
+  },
+  {
+    "name": "Philippines Flag",
+    "unified": "1F1F5-1F1ED",
+    "short_name": "flag-ph"
+  },
+  {
+    "name": "Pakistan Flag",
+    "unified": "1F1F5-1F1F0",
+    "short_name": "flag-pk"
+  },
+  {
+    "name": "Poland Flag",
+    "unified": "1F1F5-1F1F1",
+    "short_name": "flag-pl"
+  },
+  {
+    "name": "St. Pierre & Miquelon Flag",
+    "unified": "1F1F5-1F1F2",
+    "short_name": "flag-pm"
+  },
+  {
+    "name": "Pitcairn Islands Flag",
+    "unified": "1F1F5-1F1F3",
+    "short_name": "flag-pn"
+  },
+  {
+    "name": "Puerto Rico Flag",
+    "unified": "1F1F5-1F1F7",
+    "short_name": "flag-pr"
+  },
+  {
+    "name": "Palestinian Territories Flag",
+    "unified": "1F1F5-1F1F8",
+    "short_name": "flag-ps"
+  },
+  {
+    "name": "Portugal Flag",
+    "unified": "1F1F5-1F1F9",
+    "short_name": "flag-pt"
+  },
+  {
+    "name": "Palau Flag",
+    "unified": "1F1F5-1F1FC",
+    "short_name": "flag-pw"
+  },
+  {
+    "name": "Paraguay Flag",
+    "unified": "1F1F5-1F1FE",
+    "short_name": "flag-py"
+  },
+  {
+    "name": "Qatar Flag",
+    "unified": "1F1F6-1F1E6",
+    "short_name": "flag-qa"
+  },
+  {
+    "name": "Réunion Flag",
+    "unified": "1F1F7-1F1EA",
+    "short_name": "flag-re"
+  },
+  {
+    "name": "Romania Flag",
+    "unified": "1F1F7-1F1F4",
+    "short_name": "flag-ro"
+  },
+  {
+    "name": "Serbia Flag",
+    "unified": "1F1F7-1F1F8",
+    "short_name": "flag-rs"
+  },
+  {
+    "name": "Russia Flag",
+    "unified": "1F1F7-1F1FA",
+    "short_name": "ru"
+  },
+  {
+    "name": "Rwanda Flag",
+    "unified": "1F1F7-1F1FC",
+    "short_name": "flag-rw"
+  },
+  {
+    "name": "Saudi Arabia Flag",
+    "unified": "1F1F8-1F1E6",
+    "short_name": "flag-sa"
+  },
+  {
+    "name": "Solomon Islands Flag",
+    "unified": "1F1F8-1F1E7",
+    "short_name": "flag-sb"
+  },
+  {
+    "name": "Seychelles Flag",
+    "unified": "1F1F8-1F1E8",
+    "short_name": "flag-sc"
+  },
+  {
+    "name": "Sudan Flag",
+    "unified": "1F1F8-1F1E9",
+    "short_name": "flag-sd"
+  },
+  {
+    "name": "Sweden Flag",
+    "unified": "1F1F8-1F1EA",
+    "short_name": "flag-se"
+  },
+  {
+    "name": "Singapore Flag",
+    "unified": "1F1F8-1F1EC",
+    "short_name": "flag-sg"
+  },
+  {
+    "name": "St. Helena Flag",
+    "unified": "1F1F8-1F1ED",
+    "short_name": "flag-sh"
+  },
+  {
+    "name": "Slovenia Flag",
+    "unified": "1F1F8-1F1EE",
+    "short_name": "flag-si"
+  },
+  {
+    "name": "Svalbard & Jan Mayen Flag",
+    "unified": "1F1F8-1F1EF",
+    "short_name": "flag-sj"
+  },
+  {
+    "name": "Slovakia Flag",
+    "unified": "1F1F8-1F1F0",
+    "short_name": "flag-sk"
+  },
+  {
+    "name": "Sierra Leone Flag",
+    "unified": "1F1F8-1F1F1",
+    "short_name": "flag-sl"
+  },
+  {
+    "name": "San Marino Flag",
+    "unified": "1F1F8-1F1F2",
+    "short_name": "flag-sm"
+  },
+  {
+    "name": "Senegal Flag",
+    "unified": "1F1F8-1F1F3",
+    "short_name": "flag-sn"
+  },
+  {
+    "name": "Somalia Flag",
+    "unified": "1F1F8-1F1F4",
+    "short_name": "flag-so"
+  },
+  {
+    "name": "Suriname Flag",
+    "unified": "1F1F8-1F1F7",
+    "short_name": "flag-sr"
+  },
+  {
+    "name": "South Sudan Flag",
+    "unified": "1F1F8-1F1F8",
+    "short_name": "flag-ss"
+  },
+  {
+    "name": "São Tomé & Príncipe Flag",
+    "unified": "1F1F8-1F1F9",
+    "short_name": "flag-st"
+  },
+  {
+    "name": "El Salvador Flag",
+    "unified": "1F1F8-1F1FB",
+    "short_name": "flag-sv"
+  },
+  {
+    "name": "Sint Maarten Flag",
+    "unified": "1F1F8-1F1FD",
+    "short_name": "flag-sx"
+  },
+  {
+    "name": "Syria Flag",
+    "unified": "1F1F8-1F1FE",
+    "short_name": "flag-sy"
+  },
+  {
+    "name": "Swaziland Flag",
+    "unified": "1F1F8-1F1FF",
+    "short_name": "flag-sz"
+  },
+  {
+    "name": "Tristan da Cunha Flag",
+    "unified": "1F1F9-1F1E6",
+    "short_name": "flag-ta"
+  },
+  {
+    "name": "Turks & Caicos Islands Flag",
+    "unified": "1F1F9-1F1E8",
+    "short_name": "flag-tc"
+  },
+  {
+    "name": "Chad Flag",
+    "unified": "1F1F9-1F1E9",
+    "short_name": "flag-td"
+  },
+  {
+    "name": "French Southern Territories Flag",
+    "unified": "1F1F9-1F1EB",
+    "short_name": "flag-tf"
+  },
+  {
+    "name": "Togo Flag",
+    "unified": "1F1F9-1F1EC",
+    "short_name": "flag-tg"
+  },
+  {
+    "name": "Thailand Flag",
+    "unified": "1F1F9-1F1ED",
+    "short_name": "flag-th"
+  },
+  {
+    "name": "Tajikistan Flag",
+    "unified": "1F1F9-1F1EF",
+    "short_name": "flag-tj"
+  },
+  {
+    "name": "Tokelau Flag",
+    "unified": "1F1F9-1F1F0",
+    "short_name": "flag-tk"
+  },
+  {
+    "name": "Timor-Leste Flag",
+    "unified": "1F1F9-1F1F1",
+    "short_name": "flag-tl"
+  },
+  {
+    "name": "Turkmenistan Flag",
+    "unified": "1F1F9-1F1F2",
+    "short_name": "flag-tm"
+  },
+  {
+    "name": "Tunisia Flag",
+    "unified": "1F1F9-1F1F3",
+    "short_name": "flag-tn"
+  },
+  {
+    "name": "Tonga Flag",
+    "unified": "1F1F9-1F1F4",
+    "short_name": "flag-to"
+  },
+  {
+    "name": "Turkey Flag",
+    "unified": "1F1F9-1F1F7",
+    "short_name": "flag-tr"
+  },
+  {
+    "name": "Trinidad & Tobago Flag",
+    "unified": "1F1F9-1F1F9",
+    "short_name": "flag-tt"
+  },
+  {
+    "name": "Tuvalu Flag",
+    "unified": "1F1F9-1F1FB",
+    "short_name": "flag-tv"
+  },
+  {
+    "name": "Taiwan Flag",
+    "unified": "1F1F9-1F1FC",
+    "short_name": "flag-tw"
+  },
+  {
+    "name": "Tanzania Flag",
+    "unified": "1F1F9-1F1FF",
+    "short_name": "flag-tz"
+  },
+  {
+    "name": "Ukraine Flag",
+    "unified": "1F1FA-1F1E6",
+    "short_name": "flag-ua"
+  },
+  {
+    "name": "Uganda Flag",
+    "unified": "1F1FA-1F1EC",
+    "short_name": "flag-ug"
+  },
+  {
+    "name": "U.S. Outlying Islands Flag",
+    "unified": "1F1FA-1F1F2",
+    "short_name": "flag-um"
+  },
+  {
+    "name": "United Nations Flag",
+    "unified": "1F1FA-1F1F3",
+    "short_name": "flag-un"
+  },
+  {
+    "name": "United States Flag",
+    "unified": "1F1FA-1F1F8",
+    "short_name": "us"
+  },
+  {
+    "name": "Uruguay Flag",
+    "unified": "1F1FA-1F1FE",
+    "short_name": "flag-uy"
+  },
+  {
+    "name": "Uzbekistan Flag",
+    "unified": "1F1FA-1F1FF",
+    "short_name": "flag-uz"
+  },
+  {
+    "name": "Vatican City Flag",
+    "unified": "1F1FB-1F1E6",
+    "short_name": "flag-va"
+  },
+  {
+    "name": "St. Vincent & Grenadines Flag",
+    "unified": "1F1FB-1F1E8",
+    "short_name": "flag-vc"
+  },
+  {
+    "name": "Venezuela Flag",
+    "unified": "1F1FB-1F1EA",
+    "short_name": "flag-ve"
+  },
+  {
+    "name": "British Virgin Islands Flag",
+    "unified": "1F1FB-1F1EC",
+    "short_name": "flag-vg"
+  },
+  {
+    "name": "U.S. Virgin Islands Flag",
+    "unified": "1F1FB-1F1EE",
+    "short_name": "flag-vi"
+  },
+  {
+    "name": "Vietnam Flag",
+    "unified": "1F1FB-1F1F3",
+    "short_name": "flag-vn"
+  },
+  {
+    "name": "Vanuatu Flag",
+    "unified": "1F1FB-1F1FA",
+    "short_name": "flag-vu"
+  },
+  {
+    "name": "Wallis & Futuna Flag",
+    "unified": "1F1FC-1F1EB",
+    "short_name": "flag-wf"
+  },
+  {
+    "name": "Samoa Flag",
+    "unified": "1F1FC-1F1F8",
+    "short_name": "flag-ws"
+  },
+  {
+    "name": "Kosovo Flag",
+    "unified": "1F1FD-1F1F0",
+    "short_name": "flag-xk"
+  },
+  {
+    "name": "Yemen Flag",
+    "unified": "1F1FE-1F1EA",
+    "short_name": "flag-ye"
+  },
+  {
+    "name": "Mayotte Flag",
+    "unified": "1F1FE-1F1F9",
+    "short_name": "flag-yt"
+  },
+  {
+    "name": "South Africa Flag",
+    "unified": "1F1FF-1F1E6",
+    "short_name": "flag-za"
+  },
+  {
+    "name": "Zambia Flag",
+    "unified": "1F1FF-1F1F2",
+    "short_name": "flag-zm"
+  },
+  {
+    "name": "Zimbabwe Flag",
+    "unified": "1F1FF-1F1FC",
+    "short_name": "flag-zw"
+  },
+  {
+    "name": "SQUARED KATAKANA KOKO",
+    "unified": "1F201",
+    "short_name": "koko"
+  },
+  {
+    "name": "SQUARED KATAKANA SA",
+    "unified": "1F202-FE0F",
+    "short_name": "sa"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
+    "unified": "1F21A",
+    "short_name": "u7121"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
+    "unified": "1F22F",
+    "short_name": "u6307"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
+    "unified": "1F232",
+    "short_name": "u7981"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
+    "unified": "1F233",
+    "short_name": "u7a7a"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
+    "unified": "1F234",
+    "short_name": "u5408"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
+    "unified": "1F235",
+    "short_name": "u6e80"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
+    "unified": "1F236",
+    "short_name": "u6709"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
+    "unified": "1F237-FE0F",
+    "short_name": "u6708"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
+    "unified": "1F238",
+    "short_name": "u7533"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
+    "unified": "1F239",
+    "short_name": "u5272"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
+    "unified": "1F23A",
+    "short_name": "u55b6"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH ADVANTAGE",
+    "unified": "1F250",
+    "short_name": "ideograph_advantage"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH ACCEPT",
+    "unified": "1F251",
+    "short_name": "accept"
+  },
+  {
+    "name": "CYCLONE",
+    "unified": "1F300",
+    "short_name": "cyclone"
+  },
+  {
+    "name": "FOGGY",
+    "unified": "1F301",
+    "short_name": "foggy"
+  },
+  {
+    "name": "CLOSED UMBRELLA",
+    "unified": "1F302",
+    "short_name": "closed_umbrella"
+  },
+  {
+    "name": "NIGHT WITH STARS",
+    "unified": "1F303",
+    "short_name": "night_with_stars"
+  },
+  {
+    "name": "SUNRISE OVER MOUNTAINS",
+    "unified": "1F304",
+    "short_name": "sunrise_over_mountains"
+  },
+  {
+    "name": "SUNRISE",
+    "unified": "1F305",
+    "short_name": "sunrise"
+  },
+  {
+    "name": "CITYSCAPE AT DUSK",
+    "unified": "1F306",
+    "short_name": "city_sunset"
+  },
+  {
+    "name": "SUNSET OVER BUILDINGS",
+    "unified": "1F307",
+    "short_name": "city_sunrise"
+  },
+  {
+    "name": "RAINBOW",
+    "unified": "1F308",
+    "short_name": "rainbow"
+  },
+  {
+    "name": "BRIDGE AT NIGHT",
+    "unified": "1F309",
+    "short_name": "bridge_at_night"
+  },
+  {
+    "name": "WATER WAVE",
+    "unified": "1F30A",
+    "short_name": "ocean"
+  },
+  {
+    "name": "VOLCANO",
+    "unified": "1F30B",
+    "short_name": "volcano"
+  },
+  {
+    "name": "MILKY WAY",
+    "unified": "1F30C",
+    "short_name": "milky_way"
+  },
+  {
+    "name": "EARTH GLOBE EUROPE-AFRICA",
+    "unified": "1F30D",
+    "short_name": "earth_africa"
+  },
+  {
+    "name": "EARTH GLOBE AMERICAS",
+    "unified": "1F30E",
+    "short_name": "earth_americas"
+  },
+  {
+    "name": "EARTH GLOBE ASIA-AUSTRALIA",
+    "unified": "1F30F",
+    "short_name": "earth_asia"
+  },
+  {
+    "name": "GLOBE WITH MERIDIANS",
+    "unified": "1F310",
+    "short_name": "globe_with_meridians"
+  },
+  {
+    "name": "NEW MOON SYMBOL",
+    "unified": "1F311",
+    "short_name": "new_moon"
+  },
+  {
+    "name": "WAXING CRESCENT MOON SYMBOL",
+    "unified": "1F312",
+    "short_name": "waxing_crescent_moon"
+  },
+  {
+    "name": "FIRST QUARTER MOON SYMBOL",
+    "unified": "1F313",
+    "short_name": "first_quarter_moon"
+  },
+  {
+    "name": "WAXING GIBBOUS MOON SYMBOL",
+    "unified": "1F314",
+    "short_name": "moon"
+  },
+  {
+    "name": "FULL MOON SYMBOL",
+    "unified": "1F315",
+    "short_name": "full_moon"
+  },
+  {
+    "name": "WANING GIBBOUS MOON SYMBOL",
+    "unified": "1F316",
+    "short_name": "waning_gibbous_moon"
+  },
+  {
+    "name": "LAST QUARTER MOON SYMBOL",
+    "unified": "1F317",
+    "short_name": "last_quarter_moon"
+  },
+  {
+    "name": "WANING CRESCENT MOON SYMBOL",
+    "unified": "1F318",
+    "short_name": "waning_crescent_moon"
+  },
+  {
+    "name": "CRESCENT MOON",
+    "unified": "1F319",
+    "short_name": "crescent_moon"
+  },
+  {
+    "name": "NEW MOON WITH FACE",
+    "unified": "1F31A",
+    "short_name": "new_moon_with_face"
+  },
+  {
+    "name": "FIRST QUARTER MOON WITH FACE",
+    "unified": "1F31B",
+    "short_name": "first_quarter_moon_with_face"
+  },
+  {
+    "name": "LAST QUARTER MOON WITH FACE",
+    "unified": "1F31C",
+    "short_name": "last_quarter_moon_with_face"
+  },
+  {
+    "name": "FULL MOON WITH FACE",
+    "unified": "1F31D",
+    "short_name": "full_moon_with_face"
+  },
+  {
+    "name": "SUN WITH FACE",
+    "unified": "1F31E",
+    "short_name": "sun_with_face"
+  },
+  {
+    "name": "GLOWING STAR",
+    "unified": "1F31F",
+    "short_name": "star2"
+  },
+  {
+    "name": "SHOOTING STAR",
+    "unified": "1F320",
+    "short_name": "stars"
+  },
+  {
+    "name": null,
+    "unified": "1F321-FE0F",
+    "short_name": "thermometer"
+  },
+  {
+    "name": null,
+    "unified": "1F324-FE0F",
+    "short_name": "mostly_sunny"
+  },
+  {
+    "name": null,
+    "unified": "1F325-FE0F",
+    "short_name": "barely_sunny"
+  },
+  {
+    "name": null,
+    "unified": "1F326-FE0F",
+    "short_name": "partly_sunny_rain"
+  },
+  {
+    "name": null,
+    "unified": "1F327-FE0F",
+    "short_name": "rain_cloud"
+  },
+  {
+    "name": null,
+    "unified": "1F328-FE0F",
+    "short_name": "snow_cloud"
+  },
+  {
+    "name": null,
+    "unified": "1F329-FE0F",
+    "short_name": "lightning"
+  },
+  {
+    "name": null,
+    "unified": "1F32A-FE0F",
+    "short_name": "tornado"
+  },
+  {
+    "name": null,
+    "unified": "1F32B-FE0F",
+    "short_name": "fog"
+  },
+  {
+    "name": null,
+    "unified": "1F32C-FE0F",
+    "short_name": "wind_blowing_face"
+  },
+  {
+    "name": "HOT DOG",
+    "unified": "1F32D",
+    "short_name": "hotdog"
+  },
+  {
+    "name": "TACO",
+    "unified": "1F32E",
+    "short_name": "taco"
+  },
+  {
+    "name": "BURRITO",
+    "unified": "1F32F",
+    "short_name": "burrito"
+  },
+  {
+    "name": "CHESTNUT",
+    "unified": "1F330",
+    "short_name": "chestnut"
+  },
+  {
+    "name": "SEEDLING",
+    "unified": "1F331",
+    "short_name": "seedling"
+  },
+  {
+    "name": "EVERGREEN TREE",
+    "unified": "1F332",
+    "short_name": "evergreen_tree"
+  },
+  {
+    "name": "DECIDUOUS TREE",
+    "unified": "1F333",
+    "short_name": "deciduous_tree"
+  },
+  {
+    "name": "PALM TREE",
+    "unified": "1F334",
+    "short_name": "palm_tree"
+  },
+  {
+    "name": "CACTUS",
+    "unified": "1F335",
+    "short_name": "cactus"
+  },
+  {
+    "name": null,
+    "unified": "1F336-FE0F",
+    "short_name": "hot_pepper"
+  },
+  {
+    "name": "TULIP",
+    "unified": "1F337",
+    "short_name": "tulip"
+  },
+  {
+    "name": "CHERRY BLOSSOM",
+    "unified": "1F338",
+    "short_name": "cherry_blossom"
+  },
+  {
+    "name": "ROSE",
+    "unified": "1F339",
+    "short_name": "rose"
+  },
+  {
+    "name": "HIBISCUS",
+    "unified": "1F33A",
+    "short_name": "hibiscus"
+  },
+  {
+    "name": "SUNFLOWER",
+    "unified": "1F33B",
+    "short_name": "sunflower"
+  },
+  {
+    "name": "BLOSSOM",
+    "unified": "1F33C",
+    "short_name": "blossom"
+  },
+  {
+    "name": "EAR OF MAIZE",
+    "unified": "1F33D",
+    "short_name": "corn"
+  },
+  {
+    "name": "EAR OF RICE",
+    "unified": "1F33E",
+    "short_name": "ear_of_rice"
+  },
+  {
+    "name": "HERB",
+    "unified": "1F33F",
+    "short_name": "herb"
+  },
+  {
+    "name": "FOUR LEAF CLOVER",
+    "unified": "1F340",
+    "short_name": "four_leaf_clover"
+  },
+  {
+    "name": "MAPLE LEAF",
+    "unified": "1F341",
+    "short_name": "maple_leaf"
+  },
+  {
+    "name": "FALLEN LEAF",
+    "unified": "1F342",
+    "short_name": "fallen_leaf"
+  },
+  {
+    "name": "LEAF FLUTTERING IN WIND",
+    "unified": "1F343",
+    "short_name": "leaves"
+  },
+  {
+    "name": "MUSHROOM",
+    "unified": "1F344",
+    "short_name": "mushroom"
+  },
+  {
+    "name": "TOMATO",
+    "unified": "1F345",
+    "short_name": "tomato"
+  },
+  {
+    "name": "AUBERGINE",
+    "unified": "1F346",
+    "short_name": "eggplant"
+  },
+  {
+    "name": "GRAPES",
+    "unified": "1F347",
+    "short_name": "grapes"
+  },
+  {
+    "name": "MELON",
+    "unified": "1F348",
+    "short_name": "melon"
+  },
+  {
+    "name": "WATERMELON",
+    "unified": "1F349",
+    "short_name": "watermelon"
+  },
+  {
+    "name": "TANGERINE",
+    "unified": "1F34A",
+    "short_name": "tangerine"
+  },
+  {
+    "name": "LEMON",
+    "unified": "1F34B",
+    "short_name": "lemon"
+  },
+  {
+    "name": "BANANA",
+    "unified": "1F34C",
+    "short_name": "banana"
+  },
+  {
+    "name": "PINEAPPLE",
+    "unified": "1F34D",
+    "short_name": "pineapple"
+  },
+  {
+    "name": "RED APPLE",
+    "unified": "1F34E",
+    "short_name": "apple"
+  },
+  {
+    "name": "GREEN APPLE",
+    "unified": "1F34F",
+    "short_name": "green_apple"
+  },
+  {
+    "name": "PEAR",
+    "unified": "1F350",
+    "short_name": "pear"
+  },
+  {
+    "name": "PEACH",
+    "unified": "1F351",
+    "short_name": "peach"
+  },
+  {
+    "name": "CHERRIES",
+    "unified": "1F352",
+    "short_name": "cherries"
+  },
+  {
+    "name": "STRAWBERRY",
+    "unified": "1F353",
+    "short_name": "strawberry"
+  },
+  {
+    "name": "HAMBURGER",
+    "unified": "1F354",
+    "short_name": "hamburger"
+  },
+  {
+    "name": "SLICE OF PIZZA",
+    "unified": "1F355",
+    "short_name": "pizza"
+  },
+  {
+    "name": "MEAT ON BONE",
+    "unified": "1F356",
+    "short_name": "meat_on_bone"
+  },
+  {
+    "name": "POULTRY LEG",
+    "unified": "1F357",
+    "short_name": "poultry_leg"
+  },
+  {
+    "name": "RICE CRACKER",
+    "unified": "1F358",
+    "short_name": "rice_cracker"
+  },
+  {
+    "name": "RICE BALL",
+    "unified": "1F359",
+    "short_name": "rice_ball"
+  },
+  {
+    "name": "COOKED RICE",
+    "unified": "1F35A",
+    "short_name": "rice"
+  },
+  {
+    "name": "CURRY AND RICE",
+    "unified": "1F35B",
+    "short_name": "curry"
+  },
+  {
+    "name": "STEAMING BOWL",
+    "unified": "1F35C",
+    "short_name": "ramen"
+  },
+  {
+    "name": "SPAGHETTI",
+    "unified": "1F35D",
+    "short_name": "spaghetti"
+  },
+  {
+    "name": "BREAD",
+    "unified": "1F35E",
+    "short_name": "bread"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "unified": "1F35F",
+    "short_name": "fries"
+  },
+  {
+    "name": "ROASTED SWEET POTATO",
+    "unified": "1F360",
+    "short_name": "sweet_potato"
+  },
+  {
+    "name": "DANGO",
+    "unified": "1F361",
+    "short_name": "dango"
+  },
+  {
+    "name": "ODEN",
+    "unified": "1F362",
+    "short_name": "oden"
+  },
+  {
+    "name": "SUSHI",
+    "unified": "1F363",
+    "short_name": "sushi"
+  },
+  {
+    "name": "FRIED SHRIMP",
+    "unified": "1F364",
+    "short_name": "fried_shrimp"
+  },
+  {
+    "name": "FISH CAKE WITH SWIRL DESIGN",
+    "unified": "1F365",
+    "short_name": "fish_cake"
+  },
+  {
+    "name": "SOFT ICE CREAM",
+    "unified": "1F366",
+    "short_name": "icecream"
+  },
+  {
+    "name": "SHAVED ICE",
+    "unified": "1F367",
+    "short_name": "shaved_ice"
+  },
+  {
+    "name": "ICE CREAM",
+    "unified": "1F368",
+    "short_name": "ice_cream"
+  },
+  {
+    "name": "DOUGHNUT",
+    "unified": "1F369",
+    "short_name": "doughnut"
+  },
+  {
+    "name": "COOKIE",
+    "unified": "1F36A",
+    "short_name": "cookie"
+  },
+  {
+    "name": "CHOCOLATE BAR",
+    "unified": "1F36B",
+    "short_name": "chocolate_bar"
+  },
+  {
+    "name": "CANDY",
+    "unified": "1F36C",
+    "short_name": "candy"
+  },
+  {
+    "name": "LOLLIPOP",
+    "unified": "1F36D",
+    "short_name": "lollipop"
+  },
+  {
+    "name": "CUSTARD",
+    "unified": "1F36E",
+    "short_name": "custard"
+  },
+  {
+    "name": "HONEY POT",
+    "unified": "1F36F",
+    "short_name": "honey_pot"
+  },
+  {
+    "name": "SHORTCAKE",
+    "unified": "1F370",
+    "short_name": "cake"
+  },
+  {
+    "name": "BENTO BOX",
+    "unified": "1F371",
+    "short_name": "bento"
+  },
+  {
+    "name": "POT OF FOOD",
+    "unified": "1F372",
+    "short_name": "stew"
+  },
+  {
+    "name": "COOKING",
+    "unified": "1F373",
+    "short_name": "fried_egg"
+  },
+  {
+    "name": "FORK AND KNIFE",
+    "unified": "1F374",
+    "short_name": "fork_and_knife"
+  },
+  {
+    "name": "TEACUP WITHOUT HANDLE",
+    "unified": "1F375",
+    "short_name": "tea"
+  },
+  {
+    "name": "SAKE BOTTLE AND CUP",
+    "unified": "1F376",
+    "short_name": "sake"
+  },
+  {
+    "name": "WINE GLASS",
+    "unified": "1F377",
+    "short_name": "wine_glass"
+  },
+  {
+    "name": "COCKTAIL GLASS",
+    "unified": "1F378",
+    "short_name": "cocktail"
+  },
+  {
+    "name": "TROPICAL DRINK",
+    "unified": "1F379",
+    "short_name": "tropical_drink"
+  },
+  {
+    "name": "BEER MUG",
+    "unified": "1F37A",
+    "short_name": "beer"
+  },
+  {
+    "name": "CLINKING BEER MUGS",
+    "unified": "1F37B",
+    "short_name": "beers"
+  },
+  {
+    "name": "BABY BOTTLE",
+    "unified": "1F37C",
+    "short_name": "baby_bottle"
+  },
+  {
+    "name": null,
+    "unified": "1F37D-FE0F",
+    "short_name": "knife_fork_plate"
+  },
+  {
+    "name": "BOTTLE WITH POPPING CORK",
+    "unified": "1F37E",
+    "short_name": "champagne"
+  },
+  {
+    "name": "POPCORN",
+    "unified": "1F37F",
+    "short_name": "popcorn"
+  },
+  {
+    "name": "RIBBON",
+    "unified": "1F380",
+    "short_name": "ribbon"
+  },
+  {
+    "name": "WRAPPED PRESENT",
+    "unified": "1F381",
+    "short_name": "gift"
+  },
+  {
+    "name": "BIRTHDAY CAKE",
+    "unified": "1F382",
+    "short_name": "birthday"
+  },
+  {
+    "name": "JACK-O-LANTERN",
+    "unified": "1F383",
+    "short_name": "jack_o_lantern"
+  },
+  {
+    "name": "CHRISTMAS TREE",
+    "unified": "1F384",
+    "short_name": "christmas_tree"
+  },
+  {
+    "name": "FATHER CHRISTMAS",
+    "unified": "1F385",
+    "short_name": "santa"
+  },
+  {
+    "name": "FIREWORKS",
+    "unified": "1F386",
+    "short_name": "fireworks"
+  },
+  {
+    "name": "FIREWORK SPARKLER",
+    "unified": "1F387",
+    "short_name": "sparkler"
+  },
+  {
+    "name": "BALLOON",
+    "unified": "1F388",
+    "short_name": "balloon"
+  },
+  {
+    "name": "PARTY POPPER",
+    "unified": "1F389",
+    "short_name": "tada"
+  },
+  {
+    "name": "CONFETTI BALL",
+    "unified": "1F38A",
+    "short_name": "confetti_ball"
+  },
+  {
+    "name": "TANABATA TREE",
+    "unified": "1F38B",
+    "short_name": "tanabata_tree"
+  },
+  {
+    "name": "CROSSED FLAGS",
+    "unified": "1F38C",
+    "short_name": "crossed_flags"
+  },
+  {
+    "name": "PINE DECORATION",
+    "unified": "1F38D",
+    "short_name": "bamboo"
+  },
+  {
+    "name": "JAPANESE DOLLS",
+    "unified": "1F38E",
+    "short_name": "dolls"
+  },
+  {
+    "name": "CARP STREAMER",
+    "unified": "1F38F",
+    "short_name": "flags"
+  },
+  {
+    "name": "WIND CHIME",
+    "unified": "1F390",
+    "short_name": "wind_chime"
+  },
+  {
+    "name": "MOON VIEWING CEREMONY",
+    "unified": "1F391",
+    "short_name": "rice_scene"
+  },
+  {
+    "name": "SCHOOL SATCHEL",
+    "unified": "1F392",
+    "short_name": "school_satchel"
+  },
+  {
+    "name": "GRADUATION CAP",
+    "unified": "1F393",
+    "short_name": "mortar_board"
+  },
+  {
+    "name": null,
+    "unified": "1F396-FE0F",
+    "short_name": "medal"
+  },
+  {
+    "name": null,
+    "unified": "1F397-FE0F",
+    "short_name": "reminder_ribbon"
+  },
+  {
+    "name": null,
+    "unified": "1F399-FE0F",
+    "short_name": "studio_microphone"
+  },
+  {
+    "name": null,
+    "unified": "1F39A-FE0F",
+    "short_name": "level_slider"
+  },
+  {
+    "name": null,
+    "unified": "1F39B-FE0F",
+    "short_name": "control_knobs"
+  },
+  {
+    "name": null,
+    "unified": "1F39E-FE0F",
+    "short_name": "film_frames"
+  },
+  {
+    "name": null,
+    "unified": "1F39F-FE0F",
+    "short_name": "admission_tickets"
+  },
+  {
+    "name": "CAROUSEL HORSE",
+    "unified": "1F3A0",
+    "short_name": "carousel_horse"
+  },
+  {
+    "name": "FERRIS WHEEL",
+    "unified": "1F3A1",
+    "short_name": "ferris_wheel"
+  },
+  {
+    "name": "ROLLER COASTER",
+    "unified": "1F3A2",
+    "short_name": "roller_coaster"
+  },
+  {
+    "name": "FISHING POLE AND FISH",
+    "unified": "1F3A3",
+    "short_name": "fishing_pole_and_fish"
+  },
+  {
+    "name": "MICROPHONE",
+    "unified": "1F3A4",
+    "short_name": "microphone"
+  },
+  {
+    "name": "MOVIE CAMERA",
+    "unified": "1F3A5",
+    "short_name": "movie_camera"
+  },
+  {
+    "name": "CINEMA",
+    "unified": "1F3A6",
+    "short_name": "cinema"
+  },
+  {
+    "name": "HEADPHONE",
+    "unified": "1F3A7",
+    "short_name": "headphones"
+  },
+  {
+    "name": "ARTIST PALETTE",
+    "unified": "1F3A8",
+    "short_name": "art"
+  },
+  {
+    "name": "TOP HAT",
+    "unified": "1F3A9",
+    "short_name": "tophat"
+  },
+  {
+    "name": "CIRCUS TENT",
+    "unified": "1F3AA",
+    "short_name": "circus_tent"
+  },
+  {
+    "name": "TICKET",
+    "unified": "1F3AB",
+    "short_name": "ticket"
+  },
+  {
+    "name": "CLAPPER BOARD",
+    "unified": "1F3AC",
+    "short_name": "clapper"
+  },
+  {
+    "name": "PERFORMING ARTS",
+    "unified": "1F3AD",
+    "short_name": "performing_arts"
+  },
+  {
+    "name": "VIDEO GAME",
+    "unified": "1F3AE",
+    "short_name": "video_game"
+  },
+  {
+    "name": "DIRECT HIT",
+    "unified": "1F3AF",
+    "short_name": "dart"
+  },
+  {
+    "name": "SLOT MACHINE",
+    "unified": "1F3B0",
+    "short_name": "slot_machine"
+  },
+  {
+    "name": "BILLIARDS",
+    "unified": "1F3B1",
+    "short_name": "8ball"
+  },
+  {
+    "name": "GAME DIE",
+    "unified": "1F3B2",
+    "short_name": "game_die"
+  },
+  {
+    "name": "BOWLING",
+    "unified": "1F3B3",
+    "short_name": "bowling"
+  },
+  {
+    "name": "FLOWER PLAYING CARDS",
+    "unified": "1F3B4",
+    "short_name": "flower_playing_cards"
+  },
+  {
+    "name": "MUSICAL NOTE",
+    "unified": "1F3B5",
+    "short_name": "musical_note"
+  },
+  {
+    "name": "MULTIPLE MUSICAL NOTES",
+    "unified": "1F3B6",
+    "short_name": "notes"
+  },
+  {
+    "name": "SAXOPHONE",
+    "unified": "1F3B7",
+    "short_name": "saxophone"
+  },
+  {
+    "name": "GUITAR",
+    "unified": "1F3B8",
+    "short_name": "guitar"
+  },
+  {
+    "name": "MUSICAL KEYBOARD",
+    "unified": "1F3B9",
+    "short_name": "musical_keyboard"
+  },
+  {
+    "name": "TRUMPET",
+    "unified": "1F3BA",
+    "short_name": "trumpet"
+  },
+  {
+    "name": "VIOLIN",
+    "unified": "1F3BB",
+    "short_name": "violin"
+  },
+  {
+    "name": "MUSICAL SCORE",
+    "unified": "1F3BC",
+    "short_name": "musical_score"
+  },
+  {
+    "name": "RUNNING SHIRT WITH SASH",
+    "unified": "1F3BD",
+    "short_name": "running_shirt_with_sash"
+  },
+  {
+    "name": "TENNIS RACQUET AND BALL",
+    "unified": "1F3BE",
+    "short_name": "tennis"
+  },
+  {
+    "name": "SKI AND SKI BOOT",
+    "unified": "1F3BF",
+    "short_name": "ski"
+  },
+  {
+    "name": "BASKETBALL AND HOOP",
+    "unified": "1F3C0",
+    "short_name": "basketball"
+  },
+  {
+    "name": "CHEQUERED FLAG",
+    "unified": "1F3C1",
+    "short_name": "checkered_flag"
+  },
+  {
+    "name": "SNOWBOARDER",
+    "unified": "1F3C2",
+    "short_name": "snowboarder"
+  },
+  {
+    "name": null,
+    "unified": "1F3C3-200D-2640-FE0F",
+    "short_name": "woman-running"
+  },
+  {
+    "name": null,
+    "unified": "1F3C3-200D-2642-FE0F",
+    "short_name": "man-running"
+  },
+  {
+    "name": "RUNNER",
+    "unified": "1F3C3",
+    "short_name": "runner"
+  },
+  {
+    "name": null,
+    "unified": "1F3C4-200D-2640-FE0F",
+    "short_name": "woman-surfing"
+  },
+  {
+    "name": null,
+    "unified": "1F3C4-200D-2642-FE0F",
+    "short_name": "man-surfing"
+  },
+  {
+    "name": "SURFER",
+    "unified": "1F3C4",
+    "short_name": "surfer"
+  },
+  {
+    "name": "SPORTS MEDAL",
+    "unified": "1F3C5",
+    "short_name": "sports_medal"
+  },
+  {
+    "name": "TROPHY",
+    "unified": "1F3C6",
+    "short_name": "trophy"
+  },
+  {
+    "name": "HORSE RACING",
+    "unified": "1F3C7",
+    "short_name": "horse_racing"
+  },
+  {
+    "name": "AMERICAN FOOTBALL",
+    "unified": "1F3C8",
+    "short_name": "football"
+  },
+  {
+    "name": "RUGBY FOOTBALL",
+    "unified": "1F3C9",
+    "short_name": "rugby_football"
+  },
+  {
+    "name": null,
+    "unified": "1F3CA-200D-2640-FE0F",
+    "short_name": "woman-swimming"
+  },
+  {
+    "name": null,
+    "unified": "1F3CA-200D-2642-FE0F",
+    "short_name": "man-swimming"
+  },
+  {
+    "name": "SWIMMER",
+    "unified": "1F3CA",
+    "short_name": "swimmer"
+  },
+  {
+    "name": null,
+    "unified": "1F3CB-FE0F-200D-2640-FE0F",
+    "short_name": "woman-lifting-weights"
+  },
+  {
+    "name": null,
+    "unified": "1F3CB-FE0F-200D-2642-FE0F",
+    "short_name": "man-lifting-weights"
+  },
+  {
+    "name": null,
+    "unified": "1F3CB-FE0F",
+    "short_name": "weight_lifter"
+  },
+  {
+    "name": null,
+    "unified": "1F3CC-FE0F-200D-2640-FE0F",
+    "short_name": "woman-golfing"
+  },
+  {
+    "name": null,
+    "unified": "1F3CC-FE0F-200D-2642-FE0F",
+    "short_name": "man-golfing"
+  },
+  {
+    "name": null,
+    "unified": "1F3CC-FE0F",
+    "short_name": "golfer"
+  },
+  {
+    "name": null,
+    "unified": "1F3CD-FE0F",
+    "short_name": "racing_motorcycle"
+  },
+  {
+    "name": null,
+    "unified": "1F3CE-FE0F",
+    "short_name": "racing_car"
+  },
+  {
+    "name": "CRICKET BAT AND BALL",
+    "unified": "1F3CF",
+    "short_name": "cricket_bat_and_ball"
+  },
+  {
+    "name": "VOLLEYBALL",
+    "unified": "1F3D0",
+    "short_name": "volleyball"
+  },
+  {
+    "name": "FIELD HOCKEY STICK AND BALL",
+    "unified": "1F3D1",
+    "short_name": "field_hockey_stick_and_ball"
+  },
+  {
+    "name": "ICE HOCKEY STICK AND PUCK",
+    "unified": "1F3D2",
+    "short_name": "ice_hockey_stick_and_puck"
+  },
+  {
+    "name": "TABLE TENNIS PADDLE AND BALL",
+    "unified": "1F3D3",
+    "short_name": "table_tennis_paddle_and_ball"
+  },
+  {
+    "name": null,
+    "unified": "1F3D4-FE0F",
+    "short_name": "snow_capped_mountain"
+  },
+  {
+    "name": null,
+    "unified": "1F3D5-FE0F",
+    "short_name": "camping"
+  },
+  {
+    "name": null,
+    "unified": "1F3D6-FE0F",
+    "short_name": "beach_with_umbrella"
+  },
+  {
+    "name": null,
+    "unified": "1F3D7-FE0F",
+    "short_name": "building_construction"
+  },
+  {
+    "name": null,
+    "unified": "1F3D8-FE0F",
+    "short_name": "house_buildings"
+  },
+  {
+    "name": null,
+    "unified": "1F3D9-FE0F",
+    "short_name": "cityscape"
+  },
+  {
+    "name": null,
+    "unified": "1F3DA-FE0F",
+    "short_name": "derelict_house_building"
+  },
+  {
+    "name": null,
+    "unified": "1F3DB-FE0F",
+    "short_name": "classical_building"
+  },
+  {
+    "name": null,
+    "unified": "1F3DC-FE0F",
+    "short_name": "desert"
+  },
+  {
+    "name": null,
+    "unified": "1F3DD-FE0F",
+    "short_name": "desert_island"
+  },
+  {
+    "name": null,
+    "unified": "1F3DE-FE0F",
+    "short_name": "national_park"
+  },
+  {
+    "name": null,
+    "unified": "1F3DF-FE0F",
+    "short_name": "stadium"
+  },
+  {
+    "name": "HOUSE BUILDING",
+    "unified": "1F3E0",
+    "short_name": "house"
+  },
+  {
+    "name": "HOUSE WITH GARDEN",
+    "unified": "1F3E1",
+    "short_name": "house_with_garden"
+  },
+  {
+    "name": "OFFICE BUILDING",
+    "unified": "1F3E2",
+    "short_name": "office"
+  },
+  {
+    "name": "JAPANESE POST OFFICE",
+    "unified": "1F3E3",
+    "short_name": "post_office"
+  },
+  {
+    "name": "EUROPEAN POST OFFICE",
+    "unified": "1F3E4",
+    "short_name": "european_post_office"
+  },
+  {
+    "name": "HOSPITAL",
+    "unified": "1F3E5",
+    "short_name": "hospital"
+  },
+  {
+    "name": "BANK",
+    "unified": "1F3E6",
+    "short_name": "bank"
+  },
+  {
+    "name": "AUTOMATED TELLER MACHINE",
+    "unified": "1F3E7",
+    "short_name": "atm"
+  },
+  {
+    "name": "HOTEL",
+    "unified": "1F3E8",
+    "short_name": "hotel"
+  },
+  {
+    "name": "LOVE HOTEL",
+    "unified": "1F3E9",
+    "short_name": "love_hotel"
+  },
+  {
+    "name": "CONVENIENCE STORE",
+    "unified": "1F3EA",
+    "short_name": "convenience_store"
+  },
+  {
+    "name": "SCHOOL",
+    "unified": "1F3EB",
+    "short_name": "school"
+  },
+  {
+    "name": "DEPARTMENT STORE",
+    "unified": "1F3EC",
+    "short_name": "department_store"
+  },
+  {
+    "name": "FACTORY",
+    "unified": "1F3ED",
+    "short_name": "factory"
+  },
+  {
+    "name": "IZAKAYA LANTERN",
+    "unified": "1F3EE",
+    "short_name": "izakaya_lantern"
+  },
+  {
+    "name": "JAPANESE CASTLE",
+    "unified": "1F3EF",
+    "short_name": "japanese_castle"
+  },
+  {
+    "name": "EUROPEAN CASTLE",
+    "unified": "1F3F0",
+    "short_name": "european_castle"
+  },
+  {
+    "name": null,
+    "unified": "1F3F3-FE0F-200D-1F308",
+    "short_name": "rainbow-flag"
+  },
+  {
+    "name": null,
+    "unified": "1F3F3-FE0F",
+    "short_name": "waving_white_flag"
+  },
+  {
+    "name": "England Flag",
+    "unified": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
+    "short_name": "flag-england"
+  },
+  {
+    "name": "Scotland Flag",
+    "unified": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
+    "short_name": "flag-scotland"
+  },
+  {
+    "name": "Wales Flag",
+    "unified": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F",
+    "short_name": "flag-wales"
+  },
+  {
+    "name": "WAVING BLACK FLAG",
+    "unified": "1F3F4",
+    "short_name": "waving_black_flag"
+  },
+  {
+    "name": null,
+    "unified": "1F3F5-FE0F",
+    "short_name": "rosette"
+  },
+  {
+    "name": null,
+    "unified": "1F3F7-FE0F",
+    "short_name": "label"
+  },
+  {
+    "name": "BADMINTON RACQUET AND SHUTTLECOCK",
+    "unified": "1F3F8",
+    "short_name": "badminton_racquet_and_shuttlecock"
+  },
+  {
+    "name": "BOW AND ARROW",
+    "unified": "1F3F9",
+    "short_name": "bow_and_arrow"
+  },
+  {
+    "name": "AMPHORA",
+    "unified": "1F3FA",
+    "short_name": "amphora"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "unified": "1F3FB",
+    "short_name": "skin-tone-2"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "unified": "1F3FC",
+    "short_name": "skin-tone-3"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "unified": "1F3FD",
+    "short_name": "skin-tone-4"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "unified": "1F3FE",
+    "short_name": "skin-tone-5"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "unified": "1F3FF",
+    "short_name": "skin-tone-6"
+  },
+  {
+    "name": "RAT",
+    "unified": "1F400",
+    "short_name": "rat"
+  },
+  {
+    "name": "MOUSE",
+    "unified": "1F401",
+    "short_name": "mouse2"
+  },
+  {
+    "name": "OX",
+    "unified": "1F402",
+    "short_name": "ox"
+  },
+  {
+    "name": "WATER BUFFALO",
+    "unified": "1F403",
+    "short_name": "water_buffalo"
+  },
+  {
+    "name": "COW",
+    "unified": "1F404",
+    "short_name": "cow2"
+  },
+  {
+    "name": "TIGER",
+    "unified": "1F405",
+    "short_name": "tiger2"
+  },
+  {
+    "name": "LEOPARD",
+    "unified": "1F406",
+    "short_name": "leopard"
+  },
+  {
+    "name": "RABBIT",
+    "unified": "1F407",
+    "short_name": "rabbit2"
+  },
+  {
+    "name": "CAT",
+    "unified": "1F408",
+    "short_name": "cat2"
+  },
+  {
+    "name": "DRAGON",
+    "unified": "1F409",
+    "short_name": "dragon"
+  },
+  {
+    "name": "CROCODILE",
+    "unified": "1F40A",
+    "short_name": "crocodile"
+  },
+  {
+    "name": "WHALE",
+    "unified": "1F40B",
+    "short_name": "whale2"
+  },
+  {
+    "name": "SNAIL",
+    "unified": "1F40C",
+    "short_name": "snail"
+  },
+  {
+    "name": "SNAKE",
+    "unified": "1F40D",
+    "short_name": "snake"
+  },
+  {
+    "name": "HORSE",
+    "unified": "1F40E",
+    "short_name": "racehorse"
+  },
+  {
+    "name": "RAM",
+    "unified": "1F40F",
+    "short_name": "ram"
+  },
+  {
+    "name": "GOAT",
+    "unified": "1F410",
+    "short_name": "goat"
+  },
+  {
+    "name": "SHEEP",
+    "unified": "1F411",
+    "short_name": "sheep"
+  },
+  {
+    "name": "MONKEY",
+    "unified": "1F412",
+    "short_name": "monkey"
+  },
+  {
+    "name": "ROOSTER",
+    "unified": "1F413",
+    "short_name": "rooster"
+  },
+  {
+    "name": "CHICKEN",
+    "unified": "1F414",
+    "short_name": "chicken"
+  },
+  {
+    "name": "DOG",
+    "unified": "1F415",
+    "short_name": "dog2"
+  },
+  {
+    "name": "PIG",
+    "unified": "1F416",
+    "short_name": "pig2"
+  },
+  {
+    "name": "BOAR",
+    "unified": "1F417",
+    "short_name": "boar"
+  },
+  {
+    "name": "ELEPHANT",
+    "unified": "1F418",
+    "short_name": "elephant"
+  },
+  {
+    "name": "OCTOPUS",
+    "unified": "1F419",
+    "short_name": "octopus"
+  },
+  {
+    "name": "SPIRAL SHELL",
+    "unified": "1F41A",
+    "short_name": "shell"
+  },
+  {
+    "name": "BUG",
+    "unified": "1F41B",
+    "short_name": "bug"
+  },
+  {
+    "name": "ANT",
+    "unified": "1F41C",
+    "short_name": "ant"
+  },
+  {
+    "name": "HONEYBEE",
+    "unified": "1F41D",
+    "short_name": "bee"
+  },
+  {
+    "name": "LADY BEETLE",
+    "unified": "1F41E",
+    "short_name": "beetle"
+  },
+  {
+    "name": "FISH",
+    "unified": "1F41F",
+    "short_name": "fish"
+  },
+  {
+    "name": "TROPICAL FISH",
+    "unified": "1F420",
+    "short_name": "tropical_fish"
+  },
+  {
+    "name": "BLOWFISH",
+    "unified": "1F421",
+    "short_name": "blowfish"
+  },
+  {
+    "name": "TURTLE",
+    "unified": "1F422",
+    "short_name": "turtle"
+  },
+  {
+    "name": "HATCHING CHICK",
+    "unified": "1F423",
+    "short_name": "hatching_chick"
+  },
+  {
+    "name": "BABY CHICK",
+    "unified": "1F424",
+    "short_name": "baby_chick"
+  },
+  {
+    "name": "FRONT-FACING BABY CHICK",
+    "unified": "1F425",
+    "short_name": "hatched_chick"
+  },
+  {
+    "name": "BIRD",
+    "unified": "1F426",
+    "short_name": "bird"
+  },
+  {
+    "name": "PENGUIN",
+    "unified": "1F427",
+    "short_name": "penguin"
+  },
+  {
+    "name": "KOALA",
+    "unified": "1F428",
+    "short_name": "koala"
+  },
+  {
+    "name": "POODLE",
+    "unified": "1F429",
+    "short_name": "poodle"
+  },
+  {
+    "name": "DROMEDARY CAMEL",
+    "unified": "1F42A",
+    "short_name": "dromedary_camel"
+  },
+  {
+    "name": "BACTRIAN CAMEL",
+    "unified": "1F42B",
+    "short_name": "camel"
+  },
+  {
+    "name": "DOLPHIN",
+    "unified": "1F42C",
+    "short_name": "dolphin"
+  },
+  {
+    "name": "MOUSE FACE",
+    "unified": "1F42D",
+    "short_name": "mouse"
+  },
+  {
+    "name": "COW FACE",
+    "unified": "1F42E",
+    "short_name": "cow"
+  },
+  {
+    "name": "TIGER FACE",
+    "unified": "1F42F",
+    "short_name": "tiger"
+  },
+  {
+    "name": "RABBIT FACE",
+    "unified": "1F430",
+    "short_name": "rabbit"
+  },
+  {
+    "name": "CAT FACE",
+    "unified": "1F431",
+    "short_name": "cat"
+  },
+  {
+    "name": "DRAGON FACE",
+    "unified": "1F432",
+    "short_name": "dragon_face"
+  },
+  {
+    "name": "SPOUTING WHALE",
+    "unified": "1F433",
+    "short_name": "whale"
+  },
+  {
+    "name": "HORSE FACE",
+    "unified": "1F434",
+    "short_name": "horse"
+  },
+  {
+    "name": "MONKEY FACE",
+    "unified": "1F435",
+    "short_name": "monkey_face"
+  },
+  {
+    "name": "DOG FACE",
+    "unified": "1F436",
+    "short_name": "dog"
+  },
+  {
+    "name": "PIG FACE",
+    "unified": "1F437",
+    "short_name": "pig"
+  },
+  {
+    "name": "FROG FACE",
+    "unified": "1F438",
+    "short_name": "frog"
+  },
+  {
+    "name": "HAMSTER FACE",
+    "unified": "1F439",
+    "short_name": "hamster"
+  },
+  {
+    "name": "WOLF FACE",
+    "unified": "1F43A",
+    "short_name": "wolf"
+  },
+  {
+    "name": "BEAR FACE",
+    "unified": "1F43B",
+    "short_name": "bear"
+  },
+  {
+    "name": "PANDA FACE",
+    "unified": "1F43C",
+    "short_name": "panda_face"
+  },
+  {
+    "name": "PIG NOSE",
+    "unified": "1F43D",
+    "short_name": "pig_nose"
+  },
+  {
+    "name": "PAW PRINTS",
+    "unified": "1F43E",
+    "short_name": "feet"
+  },
+  {
+    "name": null,
+    "unified": "1F43F-FE0F",
+    "short_name": "chipmunk"
+  },
+  {
+    "name": "EYES",
+    "unified": "1F440",
+    "short_name": "eyes"
+  },
+  {
+    "name": null,
+    "unified": "1F441-FE0F",
+    "short_name": "eye"
+  },
+  {
+    "name": "EAR",
+    "unified": "1F442",
+    "short_name": "ear"
+  },
+  {
+    "name": "NOSE",
+    "unified": "1F443",
+    "short_name": "nose"
+  },
+  {
+    "name": "MOUTH",
+    "unified": "1F444",
+    "short_name": "lips"
+  },
+  {
+    "name": "TONGUE",
+    "unified": "1F445",
+    "short_name": "tongue"
+  },
+  {
+    "name": "WHITE UP POINTING BACKHAND INDEX",
+    "unified": "1F446",
+    "short_name": "point_up_2"
+  },
+  {
+    "name": "WHITE DOWN POINTING BACKHAND INDEX",
+    "unified": "1F447",
+    "short_name": "point_down"
+  },
+  {
+    "name": "WHITE LEFT POINTING BACKHAND INDEX",
+    "unified": "1F448",
+    "short_name": "point_left"
+  },
+  {
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX",
+    "unified": "1F449",
+    "short_name": "point_right"
+  },
+  {
+    "name": "FISTED HAND SIGN",
+    "unified": "1F44A",
+    "short_name": "facepunch"
+  },
+  {
+    "name": "WAVING HAND SIGN",
+    "unified": "1F44B",
+    "short_name": "wave"
+  },
+  {
+    "name": "OK HAND SIGN",
+    "unified": "1F44C",
+    "short_name": "ok_hand"
+  },
+  {
+    "name": "THUMBS UP SIGN",
+    "unified": "1F44D",
+    "short_name": "+1"
+  },
+  {
+    "name": "THUMBS DOWN SIGN",
+    "unified": "1F44E",
+    "short_name": "-1"
+  },
+  {
+    "name": "CLAPPING HANDS SIGN",
+    "unified": "1F44F",
+    "short_name": "clap"
+  },
+  {
+    "name": "OPEN HANDS SIGN",
+    "unified": "1F450",
+    "short_name": "open_hands"
+  },
+  {
+    "name": "CROWN",
+    "unified": "1F451",
+    "short_name": "crown"
+  },
+  {
+    "name": "WOMANS HAT",
+    "unified": "1F452",
+    "short_name": "womans_hat"
+  },
+  {
+    "name": "EYEGLASSES",
+    "unified": "1F453",
+    "short_name": "eyeglasses"
+  },
+  {
+    "name": "NECKTIE",
+    "unified": "1F454",
+    "short_name": "necktie"
+  },
+  {
+    "name": "T-SHIRT",
+    "unified": "1F455",
+    "short_name": "shirt"
+  },
+  {
+    "name": "JEANS",
+    "unified": "1F456",
+    "short_name": "jeans"
+  },
+  {
+    "name": "DRESS",
+    "unified": "1F457",
+    "short_name": "dress"
+  },
+  {
+    "name": "KIMONO",
+    "unified": "1F458",
+    "short_name": "kimono"
+  },
+  {
+    "name": "BIKINI",
+    "unified": "1F459",
+    "short_name": "bikini"
+  },
+  {
+    "name": "WOMANS CLOTHES",
+    "unified": "1F45A",
+    "short_name": "womans_clothes"
+  },
+  {
+    "name": "PURSE",
+    "unified": "1F45B",
+    "short_name": "purse"
+  },
+  {
+    "name": "HANDBAG",
+    "unified": "1F45C",
+    "short_name": "handbag"
+  },
+  {
+    "name": "POUCH",
+    "unified": "1F45D",
+    "short_name": "pouch"
+  },
+  {
+    "name": "MANS SHOE",
+    "unified": "1F45E",
+    "short_name": "mans_shoe"
+  },
+  {
+    "name": "ATHLETIC SHOE",
+    "unified": "1F45F",
+    "short_name": "athletic_shoe"
+  },
+  {
+    "name": "HIGH-HEELED SHOE",
+    "unified": "1F460",
+    "short_name": "high_heel"
+  },
+  {
+    "name": "WOMANS SANDAL",
+    "unified": "1F461",
+    "short_name": "sandal"
+  },
+  {
+    "name": "WOMANS BOOTS",
+    "unified": "1F462",
+    "short_name": "boot"
+  },
+  {
+    "name": "FOOTPRINTS",
+    "unified": "1F463",
+    "short_name": "footprints"
+  },
+  {
+    "name": "BUST IN SILHOUETTE",
+    "unified": "1F464",
+    "short_name": "bust_in_silhouette"
+  },
+  {
+    "name": "BUSTS IN SILHOUETTE",
+    "unified": "1F465",
+    "short_name": "busts_in_silhouette"
+  },
+  {
+    "name": "BOY",
+    "unified": "1F466",
+    "short_name": "boy"
+  },
+  {
+    "name": "GIRL",
+    "unified": "1F467",
+    "short_name": "girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F33E",
+    "short_name": "male-farmer"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F373",
+    "short_name": "male-cook"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F393",
+    "short_name": "male-student"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F3A4",
+    "short_name": "male-singer"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F3A8",
+    "short_name": "male-artist"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F3EB",
+    "short_name": "male-teacher"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F3ED",
+    "short_name": "male-factory-worker"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F466-200D-1F466",
+    "short_name": "man-boy-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F466",
+    "short_name": "man-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F467-200D-1F466",
+    "short_name": "man-girl-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F467-200D-1F467",
+    "short_name": "man-girl-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F467",
+    "short_name": "man-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F468-200D-1F466",
+    "short_name": "man-man-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F468-200D-1F466-200D-1F466",
+    "short_name": "man-man-boy-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F468-200D-1F467",
+    "short_name": "man-man-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F468-200D-1F467-200D-1F466",
+    "short_name": "man-man-girl-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F468-200D-1F467-200D-1F467",
+    "short_name": "man-man-girl-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F469-200D-1F466",
+    "short_name": "man-woman-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F469-200D-1F466-200D-1F466",
+    "short_name": "man-woman-boy-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F469-200D-1F467",
+    "short_name": "man-woman-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F469-200D-1F467-200D-1F466",
+    "short_name": "man-woman-girl-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F469-200D-1F467-200D-1F467",
+    "short_name": "man-woman-girl-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F4BB",
+    "short_name": "male-technologist"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F4BC",
+    "short_name": "male-office-worker"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F527",
+    "short_name": "male-mechanic"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F52C",
+    "short_name": "male-scientist"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F680",
+    "short_name": "male-astronaut"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-1F692",
+    "short_name": "male-firefighter"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-2695-FE0F",
+    "short_name": "male-doctor"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-2696-FE0F",
+    "short_name": "male-judge"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-2708-FE0F",
+    "short_name": "male-pilot"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-2764-FE0F-200D-1F468",
+    "short_name": "man-heart-man"
+  },
+  {
+    "name": null,
+    "unified": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468",
+    "short_name": "man-kiss-man"
+  },
+  {
+    "name": "MAN",
+    "unified": "1F468",
+    "short_name": "man"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F33E",
+    "short_name": "female-farmer"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F373",
+    "short_name": "female-cook"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F393",
+    "short_name": "female-student"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F3A4",
+    "short_name": "female-singer"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F3A8",
+    "short_name": "female-artist"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F3EB",
+    "short_name": "female-teacher"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F3ED",
+    "short_name": "female-factory-worker"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F466-200D-1F466",
+    "short_name": "woman-boy-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F466",
+    "short_name": "woman-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F467-200D-1F466",
+    "short_name": "woman-girl-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F467-200D-1F467",
+    "short_name": "woman-girl-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F467",
+    "short_name": "woman-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F469-200D-1F466",
+    "short_name": "woman-woman-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F469-200D-1F466-200D-1F466",
+    "short_name": "woman-woman-boy-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F469-200D-1F467",
+    "short_name": "woman-woman-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F469-200D-1F467-200D-1F466",
+    "short_name": "woman-woman-girl-boy"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F469-200D-1F467-200D-1F467",
+    "short_name": "woman-woman-girl-girl"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F4BB",
+    "short_name": "female-technologist"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F4BC",
+    "short_name": "female-office-worker"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F527",
+    "short_name": "female-mechanic"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F52C",
+    "short_name": "female-scientist"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F680",
+    "short_name": "female-astronaut"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-1F692",
+    "short_name": "female-firefighter"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2695-FE0F",
+    "short_name": "female-doctor"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2696-FE0F",
+    "short_name": "female-judge"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2708-FE0F",
+    "short_name": "female-pilot"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2764-FE0F-200D-1F468",
+    "short_name": "woman-heart-man"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2764-FE0F-200D-1F469",
+    "short_name": "woman-heart-woman"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468",
+    "short_name": "woman-kiss-man"
+  },
+  {
+    "name": null,
+    "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469",
+    "short_name": "woman-kiss-woman"
+  },
+  {
+    "name": "WOMAN",
+    "unified": "1F469",
+    "short_name": "woman"
+  },
+  {
+    "name": "FAMILY",
+    "unified": "1F46A",
+    "short_name": "family"
+  },
+  {
+    "name": "MAN AND WOMAN HOLDING HANDS",
+    "unified": "1F46B",
+    "short_name": "couple"
+  },
+  {
+    "name": "TWO MEN HOLDING HANDS",
+    "unified": "1F46C",
+    "short_name": "two_men_holding_hands"
+  },
+  {
+    "name": "TWO WOMEN HOLDING HANDS",
+    "unified": "1F46D",
+    "short_name": "two_women_holding_hands"
+  },
+  {
+    "name": null,
+    "unified": "1F46E-200D-2640-FE0F",
+    "short_name": "female-police-officer"
+  },
+  {
+    "name": null,
+    "unified": "1F46E-200D-2642-FE0F",
+    "short_name": "male-police-officer"
+  },
+  {
+    "name": "POLICE OFFICER",
+    "unified": "1F46E",
+    "short_name": "cop"
+  },
+  {
+    "name": null,
+    "unified": "1F46F-200D-2640-FE0F",
+    "short_name": "woman-with-bunny-ears-partying"
+  },
+  {
+    "name": null,
+    "unified": "1F46F-200D-2642-FE0F",
+    "short_name": "man-with-bunny-ears-partying"
+  },
+  {
+    "name": "WOMAN WITH BUNNY EARS",
+    "unified": "1F46F",
+    "short_name": "dancers"
+  },
+  {
+    "name": "BRIDE WITH VEIL",
+    "unified": "1F470",
+    "short_name": "bride_with_veil"
+  },
+  {
+    "name": null,
+    "unified": "1F471-200D-2640-FE0F",
+    "short_name": "blond-haired-woman"
+  },
+  {
+    "name": null,
+    "unified": "1F471-200D-2642-FE0F",
+    "short_name": "blond-haired-man"
+  },
+  {
+    "name": "PERSON WITH BLOND HAIR",
+    "unified": "1F471",
+    "short_name": "person_with_blond_hair"
+  },
+  {
+    "name": "MAN WITH GUA PI MAO",
+    "unified": "1F472",
+    "short_name": "man_with_gua_pi_mao"
+  },
+  {
+    "name": null,
+    "unified": "1F473-200D-2640-FE0F",
+    "short_name": "woman-wearing-turban"
+  },
+  {
+    "name": null,
+    "unified": "1F473-200D-2642-FE0F",
+    "short_name": "man-wearing-turban"
+  },
+  {
+    "name": "MAN WITH TURBAN",
+    "unified": "1F473",
+    "short_name": "man_with_turban"
+  },
+  {
+    "name": "OLDER MAN",
+    "unified": "1F474",
+    "short_name": "older_man"
+  },
+  {
+    "name": "OLDER WOMAN",
+    "unified": "1F475",
+    "short_name": "older_woman"
+  },
+  {
+    "name": "BABY",
+    "unified": "1F476",
+    "short_name": "baby"
+  },
+  {
+    "name": null,
+    "unified": "1F477-200D-2640-FE0F",
+    "short_name": "female-construction-worker"
+  },
+  {
+    "name": null,
+    "unified": "1F477-200D-2642-FE0F",
+    "short_name": "male-construction-worker"
+  },
+  {
+    "name": "CONSTRUCTION WORKER",
+    "unified": "1F477",
+    "short_name": "construction_worker"
+  },
+  {
+    "name": "PRINCESS",
+    "unified": "1F478",
+    "short_name": "princess"
+  },
+  {
+    "name": "JAPANESE OGRE",
+    "unified": "1F479",
+    "short_name": "japanese_ogre"
+  },
+  {
+    "name": "JAPANESE GOBLIN",
+    "unified": "1F47A",
+    "short_name": "japanese_goblin"
+  },
+  {
+    "name": "GHOST",
+    "unified": "1F47B",
+    "short_name": "ghost"
+  },
+  {
+    "name": "BABY ANGEL",
+    "unified": "1F47C",
+    "short_name": "angel"
+  },
+  {
+    "name": "EXTRATERRESTRIAL ALIEN",
+    "unified": "1F47D",
+    "short_name": "alien"
+  },
+  {
+    "name": "ALIEN MONSTER",
+    "unified": "1F47E",
+    "short_name": "space_invader"
+  },
+  {
+    "name": "IMP",
+    "unified": "1F47F",
+    "short_name": "imp"
+  },
+  {
+    "name": "SKULL",
+    "unified": "1F480",
+    "short_name": "skull"
+  },
+  {
+    "name": null,
+    "unified": "1F481-200D-2640-FE0F",
+    "short_name": "woman-tipping-hand"
+  },
+  {
+    "name": null,
+    "unified": "1F481-200D-2642-FE0F",
+    "short_name": "man-tipping-hand"
+  },
+  {
+    "name": "INFORMATION DESK PERSON",
+    "unified": "1F481",
+    "short_name": "information_desk_person"
+  },
+  {
+    "name": null,
+    "unified": "1F482-200D-2640-FE0F",
+    "short_name": "female-guard"
+  },
+  {
+    "name": null,
+    "unified": "1F482-200D-2642-FE0F",
+    "short_name": "male-guard"
+  },
+  {
+    "name": "GUARDSMAN",
+    "unified": "1F482",
+    "short_name": "guardsman"
+  },
+  {
+    "name": "DANCER",
+    "unified": "1F483",
+    "short_name": "dancer"
+  },
+  {
+    "name": "LIPSTICK",
+    "unified": "1F484",
+    "short_name": "lipstick"
+  },
+  {
+    "name": "NAIL POLISH",
+    "unified": "1F485",
+    "short_name": "nail_care"
+  },
+  {
+    "name": null,
+    "unified": "1F486-200D-2640-FE0F",
+    "short_name": "woman-getting-massage"
+  },
+  {
+    "name": null,
+    "unified": "1F486-200D-2642-FE0F",
+    "short_name": "man-getting-massage"
+  },
+  {
+    "name": "FACE MASSAGE",
+    "unified": "1F486",
+    "short_name": "massage"
+  },
+  {
+    "name": null,
+    "unified": "1F487-200D-2640-FE0F",
+    "short_name": "woman-getting-haircut"
+  },
+  {
+    "name": null,
+    "unified": "1F487-200D-2642-FE0F",
+    "short_name": "man-getting-haircut"
+  },
+  {
+    "name": "HAIRCUT",
+    "unified": "1F487",
+    "short_name": "haircut"
+  },
+  {
+    "name": "BARBER POLE",
+    "unified": "1F488",
+    "short_name": "barber"
+  },
+  {
+    "name": "SYRINGE",
+    "unified": "1F489",
+    "short_name": "syringe"
+  },
+  {
+    "name": "PILL",
+    "unified": "1F48A",
+    "short_name": "pill"
+  },
+  {
+    "name": "KISS MARK",
+    "unified": "1F48B",
+    "short_name": "kiss"
+  },
+  {
+    "name": "LOVE LETTER",
+    "unified": "1F48C",
+    "short_name": "love_letter"
+  },
+  {
+    "name": "RING",
+    "unified": "1F48D",
+    "short_name": "ring"
+  },
+  {
+    "name": "GEM STONE",
+    "unified": "1F48E",
+    "short_name": "gem"
+  },
+  {
+    "name": "KISS",
+    "unified": "1F48F",
+    "short_name": "couplekiss"
+  },
+  {
+    "name": "BOUQUET",
+    "unified": "1F490",
+    "short_name": "bouquet"
+  },
+  {
+    "name": "COUPLE WITH HEART",
+    "unified": "1F491",
+    "short_name": "couple_with_heart"
+  },
+  {
+    "name": "WEDDING",
+    "unified": "1F492",
+    "short_name": "wedding"
+  },
+  {
+    "name": "BEATING HEART",
+    "unified": "1F493",
+    "short_name": "heartbeat"
+  },
+  {
+    "name": "BROKEN HEART",
+    "unified": "1F494",
+    "short_name": "broken_heart"
+  },
+  {
+    "name": "TWO HEARTS",
+    "unified": "1F495",
+    "short_name": "two_hearts"
+  },
+  {
+    "name": "SPARKLING HEART",
+    "unified": "1F496",
+    "short_name": "sparkling_heart"
+  },
+  {
+    "name": "GROWING HEART",
+    "unified": "1F497",
+    "short_name": "heartpulse"
+  },
+  {
+    "name": "HEART WITH ARROW",
+    "unified": "1F498",
+    "short_name": "cupid"
+  },
+  {
+    "name": "BLUE HEART",
+    "unified": "1F499",
+    "short_name": "blue_heart"
+  },
+  {
+    "name": "GREEN HEART",
+    "unified": "1F49A",
+    "short_name": "green_heart"
+  },
+  {
+    "name": "YELLOW HEART",
+    "unified": "1F49B",
+    "short_name": "yellow_heart"
+  },
+  {
+    "name": "PURPLE HEART",
+    "unified": "1F49C",
+    "short_name": "purple_heart"
+  },
+  {
+    "name": "HEART WITH RIBBON",
+    "unified": "1F49D",
+    "short_name": "gift_heart"
+  },
+  {
+    "name": "REVOLVING HEARTS",
+    "unified": "1F49E",
+    "short_name": "revolving_hearts"
+  },
+  {
+    "name": "HEART DECORATION",
+    "unified": "1F49F",
+    "short_name": "heart_decoration"
+  },
+  {
+    "name": "DIAMOND SHAPE WITH A DOT INSIDE",
+    "unified": "1F4A0",
+    "short_name": "diamond_shape_with_a_dot_inside"
+  },
+  {
+    "name": "ELECTRIC LIGHT BULB",
+    "unified": "1F4A1",
+    "short_name": "bulb"
+  },
+  {
+    "name": "ANGER SYMBOL",
+    "unified": "1F4A2",
+    "short_name": "anger"
+  },
+  {
+    "name": "BOMB",
+    "unified": "1F4A3",
+    "short_name": "bomb"
+  },
+  {
+    "name": "SLEEPING SYMBOL",
+    "unified": "1F4A4",
+    "short_name": "zzz"
+  },
+  {
+    "name": "COLLISION SYMBOL",
+    "unified": "1F4A5",
+    "short_name": "boom"
+  },
+  {
+    "name": "SPLASHING SWEAT SYMBOL",
+    "unified": "1F4A6",
+    "short_name": "sweat_drops"
+  },
+  {
+    "name": "DROPLET",
+    "unified": "1F4A7",
+    "short_name": "droplet"
+  },
+  {
+    "name": "DASH SYMBOL",
+    "unified": "1F4A8",
+    "short_name": "dash"
+  },
+  {
+    "name": "PILE OF POO",
+    "unified": "1F4A9",
+    "short_name": "hankey"
+  },
+  {
+    "name": "FLEXED BICEPS",
+    "unified": "1F4AA",
+    "short_name": "muscle"
+  },
+  {
+    "name": "DIZZY SYMBOL",
+    "unified": "1F4AB",
+    "short_name": "dizzy"
+  },
+  {
+    "name": "SPEECH BALLOON",
+    "unified": "1F4AC",
+    "short_name": "speech_balloon"
+  },
+  {
+    "name": "THOUGHT BALLOON",
+    "unified": "1F4AD",
+    "short_name": "thought_balloon"
+  },
+  {
+    "name": "WHITE FLOWER",
+    "unified": "1F4AE",
+    "short_name": "white_flower"
+  },
+  {
+    "name": "HUNDRED POINTS SYMBOL",
+    "unified": "1F4AF",
+    "short_name": "100"
+  },
+  {
+    "name": "MONEY BAG",
+    "unified": "1F4B0",
+    "short_name": "moneybag"
+  },
+  {
+    "name": "CURRENCY EXCHANGE",
+    "unified": "1F4B1",
+    "short_name": "currency_exchange"
+  },
+  {
+    "name": "HEAVY DOLLAR SIGN",
+    "unified": "1F4B2",
+    "short_name": "heavy_dollar_sign"
+  },
+  {
+    "name": "CREDIT CARD",
+    "unified": "1F4B3",
+    "short_name": "credit_card"
+  },
+  {
+    "name": "BANKNOTE WITH YEN SIGN",
+    "unified": "1F4B4",
+    "short_name": "yen"
+  },
+  {
+    "name": "BANKNOTE WITH DOLLAR SIGN",
+    "unified": "1F4B5",
+    "short_name": "dollar"
+  },
+  {
+    "name": "BANKNOTE WITH EURO SIGN",
+    "unified": "1F4B6",
+    "short_name": "euro"
+  },
+  {
+    "name": "BANKNOTE WITH POUND SIGN",
+    "unified": "1F4B7",
+    "short_name": "pound"
+  },
+  {
+    "name": "MONEY WITH WINGS",
+    "unified": "1F4B8",
+    "short_name": "money_with_wings"
+  },
+  {
+    "name": "CHART WITH UPWARDS TREND AND YEN SIGN",
+    "unified": "1F4B9",
+    "short_name": "chart"
+  },
+  {
+    "name": "SEAT",
+    "unified": "1F4BA",
+    "short_name": "seat"
+  },
+  {
+    "name": "PERSONAL COMPUTER",
+    "unified": "1F4BB",
+    "short_name": "computer"
+  },
+  {
+    "name": "BRIEFCASE",
+    "unified": "1F4BC",
+    "short_name": "briefcase"
+  },
+  {
+    "name": "MINIDISC",
+    "unified": "1F4BD",
+    "short_name": "minidisc"
+  },
+  {
+    "name": "FLOPPY DISK",
+    "unified": "1F4BE",
+    "short_name": "floppy_disk"
+  },
+  {
+    "name": "OPTICAL DISC",
+    "unified": "1F4BF",
+    "short_name": "cd"
+  },
+  {
+    "name": "DVD",
+    "unified": "1F4C0",
+    "short_name": "dvd"
+  },
+  {
+    "name": "FILE FOLDER",
+    "unified": "1F4C1",
+    "short_name": "file_folder"
+  },
+  {
+    "name": "OPEN FILE FOLDER",
+    "unified": "1F4C2",
+    "short_name": "open_file_folder"
+  },
+  {
+    "name": "PAGE WITH CURL",
+    "unified": "1F4C3",
+    "short_name": "page_with_curl"
+  },
+  {
+    "name": "PAGE FACING UP",
+    "unified": "1F4C4",
+    "short_name": "page_facing_up"
+  },
+  {
+    "name": "CALENDAR",
+    "unified": "1F4C5",
+    "short_name": "date"
+  },
+  {
+    "name": "TEAR-OFF CALENDAR",
+    "unified": "1F4C6",
+    "short_name": "calendar"
+  },
+  {
+    "name": "CARD INDEX",
+    "unified": "1F4C7",
+    "short_name": "card_index"
+  },
+  {
+    "name": "CHART WITH UPWARDS TREND",
+    "unified": "1F4C8",
+    "short_name": "chart_with_upwards_trend"
+  },
+  {
+    "name": "CHART WITH DOWNWARDS TREND",
+    "unified": "1F4C9",
+    "short_name": "chart_with_downwards_trend"
+  },
+  {
+    "name": "BAR CHART",
+    "unified": "1F4CA",
+    "short_name": "bar_chart"
+  },
+  {
+    "name": "CLIPBOARD",
+    "unified": "1F4CB",
+    "short_name": "clipboard"
+  },
+  {
+    "name": "PUSHPIN",
+    "unified": "1F4CC",
+    "short_name": "pushpin"
+  },
+  {
+    "name": "ROUND PUSHPIN",
+    "unified": "1F4CD",
+    "short_name": "round_pushpin"
+  },
+  {
+    "name": "PAPERCLIP",
+    "unified": "1F4CE",
+    "short_name": "paperclip"
+  },
+  {
+    "name": "STRAIGHT RULER",
+    "unified": "1F4CF",
+    "short_name": "straight_ruler"
+  },
+  {
+    "name": "TRIANGULAR RULER",
+    "unified": "1F4D0",
+    "short_name": "triangular_ruler"
+  },
+  {
+    "name": "BOOKMARK TABS",
+    "unified": "1F4D1",
+    "short_name": "bookmark_tabs"
+  },
+  {
+    "name": "LEDGER",
+    "unified": "1F4D2",
+    "short_name": "ledger"
+  },
+  {
+    "name": "NOTEBOOK",
+    "unified": "1F4D3",
+    "short_name": "notebook"
+  },
+  {
+    "name": "NOTEBOOK WITH DECORATIVE COVER",
+    "unified": "1F4D4",
+    "short_name": "notebook_with_decorative_cover"
+  },
+  {
+    "name": "CLOSED BOOK",
+    "unified": "1F4D5",
+    "short_name": "closed_book"
+  },
+  {
+    "name": "OPEN BOOK",
+    "unified": "1F4D6",
+    "short_name": "book"
+  },
+  {
+    "name": "GREEN BOOK",
+    "unified": "1F4D7",
+    "short_name": "green_book"
+  },
+  {
+    "name": "BLUE BOOK",
+    "unified": "1F4D8",
+    "short_name": "blue_book"
+  },
+  {
+    "name": "ORANGE BOOK",
+    "unified": "1F4D9",
+    "short_name": "orange_book"
+  },
+  {
+    "name": "BOOKS",
+    "unified": "1F4DA",
+    "short_name": "books"
+  },
+  {
+    "name": "NAME BADGE",
+    "unified": "1F4DB",
+    "short_name": "name_badge"
+  },
+  {
+    "name": "SCROLL",
+    "unified": "1F4DC",
+    "short_name": "scroll"
+  },
+  {
+    "name": "MEMO",
+    "unified": "1F4DD",
+    "short_name": "memo"
+  },
+  {
+    "name": "TELEPHONE RECEIVER",
+    "unified": "1F4DE",
+    "short_name": "telephone_receiver"
+  },
+  {
+    "name": "PAGER",
+    "unified": "1F4DF",
+    "short_name": "pager"
+  },
+  {
+    "name": "FAX MACHINE",
+    "unified": "1F4E0",
+    "short_name": "fax"
+  },
+  {
+    "name": "SATELLITE ANTENNA",
+    "unified": "1F4E1",
+    "short_name": "satellite_antenna"
+  },
+  {
+    "name": "PUBLIC ADDRESS LOUDSPEAKER",
+    "unified": "1F4E2",
+    "short_name": "loudspeaker"
+  },
+  {
+    "name": "CHEERING MEGAPHONE",
+    "unified": "1F4E3",
+    "short_name": "mega"
+  },
+  {
+    "name": "OUTBOX TRAY",
+    "unified": "1F4E4",
+    "short_name": "outbox_tray"
+  },
+  {
+    "name": "INBOX TRAY",
+    "unified": "1F4E5",
+    "short_name": "inbox_tray"
+  },
+  {
+    "name": "PACKAGE",
+    "unified": "1F4E6",
+    "short_name": "package"
+  },
+  {
+    "name": "E-MAIL SYMBOL",
+    "unified": "1F4E7",
+    "short_name": "e-mail"
+  },
+  {
+    "name": "INCOMING ENVELOPE",
+    "unified": "1F4E8",
+    "short_name": "incoming_envelope"
+  },
+  {
+    "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
+    "unified": "1F4E9",
+    "short_name": "envelope_with_arrow"
+  },
+  {
+    "name": "CLOSED MAILBOX WITH LOWERED FLAG",
+    "unified": "1F4EA",
+    "short_name": "mailbox_closed"
+  },
+  {
+    "name": "CLOSED MAILBOX WITH RAISED FLAG",
+    "unified": "1F4EB",
+    "short_name": "mailbox"
+  },
+  {
+    "name": "OPEN MAILBOX WITH RAISED FLAG",
+    "unified": "1F4EC",
+    "short_name": "mailbox_with_mail"
+  },
+  {
+    "name": "OPEN MAILBOX WITH LOWERED FLAG",
+    "unified": "1F4ED",
+    "short_name": "mailbox_with_no_mail"
+  },
+  {
+    "name": "POSTBOX",
+    "unified": "1F4EE",
+    "short_name": "postbox"
+  },
+  {
+    "name": "POSTAL HORN",
+    "unified": "1F4EF",
+    "short_name": "postal_horn"
+  },
+  {
+    "name": "NEWSPAPER",
+    "unified": "1F4F0",
+    "short_name": "newspaper"
+  },
+  {
+    "name": "MOBILE PHONE",
+    "unified": "1F4F1",
+    "short_name": "iphone"
+  },
+  {
+    "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
+    "unified": "1F4F2",
+    "short_name": "calling"
+  },
+  {
+    "name": "VIBRATION MODE",
+    "unified": "1F4F3",
+    "short_name": "vibration_mode"
+  },
+  {
+    "name": "MOBILE PHONE OFF",
+    "unified": "1F4F4",
+    "short_name": "mobile_phone_off"
+  },
+  {
+    "name": "NO MOBILE PHONES",
+    "unified": "1F4F5",
+    "short_name": "no_mobile_phones"
+  },
+  {
+    "name": "ANTENNA WITH BARS",
+    "unified": "1F4F6",
+    "short_name": "signal_strength"
+  },
+  {
+    "name": "CAMERA",
+    "unified": "1F4F7",
+    "short_name": "camera"
+  },
+  {
+    "name": "CAMERA WITH FLASH",
+    "unified": "1F4F8",
+    "short_name": "camera_with_flash"
+  },
+  {
+    "name": "VIDEO CAMERA",
+    "unified": "1F4F9",
+    "short_name": "video_camera"
+  },
+  {
+    "name": "TELEVISION",
+    "unified": "1F4FA",
+    "short_name": "tv"
+  },
+  {
+    "name": "RADIO",
+    "unified": "1F4FB",
+    "short_name": "radio"
+  },
+  {
+    "name": "VIDEOCASSETTE",
+    "unified": "1F4FC",
+    "short_name": "vhs"
+  },
+  {
+    "name": null,
+    "unified": "1F4FD-FE0F",
+    "short_name": "film_projector"
+  },
+  {
+    "name": "PRAYER BEADS",
+    "unified": "1F4FF",
+    "short_name": "prayer_beads"
+  },
+  {
+    "name": "TWISTED RIGHTWARDS ARROWS",
+    "unified": "1F500",
+    "short_name": "twisted_rightwards_arrows"
+  },
+  {
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F501",
+    "short_name": "repeat"
+  },
+  {
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
+    "unified": "1F502",
+    "short_name": "repeat_one"
+  },
+  {
+    "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F503",
+    "short_name": "arrows_clockwise"
+  },
+  {
+    "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F504",
+    "short_name": "arrows_counterclockwise"
+  },
+  {
+    "name": "LOW BRIGHTNESS SYMBOL",
+    "unified": "1F505",
+    "short_name": "low_brightness"
+  },
+  {
+    "name": "HIGH BRIGHTNESS SYMBOL",
+    "unified": "1F506",
+    "short_name": "high_brightness"
+  },
+  {
+    "name": "SPEAKER WITH CANCELLATION STROKE",
+    "unified": "1F507",
+    "short_name": "mute"
+  },
+  {
+    "name": "SPEAKER",
+    "unified": "1F508",
+    "short_name": "speaker"
+  },
+  {
+    "name": "SPEAKER WITH ONE SOUND WAVE",
+    "unified": "1F509",
+    "short_name": "sound"
+  },
+  {
+    "name": "SPEAKER WITH THREE SOUND WAVES",
+    "unified": "1F50A",
+    "short_name": "loud_sound"
+  },
+  {
+    "name": "BATTERY",
+    "unified": "1F50B",
+    "short_name": "battery"
+  },
+  {
+    "name": "ELECTRIC PLUG",
+    "unified": "1F50C",
+    "short_name": "electric_plug"
+  },
+  {
+    "name": "LEFT-POINTING MAGNIFYING GLASS",
+    "unified": "1F50D",
+    "short_name": "mag"
+  },
+  {
+    "name": "RIGHT-POINTING MAGNIFYING GLASS",
+    "unified": "1F50E",
+    "short_name": "mag_right"
+  },
+  {
+    "name": "LOCK WITH INK PEN",
+    "unified": "1F50F",
+    "short_name": "lock_with_ink_pen"
+  },
+  {
+    "name": "CLOSED LOCK WITH KEY",
+    "unified": "1F510",
+    "short_name": "closed_lock_with_key"
+  },
+  {
+    "name": "KEY",
+    "unified": "1F511",
+    "short_name": "key"
+  },
+  {
+    "name": "LOCK",
+    "unified": "1F512",
+    "short_name": "lock"
+  },
+  {
+    "name": "OPEN LOCK",
+    "unified": "1F513",
+    "short_name": "unlock"
+  },
+  {
+    "name": "BELL",
+    "unified": "1F514",
+    "short_name": "bell"
+  },
+  {
+    "name": "BELL WITH CANCELLATION STROKE",
+    "unified": "1F515",
+    "short_name": "no_bell"
+  },
+  {
+    "name": "BOOKMARK",
+    "unified": "1F516",
+    "short_name": "bookmark"
+  },
+  {
+    "name": "LINK SYMBOL",
+    "unified": "1F517",
+    "short_name": "link"
+  },
+  {
+    "name": "RADIO BUTTON",
+    "unified": "1F518",
+    "short_name": "radio_button"
+  },
+  {
+    "name": "BACK WITH LEFTWARDS ARROW ABOVE",
+    "unified": "1F519",
+    "short_name": "back"
+  },
+  {
+    "name": "END WITH LEFTWARDS ARROW ABOVE",
+    "unified": "1F51A",
+    "short_name": "end"
+  },
+  {
+    "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
+    "unified": "1F51B",
+    "short_name": "on"
+  },
+  {
+    "name": "SOON WITH RIGHTWARDS ARROW ABOVE",
+    "unified": "1F51C",
+    "short_name": "soon"
+  },
+  {
+    "name": "TOP WITH UPWARDS ARROW ABOVE",
+    "unified": "1F51D",
+    "short_name": "top"
+  },
+  {
+    "name": "NO ONE UNDER EIGHTEEN SYMBOL",
+    "unified": "1F51E",
+    "short_name": "underage"
+  },
+  {
+    "name": "KEYCAP TEN",
+    "unified": "1F51F",
+    "short_name": "keycap_ten"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
+    "unified": "1F520",
+    "short_name": "capital_abcd"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
+    "unified": "1F521",
+    "short_name": "abcd"
+  },
+  {
+    "name": "INPUT SYMBOL FOR NUMBERS",
+    "unified": "1F522",
+    "short_name": "1234"
+  },
+  {
+    "name": "INPUT SYMBOL FOR SYMBOLS",
+    "unified": "1F523",
+    "short_name": "symbols"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN LETTERS",
+    "unified": "1F524",
+    "short_name": "abc"
+  },
+  {
+    "name": "FIRE",
+    "unified": "1F525",
+    "short_name": "fire"
+  },
+  {
+    "name": "ELECTRIC TORCH",
+    "unified": "1F526",
+    "short_name": "flashlight"
+  },
+  {
+    "name": "WRENCH",
+    "unified": "1F527",
+    "short_name": "wrench"
+  },
+  {
+    "name": "HAMMER",
+    "unified": "1F528",
+    "short_name": "hammer"
+  },
+  {
+    "name": "NUT AND BOLT",
+    "unified": "1F529",
+    "short_name": "nut_and_bolt"
+  },
+  {
+    "name": "HOCHO",
+    "unified": "1F52A",
+    "short_name": "hocho"
+  },
+  {
+    "name": "PISTOL",
+    "unified": "1F52B",
+    "short_name": "gun"
+  },
+  {
+    "name": "MICROSCOPE",
+    "unified": "1F52C",
+    "short_name": "microscope"
+  },
+  {
+    "name": "TELESCOPE",
+    "unified": "1F52D",
+    "short_name": "telescope"
+  },
+  {
+    "name": "CRYSTAL BALL",
+    "unified": "1F52E",
+    "short_name": "crystal_ball"
+  },
+  {
+    "name": "SIX POINTED STAR WITH MIDDLE DOT",
+    "unified": "1F52F",
+    "short_name": "six_pointed_star"
+  },
+  {
+    "name": "JAPANESE SYMBOL FOR BEGINNER",
+    "unified": "1F530",
+    "short_name": "beginner"
+  },
+  {
+    "name": "TRIDENT EMBLEM",
+    "unified": "1F531",
+    "short_name": "trident"
+  },
+  {
+    "name": "BLACK SQUARE BUTTON",
+    "unified": "1F532",
+    "short_name": "black_square_button"
+  },
+  {
+    "name": "WHITE SQUARE BUTTON",
+    "unified": "1F533",
+    "short_name": "white_square_button"
+  },
+  {
+    "name": "LARGE RED CIRCLE",
+    "unified": "1F534",
+    "short_name": "red_circle"
+  },
+  {
+    "name": "LARGE BLUE CIRCLE",
+    "unified": "1F535",
+    "short_name": "large_blue_circle"
+  },
+  {
+    "name": "LARGE ORANGE DIAMOND",
+    "unified": "1F536",
+    "short_name": "large_orange_diamond"
+  },
+  {
+    "name": "LARGE BLUE DIAMOND",
+    "unified": "1F537",
+    "short_name": "large_blue_diamond"
+  },
+  {
+    "name": "SMALL ORANGE DIAMOND",
+    "unified": "1F538",
+    "short_name": "small_orange_diamond"
+  },
+  {
+    "name": "SMALL BLUE DIAMOND",
+    "unified": "1F539",
+    "short_name": "small_blue_diamond"
+  },
+  {
+    "name": "UP-POINTING RED TRIANGLE",
+    "unified": "1F53A",
+    "short_name": "small_red_triangle"
+  },
+  {
+    "name": "DOWN-POINTING RED TRIANGLE",
+    "unified": "1F53B",
+    "short_name": "small_red_triangle_down"
+  },
+  {
+    "name": "UP-POINTING SMALL RED TRIANGLE",
+    "unified": "1F53C",
+    "short_name": "arrow_up_small"
+  },
+  {
+    "name": "DOWN-POINTING SMALL RED TRIANGLE",
+    "unified": "1F53D",
+    "short_name": "arrow_down_small"
+  },
+  {
+    "name": null,
+    "unified": "1F549-FE0F",
+    "short_name": "om_symbol"
+  },
+  {
+    "name": null,
+    "unified": "1F54A-FE0F",
+    "short_name": "dove_of_peace"
+  },
+  {
+    "name": "KAABA",
+    "unified": "1F54B",
+    "short_name": "kaaba"
+  },
+  {
+    "name": "MOSQUE",
+    "unified": "1F54C",
+    "short_name": "mosque"
+  },
+  {
+    "name": "SYNAGOGUE",
+    "unified": "1F54D",
+    "short_name": "synagogue"
+  },
+  {
+    "name": "MENORAH WITH NINE BRANCHES",
+    "unified": "1F54E",
+    "short_name": "menorah_with_nine_branches"
+  },
+  {
+    "name": "CLOCK FACE ONE OCLOCK",
+    "unified": "1F550",
+    "short_name": "clock1"
+  },
+  {
+    "name": "CLOCK FACE TWO OCLOCK",
+    "unified": "1F551",
+    "short_name": "clock2"
+  },
+  {
+    "name": "CLOCK FACE THREE OCLOCK",
+    "unified": "1F552",
+    "short_name": "clock3"
+  },
+  {
+    "name": "CLOCK FACE FOUR OCLOCK",
+    "unified": "1F553",
+    "short_name": "clock4"
+  },
+  {
+    "name": "CLOCK FACE FIVE OCLOCK",
+    "unified": "1F554",
+    "short_name": "clock5"
+  },
+  {
+    "name": "CLOCK FACE SIX OCLOCK",
+    "unified": "1F555",
+    "short_name": "clock6"
+  },
+  {
+    "name": "CLOCK FACE SEVEN OCLOCK",
+    "unified": "1F556",
+    "short_name": "clock7"
+  },
+  {
+    "name": "CLOCK FACE EIGHT OCLOCK",
+    "unified": "1F557",
+    "short_name": "clock8"
+  },
+  {
+    "name": "CLOCK FACE NINE OCLOCK",
+    "unified": "1F558",
+    "short_name": "clock9"
+  },
+  {
+    "name": "CLOCK FACE TEN OCLOCK",
+    "unified": "1F559",
+    "short_name": "clock10"
+  },
+  {
+    "name": "CLOCK FACE ELEVEN OCLOCK",
+    "unified": "1F55A",
+    "short_name": "clock11"
+  },
+  {
+    "name": "CLOCK FACE TWELVE OCLOCK",
+    "unified": "1F55B",
+    "short_name": "clock12"
+  },
+  {
+    "name": "CLOCK FACE ONE-THIRTY",
+    "unified": "1F55C",
+    "short_name": "clock130"
+  },
+  {
+    "name": "CLOCK FACE TWO-THIRTY",
+    "unified": "1F55D",
+    "short_name": "clock230"
+  },
+  {
+    "name": "CLOCK FACE THREE-THIRTY",
+    "unified": "1F55E",
+    "short_name": "clock330"
+  },
+  {
+    "name": "CLOCK FACE FOUR-THIRTY",
+    "unified": "1F55F",
+    "short_name": "clock430"
+  },
+  {
+    "name": "CLOCK FACE FIVE-THIRTY",
+    "unified": "1F560",
+    "short_name": "clock530"
+  },
+  {
+    "name": "CLOCK FACE SIX-THIRTY",
+    "unified": "1F561",
+    "short_name": "clock630"
+  },
+  {
+    "name": "CLOCK FACE SEVEN-THIRTY",
+    "unified": "1F562",
+    "short_name": "clock730"
+  },
+  {
+    "name": "CLOCK FACE EIGHT-THIRTY",
+    "unified": "1F563",
+    "short_name": "clock830"
+  },
+  {
+    "name": "CLOCK FACE NINE-THIRTY",
+    "unified": "1F564",
+    "short_name": "clock930"
+  },
+  {
+    "name": "CLOCK FACE TEN-THIRTY",
+    "unified": "1F565",
+    "short_name": "clock1030"
+  },
+  {
+    "name": "CLOCK FACE ELEVEN-THIRTY",
+    "unified": "1F566",
+    "short_name": "clock1130"
+  },
+  {
+    "name": "CLOCK FACE TWELVE-THIRTY",
+    "unified": "1F567",
+    "short_name": "clock1230"
+  },
+  {
+    "name": null,
+    "unified": "1F56F-FE0F",
+    "short_name": "candle"
+  },
+  {
+    "name": null,
+    "unified": "1F570-FE0F",
+    "short_name": "mantelpiece_clock"
+  },
+  {
+    "name": null,
+    "unified": "1F573-FE0F",
+    "short_name": "hole"
+  },
+  {
+    "name": null,
+    "unified": "1F574-FE0F",
+    "short_name": "man_in_business_suit_levitating"
+  },
+  {
+    "name": null,
+    "unified": "1F575-FE0F-200D-2640-FE0F",
+    "short_name": "female-detective"
+  },
+  {
+    "name": null,
+    "unified": "1F575-FE0F-200D-2642-FE0F",
+    "short_name": "male-detective"
+  },
+  {
+    "name": null,
+    "unified": "1F575-FE0F",
+    "short_name": "sleuth_or_spy"
+  },
+  {
+    "name": null,
+    "unified": "1F576-FE0F",
+    "short_name": "dark_sunglasses"
+  },
+  {
+    "name": null,
+    "unified": "1F577-FE0F",
+    "short_name": "spider"
+  },
+  {
+    "name": null,
+    "unified": "1F578-FE0F",
+    "short_name": "spider_web"
+  },
+  {
+    "name": null,
+    "unified": "1F579-FE0F",
+    "short_name": "joystick"
+  },
+  {
+    "name": "MAN DANCING",
+    "unified": "1F57A",
+    "short_name": "man_dancing"
+  },
+  {
+    "name": null,
+    "unified": "1F587-FE0F",
+    "short_name": "linked_paperclips"
+  },
+  {
+    "name": null,
+    "unified": "1F58A-FE0F",
+    "short_name": "lower_left_ballpoint_pen"
+  },
+  {
+    "name": null,
+    "unified": "1F58B-FE0F",
+    "short_name": "lower_left_fountain_pen"
+  },
+  {
+    "name": null,
+    "unified": "1F58C-FE0F",
+    "short_name": "lower_left_paintbrush"
+  },
+  {
+    "name": null,
+    "unified": "1F58D-FE0F",
+    "short_name": "lower_left_crayon"
+  },
+  {
+    "name": null,
+    "unified": "1F590-FE0F",
+    "short_name": "raised_hand_with_fingers_splayed"
+  },
+  {
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
+    "unified": "1F595",
+    "short_name": "middle_finger"
+  },
+  {
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
+    "unified": "1F596",
+    "short_name": "spock-hand"
+  },
+  {
+    "name": "BLACK HEART",
+    "unified": "1F5A4",
+    "short_name": "black_heart"
+  },
+  {
+    "name": null,
+    "unified": "1F5A5-FE0F",
+    "short_name": "desktop_computer"
+  },
+  {
+    "name": null,
+    "unified": "1F5A8-FE0F",
+    "short_name": "printer"
+  },
+  {
+    "name": null,
+    "unified": "1F5B1-FE0F",
+    "short_name": "three_button_mouse"
+  },
+  {
+    "name": null,
+    "unified": "1F5B2-FE0F",
+    "short_name": "trackball"
+  },
+  {
+    "name": null,
+    "unified": "1F5BC-FE0F",
+    "short_name": "frame_with_picture"
+  },
+  {
+    "name": null,
+    "unified": "1F5C2-FE0F",
+    "short_name": "card_index_dividers"
+  },
+  {
+    "name": null,
+    "unified": "1F5C3-FE0F",
+    "short_name": "card_file_box"
+  },
+  {
+    "name": null,
+    "unified": "1F5C4-FE0F",
+    "short_name": "file_cabinet"
+  },
+  {
+    "name": null,
+    "unified": "1F5D1-FE0F",
+    "short_name": "wastebasket"
+  },
+  {
+    "name": null,
+    "unified": "1F5D2-FE0F",
+    "short_name": "spiral_note_pad"
+  },
+  {
+    "name": null,
+    "unified": "1F5D3-FE0F",
+    "short_name": "spiral_calendar_pad"
+  },
+  {
+    "name": null,
+    "unified": "1F5DC-FE0F",
+    "short_name": "compression"
+  },
+  {
+    "name": null,
+    "unified": "1F5DD-FE0F",
+    "short_name": "old_key"
+  },
+  {
+    "name": null,
+    "unified": "1F5DE-FE0F",
+    "short_name": "rolled_up_newspaper"
+  },
+  {
+    "name": null,
+    "unified": "1F5E1-FE0F",
+    "short_name": "dagger_knife"
+  },
+  {
+    "name": null,
+    "unified": "1F5E3-FE0F",
+    "short_name": "speaking_head_in_silhouette"
+  },
+  {
+    "name": null,
+    "unified": "1F5E8-FE0F",
+    "short_name": "left_speech_bubble"
+  },
+  {
+    "name": null,
+    "unified": "1F5EF-FE0F",
+    "short_name": "right_anger_bubble"
+  },
+  {
+    "name": null,
+    "unified": "1F5F3-FE0F",
+    "short_name": "ballot_box_with_ballot"
+  },
+  {
+    "name": null,
+    "unified": "1F5FA-FE0F",
+    "short_name": "world_map"
+  },
+  {
+    "name": "MOUNT FUJI",
+    "unified": "1F5FB",
+    "short_name": "mount_fuji"
+  },
+  {
+    "name": "TOKYO TOWER",
+    "unified": "1F5FC",
+    "short_name": "tokyo_tower"
+  },
+  {
+    "name": "STATUE OF LIBERTY",
+    "unified": "1F5FD",
+    "short_name": "statue_of_liberty"
+  },
+  {
+    "name": "SILHOUETTE OF JAPAN",
+    "unified": "1F5FE",
+    "short_name": "japan"
+  },
+  {
+    "name": "MOYAI",
+    "unified": "1F5FF",
+    "short_name": "moyai"
+  },
+  {
+    "name": "GRINNING FACE",
+    "unified": "1F600",
+    "short_name": "grinning"
+  },
+  {
+    "name": "GRINNING FACE WITH SMILING EYES",
+    "unified": "1F601",
+    "short_name": "grin"
+  },
+  {
+    "name": "FACE WITH TEARS OF JOY",
+    "unified": "1F602",
+    "short_name": "joy"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH",
+    "unified": "1F603",
+    "short_name": "smiley"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "unified": "1F604",
+    "short_name": "smile"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "unified": "1F605",
+    "short_name": "sweat_smile"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "unified": "1F606",
+    "short_name": "laughing"
+  },
+  {
+    "name": "SMILING FACE WITH HALO",
+    "unified": "1F607",
+    "short_name": "innocent"
+  },
+  {
+    "name": "SMILING FACE WITH HORNS",
+    "unified": "1F608",
+    "short_name": "smiling_imp"
+  },
+  {
+    "name": "WINKING FACE",
+    "unified": "1F609",
+    "short_name": "wink"
+  },
+  {
+    "name": "SMILING FACE WITH SMILING EYES",
+    "unified": "1F60A",
+    "short_name": "blush"
+  },
+  {
+    "name": "FACE SAVOURING DELICIOUS FOOD",
+    "unified": "1F60B",
+    "short_name": "yum"
+  },
+  {
+    "name": "RELIEVED FACE",
+    "unified": "1F60C",
+    "short_name": "relieved"
+  },
+  {
+    "name": "SMILING FACE WITH HEART-SHAPED EYES",
+    "unified": "1F60D",
+    "short_name": "heart_eyes"
+  },
+  {
+    "name": "SMILING FACE WITH SUNGLASSES",
+    "unified": "1F60E",
+    "short_name": "sunglasses"
+  },
+  {
+    "name": "SMIRKING FACE",
+    "unified": "1F60F",
+    "short_name": "smirk"
+  },
+  {
+    "name": "NEUTRAL FACE",
+    "unified": "1F610",
+    "short_name": "neutral_face"
+  },
+  {
+    "name": "EXPRESSIONLESS FACE",
+    "unified": "1F611",
+    "short_name": "expressionless"
+  },
+  {
+    "name": "UNAMUSED FACE",
+    "unified": "1F612",
+    "short_name": "unamused"
+  },
+  {
+    "name": "FACE WITH COLD SWEAT",
+    "unified": "1F613",
+    "short_name": "sweat"
+  },
+  {
+    "name": "PENSIVE FACE",
+    "unified": "1F614",
+    "short_name": "pensive"
+  },
+  {
+    "name": "CONFUSED FACE",
+    "unified": "1F615",
+    "short_name": "confused"
+  },
+  {
+    "name": "CONFOUNDED FACE",
+    "unified": "1F616",
+    "short_name": "confounded"
+  },
+  {
+    "name": "KISSING FACE",
+    "unified": "1F617",
+    "short_name": "kissing"
+  },
+  {
+    "name": "FACE THROWING A KISS",
+    "unified": "1F618",
+    "short_name": "kissing_heart"
+  },
+  {
+    "name": "KISSING FACE WITH SMILING EYES",
+    "unified": "1F619",
+    "short_name": "kissing_smiling_eyes"
+  },
+  {
+    "name": "KISSING FACE WITH CLOSED EYES",
+    "unified": "1F61A",
+    "short_name": "kissing_closed_eyes"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE",
+    "unified": "1F61B",
+    "short_name": "stuck_out_tongue"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "unified": "1F61C",
+    "short_name": "stuck_out_tongue_winking_eye"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "unified": "1F61D",
+    "short_name": "stuck_out_tongue_closed_eyes"
+  },
+  {
+    "name": "DISAPPOINTED FACE",
+    "unified": "1F61E",
+    "short_name": "disappointed"
+  },
+  {
+    "name": "WORRIED FACE",
+    "unified": "1F61F",
+    "short_name": "worried"
+  },
+  {
+    "name": "ANGRY FACE",
+    "unified": "1F620",
+    "short_name": "angry"
+  },
+  {
+    "name": "POUTING FACE",
+    "unified": "1F621",
+    "short_name": "rage"
+  },
+  {
+    "name": "CRYING FACE",
+    "unified": "1F622",
+    "short_name": "cry"
+  },
+  {
+    "name": "PERSEVERING FACE",
+    "unified": "1F623",
+    "short_name": "persevere"
+  },
+  {
+    "name": "FACE WITH LOOK OF TRIUMPH",
+    "unified": "1F624",
+    "short_name": "triumph"
+  },
+  {
+    "name": "DISAPPOINTED BUT RELIEVED FACE",
+    "unified": "1F625",
+    "short_name": "disappointed_relieved"
+  },
+  {
+    "name": "FROWNING FACE WITH OPEN MOUTH",
+    "unified": "1F626",
+    "short_name": "frowning"
+  },
+  {
+    "name": "ANGUISHED FACE",
+    "unified": "1F627",
+    "short_name": "anguished"
+  },
+  {
+    "name": "FEARFUL FACE",
+    "unified": "1F628",
+    "short_name": "fearful"
+  },
+  {
+    "name": "WEARY FACE",
+    "unified": "1F629",
+    "short_name": "weary"
+  },
+  {
+    "name": "SLEEPY FACE",
+    "unified": "1F62A",
+    "short_name": "sleepy"
+  },
+  {
+    "name": "TIRED FACE",
+    "unified": "1F62B",
+    "short_name": "tired_face"
+  },
+  {
+    "name": "GRIMACING FACE",
+    "unified": "1F62C",
+    "short_name": "grimacing"
+  },
+  {
+    "name": "LOUDLY CRYING FACE",
+    "unified": "1F62D",
+    "short_name": "sob"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH",
+    "unified": "1F62E",
+    "short_name": "open_mouth"
+  },
+  {
+    "name": "HUSHED FACE",
+    "unified": "1F62F",
+    "short_name": "hushed"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "unified": "1F630",
+    "short_name": "cold_sweat"
+  },
+  {
+    "name": "FACE SCREAMING IN FEAR",
+    "unified": "1F631",
+    "short_name": "scream"
+  },
+  {
+    "name": "ASTONISHED FACE",
+    "unified": "1F632",
+    "short_name": "astonished"
+  },
+  {
+    "name": "FLUSHED FACE",
+    "unified": "1F633",
+    "short_name": "flushed"
+  },
+  {
+    "name": "SLEEPING FACE",
+    "unified": "1F634",
+    "short_name": "sleeping"
+  },
+  {
+    "name": "DIZZY FACE",
+    "unified": "1F635",
+    "short_name": "dizzy_face"
+  },
+  {
+    "name": "FACE WITHOUT MOUTH",
+    "unified": "1F636",
+    "short_name": "no_mouth"
+  },
+  {
+    "name": "FACE WITH MEDICAL MASK",
+    "unified": "1F637",
+    "short_name": "mask"
+  },
+  {
+    "name": "GRINNING CAT FACE WITH SMILING EYES",
+    "unified": "1F638",
+    "short_name": "smile_cat"
+  },
+  {
+    "name": "CAT FACE WITH TEARS OF JOY",
+    "unified": "1F639",
+    "short_name": "joy_cat"
+  },
+  {
+    "name": "SMILING CAT FACE WITH OPEN MOUTH",
+    "unified": "1F63A",
+    "short_name": "smiley_cat"
+  },
+  {
+    "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+    "unified": "1F63B",
+    "short_name": "heart_eyes_cat"
+  },
+  {
+    "name": "CAT FACE WITH WRY SMILE",
+    "unified": "1F63C",
+    "short_name": "smirk_cat"
+  },
+  {
+    "name": "KISSING CAT FACE WITH CLOSED EYES",
+    "unified": "1F63D",
+    "short_name": "kissing_cat"
+  },
+  {
+    "name": "POUTING CAT FACE",
+    "unified": "1F63E",
+    "short_name": "pouting_cat"
+  },
+  {
+    "name": "CRYING CAT FACE",
+    "unified": "1F63F",
+    "short_name": "crying_cat_face"
+  },
+  {
+    "name": "WEARY CAT FACE",
+    "unified": "1F640",
+    "short_name": "scream_cat"
+  },
+  {
+    "name": "SLIGHTLY FROWNING FACE",
+    "unified": "1F641",
+    "short_name": "slightly_frowning_face"
+  },
+  {
+    "name": "SLIGHTLY SMILING FACE",
+    "unified": "1F642",
+    "short_name": "slightly_smiling_face"
+  },
+  {
+    "name": "UPSIDE-DOWN FACE",
+    "unified": "1F643",
+    "short_name": "upside_down_face"
+  },
+  {
+    "name": "FACE WITH ROLLING EYES",
+    "unified": "1F644",
+    "short_name": "face_with_rolling_eyes"
+  },
+  {
+    "name": null,
+    "unified": "1F645-200D-2640-FE0F",
+    "short_name": "woman-gesturing-no"
+  },
+  {
+    "name": null,
+    "unified": "1F645-200D-2642-FE0F",
+    "short_name": "man-gesturing-no"
+  },
+  {
+    "name": "FACE WITH NO GOOD GESTURE",
+    "unified": "1F645",
+    "short_name": "no_good"
+  },
+  {
+    "name": null,
+    "unified": "1F646-200D-2640-FE0F",
+    "short_name": "woman-gesturing-ok"
+  },
+  {
+    "name": null,
+    "unified": "1F646-200D-2642-FE0F",
+    "short_name": "man-gesturing-ok"
+  },
+  {
+    "name": "FACE WITH OK GESTURE",
+    "unified": "1F646",
+    "short_name": "ok_woman"
+  },
+  {
+    "name": null,
+    "unified": "1F647-200D-2640-FE0F",
+    "short_name": "woman-bowing"
+  },
+  {
+    "name": null,
+    "unified": "1F647-200D-2642-FE0F",
+    "short_name": "man-bowing"
+  },
+  {
+    "name": "PERSON BOWING DEEPLY",
+    "unified": "1F647",
+    "short_name": "bow"
+  },
+  {
+    "name": "SEE-NO-EVIL MONKEY",
+    "unified": "1F648",
+    "short_name": "see_no_evil"
+  },
+  {
+    "name": "HEAR-NO-EVIL MONKEY",
+    "unified": "1F649",
+    "short_name": "hear_no_evil"
+  },
+  {
+    "name": "SPEAK-NO-EVIL MONKEY",
+    "unified": "1F64A",
+    "short_name": "speak_no_evil"
+  },
+  {
+    "name": null,
+    "unified": "1F64B-200D-2640-FE0F",
+    "short_name": "woman-raising-hand"
+  },
+  {
+    "name": null,
+    "unified": "1F64B-200D-2642-FE0F",
+    "short_name": "man-raising-hand"
+  },
+  {
+    "name": "HAPPY PERSON RAISING ONE HAND",
+    "unified": "1F64B",
+    "short_name": "raising_hand"
+  },
+  {
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+    "unified": "1F64C",
+    "short_name": "raised_hands"
+  },
+  {
+    "name": null,
+    "unified": "1F64D-200D-2640-FE0F",
+    "short_name": "woman-frowning"
+  },
+  {
+    "name": null,
+    "unified": "1F64D-200D-2642-FE0F",
+    "short_name": "man-frowning"
+  },
+  {
+    "name": "PERSON FROWNING",
+    "unified": "1F64D",
+    "short_name": "person_frowning"
+  },
+  {
+    "name": null,
+    "unified": "1F64E-200D-2640-FE0F",
+    "short_name": "woman-pouting"
+  },
+  {
+    "name": null,
+    "unified": "1F64E-200D-2642-FE0F",
+    "short_name": "man-pouting"
+  },
+  {
+    "name": "PERSON WITH POUTING FACE",
+    "unified": "1F64E",
+    "short_name": "person_with_pouting_face"
+  },
+  {
+    "name": "PERSON WITH FOLDED HANDS",
+    "unified": "1F64F",
+    "short_name": "pray"
+  },
+  {
+    "name": "ROCKET",
+    "unified": "1F680",
+    "short_name": "rocket"
+  },
+  {
+    "name": "HELICOPTER",
+    "unified": "1F681",
+    "short_name": "helicopter"
+  },
+  {
+    "name": "STEAM LOCOMOTIVE",
+    "unified": "1F682",
+    "short_name": "steam_locomotive"
+  },
+  {
+    "name": "RAILWAY CAR",
+    "unified": "1F683",
+    "short_name": "railway_car"
+  },
+  {
+    "name": "HIGH-SPEED TRAIN",
+    "unified": "1F684",
+    "short_name": "bullettrain_side"
+  },
+  {
+    "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
+    "unified": "1F685",
+    "short_name": "bullettrain_front"
+  },
+  {
+    "name": "TRAIN",
+    "unified": "1F686",
+    "short_name": "train2"
+  },
+  {
+    "name": "METRO",
+    "unified": "1F687",
+    "short_name": "metro"
+  },
+  {
+    "name": "LIGHT RAIL",
+    "unified": "1F688",
+    "short_name": "light_rail"
+  },
+  {
+    "name": "STATION",
+    "unified": "1F689",
+    "short_name": "station"
+  },
+  {
+    "name": "TRAM",
+    "unified": "1F68A",
+    "short_name": "tram"
+  },
+  {
+    "name": "TRAM CAR",
+    "unified": "1F68B",
+    "short_name": "train"
+  },
+  {
+    "name": "BUS",
+    "unified": "1F68C",
+    "short_name": "bus"
+  },
+  {
+    "name": "ONCOMING BUS",
+    "unified": "1F68D",
+    "short_name": "oncoming_bus"
+  },
+  {
+    "name": "TROLLEYBUS",
+    "unified": "1F68E",
+    "short_name": "trolleybus"
+  },
+  {
+    "name": "BUS STOP",
+    "unified": "1F68F",
+    "short_name": "busstop"
+  },
+  {
+    "name": "MINIBUS",
+    "unified": "1F690",
+    "short_name": "minibus"
+  },
+  {
+    "name": "AMBULANCE",
+    "unified": "1F691",
+    "short_name": "ambulance"
+  },
+  {
+    "name": "FIRE ENGINE",
+    "unified": "1F692",
+    "short_name": "fire_engine"
+  },
+  {
+    "name": "POLICE CAR",
+    "unified": "1F693",
+    "short_name": "police_car"
+  },
+  {
+    "name": "ONCOMING POLICE CAR",
+    "unified": "1F694",
+    "short_name": "oncoming_police_car"
+  },
+  {
+    "name": "TAXI",
+    "unified": "1F695",
+    "short_name": "taxi"
+  },
+  {
+    "name": "ONCOMING TAXI",
+    "unified": "1F696",
+    "short_name": "oncoming_taxi"
+  },
+  {
+    "name": "AUTOMOBILE",
+    "unified": "1F697",
+    "short_name": "car"
+  },
+  {
+    "name": "ONCOMING AUTOMOBILE",
+    "unified": "1F698",
+    "short_name": "oncoming_automobile"
+  },
+  {
+    "name": "RECREATIONAL VEHICLE",
+    "unified": "1F699",
+    "short_name": "blue_car"
+  },
+  {
+    "name": "DELIVERY TRUCK",
+    "unified": "1F69A",
+    "short_name": "truck"
+  },
+  {
+    "name": "ARTICULATED LORRY",
+    "unified": "1F69B",
+    "short_name": "articulated_lorry"
+  },
+  {
+    "name": "TRACTOR",
+    "unified": "1F69C",
+    "short_name": "tractor"
+  },
+  {
+    "name": "MONORAIL",
+    "unified": "1F69D",
+    "short_name": "monorail"
+  },
+  {
+    "name": "MOUNTAIN RAILWAY",
+    "unified": "1F69E",
+    "short_name": "mountain_railway"
+  },
+  {
+    "name": "SUSPENSION RAILWAY",
+    "unified": "1F69F",
+    "short_name": "suspension_railway"
+  },
+  {
+    "name": "MOUNTAIN CABLEWAY",
+    "unified": "1F6A0",
+    "short_name": "mountain_cableway"
+  },
+  {
+    "name": "AERIAL TRAMWAY",
+    "unified": "1F6A1",
+    "short_name": "aerial_tramway"
+  },
+  {
+    "name": "SHIP",
+    "unified": "1F6A2",
+    "short_name": "ship"
+  },
+  {
+    "name": null,
+    "unified": "1F6A3-200D-2640-FE0F",
+    "short_name": "woman-rowing-boat"
+  },
+  {
+    "name": null,
+    "unified": "1F6A3-200D-2642-FE0F",
+    "short_name": "man-rowing-boat"
+  },
+  {
+    "name": "ROWBOAT",
+    "unified": "1F6A3",
+    "short_name": "rowboat"
+  },
+  {
+    "name": "SPEEDBOAT",
+    "unified": "1F6A4",
+    "short_name": "speedboat"
+  },
+  {
+    "name": "HORIZONTAL TRAFFIC LIGHT",
+    "unified": "1F6A5",
+    "short_name": "traffic_light"
+  },
+  {
+    "name": "VERTICAL TRAFFIC LIGHT",
+    "unified": "1F6A6",
+    "short_name": "vertical_traffic_light"
+  },
+  {
+    "name": "CONSTRUCTION SIGN",
+    "unified": "1F6A7",
+    "short_name": "construction"
+  },
+  {
+    "name": "POLICE CARS REVOLVING LIGHT",
+    "unified": "1F6A8",
+    "short_name": "rotating_light"
+  },
+  {
+    "name": "TRIANGULAR FLAG ON POST",
+    "unified": "1F6A9",
+    "short_name": "triangular_flag_on_post"
+  },
+  {
+    "name": "DOOR",
+    "unified": "1F6AA",
+    "short_name": "door"
+  },
+  {
+    "name": "NO ENTRY SIGN",
+    "unified": "1F6AB",
+    "short_name": "no_entry_sign"
+  },
+  {
+    "name": "SMOKING SYMBOL",
+    "unified": "1F6AC",
+    "short_name": "smoking"
+  },
+  {
+    "name": "NO SMOKING SYMBOL",
+    "unified": "1F6AD",
+    "short_name": "no_smoking"
+  },
+  {
+    "name": "PUT LITTER IN ITS PLACE SYMBOL",
+    "unified": "1F6AE",
+    "short_name": "put_litter_in_its_place"
+  },
+  {
+    "name": "DO NOT LITTER SYMBOL",
+    "unified": "1F6AF",
+    "short_name": "do_not_litter"
+  },
+  {
+    "name": "POTABLE WATER SYMBOL",
+    "unified": "1F6B0",
+    "short_name": "potable_water"
+  },
+  {
+    "name": "NON-POTABLE WATER SYMBOL",
+    "unified": "1F6B1",
+    "short_name": "non-potable_water"
+  },
+  {
+    "name": "BICYCLE",
+    "unified": "1F6B2",
+    "short_name": "bike"
+  },
+  {
+    "name": "NO BICYCLES",
+    "unified": "1F6B3",
+    "short_name": "no_bicycles"
+  },
+  {
+    "name": null,
+    "unified": "1F6B4-200D-2640-FE0F",
+    "short_name": "woman-biking"
+  },
+  {
+    "name": null,
+    "unified": "1F6B4-200D-2642-FE0F",
+    "short_name": "man-biking"
+  },
+  {
+    "name": "BICYCLIST",
+    "unified": "1F6B4",
+    "short_name": "bicyclist"
+  },
+  {
+    "name": null,
+    "unified": "1F6B5-200D-2640-FE0F",
+    "short_name": "woman-mountain-biking"
+  },
+  {
+    "name": null,
+    "unified": "1F6B5-200D-2642-FE0F",
+    "short_name": "man-mountain-biking"
+  },
+  {
+    "name": "MOUNTAIN BICYCLIST",
+    "unified": "1F6B5",
+    "short_name": "mountain_bicyclist"
+  },
+  {
+    "name": null,
+    "unified": "1F6B6-200D-2640-FE0F",
+    "short_name": "woman-walking"
+  },
+  {
+    "name": null,
+    "unified": "1F6B6-200D-2642-FE0F",
+    "short_name": "man-walking"
+  },
+  {
+    "name": "PEDESTRIAN",
+    "unified": "1F6B6",
+    "short_name": "walking"
+  },
+  {
+    "name": "NO PEDESTRIANS",
+    "unified": "1F6B7",
+    "short_name": "no_pedestrians"
+  },
+  {
+    "name": "CHILDREN CROSSING",
+    "unified": "1F6B8",
+    "short_name": "children_crossing"
+  },
+  {
+    "name": "MENS SYMBOL",
+    "unified": "1F6B9",
+    "short_name": "mens"
+  },
+  {
+    "name": "WOMENS SYMBOL",
+    "unified": "1F6BA",
+    "short_name": "womens"
+  },
+  {
+    "name": "RESTROOM",
+    "unified": "1F6BB",
+    "short_name": "restroom"
+  },
+  {
+    "name": "BABY SYMBOL",
+    "unified": "1F6BC",
+    "short_name": "baby_symbol"
+  },
+  {
+    "name": "TOILET",
+    "unified": "1F6BD",
+    "short_name": "toilet"
+  },
+  {
+    "name": "WATER CLOSET",
+    "unified": "1F6BE",
+    "short_name": "wc"
+  },
+  {
+    "name": "SHOWER",
+    "unified": "1F6BF",
+    "short_name": "shower"
+  },
+  {
+    "name": "BATH",
+    "unified": "1F6C0",
+    "short_name": "bath"
+  },
+  {
+    "name": "BATHTUB",
+    "unified": "1F6C1",
+    "short_name": "bathtub"
+  },
+  {
+    "name": "PASSPORT CONTROL",
+    "unified": "1F6C2",
+    "short_name": "passport_control"
+  },
+  {
+    "name": "CUSTOMS",
+    "unified": "1F6C3",
+    "short_name": "customs"
+  },
+  {
+    "name": "BAGGAGE CLAIM",
+    "unified": "1F6C4",
+    "short_name": "baggage_claim"
+  },
+  {
+    "name": "LEFT LUGGAGE",
+    "unified": "1F6C5",
+    "short_name": "left_luggage"
+  },
+  {
+    "name": null,
+    "unified": "1F6CB-FE0F",
+    "short_name": "couch_and_lamp"
+  },
+  {
+    "name": "SLEEPING ACCOMMODATION",
+    "unified": "1F6CC",
+    "short_name": "sleeping_accommodation"
+  },
+  {
+    "name": null,
+    "unified": "1F6CD-FE0F",
+    "short_name": "shopping_bags"
+  },
+  {
+    "name": null,
+    "unified": "1F6CE-FE0F",
+    "short_name": "bellhop_bell"
+  },
+  {
+    "name": null,
+    "unified": "1F6CF-FE0F",
+    "short_name": "bed"
+  },
+  {
+    "name": "PLACE OF WORSHIP",
+    "unified": "1F6D0",
+    "short_name": "place_of_worship"
+  },
+  {
+    "name": "OCTAGONAL SIGN",
+    "unified": "1F6D1",
+    "short_name": "octagonal_sign"
+  },
+  {
+    "name": "SHOPPING TROLLEY",
+    "unified": "1F6D2",
+    "short_name": "shopping_trolley"
+  },
+  {
+    "name": null,
+    "unified": "1F6E0-FE0F",
+    "short_name": "hammer_and_wrench"
+  },
+  {
+    "name": null,
+    "unified": "1F6E1-FE0F",
+    "short_name": "shield"
+  },
+  {
+    "name": null,
+    "unified": "1F6E2-FE0F",
+    "short_name": "oil_drum"
+  },
+  {
+    "name": null,
+    "unified": "1F6E3-FE0F",
+    "short_name": "motorway"
+  },
+  {
+    "name": null,
+    "unified": "1F6E4-FE0F",
+    "short_name": "railway_track"
+  },
+  {
+    "name": null,
+    "unified": "1F6E5-FE0F",
+    "short_name": "motor_boat"
+  },
+  {
+    "name": null,
+    "unified": "1F6E9-FE0F",
+    "short_name": "small_airplane"
+  },
+  {
+    "name": "AIRPLANE DEPARTURE",
+    "unified": "1F6EB",
+    "short_name": "airplane_departure"
+  },
+  {
+    "name": "AIRPLANE ARRIVING",
+    "unified": "1F6EC",
+    "short_name": "airplane_arriving"
+  },
+  {
+    "name": null,
+    "unified": "1F6F0-FE0F",
+    "short_name": "satellite"
+  },
+  {
+    "name": null,
+    "unified": "1F6F3-FE0F",
+    "short_name": "passenger_ship"
+  },
+  {
+    "name": "SCOOTER",
+    "unified": "1F6F4",
+    "short_name": "scooter"
+  },
+  {
+    "name": "MOTOR SCOOTER",
+    "unified": "1F6F5",
+    "short_name": "motor_scooter"
+  },
+  {
+    "name": "CANOE",
+    "unified": "1F6F6",
+    "short_name": "canoe"
+  },
+  {
+    "name": "SLED",
+    "unified": "1F6F7",
+    "short_name": "sled"
+  },
+  {
+    "name": "FLYING SAUCER",
+    "unified": "1F6F8",
+    "short_name": "flying_saucer"
+  },
+  {
+    "name": "ZIPPER-MOUTH FACE",
+    "unified": "1F910",
+    "short_name": "zipper_mouth_face"
+  },
+  {
+    "name": "MONEY-MOUTH FACE",
+    "unified": "1F911",
+    "short_name": "money_mouth_face"
+  },
+  {
+    "name": "FACE WITH THERMOMETER",
+    "unified": "1F912",
+    "short_name": "face_with_thermometer"
+  },
+  {
+    "name": "NERD FACE",
+    "unified": "1F913",
+    "short_name": "nerd_face"
+  },
+  {
+    "name": "THINKING FACE",
+    "unified": "1F914",
+    "short_name": "thinking_face"
+  },
+  {
+    "name": "FACE WITH HEAD-BANDAGE",
+    "unified": "1F915",
+    "short_name": "face_with_head_bandage"
+  },
+  {
+    "name": "ROBOT FACE",
+    "unified": "1F916",
+    "short_name": "robot_face"
+  },
+  {
+    "name": "HUGGING FACE",
+    "unified": "1F917",
+    "short_name": "hugging_face"
+  },
+  {
+    "name": "SIGN OF THE HORNS",
+    "unified": "1F918",
+    "short_name": "the_horns"
+  },
+  {
+    "name": "CALL ME HAND",
+    "unified": "1F919",
+    "short_name": "call_me_hand"
+  },
+  {
+    "name": "RAISED BACK OF HAND",
+    "unified": "1F91A",
+    "short_name": "raised_back_of_hand"
+  },
+  {
+    "name": "LEFT-FACING FIST",
+    "unified": "1F91B",
+    "short_name": "left-facing_fist"
+  },
+  {
+    "name": "RIGHT-FACING FIST",
+    "unified": "1F91C",
+    "short_name": "right-facing_fist"
+  },
+  {
+    "name": "HANDSHAKE",
+    "unified": "1F91D",
+    "short_name": "handshake"
+  },
+  {
+    "name": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+    "unified": "1F91E",
+    "short_name": "hand_with_index_and_middle_fingers_crossed"
+  },
+  {
+    "name": "I LOVE YOU HAND SIGN",
+    "unified": "1F91F",
+    "short_name": "i_love_you_hand_sign"
+  },
+  {
+    "name": "FACE WITH COWBOY HAT",
+    "unified": "1F920",
+    "short_name": "face_with_cowboy_hat"
+  },
+  {
+    "name": "CLOWN FACE",
+    "unified": "1F921",
+    "short_name": "clown_face"
+  },
+  {
+    "name": "NAUSEATED FACE",
+    "unified": "1F922",
+    "short_name": "nauseated_face"
+  },
+  {
+    "name": "ROLLING ON THE FLOOR LAUGHING",
+    "unified": "1F923",
+    "short_name": "rolling_on_the_floor_laughing"
+  },
+  {
+    "name": "DROOLING FACE",
+    "unified": "1F924",
+    "short_name": "drooling_face"
+  },
+  {
+    "name": "LYING FACE",
+    "unified": "1F925",
+    "short_name": "lying_face"
+  },
+  {
+    "name": null,
+    "unified": "1F926-200D-2640-FE0F",
+    "short_name": "woman-facepalming"
+  },
+  {
+    "name": null,
+    "unified": "1F926-200D-2642-FE0F",
+    "short_name": "man-facepalming"
+  },
+  {
+    "name": "FACE PALM",
+    "unified": "1F926",
+    "short_name": "face_palm"
+  },
+  {
+    "name": "SNEEZING FACE",
+    "unified": "1F927",
+    "short_name": "sneezing_face"
+  },
+  {
+    "name": "FACE WITH ONE EYEBROW RAISED",
+    "unified": "1F928",
+    "short_name": "face_with_one_eyebrow_raised"
+  },
+  {
+    "name": "GRINNING FACE WITH STAR EYES",
+    "unified": "1F929",
+    "short_name": "grinning_face_with_star_eyes"
+  },
+  {
+    "name": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
+    "unified": "1F92A",
+    "short_name": "grinning_face_with_one_large_and_one_small_eye"
+  },
+  {
+    "name": "FACE WITH FINGER COVERING CLOSED LIPS",
+    "unified": "1F92B",
+    "short_name": "face_with_finger_covering_closed_lips"
+  },
+  {
+    "name": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
+    "unified": "1F92C",
+    "short_name": "serious_face_with_symbols_covering_mouth"
+  },
+  {
+    "name": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
+    "unified": "1F92D",
+    "short_name": "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH VOMITING",
+    "unified": "1F92E",
+    "short_name": "face_with_open_mouth_vomiting"
+  },
+  {
+    "name": "SHOCKED FACE WITH EXPLODING HEAD",
+    "unified": "1F92F",
+    "short_name": "shocked_face_with_exploding_head"
+  },
+  {
+    "name": "PREGNANT WOMAN",
+    "unified": "1F930",
+    "short_name": "pregnant_woman"
+  },
+  {
+    "name": "BREAST-FEEDING",
+    "unified": "1F931",
+    "short_name": "breast-feeding"
+  },
+  {
+    "name": "PALMS UP TOGETHER",
+    "unified": "1F932",
+    "short_name": "palms_up_together"
+  },
+  {
+    "name": "SELFIE",
+    "unified": "1F933",
+    "short_name": "selfie"
+  },
+  {
+    "name": "PRINCE",
+    "unified": "1F934",
+    "short_name": "prince"
+  },
+  {
+    "name": "MAN IN TUXEDO",
+    "unified": "1F935",
+    "short_name": "man_in_tuxedo"
+  },
+  {
+    "name": "MOTHER CHRISTMAS",
+    "unified": "1F936",
+    "short_name": "mother_christmas"
+  },
+  {
+    "name": null,
+    "unified": "1F937-200D-2640-FE0F",
+    "short_name": "woman-shrugging"
+  },
+  {
+    "name": null,
+    "unified": "1F937-200D-2642-FE0F",
+    "short_name": "man-shrugging"
+  },
+  {
+    "name": "SHRUG",
+    "unified": "1F937",
+    "short_name": "shrug"
+  },
+  {
+    "name": null,
+    "unified": "1F938-200D-2640-FE0F",
+    "short_name": "woman-cartwheeling"
+  },
+  {
+    "name": null,
+    "unified": "1F938-200D-2642-FE0F",
+    "short_name": "man-cartwheeling"
+  },
+  {
+    "name": "PERSON DOING CARTWHEEL",
+    "unified": "1F938",
+    "short_name": "person_doing_cartwheel"
+  },
+  {
+    "name": null,
+    "unified": "1F939-200D-2640-FE0F",
+    "short_name": "woman-juggling"
+  },
+  {
+    "name": null,
+    "unified": "1F939-200D-2642-FE0F",
+    "short_name": "man-juggling"
+  },
+  {
+    "name": "JUGGLING",
+    "unified": "1F939",
+    "short_name": "juggling"
+  },
+  {
+    "name": "FENCER",
+    "unified": "1F93A",
+    "short_name": "fencer"
+  },
+  {
+    "name": null,
+    "unified": "1F93C-200D-2640-FE0F",
+    "short_name": "woman-wrestling"
+  },
+  {
+    "name": null,
+    "unified": "1F93C-200D-2642-FE0F",
+    "short_name": "man-wrestling"
+  },
+  {
+    "name": "WRESTLERS",
+    "unified": "1F93C",
+    "short_name": "wrestlers"
+  },
+  {
+    "name": null,
+    "unified": "1F93D-200D-2640-FE0F",
+    "short_name": "woman-playing-water-polo"
+  },
+  {
+    "name": null,
+    "unified": "1F93D-200D-2642-FE0F",
+    "short_name": "man-playing-water-polo"
+  },
+  {
+    "name": "WATER POLO",
+    "unified": "1F93D",
+    "short_name": "water_polo"
+  },
+  {
+    "name": null,
+    "unified": "1F93E-200D-2640-FE0F",
+    "short_name": "woman-playing-handball"
+  },
+  {
+    "name": null,
+    "unified": "1F93E-200D-2642-FE0F",
+    "short_name": "man-playing-handball"
+  },
+  {
+    "name": "HANDBALL",
+    "unified": "1F93E",
+    "short_name": "handball"
+  },
+  {
+    "name": "WILTED FLOWER",
+    "unified": "1F940",
+    "short_name": "wilted_flower"
+  },
+  {
+    "name": "DRUM WITH DRUMSTICKS",
+    "unified": "1F941",
+    "short_name": "drum_with_drumsticks"
+  },
+  {
+    "name": "CLINKING GLASSES",
+    "unified": "1F942",
+    "short_name": "clinking_glasses"
+  },
+  {
+    "name": "TUMBLER GLASS",
+    "unified": "1F943",
+    "short_name": "tumbler_glass"
+  },
+  {
+    "name": "SPOON",
+    "unified": "1F944",
+    "short_name": "spoon"
+  },
+  {
+    "name": "GOAL NET",
+    "unified": "1F945",
+    "short_name": "goal_net"
+  },
+  {
+    "name": "FIRST PLACE MEDAL",
+    "unified": "1F947",
+    "short_name": "first_place_medal"
+  },
+  {
+    "name": "SECOND PLACE MEDAL",
+    "unified": "1F948",
+    "short_name": "second_place_medal"
+  },
+  {
+    "name": "THIRD PLACE MEDAL",
+    "unified": "1F949",
+    "short_name": "third_place_medal"
+  },
+  {
+    "name": "BOXING GLOVE",
+    "unified": "1F94A",
+    "short_name": "boxing_glove"
+  },
+  {
+    "name": "MARTIAL ARTS UNIFORM",
+    "unified": "1F94B",
+    "short_name": "martial_arts_uniform"
+  },
+  {
+    "name": "CURLING STONE",
+    "unified": "1F94C",
+    "short_name": "curling_stone"
+  },
+  {
+    "name": "CROISSANT",
+    "unified": "1F950",
+    "short_name": "croissant"
+  },
+  {
+    "name": "AVOCADO",
+    "unified": "1F951",
+    "short_name": "avocado"
+  },
+  {
+    "name": "CUCUMBER",
+    "unified": "1F952",
+    "short_name": "cucumber"
+  },
+  {
+    "name": "BACON",
+    "unified": "1F953",
+    "short_name": "bacon"
+  },
+  {
+    "name": "POTATO",
+    "unified": "1F954",
+    "short_name": "potato"
+  },
+  {
+    "name": "CARROT",
+    "unified": "1F955",
+    "short_name": "carrot"
+  },
+  {
+    "name": "BAGUETTE BREAD",
+    "unified": "1F956",
+    "short_name": "baguette_bread"
+  },
+  {
+    "name": "GREEN SALAD",
+    "unified": "1F957",
+    "short_name": "green_salad"
+  },
+  {
+    "name": "SHALLOW PAN OF FOOD",
+    "unified": "1F958",
+    "short_name": "shallow_pan_of_food"
+  },
+  {
+    "name": "STUFFED FLATBREAD",
+    "unified": "1F959",
+    "short_name": "stuffed_flatbread"
+  },
+  {
+    "name": "EGG",
+    "unified": "1F95A",
+    "short_name": "egg"
+  },
+  {
+    "name": "GLASS OF MILK",
+    "unified": "1F95B",
+    "short_name": "glass_of_milk"
+  },
+  {
+    "name": "PEANUTS",
+    "unified": "1F95C",
+    "short_name": "peanuts"
+  },
+  {
+    "name": "KIWIFRUIT",
+    "unified": "1F95D",
+    "short_name": "kiwifruit"
+  },
+  {
+    "name": "PANCAKES",
+    "unified": "1F95E",
+    "short_name": "pancakes"
+  },
+  {
+    "name": "DUMPLING",
+    "unified": "1F95F",
+    "short_name": "dumpling"
+  },
+  {
+    "name": "FORTUNE COOKIE",
+    "unified": "1F960",
+    "short_name": "fortune_cookie"
+  },
+  {
+    "name": "TAKEOUT BOX",
+    "unified": "1F961",
+    "short_name": "takeout_box"
+  },
+  {
+    "name": "CHOPSTICKS",
+    "unified": "1F962",
+    "short_name": "chopsticks"
+  },
+  {
+    "name": "BOWL WITH SPOON",
+    "unified": "1F963",
+    "short_name": "bowl_with_spoon"
+  },
+  {
+    "name": "CUP WITH STRAW",
+    "unified": "1F964",
+    "short_name": "cup_with_straw"
+  },
+  {
+    "name": "COCONUT",
+    "unified": "1F965",
+    "short_name": "coconut"
+  },
+  {
+    "name": "BROCCOLI",
+    "unified": "1F966",
+    "short_name": "broccoli"
+  },
+  {
+    "name": "PIE",
+    "unified": "1F967",
+    "short_name": "pie"
+  },
+  {
+    "name": "PRETZEL",
+    "unified": "1F968",
+    "short_name": "pretzel"
+  },
+  {
+    "name": "CUT OF MEAT",
+    "unified": "1F969",
+    "short_name": "cut_of_meat"
+  },
+  {
+    "name": "SANDWICH",
+    "unified": "1F96A",
+    "short_name": "sandwich"
+  },
+  {
+    "name": "CANNED FOOD",
+    "unified": "1F96B",
+    "short_name": "canned_food"
+  },
+  {
+    "name": "CRAB",
+    "unified": "1F980",
+    "short_name": "crab"
+  },
+  {
+    "name": "LION FACE",
+    "unified": "1F981",
+    "short_name": "lion_face"
+  },
+  {
+    "name": "SCORPION",
+    "unified": "1F982",
+    "short_name": "scorpion"
+  },
+  {
+    "name": "TURKEY",
+    "unified": "1F983",
+    "short_name": "turkey"
+  },
+  {
+    "name": "UNICORN FACE",
+    "unified": "1F984",
+    "short_name": "unicorn_face"
+  },
+  {
+    "name": "EAGLE",
+    "unified": "1F985",
+    "short_name": "eagle"
+  },
+  {
+    "name": "DUCK",
+    "unified": "1F986",
+    "short_name": "duck"
+  },
+  {
+    "name": "BAT",
+    "unified": "1F987",
+    "short_name": "bat"
+  },
+  {
+    "name": "SHARK",
+    "unified": "1F988",
+    "short_name": "shark"
+  },
+  {
+    "name": "OWL",
+    "unified": "1F989",
+    "short_name": "owl"
+  },
+  {
+    "name": "FOX FACE",
+    "unified": "1F98A",
+    "short_name": "fox_face"
+  },
+  {
+    "name": "BUTTERFLY",
+    "unified": "1F98B",
+    "short_name": "butterfly"
+  },
+  {
+    "name": "DEER",
+    "unified": "1F98C",
+    "short_name": "deer"
+  },
+  {
+    "name": "GORILLA",
+    "unified": "1F98D",
+    "short_name": "gorilla"
+  },
+  {
+    "name": "LIZARD",
+    "unified": "1F98E",
+    "short_name": "lizard"
+  },
+  {
+    "name": "RHINOCEROS",
+    "unified": "1F98F",
+    "short_name": "rhinoceros"
+  },
+  {
+    "name": "SHRIMP",
+    "unified": "1F990",
+    "short_name": "shrimp"
+  },
+  {
+    "name": "SQUID",
+    "unified": "1F991",
+    "short_name": "squid"
+  },
+  {
+    "name": "GIRAFFE FACE",
+    "unified": "1F992",
+    "short_name": "giraffe_face"
+  },
+  {
+    "name": "ZEBRA FACE",
+    "unified": "1F993",
+    "short_name": "zebra_face"
+  },
+  {
+    "name": "HEDGEHOG",
+    "unified": "1F994",
+    "short_name": "hedgehog"
+  },
+  {
+    "name": "SAUROPOD",
+    "unified": "1F995",
+    "short_name": "sauropod"
+  },
+  {
+    "name": "T-REX",
+    "unified": "1F996",
+    "short_name": "t-rex"
+  },
+  {
+    "name": "CRICKET",
+    "unified": "1F997",
+    "short_name": "cricket"
+  },
+  {
+    "name": "CHEESE WEDGE",
+    "unified": "1F9C0",
+    "short_name": "cheese_wedge"
+  },
+  {
+    "name": "FACE WITH MONOCLE",
+    "unified": "1F9D0",
+    "short_name": "face_with_monocle"
+  },
+  {
+    "name": "ADULT",
+    "unified": "1F9D1",
+    "short_name": "adult"
+  },
+  {
+    "name": "CHILD",
+    "unified": "1F9D2",
+    "short_name": "child"
+  },
+  {
+    "name": "OLDER ADULT",
+    "unified": "1F9D3",
+    "short_name": "older_adult"
+  },
+  {
+    "name": "BEARDED PERSON",
+    "unified": "1F9D4",
+    "short_name": "bearded_person"
+  },
+  {
+    "name": "PERSON WITH HEADSCARF",
+    "unified": "1F9D5",
+    "short_name": "person_with_headscarf"
+  },
+  {
+    "name": null,
+    "unified": "1F9D6-200D-2640-FE0F",
+    "short_name": "woman_in_steamy_room"
+  },
+  {
+    "name": null,
+    "unified": "1F9D6-200D-2642-FE0F",
+    "short_name": "man_in_steamy_room"
+  },
+  {
+    "name": "PERSON IN STEAMY ROOM",
+    "unified": "1F9D6",
+    "short_name": "person_in_steamy_room"
+  },
+  {
+    "name": null,
+    "unified": "1F9D7-200D-2640-FE0F",
+    "short_name": "woman_climbing"
+  },
+  {
+    "name": null,
+    "unified": "1F9D7-200D-2642-FE0F",
+    "short_name": "man_climbing"
+  },
+  {
+    "name": "PERSON CLIMBING",
+    "unified": "1F9D7",
+    "short_name": "person_climbing"
+  },
+  {
+    "name": null,
+    "unified": "1F9D8-200D-2640-FE0F",
+    "short_name": "woman_in_lotus_position"
+  },
+  {
+    "name": null,
+    "unified": "1F9D8-200D-2642-FE0F",
+    "short_name": "man_in_lotus_position"
+  },
+  {
+    "name": "PERSON IN LOTUS POSITION",
+    "unified": "1F9D8",
+    "short_name": "person_in_lotus_position"
+  },
+  {
+    "name": null,
+    "unified": "1F9D9-200D-2640-FE0F",
+    "short_name": "female_mage"
+  },
+  {
+    "name": null,
+    "unified": "1F9D9-200D-2642-FE0F",
+    "short_name": "male_mage"
+  },
+  {
+    "name": "MAGE",
+    "unified": "1F9D9",
+    "short_name": "mage"
+  },
+  {
+    "name": null,
+    "unified": "1F9DA-200D-2640-FE0F",
+    "short_name": "female_fairy"
+  },
+  {
+    "name": null,
+    "unified": "1F9DA-200D-2642-FE0F",
+    "short_name": "male_fairy"
+  },
+  {
+    "name": "FAIRY",
+    "unified": "1F9DA",
+    "short_name": "fairy"
+  },
+  {
+    "name": null,
+    "unified": "1F9DB-200D-2640-FE0F",
+    "short_name": "female_vampire"
+  },
+  {
+    "name": null,
+    "unified": "1F9DB-200D-2642-FE0F",
+    "short_name": "male_vampire"
+  },
+  {
+    "name": "VAMPIRE",
+    "unified": "1F9DB",
+    "short_name": "vampire"
+  },
+  {
+    "name": null,
+    "unified": "1F9DC-200D-2640-FE0F",
+    "short_name": "mermaid"
+  },
+  {
+    "name": null,
+    "unified": "1F9DC-200D-2642-FE0F",
+    "short_name": "merman"
+  },
+  {
+    "name": "MERPERSON",
+    "unified": "1F9DC",
+    "short_name": "merperson"
+  },
+  {
+    "name": null,
+    "unified": "1F9DD-200D-2640-FE0F",
+    "short_name": "female_elf"
+  },
+  {
+    "name": null,
+    "unified": "1F9DD-200D-2642-FE0F",
+    "short_name": "male_elf"
+  },
+  {
+    "name": "ELF",
+    "unified": "1F9DD",
+    "short_name": "elf"
+  },
+  {
+    "name": null,
+    "unified": "1F9DE-200D-2640-FE0F",
+    "short_name": "female_genie"
+  },
+  {
+    "name": null,
+    "unified": "1F9DE-200D-2642-FE0F",
+    "short_name": "male_genie"
+  },
+  {
+    "name": "GENIE",
+    "unified": "1F9DE",
+    "short_name": "genie"
+  },
+  {
+    "name": null,
+    "unified": "1F9DF-200D-2640-FE0F",
+    "short_name": "female_zombie"
+  },
+  {
+    "name": null,
+    "unified": "1F9DF-200D-2642-FE0F",
+    "short_name": "male_zombie"
+  },
+  {
+    "name": "ZOMBIE",
+    "unified": "1F9DF",
+    "short_name": "zombie"
+  },
+  {
+    "name": "BRAIN",
+    "unified": "1F9E0",
+    "short_name": "brain"
+  },
+  {
+    "name": "ORANGE HEART",
+    "unified": "1F9E1",
+    "short_name": "orange_heart"
+  },
+  {
+    "name": "BILLED CAP",
+    "unified": "1F9E2",
+    "short_name": "billed_cap"
+  },
+  {
+    "name": "SCARF",
+    "unified": "1F9E3",
+    "short_name": "scarf"
+  },
+  {
+    "name": "GLOVES",
+    "unified": "1F9E4",
+    "short_name": "gloves"
+  },
+  {
+    "name": "COAT",
+    "unified": "1F9E5",
+    "short_name": "coat"
+  },
+  {
+    "name": "SOCKS",
+    "unified": "1F9E6",
+    "short_name": "socks"
+  },
+  {
+    "name": "DOUBLE EXCLAMATION MARK",
+    "unified": "203C-FE0F",
+    "short_name": "bangbang"
+  },
+  {
+    "name": "EXCLAMATION QUESTION MARK",
+    "unified": "2049-FE0F",
+    "short_name": "interrobang"
+  },
+  {
+    "name": "TRADE MARK SIGN",
+    "unified": "2122-FE0F",
+    "short_name": "tm"
+  },
+  {
+    "name": "INFORMATION SOURCE",
+    "unified": "2139-FE0F",
+    "short_name": "information_source"
+  },
+  {
+    "name": "LEFT RIGHT ARROW",
+    "unified": "2194-FE0F",
+    "short_name": "left_right_arrow"
+  },
+  {
+    "name": "UP DOWN ARROW",
+    "unified": "2195-FE0F",
+    "short_name": "arrow_up_down"
+  },
+  {
+    "name": "NORTH WEST ARROW",
+    "unified": "2196-FE0F",
+    "short_name": "arrow_upper_left"
+  },
+  {
+    "name": "NORTH EAST ARROW",
+    "unified": "2197-FE0F",
+    "short_name": "arrow_upper_right"
+  },
+  {
+    "name": "SOUTH EAST ARROW",
+    "unified": "2198-FE0F",
+    "short_name": "arrow_lower_right"
+  },
+  {
+    "name": "SOUTH WEST ARROW",
+    "unified": "2199-FE0F",
+    "short_name": "arrow_lower_left"
+  },
+  {
+    "name": "LEFTWARDS ARROW WITH HOOK",
+    "unified": "21A9-FE0F",
+    "short_name": "leftwards_arrow_with_hook"
+  },
+  {
+    "name": "RIGHTWARDS ARROW WITH HOOK",
+    "unified": "21AA-FE0F",
+    "short_name": "arrow_right_hook"
+  },
+  {
+    "name": "WATCH",
+    "unified": "231A",
+    "short_name": "watch"
+  },
+  {
+    "name": "HOURGLASS",
+    "unified": "231B",
+    "short_name": "hourglass"
+  },
+  {
+    "name": null,
+    "unified": "2328-FE0F",
+    "short_name": "keyboard"
+  },
+  {
+    "name": null,
+    "unified": "23CF-FE0F",
+    "short_name": "eject"
+  },
+  {
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+    "unified": "23E9",
+    "short_name": "fast_forward"
+  },
+  {
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+    "unified": "23EA",
+    "short_name": "rewind"
+  },
+  {
+    "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
+    "unified": "23EB",
+    "short_name": "arrow_double_up"
+  },
+  {
+    "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+    "unified": "23EC",
+    "short_name": "arrow_double_down"
+  },
+  {
+    "name": null,
+    "unified": "23ED-FE0F",
+    "short_name": "black_right_pointing_double_triangle_with_vertical_bar"
+  },
+  {
+    "name": null,
+    "unified": "23EE-FE0F",
+    "short_name": "black_left_pointing_double_triangle_with_vertical_bar"
+  },
+  {
+    "name": null,
+    "unified": "23EF-FE0F",
+    "short_name": "black_right_pointing_triangle_with_double_vertical_bar"
+  },
+  {
+    "name": "ALARM CLOCK",
+    "unified": "23F0",
+    "short_name": "alarm_clock"
+  },
+  {
+    "name": null,
+    "unified": "23F1-FE0F",
+    "short_name": "stopwatch"
+  },
+  {
+    "name": null,
+    "unified": "23F2-FE0F",
+    "short_name": "timer_clock"
+  },
+  {
+    "name": "HOURGLASS WITH FLOWING SAND",
+    "unified": "23F3",
+    "short_name": "hourglass_flowing_sand"
+  },
+  {
+    "name": null,
+    "unified": "23F8-FE0F",
+    "short_name": "double_vertical_bar"
+  },
+  {
+    "name": null,
+    "unified": "23F9-FE0F",
+    "short_name": "black_square_for_stop"
+  },
+  {
+    "name": null,
+    "unified": "23FA-FE0F",
+    "short_name": "black_circle_for_record"
+  },
+  {
+    "name": "CIRCLED LATIN CAPITAL LETTER M",
+    "unified": "24C2-FE0F",
+    "short_name": "m"
+  },
+  {
+    "name": "BLACK SMALL SQUARE",
+    "unified": "25AA-FE0F",
+    "short_name": "black_small_square"
+  },
+  {
+    "name": "WHITE SMALL SQUARE",
+    "unified": "25AB-FE0F",
+    "short_name": "white_small_square"
+  },
+  {
+    "name": "BLACK RIGHT-POINTING TRIANGLE",
+    "unified": "25B6-FE0F",
+    "short_name": "arrow_forward"
+  },
+  {
+    "name": "BLACK LEFT-POINTING TRIANGLE",
+    "unified": "25C0-FE0F",
+    "short_name": "arrow_backward"
+  },
+  {
+    "name": "WHITE MEDIUM SQUARE",
+    "unified": "25FB-FE0F",
+    "short_name": "white_medium_square"
+  },
+  {
+    "name": "BLACK MEDIUM SQUARE",
+    "unified": "25FC-FE0F",
+    "short_name": "black_medium_square"
+  },
+  {
+    "name": "WHITE MEDIUM SMALL SQUARE",
+    "unified": "25FD",
+    "short_name": "white_medium_small_square"
+  },
+  {
+    "name": "BLACK MEDIUM SMALL SQUARE",
+    "unified": "25FE",
+    "short_name": "black_medium_small_square"
+  },
+  {
+    "name": "BLACK SUN WITH RAYS",
+    "unified": "2600-FE0F",
+    "short_name": "sunny"
+  },
+  {
+    "name": "CLOUD",
+    "unified": "2601-FE0F",
+    "short_name": "cloud"
+  },
+  {
+    "name": null,
+    "unified": "2602-FE0F",
+    "short_name": "umbrella"
+  },
+  {
+    "name": null,
+    "unified": "2603-FE0F",
+    "short_name": "snowman"
+  },
+  {
+    "name": null,
+    "unified": "2604-FE0F",
+    "short_name": "comet"
+  },
+  {
+    "name": "BLACK TELEPHONE",
+    "unified": "260E-FE0F",
+    "short_name": "phone"
+  },
+  {
+    "name": "BALLOT BOX WITH CHECK",
+    "unified": "2611-FE0F",
+    "short_name": "ballot_box_with_check"
+  },
+  {
+    "name": "UMBRELLA WITH RAIN DROPS",
+    "unified": "2614",
+    "short_name": "umbrella_with_rain_drops"
+  },
+  {
+    "name": "HOT BEVERAGE",
+    "unified": "2615",
+    "short_name": "coffee"
+  },
+  {
+    "name": null,
+    "unified": "2618-FE0F",
+    "short_name": "shamrock"
+  },
+  {
+    "name": "WHITE UP POINTING INDEX",
+    "unified": "261D-FE0F",
+    "short_name": "point_up"
+  },
+  {
+    "name": null,
+    "unified": "2620-FE0F",
+    "short_name": "skull_and_crossbones"
+  },
+  {
+    "name": null,
+    "unified": "2622-FE0F",
+    "short_name": "radioactive_sign"
+  },
+  {
+    "name": null,
+    "unified": "2623-FE0F",
+    "short_name": "biohazard_sign"
+  },
+  {
+    "name": null,
+    "unified": "2626-FE0F",
+    "short_name": "orthodox_cross"
+  },
+  {
+    "name": null,
+    "unified": "262A-FE0F",
+    "short_name": "star_and_crescent"
+  },
+  {
+    "name": null,
+    "unified": "262E-FE0F",
+    "short_name": "peace_symbol"
+  },
+  {
+    "name": null,
+    "unified": "262F-FE0F",
+    "short_name": "yin_yang"
+  },
+  {
+    "name": null,
+    "unified": "2638-FE0F",
+    "short_name": "wheel_of_dharma"
+  },
+  {
+    "name": null,
+    "unified": "2639-FE0F",
+    "short_name": "white_frowning_face"
+  },
+  {
+    "name": "WHITE SMILING FACE",
+    "unified": "263A-FE0F",
+    "short_name": "relaxed"
+  },
+  {
+    "name": null,
+    "unified": "2640-FE0F",
+    "short_name": "female_sign"
+  },
+  {
+    "name": null,
+    "unified": "2642-FE0F",
+    "short_name": "male_sign"
+  },
+  {
+    "name": "ARIES",
+    "unified": "2648",
+    "short_name": "aries"
+  },
+  {
+    "name": "TAURUS",
+    "unified": "2649",
+    "short_name": "taurus"
+  },
+  {
+    "name": "GEMINI",
+    "unified": "264A",
+    "short_name": "gemini"
+  },
+  {
+    "name": "CANCER",
+    "unified": "264B",
+    "short_name": "cancer"
+  },
+  {
+    "name": "LEO",
+    "unified": "264C",
+    "short_name": "leo"
+  },
+  {
+    "name": "VIRGO",
+    "unified": "264D",
+    "short_name": "virgo"
+  },
+  {
+    "name": "LIBRA",
+    "unified": "264E",
+    "short_name": "libra"
+  },
+  {
+    "name": "SCORPIUS",
+    "unified": "264F",
+    "short_name": "scorpius"
+  },
+  {
+    "name": "SAGITTARIUS",
+    "unified": "2650",
+    "short_name": "sagittarius"
+  },
+  {
+    "name": "CAPRICORN",
+    "unified": "2651",
+    "short_name": "capricorn"
+  },
+  {
+    "name": "AQUARIUS",
+    "unified": "2652",
+    "short_name": "aquarius"
+  },
+  {
+    "name": "PISCES",
+    "unified": "2653",
+    "short_name": "pisces"
+  },
+  {
+    "name": "BLACK SPADE SUIT",
+    "unified": "2660-FE0F",
+    "short_name": "spades"
+  },
+  {
+    "name": "BLACK CLUB SUIT",
+    "unified": "2663-FE0F",
+    "short_name": "clubs"
+  },
+  {
+    "name": "BLACK HEART SUIT",
+    "unified": "2665-FE0F",
+    "short_name": "hearts"
+  },
+  {
+    "name": "BLACK DIAMOND SUIT",
+    "unified": "2666-FE0F",
+    "short_name": "diamonds"
+  },
+  {
+    "name": "HOT SPRINGS",
+    "unified": "2668-FE0F",
+    "short_name": "hotsprings"
+  },
+  {
+    "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
+    "unified": "267B-FE0F",
+    "short_name": "recycle"
+  },
+  {
+    "name": "WHEELCHAIR SYMBOL",
+    "unified": "267F",
+    "short_name": "wheelchair"
+  },
+  {
+    "name": null,
+    "unified": "2692-FE0F",
+    "short_name": "hammer_and_pick"
+  },
+  {
+    "name": "ANCHOR",
+    "unified": "2693",
+    "short_name": "anchor"
+  },
+  {
+    "name": null,
+    "unified": "2694-FE0F",
+    "short_name": "crossed_swords"
+  },
+  {
+    "name": null,
+    "unified": "2695-FE0F",
+    "short_name": "staff_of_aesculapius"
+  },
+  {
+    "name": null,
+    "unified": "2696-FE0F",
+    "short_name": "scales"
+  },
+  {
+    "name": null,
+    "unified": "2697-FE0F",
+    "short_name": "alembic"
+  },
+  {
+    "name": null,
+    "unified": "2699-FE0F",
+    "short_name": "gear"
+  },
+  {
+    "name": null,
+    "unified": "269B-FE0F",
+    "short_name": "atom_symbol"
+  },
+  {
+    "name": null,
+    "unified": "269C-FE0F",
+    "short_name": "fleur_de_lis"
+  },
+  {
+    "name": "WARNING SIGN",
+    "unified": "26A0-FE0F",
+    "short_name": "warning"
+  },
+  {
+    "name": "HIGH VOLTAGE SIGN",
+    "unified": "26A1",
+    "short_name": "zap"
+  },
+  {
+    "name": "MEDIUM WHITE CIRCLE",
+    "unified": "26AA",
+    "short_name": "white_circle"
+  },
+  {
+    "name": "MEDIUM BLACK CIRCLE",
+    "unified": "26AB",
+    "short_name": "black_circle"
+  },
+  {
+    "name": null,
+    "unified": "26B0-FE0F",
+    "short_name": "coffin"
+  },
+  {
+    "name": null,
+    "unified": "26B1-FE0F",
+    "short_name": "funeral_urn"
+  },
+  {
+    "name": "SOCCER BALL",
+    "unified": "26BD",
+    "short_name": "soccer"
+  },
+  {
+    "name": "BASEBALL",
+    "unified": "26BE",
+    "short_name": "baseball"
+  },
+  {
+    "name": "SNOWMAN WITHOUT SNOW",
+    "unified": "26C4",
+    "short_name": "snowman_without_snow"
+  },
+  {
+    "name": "SUN BEHIND CLOUD",
+    "unified": "26C5",
+    "short_name": "partly_sunny"
+  },
+  {
+    "name": null,
+    "unified": "26C8-FE0F",
+    "short_name": "thunder_cloud_and_rain"
+  },
+  {
+    "name": "OPHIUCHUS",
+    "unified": "26CE",
+    "short_name": "ophiuchus"
+  },
+  {
+    "name": null,
+    "unified": "26CF-FE0F",
+    "short_name": "pick"
+  },
+  {
+    "name": null,
+    "unified": "26D1-FE0F",
+    "short_name": "helmet_with_white_cross"
+  },
+  {
+    "name": null,
+    "unified": "26D3-FE0F",
+    "short_name": "chains"
+  },
+  {
+    "name": "NO ENTRY",
+    "unified": "26D4",
+    "short_name": "no_entry"
+  },
+  {
+    "name": null,
+    "unified": "26E9-FE0F",
+    "short_name": "shinto_shrine"
+  },
+  {
+    "name": "CHURCH",
+    "unified": "26EA",
+    "short_name": "church"
+  },
+  {
+    "name": null,
+    "unified": "26F0-FE0F",
+    "short_name": "mountain"
+  },
+  {
+    "name": null,
+    "unified": "26F1-FE0F",
+    "short_name": "umbrella_on_ground"
+  },
+  {
+    "name": "FOUNTAIN",
+    "unified": "26F2",
+    "short_name": "fountain"
+  },
+  {
+    "name": "FLAG IN HOLE",
+    "unified": "26F3",
+    "short_name": "golf"
+  },
+  {
+    "name": null,
+    "unified": "26F4-FE0F",
+    "short_name": "ferry"
+  },
+  {
+    "name": "SAILBOAT",
+    "unified": "26F5",
+    "short_name": "boat"
+  },
+  {
+    "name": null,
+    "unified": "26F7-FE0F",
+    "short_name": "skier"
+  },
+  {
+    "name": null,
+    "unified": "26F8-FE0F",
+    "short_name": "ice_skate"
+  },
+  {
+    "name": null,
+    "unified": "26F9-FE0F-200D-2640-FE0F",
+    "short_name": "woman-bouncing-ball"
+  },
+  {
+    "name": null,
+    "unified": "26F9-FE0F-200D-2642-FE0F",
+    "short_name": "man-bouncing-ball"
+  },
+  {
+    "name": null,
+    "unified": "26F9-FE0F",
+    "short_name": "person_with_ball"
+  },
+  {
+    "name": "TENT",
+    "unified": "26FA",
+    "short_name": "tent"
+  },
+  {
+    "name": "FUEL PUMP",
+    "unified": "26FD",
+    "short_name": "fuelpump"
+  },
+  {
+    "name": "BLACK SCISSORS",
+    "unified": "2702-FE0F",
+    "short_name": "scissors"
+  },
+  {
+    "name": "WHITE HEAVY CHECK MARK",
+    "unified": "2705",
+    "short_name": "white_check_mark"
+  },
+  {
+    "name": "AIRPLANE",
+    "unified": "2708-FE0F",
+    "short_name": "airplane"
+  },
+  {
+    "name": "ENVELOPE",
+    "unified": "2709-FE0F",
+    "short_name": "email"
+  },
+  {
+    "name": "RAISED FIST",
+    "unified": "270A",
+    "short_name": "fist"
+  },
+  {
+    "name": "RAISED HAND",
+    "unified": "270B",
+    "short_name": "hand"
+  },
+  {
+    "name": "VICTORY HAND",
+    "unified": "270C-FE0F",
+    "short_name": "v"
+  },
+  {
+    "name": null,
+    "unified": "270D-FE0F",
+    "short_name": "writing_hand"
+  },
+  {
+    "name": "PENCIL",
+    "unified": "270F-FE0F",
+    "short_name": "pencil2"
+  },
+  {
+    "name": "BLACK NIB",
+    "unified": "2712-FE0F",
+    "short_name": "black_nib"
+  },
+  {
+    "name": "HEAVY CHECK MARK",
+    "unified": "2714-FE0F",
+    "short_name": "heavy_check_mark"
+  },
+  {
+    "name": "HEAVY MULTIPLICATION X",
+    "unified": "2716-FE0F",
+    "short_name": "heavy_multiplication_x"
+  },
+  {
+    "name": null,
+    "unified": "271D-FE0F",
+    "short_name": "latin_cross"
+  },
+  {
+    "name": null,
+    "unified": "2721-FE0F",
+    "short_name": "star_of_david"
+  },
+  {
+    "name": "SPARKLES",
+    "unified": "2728",
+    "short_name": "sparkles"
+  },
+  {
+    "name": "EIGHT SPOKED ASTERISK",
+    "unified": "2733-FE0F",
+    "short_name": "eight_spoked_asterisk"
+  },
+  {
+    "name": "EIGHT POINTED BLACK STAR",
+    "unified": "2734-FE0F",
+    "short_name": "eight_pointed_black_star"
+  },
+  {
+    "name": "SNOWFLAKE",
+    "unified": "2744-FE0F",
+    "short_name": "snowflake"
+  },
+  {
+    "name": "SPARKLE",
+    "unified": "2747-FE0F",
+    "short_name": "sparkle"
+  },
+  {
+    "name": "CROSS MARK",
+    "unified": "274C",
+    "short_name": "x"
+  },
+  {
+    "name": "NEGATIVE SQUARED CROSS MARK",
+    "unified": "274E",
+    "short_name": "negative_squared_cross_mark"
+  },
+  {
+    "name": "BLACK QUESTION MARK ORNAMENT",
+    "unified": "2753",
+    "short_name": "question"
+  },
+  {
+    "name": "WHITE QUESTION MARK ORNAMENT",
+    "unified": "2754",
+    "short_name": "grey_question"
+  },
+  {
+    "name": "WHITE EXCLAMATION MARK ORNAMENT",
+    "unified": "2755",
+    "short_name": "grey_exclamation"
+  },
+  {
+    "name": "HEAVY EXCLAMATION MARK SYMBOL",
+    "unified": "2757",
+    "short_name": "exclamation"
+  },
+  {
+    "name": null,
+    "unified": "2763-FE0F",
+    "short_name": "heavy_heart_exclamation_mark_ornament"
+  },
+  {
+    "name": "HEAVY BLACK HEART",
+    "unified": "2764-FE0F",
+    "short_name": "heart"
+  },
+  {
+    "name": "HEAVY PLUS SIGN",
+    "unified": "2795",
+    "short_name": "heavy_plus_sign"
+  },
+  {
+    "name": "HEAVY MINUS SIGN",
+    "unified": "2796",
+    "short_name": "heavy_minus_sign"
+  },
+  {
+    "name": "HEAVY DIVISION SIGN",
+    "unified": "2797",
+    "short_name": "heavy_division_sign"
+  },
+  {
+    "name": "BLACK RIGHTWARDS ARROW",
+    "unified": "27A1-FE0F",
+    "short_name": "arrow_right"
+  },
+  {
+    "name": "CURLY LOOP",
+    "unified": "27B0",
+    "short_name": "curly_loop"
+  },
+  {
+    "name": "DOUBLE CURLY LOOP",
+    "unified": "27BF",
+    "short_name": "loop"
+  },
+  {
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
+    "unified": "2934-FE0F",
+    "short_name": "arrow_heading_up"
+  },
+  {
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
+    "unified": "2935-FE0F",
+    "short_name": "arrow_heading_down"
+  },
+  {
+    "name": "LEFTWARDS BLACK ARROW",
+    "unified": "2B05-FE0F",
+    "short_name": "arrow_left"
+  },
+  {
+    "name": "UPWARDS BLACK ARROW",
+    "unified": "2B06-FE0F",
+    "short_name": "arrow_up"
+  },
+  {
+    "name": "DOWNWARDS BLACK ARROW",
+    "unified": "2B07-FE0F",
+    "short_name": "arrow_down"
+  },
+  {
+    "name": "BLACK LARGE SQUARE",
+    "unified": "2B1B",
+    "short_name": "black_large_square"
+  },
+  {
+    "name": "WHITE LARGE SQUARE",
+    "unified": "2B1C",
+    "short_name": "white_large_square"
+  },
+  {
+    "name": "WHITE MEDIUM STAR",
+    "unified": "2B50",
+    "short_name": "star"
+  },
+  {
+    "name": "HEAVY LARGE CIRCLE",
+    "unified": "2B55",
+    "short_name": "o"
+  },
+  {
+    "name": "WAVY DASH",
+    "unified": "3030-FE0F",
+    "short_name": "wavy_dash"
+  },
+  {
+    "name": "PART ALTERNATION MARK",
+    "unified": "303D-FE0F",
+    "short_name": "part_alternation_mark"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH CONGRATULATION",
+    "unified": "3297-FE0F",
+    "short_name": "congratulations"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH SECRET",
+    "unified": "3299-FE0F",
+    "short_name": "secret"
+  }
+]
