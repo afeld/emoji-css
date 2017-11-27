@@ -12,9 +12,7 @@
   vertical-align: middle;
 }
 
-{% comment %} This needs to match index.html. {% endcomment %}
-{% assign emoji = site.data.emoji %}
-{% for emo in emoji %}
+{% for emo in site.data.emoji %}
   .em-{{ emo.name }} {
     background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.file }}.png');
   }

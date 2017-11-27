@@ -28,9 +28,7 @@
 &lt;i class="em em-some-emoji"&gt;&lt;/i&gt;</code></pre>
     </p>
     <ul class="emojis">
-      {% comment %} This needs to match emoji.scss. {% endcomment %}
-      {% assign emoji = site.data.emoji %}
-      {% for emo in emoji %}
+      {% for emo in site.data.emoji %}
         <li class="emoji" data-clipboard-text="{{ emo.name }}">
           <i class="em em-{{ emo.name }}"></i> em-<span class="name">{{ emo.name }}</span>
         </li>
