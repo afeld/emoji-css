@@ -79,6 +79,10 @@ pre > code {
     top: 0; }
 }
 
+.supports-clipboard .emoji:hover {
+  cursor: pointer;
+}
+
 .jnotify-container {
   position: fixed;
   top: 1em;
