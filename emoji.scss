@@ -13,11 +13,9 @@
 }
 
 {% comment %} This needs to match index.html. {% endcomment %}
-{% assign emoji = site.data.emoji | sort: 'short_name' %}
+{% assign emoji = site.data.emoji %}
 {% for emo in emoji %}
-  {% assign name = emo.short_name | replace:'+','--' %}
-  {% assign filename = emo.unified | split: '-' | first | downcase %}
-  .em-{{ name }} {
-    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ filename }}.png');
+  .em-{{ emo.name }} {
+    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.file }}.png');
   }
 {% endfor %}

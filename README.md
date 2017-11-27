@@ -20,11 +20,10 @@ open http://localhost:4000
 
 ### Updating emoji data
 
-Requires [jq](https://stedolan.github.io/jq/). Pulls from [emoji-data](https://github.com/iamcal/emoji-data).
+Pulls from [emoji-data](https://github.com/iamcal/emoji-data).
 
-<!-- https://stackoverflow.com/a/46293052/358804 -->
 ```sh
-curl -L -s https://github.com/iamcal/emoji-data/raw/master/emoji.json | jq -r '[.[] | select(.has_img_twitter == true) | with_entries(select([.key] | inside(["short_name", "unified"])))]' > _data/emoji.json
+ruby update.rb
 ```
 
 ## See Also
