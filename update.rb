@@ -13,6 +13,9 @@ emoji.map! do |e|
   # can't have plus signs in CSS selectors
   name.gsub!('+', '--')
 
+  alt_names = e['short_names']
+  alt_names.delete(name)
+
   file = e['unified'].downcase.split('-').first
   # https://github.com/iamcal/emoji-data/blob/f9f01088a660cfd17bd20aec78daeebb96621aa2/build/twitter/grab.php#L28
   if file.start_with? '00'
@@ -21,6 +24,7 @@ emoji.map! do |e|
 
   {
     name: name,
+    alt_names: alt_names,
     file: file
   }
 end

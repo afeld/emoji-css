@@ -1,6262 +1,10960 @@
 [
   {
     "name": "--1",
+    "alt_names": [
+      "+1",
+      "thumbsup"
+    ],
     "file": "1f44d"
   },
   {
     "name": "-1",
+    "alt_names": [
+      "thumbsdown"
+    ],
     "file": "1f44e"
   },
   {
     "name": "100",
+    "alt_names": [
+
+    ],
     "file": "1f4af"
   },
   {
     "name": "1234",
+    "alt_names": [
+
+    ],
     "file": "1f522"
   },
   {
     "name": "8ball",
+    "alt_names": [
+
+    ],
     "file": "1f3b1"
   },
   {
     "name": "a",
+    "alt_names": [
+
+    ],
     "file": "1f170"
   },
   {
     "name": "ab",
+    "alt_names": [
+
+    ],
     "file": "1f18e"
   },
   {
     "name": "abc",
+    "alt_names": [
+
+    ],
     "file": "1f524"
   },
   {
     "name": "abcd",
+    "alt_names": [
+
+    ],
     "file": "1f521"
   },
   {
     "name": "accept",
+    "alt_names": [
+
+    ],
     "file": "1f251"
   },
   {
     "name": "admission_tickets",
+    "alt_names": [
+
+    ],
     "file": "1f39f"
   },
   {
     "name": "adult",
+    "alt_names": [
+
+    ],
     "file": "1f9d1"
   },
   {
     "name": "aerial_tramway",
+    "alt_names": [
+
+    ],
     "file": "1f6a1"
   },
   {
     "name": "airplane",
+    "alt_names": [
+
+    ],
     "file": "2708"
   },
   {
     "name": "airplane_arriving",
+    "alt_names": [
+
+    ],
     "file": "1f6ec"
   },
   {
     "name": "airplane_departure",
+    "alt_names": [
+
+    ],
     "file": "1f6eb"
   },
   {
     "name": "alarm_clock",
+    "alt_names": [
+
+    ],
     "file": "23f0"
   },
   {
     "name": "alembic",
+    "alt_names": [
+
+    ],
     "file": "2697"
   },
   {
     "name": "alien",
+    "alt_names": [
+
+    ],
     "file": "1f47d"
   },
   {
     "name": "ambulance",
+    "alt_names": [
+
+    ],
     "file": "1f691"
   },
   {
     "name": "amphora",
+    "alt_names": [
+
+    ],
     "file": "1f3fa"
   },
   {
     "name": "anchor",
+    "alt_names": [
+
+    ],
     "file": "2693"
   },
   {
     "name": "angel",
+    "alt_names": [
+
+    ],
     "file": "1f47c"
   },
   {
     "name": "anger",
+    "alt_names": [
+
+    ],
     "file": "1f4a2"
   },
   {
     "name": "angry",
+    "alt_names": [
+
+    ],
     "file": "1f620"
   },
   {
     "name": "anguished",
+    "alt_names": [
+
+    ],
     "file": "1f627"
   },
   {
     "name": "ant",
+    "alt_names": [
+
+    ],
     "file": "1f41c"
   },
   {
     "name": "apple",
+    "alt_names": [
+
+    ],
     "file": "1f34e"
   },
   {
     "name": "aquarius",
+    "alt_names": [
+
+    ],
     "file": "2652"
   },
   {
     "name": "aries",
+    "alt_names": [
+
+    ],
     "file": "2648"
   },
   {
     "name": "arrow_backward",
+    "alt_names": [
+
+    ],
     "file": "25c0"
   },
   {
     "name": "arrow_double_down",
+    "alt_names": [
+
+    ],
     "file": "23ec"
   },
   {
     "name": "arrow_double_up",
+    "alt_names": [
+
+    ],
     "file": "23eb"
   },
   {
     "name": "arrow_down",
+    "alt_names": [
+
+    ],
     "file": "2b07"
   },
   {
     "name": "arrow_down_small",
+    "alt_names": [
+
+    ],
     "file": "1f53d"
   },
   {
     "name": "arrow_forward",
+    "alt_names": [
+
+    ],
     "file": "25b6"
   },
   {
     "name": "arrow_heading_down",
+    "alt_names": [
+
+    ],
     "file": "2935"
   },
   {
     "name": "arrow_heading_up",
+    "alt_names": [
+
+    ],
     "file": "2934"
   },
   {
     "name": "arrow_left",
+    "alt_names": [
+
+    ],
     "file": "2b05"
   },
   {
     "name": "arrow_lower_left",
+    "alt_names": [
+
+    ],
     "file": "2199"
   },
   {
     "name": "arrow_lower_right",
+    "alt_names": [
+
+    ],
     "file": "2198"
   },
   {
     "name": "arrow_right",
+    "alt_names": [
+
+    ],
     "file": "27a1"
   },
   {
     "name": "arrow_right_hook",
+    "alt_names": [
+
+    ],
     "file": "21aa"
   },
   {
     "name": "arrow_up",
+    "alt_names": [
+
+    ],
     "file": "2b06"
   },
   {
     "name": "arrow_up_down",
+    "alt_names": [
+
+    ],
     "file": "2195"
   },
   {
     "name": "arrow_up_small",
+    "alt_names": [
+
+    ],
     "file": "1f53c"
   },
   {
     "name": "arrow_upper_left",
+    "alt_names": [
+
+    ],
     "file": "2196"
   },
   {
     "name": "arrow_upper_right",
+    "alt_names": [
+
+    ],
     "file": "2197"
   },
   {
     "name": "arrows_clockwise",
+    "alt_names": [
+
+    ],
     "file": "1f503"
   },
   {
     "name": "arrows_counterclockwise",
+    "alt_names": [
+
+    ],
     "file": "1f504"
   },
   {
     "name": "art",
+    "alt_names": [
+
+    ],
     "file": "1f3a8"
   },
   {
     "name": "articulated_lorry",
+    "alt_names": [
+
+    ],
     "file": "1f69b"
   },
   {
     "name": "astonished",
+    "alt_names": [
+
+    ],
     "file": "1f632"
   },
   {
     "name": "athletic_shoe",
+    "alt_names": [
+
+    ],
     "file": "1f45f"
   },
   {
     "name": "atm",
+    "alt_names": [
+
+    ],
     "file": "1f3e7"
   },
   {
     "name": "atom_symbol",
+    "alt_names": [
+
+    ],
     "file": "269b"
   },
   {
     "name": "avocado",
+    "alt_names": [
+
+    ],
     "file": "1f951"
   },
   {
     "name": "b",
+    "alt_names": [
+
+    ],
     "file": "1f171"
   },
   {
     "name": "baby",
+    "alt_names": [
+
+    ],
     "file": "1f476"
   },
   {
     "name": "baby_bottle",
+    "alt_names": [
+
+    ],
     "file": "1f37c"
   },
   {
     "name": "baby_chick",
+    "alt_names": [
+
+    ],
     "file": "1f424"
   },
   {
     "name": "baby_symbol",
+    "alt_names": [
+
+    ],
     "file": "1f6bc"
   },
   {
     "name": "back",
+    "alt_names": [
+
+    ],
     "file": "1f519"
   },
   {
     "name": "bacon",
+    "alt_names": [
+
+    ],
     "file": "1f953"
   },
   {
     "name": "badminton_racquet_and_shuttlecock",
+    "alt_names": [
+
+    ],
     "file": "1f3f8"
   },
   {
     "name": "baggage_claim",
+    "alt_names": [
+
+    ],
     "file": "1f6c4"
   },
   {
     "name": "baguette_bread",
+    "alt_names": [
+
+    ],
     "file": "1f956"
   },
   {
     "name": "balloon",
+    "alt_names": [
+
+    ],
     "file": "1f388"
   },
   {
     "name": "ballot_box_with_ballot",
+    "alt_names": [
+
+    ],
     "file": "1f5f3"
   },
   {
     "name": "ballot_box_with_check",
+    "alt_names": [
+
+    ],
     "file": "2611"
   },
   {
     "name": "bamboo",
+    "alt_names": [
+
+    ],
     "file": "1f38d"
   },
   {
     "name": "banana",
+    "alt_names": [
+
+    ],
     "file": "1f34c"
   },
   {
     "name": "bangbang",
+    "alt_names": [
+
+    ],
     "file": "203c"
   },
   {
     "name": "bank",
+    "alt_names": [
+
+    ],
     "file": "1f3e6"
   },
   {
     "name": "bar_chart",
+    "alt_names": [
+
+    ],
     "file": "1f4ca"
   },
   {
     "name": "barber",
+    "alt_names": [
+
+    ],
     "file": "1f488"
   },
   {
     "name": "barely_sunny",
+    "alt_names": [
+      "sun_behind_cloud"
+    ],
     "file": "1f325"
   },
   {
     "name": "baseball",
+    "alt_names": [
+
+    ],
     "file": "26be"
   },
   {
     "name": "basketball",
+    "alt_names": [
+
+    ],
     "file": "1f3c0"
   },
   {
     "name": "bat",
+    "alt_names": [
+
+    ],
     "file": "1f987"
   },
   {
     "name": "bath",
+    "alt_names": [
+
+    ],
     "file": "1f6c0"
   },
   {
     "name": "bathtub",
+    "alt_names": [
+
+    ],
     "file": "1f6c1"
   },
   {
     "name": "battery",
+    "alt_names": [
+
+    ],
     "file": "1f50b"
   },
   {
     "name": "beach_with_umbrella",
+    "alt_names": [
+
+    ],
     "file": "1f3d6"
   },
   {
     "name": "bear",
+    "alt_names": [
+
+    ],
     "file": "1f43b"
   },
   {
     "name": "bearded_person",
+    "alt_names": [
+
+    ],
     "file": "1f9d4"
   },
   {
     "name": "bed",
+    "alt_names": [
+
+    ],
     "file": "1f6cf"
   },
   {
     "name": "bee",
+    "alt_names": [
+      "honeybee"
+    ],
     "file": "1f41d"
   },
   {
     "name": "beer",
+    "alt_names": [
+
+    ],
     "file": "1f37a"
   },
   {
     "name": "beers",
+    "alt_names": [
+
+    ],
     "file": "1f37b"
   },
   {
     "name": "beetle",
+    "alt_names": [
+
+    ],
     "file": "1f41e"
   },
   {
     "name": "beginner",
+    "alt_names": [
+
+    ],
     "file": "1f530"
   },
   {
     "name": "bell",
+    "alt_names": [
+
+    ],
     "file": "1f514"
   },
   {
     "name": "bellhop_bell",
+    "alt_names": [
+
+    ],
     "file": "1f6ce"
   },
   {
     "name": "bento",
+    "alt_names": [
+
+    ],
     "file": "1f371"
   },
   {
     "name": "bicyclist",
+    "alt_names": [
+
+    ],
     "file": "1f6b4"
   },
   {
     "name": "bike",
+    "alt_names": [
+
+    ],
     "file": "1f6b2"
   },
   {
     "name": "bikini",
+    "alt_names": [
+
+    ],
     "file": "1f459"
   },
   {
     "name": "billed_cap",
+    "alt_names": [
+
+    ],
     "file": "1f9e2"
   },
   {
     "name": "biohazard_sign",
+    "alt_names": [
+
+    ],
     "file": "2623"
   },
   {
     "name": "bird",
+    "alt_names": [
+
+    ],
     "file": "1f426"
   },
   {
     "name": "birthday",
+    "alt_names": [
+
+    ],
     "file": "1f382"
   },
   {
     "name": "black_circle",
+    "alt_names": [
+
+    ],
     "file": "26ab"
   },
   {
     "name": "black_circle_for_record",
+    "alt_names": [
+
+    ],
     "file": "23fa"
   },
   {
     "name": "black_heart",
+    "alt_names": [
+
+    ],
     "file": "1f5a4"
   },
   {
     "name": "black_joker",
+    "alt_names": [
+
+    ],
     "file": "1f0cf"
   },
   {
     "name": "black_large_square",
+    "alt_names": [
+
+    ],
     "file": "2b1b"
   },
   {
     "name": "black_left_pointing_double_triangle_with_vertical_bar",
+    "alt_names": [
+
+    ],
     "file": "23ee"
   },
   {
     "name": "black_medium_small_square",
+    "alt_names": [
+
+    ],
     "file": "25fe"
   },
   {
     "name": "black_medium_square",
+    "alt_names": [
+
+    ],
     "file": "25fc"
   },
   {
     "name": "black_nib",
+    "alt_names": [
+
+    ],
     "file": "2712"
   },
   {
     "name": "black_right_pointing_double_triangle_with_vertical_bar",
+    "alt_names": [
+
+    ],
     "file": "23ed"
   },
   {
     "name": "black_right_pointing_triangle_with_double_vertical_bar",
+    "alt_names": [
+
+    ],
     "file": "23ef"
   },
   {
     "name": "black_small_square",
+    "alt_names": [
+
+    ],
     "file": "25aa"
   },
   {
     "name": "black_square_button",
+    "alt_names": [
+
+    ],
     "file": "1f532"
   },
   {
     "name": "black_square_for_stop",
+    "alt_names": [
+
+    ],
     "file": "23f9"
   },
   {
     "name": "blond-haired-man",
+    "alt_names": [
+
+    ],
     "file": "1f471"
   },
   {
     "name": "blond-haired-woman",
+    "alt_names": [
+
+    ],
     "file": "1f471"
   },
   {
     "name": "blossom",
+    "alt_names": [
+
+    ],
     "file": "1f33c"
   },
   {
     "name": "blowfish",
+    "alt_names": [
+
+    ],
     "file": "1f421"
   },
   {
     "name": "blue_book",
+    "alt_names": [
+
+    ],
     "file": "1f4d8"
   },
   {
     "name": "blue_car",
+    "alt_names": [
+
+    ],
     "file": "1f699"
   },
   {
     "name": "blue_heart",
+    "alt_names": [
+
+    ],
     "file": "1f499"
   },
   {
     "name": "blush",
+    "alt_names": [
+
+    ],
     "file": "1f60a"
   },
   {
     "name": "boar",
+    "alt_names": [
+
+    ],
     "file": "1f417"
   },
   {
     "name": "boat",
+    "alt_names": [
+      "sailboat"
+    ],
     "file": "26f5"
   },
   {
     "name": "bomb",
+    "alt_names": [
+
+    ],
     "file": "1f4a3"
   },
   {
     "name": "book",
+    "alt_names": [
+      "open_book"
+    ],
     "file": "1f4d6"
   },
   {
     "name": "bookmark",
+    "alt_names": [
+
+    ],
     "file": "1f516"
   },
   {
     "name": "bookmark_tabs",
+    "alt_names": [
+
+    ],
     "file": "1f4d1"
   },
   {
     "name": "books",
+    "alt_names": [
+
+    ],
     "file": "1f4da"
   },
   {
     "name": "boom",
+    "alt_names": [
+      "collision"
+    ],
     "file": "1f4a5"
   },
   {
     "name": "boot",
+    "alt_names": [
+
+    ],
     "file": "1f462"
   },
   {
     "name": "bouquet",
+    "alt_names": [
+
+    ],
     "file": "1f490"
   },
   {
     "name": "bow",
+    "alt_names": [
+
+    ],
     "file": "1f647"
   },
   {
     "name": "bow_and_arrow",
+    "alt_names": [
+
+    ],
     "file": "1f3f9"
   },
   {
     "name": "bowl_with_spoon",
+    "alt_names": [
+
+    ],
     "file": "1f963"
   },
   {
     "name": "bowling",
+    "alt_names": [
+
+    ],
     "file": "1f3b3"
   },
   {
     "name": "boxing_glove",
+    "alt_names": [
+
+    ],
     "file": "1f94a"
   },
   {
     "name": "boy",
+    "alt_names": [
+
+    ],
     "file": "1f466"
   },
   {
     "name": "brain",
+    "alt_names": [
+
+    ],
     "file": "1f9e0"
   },
   {
     "name": "bread",
+    "alt_names": [
+
+    ],
     "file": "1f35e"
   },
   {
     "name": "breast-feeding",
+    "alt_names": [
+
+    ],
     "file": "1f931"
   },
   {
     "name": "bride_with_veil",
+    "alt_names": [
+
+    ],
     "file": "1f470"
   },
   {
     "name": "bridge_at_night",
+    "alt_names": [
+
+    ],
     "file": "1f309"
   },
   {
     "name": "briefcase",
+    "alt_names": [
+
+    ],
     "file": "1f4bc"
   },
   {
     "name": "broccoli",
+    "alt_names": [
+
+    ],
     "file": "1f966"
   },
   {
     "name": "broken_heart",
+    "alt_names": [
+
+    ],
     "file": "1f494"
   },
   {
     "name": "bug",
+    "alt_names": [
+
+    ],
     "file": "1f41b"
   },
   {
     "name": "building_construction",
+    "alt_names": [
+
+    ],
     "file": "1f3d7"
   },
   {
     "name": "bulb",
+    "alt_names": [
+
+    ],
     "file": "1f4a1"
   },
   {
     "name": "bullettrain_front",
+    "alt_names": [
+
+    ],
     "file": "1f685"
   },
   {
     "name": "bullettrain_side",
+    "alt_names": [
+
+    ],
     "file": "1f684"
   },
   {
     "name": "burrito",
+    "alt_names": [
+
+    ],
     "file": "1f32f"
   },
   {
     "name": "bus",
+    "alt_names": [
+
+    ],
     "file": "1f68c"
   },
   {
     "name": "busstop",
+    "alt_names": [
+
+    ],
     "file": "1f68f"
   },
   {
     "name": "bust_in_silhouette",
+    "alt_names": [
+
+    ],
     "file": "1f464"
   },
   {
     "name": "busts_in_silhouette",
+    "alt_names": [
+
+    ],
     "file": "1f465"
   },
   {
     "name": "butterfly",
+    "alt_names": [
+
+    ],
     "file": "1f98b"
   },
   {
     "name": "cactus",
+    "alt_names": [
+
+    ],
     "file": "1f335"
   },
   {
     "name": "cake",
+    "alt_names": [
+
+    ],
     "file": "1f370"
   },
   {
     "name": "calendar",
+    "alt_names": [
+
+    ],
     "file": "1f4c6"
   },
   {
     "name": "call_me_hand",
+    "alt_names": [
+
+    ],
     "file": "1f919"
   },
   {
     "name": "calling",
+    "alt_names": [
+
+    ],
     "file": "1f4f2"
   },
   {
     "name": "camel",
+    "alt_names": [
+
+    ],
     "file": "1f42b"
   },
   {
     "name": "camera",
+    "alt_names": [
+
+    ],
     "file": "1f4f7"
   },
   {
     "name": "camera_with_flash",
+    "alt_names": [
+
+    ],
     "file": "1f4f8"
   },
   {
     "name": "camping",
+    "alt_names": [
+
+    ],
     "file": "1f3d5"
   },
   {
     "name": "cancer",
+    "alt_names": [
+
+    ],
     "file": "264b"
   },
   {
     "name": "candle",
+    "alt_names": [
+
+    ],
     "file": "1f56f"
   },
   {
     "name": "candy",
+    "alt_names": [
+
+    ],
     "file": "1f36c"
   },
   {
     "name": "canned_food",
+    "alt_names": [
+
+    ],
     "file": "1f96b"
   },
   {
     "name": "canoe",
+    "alt_names": [
+
+    ],
     "file": "1f6f6"
   },
   {
     "name": "capital_abcd",
+    "alt_names": [
+
+    ],
     "file": "1f520"
   },
   {
     "name": "capricorn",
+    "alt_names": [
+
+    ],
     "file": "2651"
   },
   {
     "name": "car",
+    "alt_names": [
+      "red_car"
+    ],
     "file": "1f697"
   },
   {
     "name": "card_file_box",
+    "alt_names": [
+
+    ],
     "file": "1f5c3"
   },
   {
     "name": "card_index",
+    "alt_names": [
+
+    ],
     "file": "1f4c7"
   },
   {
     "name": "card_index_dividers",
+    "alt_names": [
+
+    ],
     "file": "1f5c2"
   },
   {
     "name": "carousel_horse",
+    "alt_names": [
+
+    ],
     "file": "1f3a0"
   },
   {
     "name": "carrot",
+    "alt_names": [
+
+    ],
     "file": "1f955"
   },
   {
     "name": "cat",
+    "alt_names": [
+
+    ],
     "file": "1f431"
   },
   {
     "name": "cat2",
+    "alt_names": [
+
+    ],
     "file": "1f408"
   },
   {
     "name": "cd",
+    "alt_names": [
+
+    ],
     "file": "1f4bf"
   },
   {
     "name": "chains",
+    "alt_names": [
+
+    ],
     "file": "26d3"
   },
   {
     "name": "champagne",
+    "alt_names": [
+
+    ],
     "file": "1f37e"
   },
   {
     "name": "chart",
+    "alt_names": [
+
+    ],
     "file": "1f4b9"
   },
   {
     "name": "chart_with_downwards_trend",
+    "alt_names": [
+
+    ],
     "file": "1f4c9"
   },
   {
     "name": "chart_with_upwards_trend",
+    "alt_names": [
+
+    ],
     "file": "1f4c8"
   },
   {
     "name": "checkered_flag",
+    "alt_names": [
+
+    ],
     "file": "1f3c1"
   },
   {
     "name": "cheese_wedge",
+    "alt_names": [
+
+    ],
     "file": "1f9c0"
   },
   {
     "name": "cherries",
+    "alt_names": [
+
+    ],
     "file": "1f352"
   },
   {
     "name": "cherry_blossom",
+    "alt_names": [
+
+    ],
     "file": "1f338"
   },
   {
     "name": "chestnut",
+    "alt_names": [
+
+    ],
     "file": "1f330"
   },
   {
     "name": "chicken",
+    "alt_names": [
+
+    ],
     "file": "1f414"
   },
   {
     "name": "child",
+    "alt_names": [
+
+    ],
     "file": "1f9d2"
   },
   {
     "name": "children_crossing",
+    "alt_names": [
+
+    ],
     "file": "1f6b8"
   },
   {
     "name": "chipmunk",
+    "alt_names": [
+
+    ],
     "file": "1f43f"
   },
   {
     "name": "chocolate_bar",
+    "alt_names": [
+
+    ],
     "file": "1f36b"
   },
   {
     "name": "chopsticks",
+    "alt_names": [
+
+    ],
     "file": "1f962"
   },
   {
     "name": "christmas_tree",
+    "alt_names": [
+
+    ],
     "file": "1f384"
   },
   {
     "name": "church",
+    "alt_names": [
+
+    ],
     "file": "26ea"
   },
   {
     "name": "cinema",
+    "alt_names": [
+
+    ],
     "file": "1f3a6"
   },
   {
     "name": "circus_tent",
+    "alt_names": [
+
+    ],
     "file": "1f3aa"
   },
   {
     "name": "city_sunrise",
+    "alt_names": [
+
+    ],
     "file": "1f307"
   },
   {
     "name": "city_sunset",
+    "alt_names": [
+
+    ],
     "file": "1f306"
   },
   {
     "name": "cityscape",
+    "alt_names": [
+
+    ],
     "file": "1f3d9"
   },
   {
     "name": "cl",
+    "alt_names": [
+
+    ],
     "file": "1f191"
   },
   {
     "name": "clap",
+    "alt_names": [
+
+    ],
     "file": "1f44f"
   },
   {
     "name": "clapper",
+    "alt_names": [
+
+    ],
     "file": "1f3ac"
   },
   {
     "name": "classical_building",
+    "alt_names": [
+
+    ],
     "file": "1f3db"
   },
   {
     "name": "clinking_glasses",
+    "alt_names": [
+
+    ],
     "file": "1f942"
   },
   {
     "name": "clipboard",
+    "alt_names": [
+
+    ],
     "file": "1f4cb"
   },
   {
     "name": "clock1",
+    "alt_names": [
+
+    ],
     "file": "1f550"
   },
   {
     "name": "clock10",
+    "alt_names": [
+
+    ],
     "file": "1f559"
   },
   {
     "name": "clock1030",
+    "alt_names": [
+
+    ],
     "file": "1f565"
   },
   {
     "name": "clock11",
+    "alt_names": [
+
+    ],
     "file": "1f55a"
   },
   {
     "name": "clock1130",
+    "alt_names": [
+
+    ],
     "file": "1f566"
   },
   {
     "name": "clock12",
+    "alt_names": [
+
+    ],
     "file": "1f55b"
   },
   {
     "name": "clock1230",
+    "alt_names": [
+
+    ],
     "file": "1f567"
   },
   {
     "name": "clock130",
+    "alt_names": [
+
+    ],
     "file": "1f55c"
   },
   {
     "name": "clock2",
+    "alt_names": [
+
+    ],
     "file": "1f551"
   },
   {
     "name": "clock230",
+    "alt_names": [
+
+    ],
     "file": "1f55d"
   },
   {
     "name": "clock3",
+    "alt_names": [
+
+    ],
     "file": "1f552"
   },
   {
     "name": "clock330",
+    "alt_names": [
+
+    ],
     "file": "1f55e"
   },
   {
     "name": "clock4",
+    "alt_names": [
+
+    ],
     "file": "1f553"
   },
   {
     "name": "clock430",
+    "alt_names": [
+
+    ],
     "file": "1f55f"
   },
   {
     "name": "clock5",
+    "alt_names": [
+
+    ],
     "file": "1f554"
   },
   {
     "name": "clock530",
+    "alt_names": [
+
+    ],
     "file": "1f560"
   },
   {
     "name": "clock6",
+    "alt_names": [
+
+    ],
     "file": "1f555"
   },
   {
     "name": "clock630",
+    "alt_names": [
+
+    ],
     "file": "1f561"
   },
   {
     "name": "clock7",
+    "alt_names": [
+
+    ],
     "file": "1f556"
   },
   {
     "name": "clock730",
+    "alt_names": [
+
+    ],
     "file": "1f562"
   },
   {
     "name": "clock8",
+    "alt_names": [
+
+    ],
     "file": "1f557"
   },
   {
     "name": "clock830",
+    "alt_names": [
+
+    ],
     "file": "1f563"
   },
   {
     "name": "clock9",
+    "alt_names": [
+
+    ],
     "file": "1f558"
   },
   {
     "name": "clock930",
+    "alt_names": [
+
+    ],
     "file": "1f564"
   },
   {
     "name": "closed_book",
+    "alt_names": [
+
+    ],
     "file": "1f4d5"
   },
   {
     "name": "closed_lock_with_key",
+    "alt_names": [
+
+    ],
     "file": "1f510"
   },
   {
     "name": "closed_umbrella",
+    "alt_names": [
+
+    ],
     "file": "1f302"
   },
   {
     "name": "cloud",
+    "alt_names": [
+
+    ],
     "file": "2601"
   },
   {
     "name": "clown_face",
+    "alt_names": [
+
+    ],
     "file": "1f921"
   },
   {
     "name": "clubs",
+    "alt_names": [
+
+    ],
     "file": "2663"
   },
   {
     "name": "cn",
+    "alt_names": [
+      "flag-cn"
+    ],
     "file": "1f1e8"
   },
   {
     "name": "coat",
+    "alt_names": [
+
+    ],
     "file": "1f9e5"
   },
   {
     "name": "cocktail",
+    "alt_names": [
+
+    ],
     "file": "1f378"
   },
   {
     "name": "coconut",
+    "alt_names": [
+
+    ],
     "file": "1f965"
   },
   {
     "name": "coffee",
+    "alt_names": [
+
+    ],
     "file": "2615"
   },
   {
     "name": "coffin",
+    "alt_names": [
+
+    ],
     "file": "26b0"
   },
   {
     "name": "cold_sweat",
+    "alt_names": [
+
+    ],
     "file": "1f630"
   },
   {
     "name": "comet",
+    "alt_names": [
+
+    ],
     "file": "2604"
   },
   {
     "name": "compression",
+    "alt_names": [
+
+    ],
     "file": "1f5dc"
   },
   {
     "name": "computer",
+    "alt_names": [
+
+    ],
     "file": "1f4bb"
   },
   {
     "name": "confetti_ball",
+    "alt_names": [
+
+    ],
     "file": "1f38a"
   },
   {
     "name": "confounded",
+    "alt_names": [
+
+    ],
     "file": "1f616"
   },
   {
     "name": "confused",
+    "alt_names": [
+
+    ],
     "file": "1f615"
   },
   {
     "name": "congratulations",
+    "alt_names": [
+
+    ],
     "file": "3297"
   },
   {
     "name": "construction",
+    "alt_names": [
+
+    ],
     "file": "1f6a7"
   },
   {
     "name": "construction_worker",
+    "alt_names": [
+
+    ],
     "file": "1f477"
   },
   {
     "name": "control_knobs",
+    "alt_names": [
+
+    ],
     "file": "1f39b"
   },
   {
     "name": "convenience_store",
+    "alt_names": [
+
+    ],
     "file": "1f3ea"
   },
   {
     "name": "cookie",
+    "alt_names": [
+
+    ],
     "file": "1f36a"
   },
   {
     "name": "cool",
+    "alt_names": [
+
+    ],
     "file": "1f192"
   },
   {
     "name": "cop",
+    "alt_names": [
+
+    ],
     "file": "1f46e"
   },
   {
     "name": "corn",
+    "alt_names": [
+
+    ],
     "file": "1f33d"
   },
   {
     "name": "couch_and_lamp",
+    "alt_names": [
+
+    ],
     "file": "1f6cb"
   },
   {
     "name": "couple",
+    "alt_names": [
+      "man_and_woman_holding_hands"
+    ],
     "file": "1f46b"
   },
   {
     "name": "couple_with_heart",
+    "alt_names": [
+
+    ],
     "file": "1f491"
   },
   {
     "name": "couplekiss",
+    "alt_names": [
+
+    ],
     "file": "1f48f"
   },
   {
     "name": "cow",
+    "alt_names": [
+
+    ],
     "file": "1f42e"
   },
   {
     "name": "cow2",
+    "alt_names": [
+
+    ],
     "file": "1f404"
   },
   {
     "name": "crab",
+    "alt_names": [
+
+    ],
     "file": "1f980"
   },
   {
     "name": "credit_card",
+    "alt_names": [
+
+    ],
     "file": "1f4b3"
   },
   {
     "name": "crescent_moon",
+    "alt_names": [
+
+    ],
     "file": "1f319"
   },
   {
     "name": "cricket",
+    "alt_names": [
+
+    ],
     "file": "1f997"
   },
   {
     "name": "cricket_bat_and_ball",
+    "alt_names": [
+
+    ],
     "file": "1f3cf"
   },
   {
     "name": "crocodile",
+    "alt_names": [
+
+    ],
     "file": "1f40a"
   },
   {
     "name": "croissant",
+    "alt_names": [
+
+    ],
     "file": "1f950"
   },
   {
     "name": "crossed_flags",
+    "alt_names": [
+
+    ],
     "file": "1f38c"
   },
   {
     "name": "crossed_swords",
+    "alt_names": [
+
+    ],
     "file": "2694"
   },
   {
     "name": "crown",
+    "alt_names": [
+
+    ],
     "file": "1f451"
   },
   {
     "name": "cry",
+    "alt_names": [
+
+    ],
     "file": "1f622"
   },
   {
     "name": "crying_cat_face",
+    "alt_names": [
+
+    ],
     "file": "1f63f"
   },
   {
     "name": "crystal_ball",
+    "alt_names": [
+
+    ],
     "file": "1f52e"
   },
   {
     "name": "cucumber",
+    "alt_names": [
+
+    ],
     "file": "1f952"
   },
   {
     "name": "cup_with_straw",
+    "alt_names": [
+
+    ],
     "file": "1f964"
   },
   {
     "name": "cupid",
+    "alt_names": [
+
+    ],
     "file": "1f498"
   },
   {
     "name": "curling_stone",
+    "alt_names": [
+
+    ],
     "file": "1f94c"
   },
   {
     "name": "curly_loop",
+    "alt_names": [
+
+    ],
     "file": "27b0"
   },
   {
     "name": "currency_exchange",
+    "alt_names": [
+
+    ],
     "file": "1f4b1"
   },
   {
     "name": "curry",
+    "alt_names": [
+
+    ],
     "file": "1f35b"
   },
   {
     "name": "custard",
+    "alt_names": [
+
+    ],
     "file": "1f36e"
   },
   {
     "name": "customs",
+    "alt_names": [
+
+    ],
     "file": "1f6c3"
   },
   {
     "name": "cut_of_meat",
+    "alt_names": [
+
+    ],
     "file": "1f969"
   },
   {
     "name": "cyclone",
+    "alt_names": [
+
+    ],
     "file": "1f300"
   },
   {
     "name": "dagger_knife",
+    "alt_names": [
+
+    ],
     "file": "1f5e1"
   },
   {
     "name": "dancer",
+    "alt_names": [
+
+    ],
     "file": "1f483"
   },
   {
     "name": "dancers",
+    "alt_names": [
+
+    ],
     "file": "1f46f"
   },
   {
     "name": "dango",
+    "alt_names": [
+
+    ],
     "file": "1f361"
   },
   {
     "name": "dark_sunglasses",
+    "alt_names": [
+
+    ],
     "file": "1f576"
   },
   {
     "name": "dart",
+    "alt_names": [
+
+    ],
     "file": "1f3af"
   },
   {
     "name": "dash",
+    "alt_names": [
+
+    ],
     "file": "1f4a8"
   },
   {
     "name": "date",
+    "alt_names": [
+
+    ],
     "file": "1f4c5"
   },
   {
     "name": "de",
+    "alt_names": [
+      "flag-de"
+    ],
     "file": "1f1e9"
   },
   {
     "name": "deciduous_tree",
+    "alt_names": [
+
+    ],
     "file": "1f333"
   },
   {
     "name": "deer",
+    "alt_names": [
+
+    ],
     "file": "1f98c"
   },
   {
     "name": "department_store",
+    "alt_names": [
+
+    ],
     "file": "1f3ec"
   },
   {
     "name": "derelict_house_building",
+    "alt_names": [
+
+    ],
     "file": "1f3da"
   },
   {
     "name": "desert",
+    "alt_names": [
+
+    ],
     "file": "1f3dc"
   },
   {
     "name": "desert_island",
+    "alt_names": [
+
+    ],
     "file": "1f3dd"
   },
   {
     "name": "desktop_computer",
+    "alt_names": [
+
+    ],
     "file": "1f5a5"
   },
   {
     "name": "diamond_shape_with_a_dot_inside",
+    "alt_names": [
+
+    ],
     "file": "1f4a0"
   },
   {
     "name": "diamonds",
+    "alt_names": [
+
+    ],
     "file": "2666"
   },
   {
     "name": "disappointed",
+    "alt_names": [
+
+    ],
     "file": "1f61e"
   },
   {
     "name": "disappointed_relieved",
+    "alt_names": [
+
+    ],
     "file": "1f625"
   },
   {
     "name": "dizzy",
+    "alt_names": [
+
+    ],
     "file": "1f4ab"
   },
   {
     "name": "dizzy_face",
+    "alt_names": [
+
+    ],
     "file": "1f635"
   },
   {
     "name": "do_not_litter",
+    "alt_names": [
+
+    ],
     "file": "1f6af"
   },
   {
     "name": "dog",
+    "alt_names": [
+
+    ],
     "file": "1f436"
   },
   {
     "name": "dog2",
+    "alt_names": [
+
+    ],
     "file": "1f415"
   },
   {
     "name": "dollar",
+    "alt_names": [
+
+    ],
     "file": "1f4b5"
   },
   {
     "name": "dolls",
+    "alt_names": [
+
+    ],
     "file": "1f38e"
   },
   {
     "name": "dolphin",
+    "alt_names": [
+      "flipper"
+    ],
     "file": "1f42c"
   },
   {
     "name": "door",
+    "alt_names": [
+
+    ],
     "file": "1f6aa"
   },
   {
     "name": "double_vertical_bar",
+    "alt_names": [
+
+    ],
     "file": "23f8"
   },
   {
     "name": "doughnut",
+    "alt_names": [
+
+    ],
     "file": "1f369"
   },
   {
     "name": "dove_of_peace",
+    "alt_names": [
+
+    ],
     "file": "1f54a"
   },
   {
     "name": "dragon",
+    "alt_names": [
+
+    ],
     "file": "1f409"
   },
   {
     "name": "dragon_face",
+    "alt_names": [
+
+    ],
     "file": "1f432"
   },
   {
     "name": "dress",
+    "alt_names": [
+
+    ],
     "file": "1f457"
   },
   {
     "name": "dromedary_camel",
+    "alt_names": [
+
+    ],
     "file": "1f42a"
   },
   {
     "name": "drooling_face",
+    "alt_names": [
+
+    ],
     "file": "1f924"
   },
   {
     "name": "droplet",
+    "alt_names": [
+
+    ],
     "file": "1f4a7"
   },
   {
     "name": "drum_with_drumsticks",
+    "alt_names": [
+
+    ],
     "file": "1f941"
   },
   {
     "name": "duck",
+    "alt_names": [
+
+    ],
     "file": "1f986"
   },
   {
     "name": "dumpling",
+    "alt_names": [
+
+    ],
     "file": "1f95f"
   },
   {
     "name": "dvd",
+    "alt_names": [
+
+    ],
     "file": "1f4c0"
   },
   {
     "name": "e-mail",
+    "alt_names": [
+
+    ],
     "file": "1f4e7"
   },
   {
     "name": "eagle",
+    "alt_names": [
+
+    ],
     "file": "1f985"
   },
   {
     "name": "ear",
+    "alt_names": [
+
+    ],
     "file": "1f442"
   },
   {
     "name": "ear_of_rice",
+    "alt_names": [
+
+    ],
     "file": "1f33e"
   },
   {
     "name": "earth_africa",
+    "alt_names": [
+
+    ],
     "file": "1f30d"
   },
   {
     "name": "earth_americas",
+    "alt_names": [
+
+    ],
     "file": "1f30e"
   },
   {
     "name": "earth_asia",
+    "alt_names": [
+
+    ],
     "file": "1f30f"
   },
   {
     "name": "egg",
+    "alt_names": [
+
+    ],
     "file": "1f95a"
   },
   {
     "name": "eggplant",
+    "alt_names": [
+
+    ],
     "file": "1f346"
   },
   {
     "name": "eight",
+    "alt_names": [
+
+    ],
     "file": "38-20e3"
   },
   {
     "name": "eight_pointed_black_star",
+    "alt_names": [
+
+    ],
     "file": "2734"
   },
   {
     "name": "eight_spoked_asterisk",
+    "alt_names": [
+
+    ],
     "file": "2733"
   },
   {
     "name": "eject",
+    "alt_names": [
+
+    ],
     "file": "23cf"
   },
   {
     "name": "electric_plug",
+    "alt_names": [
+
+    ],
     "file": "1f50c"
   },
   {
     "name": "elephant",
+    "alt_names": [
+
+    ],
     "file": "1f418"
   },
   {
     "name": "elf",
+    "alt_names": [
+
+    ],
     "file": "1f9dd"
   },
   {
     "name": "email",
+    "alt_names": [
+      "envelope"
+    ],
     "file": "2709"
   },
   {
     "name": "end",
+    "alt_names": [
+
+    ],
     "file": "1f51a"
   },
   {
     "name": "envelope_with_arrow",
+    "alt_names": [
+
+    ],
     "file": "1f4e9"
   },
   {
     "name": "es",
+    "alt_names": [
+      "flag-es"
+    ],
     "file": "1f1ea"
   },
   {
     "name": "euro",
+    "alt_names": [
+
+    ],
     "file": "1f4b6"
   },
   {
     "name": "european_castle",
+    "alt_names": [
+
+    ],
     "file": "1f3f0"
   },
   {
     "name": "european_post_office",
+    "alt_names": [
+
+    ],
     "file": "1f3e4"
   },
   {
     "name": "evergreen_tree",
+    "alt_names": [
+
+    ],
     "file": "1f332"
   },
   {
     "name": "exclamation",
+    "alt_names": [
+      "heavy_exclamation_mark"
+    ],
     "file": "2757"
   },
   {
     "name": "expressionless",
+    "alt_names": [
+
+    ],
     "file": "1f611"
   },
   {
     "name": "eye",
+    "alt_names": [
+
+    ],
     "file": "1f441"
   },
   {
     "name": "eyeglasses",
+    "alt_names": [
+
+    ],
     "file": "1f453"
   },
   {
     "name": "eyes",
+    "alt_names": [
+
+    ],
     "file": "1f440"
   },
   {
     "name": "face_palm",
+    "alt_names": [
+
+    ],
     "file": "1f926"
   },
   {
     "name": "face_with_cowboy_hat",
+    "alt_names": [
+
+    ],
     "file": "1f920"
   },
   {
     "name": "face_with_finger_covering_closed_lips",
+    "alt_names": [
+
+    ],
     "file": "1f92b"
   },
   {
     "name": "face_with_head_bandage",
+    "alt_names": [
+
+    ],
     "file": "1f915"
   },
   {
     "name": "face_with_monocle",
+    "alt_names": [
+
+    ],
     "file": "1f9d0"
   },
   {
     "name": "face_with_one_eyebrow_raised",
+    "alt_names": [
+
+    ],
     "file": "1f928"
   },
   {
     "name": "face_with_open_mouth_vomiting",
+    "alt_names": [
+
+    ],
     "file": "1f92e"
   },
   {
     "name": "face_with_rolling_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f644"
   },
   {
     "name": "face_with_thermometer",
+    "alt_names": [
+
+    ],
     "file": "1f912"
   },
   {
     "name": "facepunch",
+    "alt_names": [
+      "punch"
+    ],
     "file": "1f44a"
   },
   {
     "name": "factory",
+    "alt_names": [
+
+    ],
     "file": "1f3ed"
   },
   {
     "name": "fairy",
+    "alt_names": [
+
+    ],
     "file": "1f9da"
   },
   {
     "name": "fallen_leaf",
+    "alt_names": [
+
+    ],
     "file": "1f342"
   },
   {
     "name": "family",
+    "alt_names": [
+      "man-woman-boy"
+    ],
     "file": "1f46a"
   },
   {
     "name": "fast_forward",
+    "alt_names": [
+
+    ],
     "file": "23e9"
   },
   {
     "name": "fax",
+    "alt_names": [
+
+    ],
     "file": "1f4e0"
   },
   {
     "name": "fearful",
+    "alt_names": [
+
+    ],
     "file": "1f628"
   },
   {
     "name": "feet",
+    "alt_names": [
+      "paw_prints"
+    ],
     "file": "1f43e"
   },
   {
     "name": "female-artist",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-astronaut",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-construction-worker",
+    "alt_names": [
+
+    ],
     "file": "1f477"
   },
   {
     "name": "female-cook",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-detective",
+    "alt_names": [
+
+    ],
     "file": "1f575"
   },
   {
     "name": "female-doctor",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-factory-worker",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-farmer",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-firefighter",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-guard",
+    "alt_names": [
+
+    ],
     "file": "1f482"
   },
   {
     "name": "female-judge",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-mechanic",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-office-worker",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-pilot",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-police-officer",
+    "alt_names": [
+
+    ],
     "file": "1f46e"
   },
   {
     "name": "female-scientist",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-singer",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-student",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-teacher",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female-technologist",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "female_elf",
+    "alt_names": [
+
+    ],
     "file": "1f9dd"
   },
   {
     "name": "female_fairy",
+    "alt_names": [
+
+    ],
     "file": "1f9da"
   },
   {
     "name": "female_genie",
+    "alt_names": [
+
+    ],
     "file": "1f9de"
   },
   {
     "name": "female_mage",
+    "alt_names": [
+
+    ],
     "file": "1f9d9"
   },
   {
     "name": "female_sign",
+    "alt_names": [
+
+    ],
     "file": "2640"
   },
   {
     "name": "female_vampire",
+    "alt_names": [
+
+    ],
     "file": "1f9db"
   },
   {
     "name": "female_zombie",
+    "alt_names": [
+
+    ],
     "file": "1f9df"
   },
   {
     "name": "fencer",
+    "alt_names": [
+
+    ],
     "file": "1f93a"
   },
   {
     "name": "ferris_wheel",
+    "alt_names": [
+
+    ],
     "file": "1f3a1"
   },
   {
     "name": "ferry",
+    "alt_names": [
+
+    ],
     "file": "26f4"
   },
   {
     "name": "field_hockey_stick_and_ball",
+    "alt_names": [
+
+    ],
     "file": "1f3d1"
   },
   {
     "name": "file_cabinet",
+    "alt_names": [
+
+    ],
     "file": "1f5c4"
   },
   {
     "name": "file_folder",
+    "alt_names": [
+
+    ],
     "file": "1f4c1"
   },
   {
     "name": "film_frames",
+    "alt_names": [
+
+    ],
     "file": "1f39e"
   },
   {
     "name": "film_projector",
+    "alt_names": [
+
+    ],
     "file": "1f4fd"
   },
   {
     "name": "fire",
+    "alt_names": [
+
+    ],
     "file": "1f525"
   },
   {
     "name": "fire_engine",
+    "alt_names": [
+
+    ],
     "file": "1f692"
   },
   {
     "name": "fireworks",
+    "alt_names": [
+
+    ],
     "file": "1f386"
   },
   {
     "name": "first_place_medal",
+    "alt_names": [
+
+    ],
     "file": "1f947"
   },
   {
     "name": "first_quarter_moon",
+    "alt_names": [
+
+    ],
     "file": "1f313"
   },
   {
     "name": "first_quarter_moon_with_face",
+    "alt_names": [
+
+    ],
     "file": "1f31b"
   },
   {
     "name": "fish",
+    "alt_names": [
+
+    ],
     "file": "1f41f"
   },
   {
     "name": "fish_cake",
+    "alt_names": [
+
+    ],
     "file": "1f365"
   },
   {
     "name": "fishing_pole_and_fish",
+    "alt_names": [
+
+    ],
     "file": "1f3a3"
   },
   {
     "name": "fist",
+    "alt_names": [
+
+    ],
     "file": "270a"
   },
   {
     "name": "five",
+    "alt_names": [
+
+    ],
     "file": "35-20e3"
   },
   {
     "name": "flag-ac",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ad",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ae",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-af",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ag",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ai",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-al",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-am",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ao",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-aq",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ar",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-as",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-at",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-au",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-aw",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ax",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-az",
+    "alt_names": [
+
+    ],
     "file": "1f1e6"
   },
   {
     "name": "flag-ba",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bb",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bd",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-be",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bf",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bg",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bh",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bi",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bj",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bl",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bm",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bn",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bo",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bq",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-br",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bs",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bt",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bv",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bw",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-by",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-bz",
+    "alt_names": [
+
+    ],
     "file": "1f1e7"
   },
   {
     "name": "flag-ca",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cc",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cd",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cf",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cg",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-ch",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-ci",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-ck",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cl",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cm",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-co",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cp",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cr",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cu",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cv",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cw",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cx",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cy",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-cz",
+    "alt_names": [
+
+    ],
     "file": "1f1e8"
   },
   {
     "name": "flag-dg",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-dj",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-dk",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-dm",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-do",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-dz",
+    "alt_names": [
+
+    ],
     "file": "1f1e9"
   },
   {
     "name": "flag-ea",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-ec",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-ee",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-eg",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-eh",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-england",
+    "alt_names": [
+
+    ],
     "file": "1f3f4"
   },
   {
     "name": "flag-er",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-et",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-eu",
+    "alt_names": [
+
+    ],
     "file": "1f1ea"
   },
   {
     "name": "flag-fi",
+    "alt_names": [
+
+    ],
     "file": "1f1eb"
   },
   {
     "name": "flag-fj",
+    "alt_names": [
+
+    ],
     "file": "1f1eb"
   },
   {
     "name": "flag-fk",
+    "alt_names": [
+
+    ],
     "file": "1f1eb"
   },
   {
     "name": "flag-fm",
+    "alt_names": [
+
+    ],
     "file": "1f1eb"
   },
   {
     "name": "flag-fo",
+    "alt_names": [
+
+    ],
     "file": "1f1eb"
   },
   {
     "name": "flag-ga",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gd",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-ge",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gf",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gg",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gh",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gi",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gl",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gm",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gn",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gp",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gq",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gr",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gs",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gt",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gu",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gw",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-gy",
+    "alt_names": [
+
+    ],
     "file": "1f1ec"
   },
   {
     "name": "flag-hk",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-hm",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-hn",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-hr",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-ht",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-hu",
+    "alt_names": [
+
+    ],
     "file": "1f1ed"
   },
   {
     "name": "flag-ic",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-id",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-ie",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-il",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-im",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-in",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-io",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-iq",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-ir",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-is",
+    "alt_names": [
+
+    ],
     "file": "1f1ee"
   },
   {
     "name": "flag-je",
+    "alt_names": [
+
+    ],
     "file": "1f1ef"
   },
   {
     "name": "flag-jm",
+    "alt_names": [
+
+    ],
     "file": "1f1ef"
   },
   {
     "name": "flag-jo",
+    "alt_names": [
+
+    ],
     "file": "1f1ef"
   },
   {
     "name": "flag-ke",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kg",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kh",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-ki",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-km",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kn",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kp",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kw",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-ky",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-kz",
+    "alt_names": [
+
+    ],
     "file": "1f1f0"
   },
   {
     "name": "flag-la",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lb",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lc",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-li",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lk",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lr",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-ls",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lt",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lu",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-lv",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-ly",
+    "alt_names": [
+
+    ],
     "file": "1f1f1"
   },
   {
     "name": "flag-ma",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mc",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-md",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-me",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mf",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mg",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mh",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mk",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-ml",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mm",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mn",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mo",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mp",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mq",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mr",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-ms",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mt",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mu",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mv",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mw",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mx",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-my",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-mz",
+    "alt_names": [
+
+    ],
     "file": "1f1f2"
   },
   {
     "name": "flag-na",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nc",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-ne",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nf",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-ng",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-ni",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nl",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-no",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-np",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nr",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nu",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-nz",
+    "alt_names": [
+
+    ],
     "file": "1f1f3"
   },
   {
     "name": "flag-om",
+    "alt_names": [
+
+    ],
     "file": "1f1f4"
   },
   {
     "name": "flag-pa",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pe",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pf",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pg",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-ph",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pk",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pl",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pm",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pn",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pr",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-ps",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pt",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-pw",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-py",
+    "alt_names": [
+
+    ],
     "file": "1f1f5"
   },
   {
     "name": "flag-qa",
+    "alt_names": [
+
+    ],
     "file": "1f1f6"
   },
   {
     "name": "flag-re",
+    "alt_names": [
+
+    ],
     "file": "1f1f7"
   },
   {
     "name": "flag-ro",
+    "alt_names": [
+
+    ],
     "file": "1f1f7"
   },
   {
     "name": "flag-rs",
+    "alt_names": [
+
+    ],
     "file": "1f1f7"
   },
   {
     "name": "flag-rw",
+    "alt_names": [
+
+    ],
     "file": "1f1f7"
   },
   {
     "name": "flag-sa",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sb",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sc",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-scotland",
+    "alt_names": [
+
+    ],
     "file": "1f3f4"
   },
   {
     "name": "flag-sd",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-se",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sg",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sh",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-si",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sj",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sk",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sl",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sm",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sn",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-so",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sr",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-ss",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-st",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sv",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sx",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sy",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-sz",
+    "alt_names": [
+
+    ],
     "file": "1f1f8"
   },
   {
     "name": "flag-ta",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tc",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-td",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tf",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tg",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-th",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tj",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tk",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tl",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tm",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tn",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-to",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tr",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tt",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tv",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tw",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-tz",
+    "alt_names": [
+
+    ],
     "file": "1f1f9"
   },
   {
     "name": "flag-ua",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-ug",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-um",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-un",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-uy",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-uz",
+    "alt_names": [
+
+    ],
     "file": "1f1fa"
   },
   {
     "name": "flag-va",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-vc",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-ve",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-vg",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-vi",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-vn",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-vu",
+    "alt_names": [
+
+    ],
     "file": "1f1fb"
   },
   {
     "name": "flag-wales",
+    "alt_names": [
+
+    ],
     "file": "1f3f4"
   },
   {
     "name": "flag-wf",
+    "alt_names": [
+
+    ],
     "file": "1f1fc"
   },
   {
     "name": "flag-ws",
+    "alt_names": [
+
+    ],
     "file": "1f1fc"
   },
   {
     "name": "flag-xk",
+    "alt_names": [
+
+    ],
     "file": "1f1fd"
   },
   {
     "name": "flag-ye",
+    "alt_names": [
+
+    ],
     "file": "1f1fe"
   },
   {
     "name": "flag-yt",
+    "alt_names": [
+
+    ],
     "file": "1f1fe"
   },
   {
     "name": "flag-za",
+    "alt_names": [
+
+    ],
     "file": "1f1ff"
   },
   {
     "name": "flag-zm",
+    "alt_names": [
+
+    ],
     "file": "1f1ff"
   },
   {
     "name": "flag-zw",
+    "alt_names": [
+
+    ],
     "file": "1f1ff"
   },
   {
     "name": "flags",
+    "alt_names": [
+
+    ],
     "file": "1f38f"
   },
   {
     "name": "flashlight",
+    "alt_names": [
+
+    ],
     "file": "1f526"
   },
   {
     "name": "fleur_de_lis",
+    "alt_names": [
+
+    ],
     "file": "269c"
   },
   {
     "name": "floppy_disk",
+    "alt_names": [
+
+    ],
     "file": "1f4be"
   },
   {
     "name": "flower_playing_cards",
+    "alt_names": [
+
+    ],
     "file": "1f3b4"
   },
   {
     "name": "flushed",
+    "alt_names": [
+
+    ],
     "file": "1f633"
   },
   {
     "name": "flying_saucer",
+    "alt_names": [
+
+    ],
     "file": "1f6f8"
   },
   {
     "name": "fog",
+    "alt_names": [
+
+    ],
     "file": "1f32b"
   },
   {
     "name": "foggy",
+    "alt_names": [
+
+    ],
     "file": "1f301"
   },
   {
     "name": "football",
+    "alt_names": [
+
+    ],
     "file": "1f3c8"
   },
   {
     "name": "footprints",
+    "alt_names": [
+
+    ],
     "file": "1f463"
   },
   {
     "name": "fork_and_knife",
+    "alt_names": [
+
+    ],
     "file": "1f374"
   },
   {
     "name": "fortune_cookie",
+    "alt_names": [
+
+    ],
     "file": "1f960"
   },
   {
     "name": "fountain",
+    "alt_names": [
+
+    ],
     "file": "26f2"
   },
   {
     "name": "four",
+    "alt_names": [
+
+    ],
     "file": "34-20e3"
   },
   {
     "name": "four_leaf_clover",
+    "alt_names": [
+
+    ],
     "file": "1f340"
   },
   {
     "name": "fox_face",
+    "alt_names": [
+
+    ],
     "file": "1f98a"
   },
   {
     "name": "fr",
+    "alt_names": [
+      "flag-fr"
+    ],
     "file": "1f1eb"
   },
   {
     "name": "frame_with_picture",
+    "alt_names": [
+
+    ],
     "file": "1f5bc"
   },
   {
     "name": "free",
+    "alt_names": [
+
+    ],
     "file": "1f193"
   },
   {
     "name": "fried_egg",
+    "alt_names": [
+      "cooking"
+    ],
     "file": "1f373"
   },
   {
     "name": "fried_shrimp",
+    "alt_names": [
+
+    ],
     "file": "1f364"
   },
   {
     "name": "fries",
+    "alt_names": [
+
+    ],
     "file": "1f35f"
   },
   {
     "name": "frog",
+    "alt_names": [
+
+    ],
     "file": "1f438"
   },
   {
     "name": "frowning",
+    "alt_names": [
+
+    ],
     "file": "1f626"
   },
   {
     "name": "fuelpump",
+    "alt_names": [
+
+    ],
     "file": "26fd"
   },
   {
     "name": "full_moon",
+    "alt_names": [
+
+    ],
     "file": "1f315"
   },
   {
     "name": "full_moon_with_face",
+    "alt_names": [
+
+    ],
     "file": "1f31d"
   },
   {
     "name": "funeral_urn",
+    "alt_names": [
+
+    ],
     "file": "26b1"
   },
   {
     "name": "game_die",
+    "alt_names": [
+
+    ],
     "file": "1f3b2"
   },
   {
     "name": "gb",
+    "alt_names": [
+      "uk",
+      "flag-gb"
+    ],
     "file": "1f1ec"
   },
   {
     "name": "gear",
+    "alt_names": [
+
+    ],
     "file": "2699"
   },
   {
     "name": "gem",
+    "alt_names": [
+
+    ],
     "file": "1f48e"
   },
   {
     "name": "gemini",
+    "alt_names": [
+
+    ],
     "file": "264a"
   },
   {
     "name": "genie",
+    "alt_names": [
+
+    ],
     "file": "1f9de"
   },
   {
     "name": "ghost",
+    "alt_names": [
+
+    ],
     "file": "1f47b"
   },
   {
     "name": "gift",
+    "alt_names": [
+
+    ],
     "file": "1f381"
   },
   {
     "name": "gift_heart",
+    "alt_names": [
+
+    ],
     "file": "1f49d"
   },
   {
     "name": "giraffe_face",
+    "alt_names": [
+
+    ],
     "file": "1f992"
   },
   {
     "name": "girl",
+    "alt_names": [
+
+    ],
     "file": "1f467"
   },
   {
     "name": "glass_of_milk",
+    "alt_names": [
+
+    ],
     "file": "1f95b"
   },
   {
     "name": "globe_with_meridians",
+    "alt_names": [
+
+    ],
     "file": "1f310"
   },
   {
     "name": "gloves",
+    "alt_names": [
+
+    ],
     "file": "1f9e4"
   },
   {
     "name": "goal_net",
+    "alt_names": [
+
+    ],
     "file": "1f945"
   },
   {
     "name": "goat",
+    "alt_names": [
+
+    ],
     "file": "1f410"
   },
   {
     "name": "golf",
+    "alt_names": [
+
+    ],
     "file": "26f3"
   },
   {
     "name": "golfer",
+    "alt_names": [
+
+    ],
     "file": "1f3cc"
   },
   {
     "name": "gorilla",
+    "alt_names": [
+
+    ],
     "file": "1f98d"
   },
   {
     "name": "grapes",
+    "alt_names": [
+
+    ],
     "file": "1f347"
   },
   {
     "name": "green_apple",
+    "alt_names": [
+
+    ],
     "file": "1f34f"
   },
   {
     "name": "green_book",
+    "alt_names": [
+
+    ],
     "file": "1f4d7"
   },
   {
     "name": "green_heart",
+    "alt_names": [
+
+    ],
     "file": "1f49a"
   },
   {
     "name": "green_salad",
+    "alt_names": [
+
+    ],
     "file": "1f957"
   },
   {
     "name": "grey_exclamation",
+    "alt_names": [
+
+    ],
     "file": "2755"
   },
   {
     "name": "grey_question",
+    "alt_names": [
+
+    ],
     "file": "2754"
   },
   {
     "name": "grimacing",
+    "alt_names": [
+
+    ],
     "file": "1f62c"
   },
   {
     "name": "grin",
+    "alt_names": [
+
+    ],
     "file": "1f601"
   },
   {
     "name": "grinning",
+    "alt_names": [
+
+    ],
     "file": "1f600"
   },
   {
     "name": "grinning_face_with_one_large_and_one_small_eye",
+    "alt_names": [
+
+    ],
     "file": "1f92a"
   },
   {
     "name": "grinning_face_with_star_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f929"
   },
   {
     "name": "guardsman",
+    "alt_names": [
+
+    ],
     "file": "1f482"
   },
   {
     "name": "guitar",
+    "alt_names": [
+
+    ],
     "file": "1f3b8"
   },
   {
     "name": "gun",
+    "alt_names": [
+
+    ],
     "file": "1f52b"
   },
   {
     "name": "haircut",
+    "alt_names": [
+
+    ],
     "file": "1f487"
   },
   {
     "name": "hamburger",
+    "alt_names": [
+
+    ],
     "file": "1f354"
   },
   {
     "name": "hammer",
+    "alt_names": [
+
+    ],
     "file": "1f528"
   },
   {
     "name": "hammer_and_pick",
+    "alt_names": [
+
+    ],
     "file": "2692"
   },
   {
     "name": "hammer_and_wrench",
+    "alt_names": [
+
+    ],
     "file": "1f6e0"
   },
   {
     "name": "hamster",
+    "alt_names": [
+
+    ],
     "file": "1f439"
   },
   {
     "name": "hand",
+    "alt_names": [
+      "raised_hand"
+    ],
     "file": "270b"
   },
   {
     "name": "hand_with_index_and_middle_fingers_crossed",
+    "alt_names": [
+
+    ],
     "file": "1f91e"
   },
   {
     "name": "handbag",
+    "alt_names": [
+
+    ],
     "file": "1f45c"
   },
   {
     "name": "handball",
+    "alt_names": [
+
+    ],
     "file": "1f93e"
   },
   {
     "name": "handshake",
+    "alt_names": [
+
+    ],
     "file": "1f91d"
   },
   {
     "name": "hankey",
+    "alt_names": [
+      "poop",
+      "shit"
+    ],
     "file": "1f4a9"
   },
   {
     "name": "hash",
+    "alt_names": [
+
+    ],
     "file": "23-20e3"
   },
   {
     "name": "hatched_chick",
+    "alt_names": [
+
+    ],
     "file": "1f425"
   },
   {
     "name": "hatching_chick",
+    "alt_names": [
+
+    ],
     "file": "1f423"
   },
   {
     "name": "headphones",
+    "alt_names": [
+
+    ],
     "file": "1f3a7"
   },
   {
     "name": "hear_no_evil",
+    "alt_names": [
+
+    ],
     "file": "1f649"
   },
   {
     "name": "heart",
+    "alt_names": [
+
+    ],
     "file": "2764"
   },
   {
     "name": "heart_decoration",
+    "alt_names": [
+
+    ],
     "file": "1f49f"
   },
   {
     "name": "heart_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f60d"
   },
   {
     "name": "heart_eyes_cat",
+    "alt_names": [
+
+    ],
     "file": "1f63b"
   },
   {
     "name": "heartbeat",
+    "alt_names": [
+
+    ],
     "file": "1f493"
   },
   {
     "name": "heartpulse",
+    "alt_names": [
+
+    ],
     "file": "1f497"
   },
   {
     "name": "hearts",
+    "alt_names": [
+
+    ],
     "file": "2665"
   },
   {
     "name": "heavy_check_mark",
+    "alt_names": [
+
+    ],
     "file": "2714"
   },
   {
     "name": "heavy_division_sign",
+    "alt_names": [
+
+    ],
     "file": "2797"
   },
   {
     "name": "heavy_dollar_sign",
+    "alt_names": [
+
+    ],
     "file": "1f4b2"
   },
   {
     "name": "heavy_heart_exclamation_mark_ornament",
+    "alt_names": [
+
+    ],
     "file": "2763"
   },
   {
     "name": "heavy_minus_sign",
+    "alt_names": [
+
+    ],
     "file": "2796"
   },
   {
     "name": "heavy_multiplication_x",
+    "alt_names": [
+
+    ],
     "file": "2716"
   },
   {
     "name": "heavy_plus_sign",
+    "alt_names": [
+
+    ],
     "file": "2795"
   },
   {
     "name": "hedgehog",
+    "alt_names": [
+
+    ],
     "file": "1f994"
   },
   {
     "name": "helicopter",
+    "alt_names": [
+
+    ],
     "file": "1f681"
   },
   {
     "name": "helmet_with_white_cross",
+    "alt_names": [
+
+    ],
     "file": "26d1"
   },
   {
     "name": "herb",
+    "alt_names": [
+
+    ],
     "file": "1f33f"
   },
   {
     "name": "hibiscus",
+    "alt_names": [
+
+    ],
     "file": "1f33a"
   },
   {
     "name": "high_brightness",
+    "alt_names": [
+
+    ],
     "file": "1f506"
   },
   {
     "name": "high_heel",
+    "alt_names": [
+
+    ],
     "file": "1f460"
   },
   {
     "name": "hocho",
+    "alt_names": [
+      "knife"
+    ],
     "file": "1f52a"
   },
   {
     "name": "hole",
+    "alt_names": [
+
+    ],
     "file": "1f573"
   },
   {
     "name": "honey_pot",
+    "alt_names": [
+
+    ],
     "file": "1f36f"
   },
   {
     "name": "horse",
+    "alt_names": [
+
+    ],
     "file": "1f434"
   },
   {
     "name": "horse_racing",
+    "alt_names": [
+
+    ],
     "file": "1f3c7"
   },
   {
     "name": "hospital",
+    "alt_names": [
+
+    ],
     "file": "1f3e5"
   },
   {
     "name": "hot_pepper",
+    "alt_names": [
+
+    ],
     "file": "1f336"
   },
   {
     "name": "hotdog",
+    "alt_names": [
+
+    ],
     "file": "1f32d"
   },
   {
     "name": "hotel",
+    "alt_names": [
+
+    ],
     "file": "1f3e8"
   },
   {
     "name": "hotsprings",
+    "alt_names": [
+
+    ],
     "file": "2668"
   },
   {
     "name": "hourglass",
+    "alt_names": [
+
+    ],
     "file": "231b"
   },
   {
     "name": "hourglass_flowing_sand",
+    "alt_names": [
+
+    ],
     "file": "23f3"
   },
   {
     "name": "house",
+    "alt_names": [
+
+    ],
     "file": "1f3e0"
   },
   {
     "name": "house_buildings",
+    "alt_names": [
+
+    ],
     "file": "1f3d8"
   },
   {
     "name": "house_with_garden",
+    "alt_names": [
+
+    ],
     "file": "1f3e1"
   },
   {
     "name": "hugging_face",
+    "alt_names": [
+
+    ],
     "file": "1f917"
   },
   {
     "name": "hushed",
+    "alt_names": [
+
+    ],
     "file": "1f62f"
   },
   {
     "name": "i_love_you_hand_sign",
+    "alt_names": [
+
+    ],
     "file": "1f91f"
   },
   {
     "name": "ice_cream",
+    "alt_names": [
+
+    ],
     "file": "1f368"
   },
   {
     "name": "ice_hockey_stick_and_puck",
+    "alt_names": [
+
+    ],
     "file": "1f3d2"
   },
   {
     "name": "ice_skate",
+    "alt_names": [
+
+    ],
     "file": "26f8"
   },
   {
     "name": "icecream",
+    "alt_names": [
+
+    ],
     "file": "1f366"
   },
   {
     "name": "id",
+    "alt_names": [
+
+    ],
     "file": "1f194"
   },
   {
     "name": "ideograph_advantage",
+    "alt_names": [
+
+    ],
     "file": "1f250"
   },
   {
     "name": "imp",
+    "alt_names": [
+
+    ],
     "file": "1f47f"
   },
   {
     "name": "inbox_tray",
+    "alt_names": [
+
+    ],
     "file": "1f4e5"
   },
   {
     "name": "incoming_envelope",
+    "alt_names": [
+
+    ],
     "file": "1f4e8"
   },
   {
     "name": "information_desk_person",
+    "alt_names": [
+
+    ],
     "file": "1f481"
   },
   {
     "name": "information_source",
+    "alt_names": [
+
+    ],
     "file": "2139"
   },
   {
     "name": "innocent",
+    "alt_names": [
+
+    ],
     "file": "1f607"
   },
   {
     "name": "interrobang",
+    "alt_names": [
+
+    ],
     "file": "2049"
   },
   {
     "name": "iphone",
+    "alt_names": [
+
+    ],
     "file": "1f4f1"
   },
   {
     "name": "it",
+    "alt_names": [
+      "flag-it"
+    ],
     "file": "1f1ee"
   },
   {
     "name": "izakaya_lantern",
+    "alt_names": [
+      "lantern"
+    ],
     "file": "1f3ee"
   },
   {
     "name": "jack_o_lantern",
+    "alt_names": [
+
+    ],
     "file": "1f383"
   },
   {
     "name": "japan",
+    "alt_names": [
+
+    ],
     "file": "1f5fe"
   },
   {
     "name": "japanese_castle",
+    "alt_names": [
+
+    ],
     "file": "1f3ef"
   },
   {
     "name": "japanese_goblin",
+    "alt_names": [
+
+    ],
     "file": "1f47a"
   },
   {
     "name": "japanese_ogre",
+    "alt_names": [
+
+    ],
     "file": "1f479"
   },
   {
     "name": "jeans",
+    "alt_names": [
+
+    ],
     "file": "1f456"
   },
   {
     "name": "joy",
+    "alt_names": [
+
+    ],
     "file": "1f602"
   },
   {
     "name": "joy_cat",
+    "alt_names": [
+
+    ],
     "file": "1f639"
   },
   {
     "name": "joystick",
+    "alt_names": [
+
+    ],
     "file": "1f579"
   },
   {
     "name": "jp",
+    "alt_names": [
+      "flag-jp"
+    ],
     "file": "1f1ef"
   },
   {
     "name": "juggling",
+    "alt_names": [
+
+    ],
     "file": "1f939"
   },
   {
     "name": "kaaba",
+    "alt_names": [
+
+    ],
     "file": "1f54b"
   },
   {
     "name": "key",
+    "alt_names": [
+
+    ],
     "file": "1f511"
   },
   {
     "name": "keyboard",
+    "alt_names": [
+
+    ],
     "file": "2328"
   },
   {
     "name": "keycap_star",
+    "alt_names": [
+
+    ],
     "file": "2a-20e3"
   },
   {
     "name": "keycap_ten",
+    "alt_names": [
+
+    ],
     "file": "1f51f"
   },
   {
     "name": "kimono",
+    "alt_names": [
+
+    ],
     "file": "1f458"
   },
   {
     "name": "kiss",
+    "alt_names": [
+
+    ],
     "file": "1f48b"
   },
   {
     "name": "kissing",
+    "alt_names": [
+
+    ],
     "file": "1f617"
   },
   {
     "name": "kissing_cat",
+    "alt_names": [
+
+    ],
     "file": "1f63d"
   },
   {
     "name": "kissing_closed_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f61a"
   },
   {
     "name": "kissing_heart",
+    "alt_names": [
+
+    ],
     "file": "1f618"
   },
   {
     "name": "kissing_smiling_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f619"
   },
   {
     "name": "kiwifruit",
+    "alt_names": [
+
+    ],
     "file": "1f95d"
   },
   {
     "name": "knife_fork_plate",
+    "alt_names": [
+
+    ],
     "file": "1f37d"
   },
   {
     "name": "koala",
+    "alt_names": [
+
+    ],
     "file": "1f428"
   },
   {
     "name": "koko",
+    "alt_names": [
+
+    ],
     "file": "1f201"
   },
   {
     "name": "kr",
+    "alt_names": [
+      "flag-kr"
+    ],
     "file": "1f1f0"
   },
   {
     "name": "label",
+    "alt_names": [
+
+    ],
     "file": "1f3f7"
   },
   {
     "name": "large_blue_circle",
+    "alt_names": [
+
+    ],
     "file": "1f535"
   },
   {
     "name": "large_blue_diamond",
+    "alt_names": [
+
+    ],
     "file": "1f537"
   },
   {
     "name": "large_orange_diamond",
+    "alt_names": [
+
+    ],
     "file": "1f536"
   },
   {
     "name": "last_quarter_moon",
+    "alt_names": [
+
+    ],
     "file": "1f317"
   },
   {
     "name": "last_quarter_moon_with_face",
+    "alt_names": [
+
+    ],
     "file": "1f31c"
   },
   {
     "name": "latin_cross",
+    "alt_names": [
+
+    ],
     "file": "271d"
   },
   {
     "name": "laughing",
+    "alt_names": [
+      "satisfied"
+    ],
     "file": "1f606"
   },
   {
     "name": "leaves",
+    "alt_names": [
+
+    ],
     "file": "1f343"
   },
   {
     "name": "ledger",
+    "alt_names": [
+
+    ],
     "file": "1f4d2"
   },
   {
     "name": "left-facing_fist",
+    "alt_names": [
+
+    ],
     "file": "1f91b"
   },
   {
     "name": "left_luggage",
+    "alt_names": [
+
+    ],
     "file": "1f6c5"
   },
   {
     "name": "left_right_arrow",
+    "alt_names": [
+
+    ],
     "file": "2194"
   },
   {
     "name": "left_speech_bubble",
+    "alt_names": [
+
+    ],
     "file": "1f5e8"
   },
   {
     "name": "leftwards_arrow_with_hook",
+    "alt_names": [
+
+    ],
     "file": "21a9"
   },
   {
     "name": "lemon",
+    "alt_names": [
+
+    ],
     "file": "1f34b"
   },
   {
     "name": "leo",
+    "alt_names": [
+
+    ],
     "file": "264c"
   },
   {
     "name": "leopard",
+    "alt_names": [
+
+    ],
     "file": "1f406"
   },
   {
     "name": "level_slider",
+    "alt_names": [
+
+    ],
     "file": "1f39a"
   },
   {
     "name": "libra",
+    "alt_names": [
+
+    ],
     "file": "264e"
   },
   {
     "name": "light_rail",
+    "alt_names": [
+
+    ],
     "file": "1f688"
   },
   {
     "name": "lightning",
+    "alt_names": [
+      "lightning_cloud"
+    ],
     "file": "1f329"
   },
   {
     "name": "link",
+    "alt_names": [
+
+    ],
     "file": "1f517"
   },
   {
     "name": "linked_paperclips",
+    "alt_names": [
+
+    ],
     "file": "1f587"
   },
   {
     "name": "lion_face",
+    "alt_names": [
+
+    ],
     "file": "1f981"
   },
   {
     "name": "lips",
+    "alt_names": [
+
+    ],
     "file": "1f444"
   },
   {
     "name": "lipstick",
+    "alt_names": [
+
+    ],
     "file": "1f484"
   },
   {
     "name": "lizard",
+    "alt_names": [
+
+    ],
     "file": "1f98e"
   },
   {
     "name": "lock",
+    "alt_names": [
+
+    ],
     "file": "1f512"
   },
   {
     "name": "lock_with_ink_pen",
+    "alt_names": [
+
+    ],
     "file": "1f50f"
   },
   {
     "name": "lollipop",
+    "alt_names": [
+
+    ],
     "file": "1f36d"
   },
   {
     "name": "loop",
+    "alt_names": [
+
+    ],
     "file": "27bf"
   },
   {
     "name": "loud_sound",
+    "alt_names": [
+
+    ],
     "file": "1f50a"
   },
   {
     "name": "loudspeaker",
+    "alt_names": [
+
+    ],
     "file": "1f4e2"
   },
   {
     "name": "love_hotel",
+    "alt_names": [
+
+    ],
     "file": "1f3e9"
   },
   {
     "name": "love_letter",
+    "alt_names": [
+
+    ],
     "file": "1f48c"
   },
   {
     "name": "low_brightness",
+    "alt_names": [
+
+    ],
     "file": "1f505"
   },
   {
     "name": "lower_left_ballpoint_pen",
+    "alt_names": [
+
+    ],
     "file": "1f58a"
   },
   {
     "name": "lower_left_crayon",
+    "alt_names": [
+
+    ],
     "file": "1f58d"
   },
   {
     "name": "lower_left_fountain_pen",
+    "alt_names": [
+
+    ],
     "file": "1f58b"
   },
   {
     "name": "lower_left_paintbrush",
+    "alt_names": [
+
+    ],
     "file": "1f58c"
   },
   {
     "name": "lying_face",
+    "alt_names": [
+
+    ],
     "file": "1f925"
   },
   {
     "name": "m",
+    "alt_names": [
+
+    ],
     "file": "24c2"
   },
   {
     "name": "mag",
+    "alt_names": [
+
+    ],
     "file": "1f50d"
   },
   {
     "name": "mag_right",
+    "alt_names": [
+
+    ],
     "file": "1f50e"
   },
   {
     "name": "mage",
+    "alt_names": [
+
+    ],
     "file": "1f9d9"
   },
   {
     "name": "mahjong",
+    "alt_names": [
+
+    ],
     "file": "1f004"
   },
   {
     "name": "mailbox",
+    "alt_names": [
+
+    ],
     "file": "1f4eb"
   },
   {
     "name": "mailbox_closed",
+    "alt_names": [
+
+    ],
     "file": "1f4ea"
   },
   {
     "name": "mailbox_with_mail",
+    "alt_names": [
+
+    ],
     "file": "1f4ec"
   },
   {
     "name": "mailbox_with_no_mail",
+    "alt_names": [
+
+    ],
     "file": "1f4ed"
   },
   {
     "name": "male-artist",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-astronaut",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-construction-worker",
+    "alt_names": [
+
+    ],
     "file": "1f477"
   },
   {
     "name": "male-cook",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-detective",
+    "alt_names": [
+
+    ],
     "file": "1f575"
   },
   {
     "name": "male-doctor",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-factory-worker",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-farmer",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-firefighter",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-guard",
+    "alt_names": [
+
+    ],
     "file": "1f482"
   },
   {
     "name": "male-judge",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-mechanic",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-office-worker",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-pilot",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-police-officer",
+    "alt_names": [
+
+    ],
     "file": "1f46e"
   },
   {
     "name": "male-scientist",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-singer",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-student",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-teacher",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male-technologist",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "male_elf",
+    "alt_names": [
+
+    ],
     "file": "1f9dd"
   },
   {
     "name": "male_fairy",
+    "alt_names": [
+
+    ],
     "file": "1f9da"
   },
   {
     "name": "male_genie",
+    "alt_names": [
+
+    ],
     "file": "1f9de"
   },
   {
     "name": "male_mage",
+    "alt_names": [
+
+    ],
     "file": "1f9d9"
   },
   {
     "name": "male_sign",
+    "alt_names": [
+
+    ],
     "file": "2642"
   },
   {
     "name": "male_vampire",
+    "alt_names": [
+
+    ],
     "file": "1f9db"
   },
   {
     "name": "male_zombie",
+    "alt_names": [
+
+    ],
     "file": "1f9df"
   },
   {
     "name": "man",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-biking",
+    "alt_names": [
+
+    ],
     "file": "1f6b4"
   },
   {
     "name": "man-bouncing-ball",
+    "alt_names": [
+
+    ],
     "file": "26f9"
   },
   {
     "name": "man-bowing",
+    "alt_names": [
+
+    ],
     "file": "1f647"
   },
   {
     "name": "man-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-boy-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-cartwheeling",
+    "alt_names": [
+
+    ],
     "file": "1f938"
   },
   {
     "name": "man-facepalming",
+    "alt_names": [
+
+    ],
     "file": "1f926"
   },
   {
     "name": "man-frowning",
+    "alt_names": [
+
+    ],
     "file": "1f64d"
   },
   {
     "name": "man-gesturing-no",
+    "alt_names": [
+
+    ],
     "file": "1f645"
   },
   {
     "name": "man-gesturing-ok",
+    "alt_names": [
+
+    ],
     "file": "1f646"
   },
   {
     "name": "man-getting-haircut",
+    "alt_names": [
+
+    ],
     "file": "1f487"
   },
   {
     "name": "man-getting-massage",
+    "alt_names": [
+
+    ],
     "file": "1f486"
   },
   {
     "name": "man-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-girl-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-girl-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-golfing",
+    "alt_names": [
+
+    ],
     "file": "1f3cc"
   },
   {
     "name": "man-heart-man",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-juggling",
+    "alt_names": [
+
+    ],
     "file": "1f939"
   },
   {
     "name": "man-kiss-man",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-lifting-weights",
+    "alt_names": [
+
+    ],
     "file": "1f3cb"
   },
   {
     "name": "man-man-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-man-boy-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-man-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-man-girl-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-man-girl-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-mountain-biking",
+    "alt_names": [
+
+    ],
     "file": "1f6b5"
   },
   {
     "name": "man-playing-handball",
+    "alt_names": [
+
+    ],
     "file": "1f93e"
   },
   {
     "name": "man-playing-water-polo",
+    "alt_names": [
+
+    ],
     "file": "1f93d"
   },
   {
     "name": "man-pouting",
+    "alt_names": [
+
+    ],
     "file": "1f64e"
   },
   {
     "name": "man-raising-hand",
+    "alt_names": [
+
+    ],
     "file": "1f64b"
   },
   {
     "name": "man-rowing-boat",
+    "alt_names": [
+
+    ],
     "file": "1f6a3"
   },
   {
     "name": "man-running",
+    "alt_names": [
+
+    ],
     "file": "1f3c3"
   },
   {
     "name": "man-shrugging",
+    "alt_names": [
+
+    ],
     "file": "1f937"
   },
   {
     "name": "man-surfing",
+    "alt_names": [
+
+    ],
     "file": "1f3c4"
   },
   {
     "name": "man-swimming",
+    "alt_names": [
+
+    ],
     "file": "1f3ca"
   },
   {
     "name": "man-tipping-hand",
+    "alt_names": [
+
+    ],
     "file": "1f481"
   },
   {
     "name": "man-walking",
+    "alt_names": [
+
+    ],
     "file": "1f6b6"
   },
   {
     "name": "man-wearing-turban",
+    "alt_names": [
+
+    ],
     "file": "1f473"
   },
   {
     "name": "man-with-bunny-ears-partying",
+    "alt_names": [
+
+    ],
     "file": "1f46f"
   },
   {
     "name": "man-woman-boy",
+    "alt_names": [
+      "family"
+    ],
     "file": "1f468"
   },
   {
     "name": "man-woman-boy-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-woman-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-woman-girl-boy",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-woman-girl-girl",
+    "alt_names": [
+
+    ],
     "file": "1f468"
   },
   {
     "name": "man-wrestling",
+    "alt_names": [
+
+    ],
     "file": "1f93c"
   },
   {
     "name": "man_climbing",
+    "alt_names": [
+
+    ],
     "file": "1f9d7"
   },
   {
     "name": "man_dancing",
+    "alt_names": [
+
+    ],
     "file": "1f57a"
   },
   {
     "name": "man_in_business_suit_levitating",
+    "alt_names": [
+
+    ],
     "file": "1f574"
   },
   {
     "name": "man_in_lotus_position",
+    "alt_names": [
+
+    ],
     "file": "1f9d8"
   },
   {
     "name": "man_in_steamy_room",
+    "alt_names": [
+
+    ],
     "file": "1f9d6"
   },
   {
     "name": "man_in_tuxedo",
+    "alt_names": [
+
+    ],
     "file": "1f935"
   },
   {
     "name": "man_with_gua_pi_mao",
+    "alt_names": [
+
+    ],
     "file": "1f472"
   },
   {
     "name": "man_with_turban",
+    "alt_names": [
+
+    ],
     "file": "1f473"
   },
   {
     "name": "mans_shoe",
+    "alt_names": [
+      "shoe"
+    ],
     "file": "1f45e"
   },
   {
     "name": "mantelpiece_clock",
+    "alt_names": [
+
+    ],
     "file": "1f570"
   },
   {
     "name": "maple_leaf",
+    "alt_names": [
+
+    ],
     "file": "1f341"
   },
   {
     "name": "martial_arts_uniform",
+    "alt_names": [
+
+    ],
     "file": "1f94b"
   },
   {
     "name": "mask",
+    "alt_names": [
+
+    ],
     "file": "1f637"
   },
   {
     "name": "massage",
+    "alt_names": [
+
+    ],
     "file": "1f486"
   },
   {
     "name": "meat_on_bone",
+    "alt_names": [
+
+    ],
     "file": "1f356"
   },
   {
     "name": "medal",
+    "alt_names": [
+
+    ],
     "file": "1f396"
   },
   {
     "name": "mega",
+    "alt_names": [
+
+    ],
     "file": "1f4e3"
   },
   {
     "name": "melon",
+    "alt_names": [
+
+    ],
     "file": "1f348"
   },
   {
     "name": "memo",
+    "alt_names": [
+      "pencil"
+    ],
     "file": "1f4dd"
   },
   {
     "name": "menorah_with_nine_branches",
+    "alt_names": [
+
+    ],
     "file": "1f54e"
   },
   {
     "name": "mens",
+    "alt_names": [
+
+    ],
     "file": "1f6b9"
   },
   {
     "name": "mermaid",
+    "alt_names": [
+
+    ],
     "file": "1f9dc"
   },
   {
     "name": "merman",
+    "alt_names": [
+
+    ],
     "file": "1f9dc"
   },
   {
     "name": "merperson",
+    "alt_names": [
+
+    ],
     "file": "1f9dc"
   },
   {
     "name": "metro",
+    "alt_names": [
+
+    ],
     "file": "1f687"
   },
   {
     "name": "microphone",
+    "alt_names": [
+
+    ],
     "file": "1f3a4"
   },
   {
     "name": "microscope",
+    "alt_names": [
+
+    ],
     "file": "1f52c"
   },
   {
     "name": "middle_finger",
+    "alt_names": [
+      "reversed_hand_with_middle_finger_extended"
+    ],
     "file": "1f595"
   },
   {
     "name": "milky_way",
+    "alt_names": [
+
+    ],
     "file": "1f30c"
   },
   {
     "name": "minibus",
+    "alt_names": [
+
+    ],
     "file": "1f690"
   },
   {
     "name": "minidisc",
+    "alt_names": [
+
+    ],
     "file": "1f4bd"
   },
   {
     "name": "mobile_phone_off",
+    "alt_names": [
+
+    ],
     "file": "1f4f4"
   },
   {
     "name": "money_mouth_face",
+    "alt_names": [
+
+    ],
     "file": "1f911"
   },
   {
     "name": "money_with_wings",
+    "alt_names": [
+
+    ],
     "file": "1f4b8"
   },
   {
     "name": "moneybag",
+    "alt_names": [
+
+    ],
     "file": "1f4b0"
   },
   {
     "name": "monkey",
+    "alt_names": [
+
+    ],
     "file": "1f412"
   },
   {
     "name": "monkey_face",
+    "alt_names": [
+
+    ],
     "file": "1f435"
   },
   {
     "name": "monorail",
+    "alt_names": [
+
+    ],
     "file": "1f69d"
   },
   {
     "name": "moon",
+    "alt_names": [
+      "waxing_gibbous_moon"
+    ],
     "file": "1f314"
   },
   {
     "name": "mortar_board",
+    "alt_names": [
+
+    ],
     "file": "1f393"
   },
   {
     "name": "mosque",
+    "alt_names": [
+
+    ],
     "file": "1f54c"
   },
   {
     "name": "mostly_sunny",
+    "alt_names": [
+      "sun_small_cloud"
+    ],
     "file": "1f324"
   },
   {
     "name": "mother_christmas",
+    "alt_names": [
+
+    ],
     "file": "1f936"
   },
   {
     "name": "motor_boat",
+    "alt_names": [
+
+    ],
     "file": "1f6e5"
   },
   {
     "name": "motor_scooter",
+    "alt_names": [
+
+    ],
     "file": "1f6f5"
   },
   {
     "name": "motorway",
+    "alt_names": [
+
+    ],
     "file": "1f6e3"
   },
   {
     "name": "mount_fuji",
+    "alt_names": [
+
+    ],
     "file": "1f5fb"
   },
   {
     "name": "mountain",
+    "alt_names": [
+
+    ],
     "file": "26f0"
   },
   {
     "name": "mountain_bicyclist",
+    "alt_names": [
+
+    ],
     "file": "1f6b5"
   },
   {
     "name": "mountain_cableway",
+    "alt_names": [
+
+    ],
     "file": "1f6a0"
   },
   {
     "name": "mountain_railway",
+    "alt_names": [
+
+    ],
     "file": "1f69e"
   },
   {
     "name": "mouse",
+    "alt_names": [
+
+    ],
     "file": "1f42d"
   },
   {
     "name": "mouse2",
+    "alt_names": [
+
+    ],
     "file": "1f401"
   },
   {
     "name": "movie_camera",
+    "alt_names": [
+
+    ],
     "file": "1f3a5"
   },
   {
     "name": "moyai",
+    "alt_names": [
+
+    ],
     "file": "1f5ff"
   },
   {
     "name": "muscle",
+    "alt_names": [
+
+    ],
     "file": "1f4aa"
   },
   {
     "name": "mushroom",
+    "alt_names": [
+
+    ],
     "file": "1f344"
   },
   {
     "name": "musical_keyboard",
+    "alt_names": [
+
+    ],
     "file": "1f3b9"
   },
   {
     "name": "musical_note",
+    "alt_names": [
+
+    ],
     "file": "1f3b5"
   },
   {
     "name": "musical_score",
+    "alt_names": [
+
+    ],
     "file": "1f3bc"
   },
   {
     "name": "mute",
+    "alt_names": [
+
+    ],
     "file": "1f507"
   },
   {
     "name": "nail_care",
+    "alt_names": [
+
+    ],
     "file": "1f485"
   },
   {
     "name": "name_badge",
+    "alt_names": [
+
+    ],
     "file": "1f4db"
   },
   {
     "name": "national_park",
+    "alt_names": [
+
+    ],
     "file": "1f3de"
   },
   {
     "name": "nauseated_face",
+    "alt_names": [
+
+    ],
     "file": "1f922"
   },
   {
     "name": "necktie",
+    "alt_names": [
+
+    ],
     "file": "1f454"
   },
   {
     "name": "negative_squared_cross_mark",
+    "alt_names": [
+
+    ],
     "file": "274e"
   },
   {
     "name": "nerd_face",
+    "alt_names": [
+
+    ],
     "file": "1f913"
   },
   {
     "name": "neutral_face",
+    "alt_names": [
+
+    ],
     "file": "1f610"
   },
   {
     "name": "new",
+    "alt_names": [
+
+    ],
     "file": "1f195"
   },
   {
     "name": "new_moon",
+    "alt_names": [
+
+    ],
     "file": "1f311"
   },
   {
     "name": "new_moon_with_face",
+    "alt_names": [
+
+    ],
     "file": "1f31a"
   },
   {
     "name": "newspaper",
+    "alt_names": [
+
+    ],
     "file": "1f4f0"
   },
   {
     "name": "ng",
+    "alt_names": [
+
+    ],
     "file": "1f196"
   },
   {
     "name": "night_with_stars",
+    "alt_names": [
+
+    ],
     "file": "1f303"
   },
   {
     "name": "nine",
+    "alt_names": [
+
+    ],
     "file": "39-20e3"
   },
   {
     "name": "no_bell",
+    "alt_names": [
+
+    ],
     "file": "1f515"
   },
   {
     "name": "no_bicycles",
+    "alt_names": [
+
+    ],
     "file": "1f6b3"
   },
   {
     "name": "no_entry",
+    "alt_names": [
+
+    ],
     "file": "26d4"
   },
   {
     "name": "no_entry_sign",
+    "alt_names": [
+
+    ],
     "file": "1f6ab"
   },
   {
     "name": "no_good",
+    "alt_names": [
+
+    ],
     "file": "1f645"
   },
   {
     "name": "no_mobile_phones",
+    "alt_names": [
+
+    ],
     "file": "1f4f5"
   },
   {
     "name": "no_mouth",
+    "alt_names": [
+
+    ],
     "file": "1f636"
   },
   {
     "name": "no_pedestrians",
+    "alt_names": [
+
+    ],
     "file": "1f6b7"
   },
   {
     "name": "no_smoking",
+    "alt_names": [
+
+    ],
     "file": "1f6ad"
   },
   {
     "name": "non-potable_water",
+    "alt_names": [
+
+    ],
     "file": "1f6b1"
   },
   {
     "name": "nose",
+    "alt_names": [
+
+    ],
     "file": "1f443"
   },
   {
     "name": "notebook",
+    "alt_names": [
+
+    ],
     "file": "1f4d3"
   },
   {
     "name": "notebook_with_decorative_cover",
+    "alt_names": [
+
+    ],
     "file": "1f4d4"
   },
   {
     "name": "notes",
+    "alt_names": [
+
+    ],
     "file": "1f3b6"
   },
   {
     "name": "nut_and_bolt",
+    "alt_names": [
+
+    ],
     "file": "1f529"
   },
   {
     "name": "o",
+    "alt_names": [
+
+    ],
     "file": "2b55"
   },
   {
     "name": "o2",
+    "alt_names": [
+
+    ],
     "file": "1f17e"
   },
   {
     "name": "ocean",
+    "alt_names": [
+
+    ],
     "file": "1f30a"
   },
   {
     "name": "octagonal_sign",
+    "alt_names": [
+
+    ],
     "file": "1f6d1"
   },
   {
     "name": "octopus",
+    "alt_names": [
+
+    ],
     "file": "1f419"
   },
   {
     "name": "oden",
+    "alt_names": [
+
+    ],
     "file": "1f362"
   },
   {
     "name": "office",
+    "alt_names": [
+
+    ],
     "file": "1f3e2"
   },
   {
     "name": "oil_drum",
+    "alt_names": [
+
+    ],
     "file": "1f6e2"
   },
   {
     "name": "ok",
+    "alt_names": [
+
+    ],
     "file": "1f197"
   },
   {
     "name": "ok_hand",
+    "alt_names": [
+
+    ],
     "file": "1f44c"
   },
   {
     "name": "ok_woman",
+    "alt_names": [
+
+    ],
     "file": "1f646"
   },
   {
     "name": "old_key",
+    "alt_names": [
+
+    ],
     "file": "1f5dd"
   },
   {
     "name": "older_adult",
+    "alt_names": [
+
+    ],
     "file": "1f9d3"
   },
   {
     "name": "older_man",
+    "alt_names": [
+
+    ],
     "file": "1f474"
   },
   {
     "name": "older_woman",
+    "alt_names": [
+
+    ],
     "file": "1f475"
   },
   {
     "name": "om_symbol",
+    "alt_names": [
+
+    ],
     "file": "1f549"
   },
   {
     "name": "on",
+    "alt_names": [
+
+    ],
     "file": "1f51b"
   },
   {
     "name": "oncoming_automobile",
+    "alt_names": [
+
+    ],
     "file": "1f698"
   },
   {
     "name": "oncoming_bus",
+    "alt_names": [
+
+    ],
     "file": "1f68d"
   },
   {
     "name": "oncoming_police_car",
+    "alt_names": [
+
+    ],
     "file": "1f694"
   },
   {
     "name": "oncoming_taxi",
+    "alt_names": [
+
+    ],
     "file": "1f696"
   },
   {
     "name": "one",
+    "alt_names": [
+
+    ],
     "file": "31-20e3"
   },
   {
     "name": "open_file_folder",
+    "alt_names": [
+
+    ],
     "file": "1f4c2"
   },
   {
     "name": "open_hands",
+    "alt_names": [
+
+    ],
     "file": "1f450"
   },
   {
     "name": "open_mouth",
+    "alt_names": [
+
+    ],
     "file": "1f62e"
   },
   {
     "name": "ophiuchus",
+    "alt_names": [
+
+    ],
     "file": "26ce"
   },
   {
     "name": "orange_book",
+    "alt_names": [
+
+    ],
     "file": "1f4d9"
   },
   {
     "name": "orange_heart",
+    "alt_names": [
+
+    ],
     "file": "1f9e1"
   },
   {
     "name": "orthodox_cross",
+    "alt_names": [
+
+    ],
     "file": "2626"
   },
   {
     "name": "outbox_tray",
+    "alt_names": [
+
+    ],
     "file": "1f4e4"
   },
   {
     "name": "owl",
+    "alt_names": [
+
+    ],
     "file": "1f989"
   },
   {
     "name": "ox",
+    "alt_names": [
+
+    ],
     "file": "1f402"
   },
   {
     "name": "package",
+    "alt_names": [
+
+    ],
     "file": "1f4e6"
   },
   {
     "name": "page_facing_up",
+    "alt_names": [
+
+    ],
     "file": "1f4c4"
   },
   {
     "name": "page_with_curl",
+    "alt_names": [
+
+    ],
     "file": "1f4c3"
   },
   {
     "name": "pager",
+    "alt_names": [
+
+    ],
     "file": "1f4df"
   },
   {
     "name": "palm_tree",
+    "alt_names": [
+
+    ],
     "file": "1f334"
   },
   {
     "name": "palms_up_together",
+    "alt_names": [
+
+    ],
     "file": "1f932"
   },
   {
     "name": "pancakes",
+    "alt_names": [
+
+    ],
     "file": "1f95e"
   },
   {
     "name": "panda_face",
+    "alt_names": [
+
+    ],
     "file": "1f43c"
   },
   {
     "name": "paperclip",
+    "alt_names": [
+
+    ],
     "file": "1f4ce"
   },
   {
     "name": "parking",
+    "alt_names": [
+
+    ],
     "file": "1f17f"
   },
   {
     "name": "part_alternation_mark",
+    "alt_names": [
+
+    ],
     "file": "303d"
   },
   {
     "name": "partly_sunny",
+    "alt_names": [
+
+    ],
     "file": "26c5"
   },
   {
     "name": "partly_sunny_rain",
+    "alt_names": [
+      "sun_behind_rain_cloud"
+    ],
     "file": "1f326"
   },
   {
     "name": "passenger_ship",
+    "alt_names": [
+
+    ],
     "file": "1f6f3"
   },
   {
     "name": "passport_control",
+    "alt_names": [
+
+    ],
     "file": "1f6c2"
   },
   {
     "name": "peace_symbol",
+    "alt_names": [
+
+    ],
     "file": "262e"
   },
   {
     "name": "peach",
+    "alt_names": [
+
+    ],
     "file": "1f351"
   },
   {
     "name": "peanuts",
+    "alt_names": [
+
+    ],
     "file": "1f95c"
   },
   {
     "name": "pear",
+    "alt_names": [
+
+    ],
     "file": "1f350"
   },
   {
     "name": "pencil2",
+    "alt_names": [
+
+    ],
     "file": "270f"
   },
   {
     "name": "penguin",
+    "alt_names": [
+
+    ],
     "file": "1f427"
   },
   {
     "name": "pensive",
+    "alt_names": [
+
+    ],
     "file": "1f614"
   },
   {
     "name": "performing_arts",
+    "alt_names": [
+
+    ],
     "file": "1f3ad"
   },
   {
     "name": "persevere",
+    "alt_names": [
+
+    ],
     "file": "1f623"
   },
   {
     "name": "person_climbing",
+    "alt_names": [
+
+    ],
     "file": "1f9d7"
   },
   {
     "name": "person_doing_cartwheel",
+    "alt_names": [
+
+    ],
     "file": "1f938"
   },
   {
     "name": "person_frowning",
+    "alt_names": [
+
+    ],
     "file": "1f64d"
   },
   {
     "name": "person_in_lotus_position",
+    "alt_names": [
+
+    ],
     "file": "1f9d8"
   },
   {
     "name": "person_in_steamy_room",
+    "alt_names": [
+
+    ],
     "file": "1f9d6"
   },
   {
     "name": "person_with_ball",
+    "alt_names": [
+
+    ],
     "file": "26f9"
   },
   {
     "name": "person_with_blond_hair",
+    "alt_names": [
+
+    ],
     "file": "1f471"
   },
   {
     "name": "person_with_headscarf",
+    "alt_names": [
+
+    ],
     "file": "1f9d5"
   },
   {
     "name": "person_with_pouting_face",
+    "alt_names": [
+
+    ],
     "file": "1f64e"
   },
   {
     "name": "phone",
+    "alt_names": [
+      "telephone"
+    ],
     "file": "260e"
   },
   {
     "name": "pick",
+    "alt_names": [
+
+    ],
     "file": "26cf"
   },
   {
     "name": "pie",
+    "alt_names": [
+
+    ],
     "file": "1f967"
   },
   {
     "name": "pig",
+    "alt_names": [
+
+    ],
     "file": "1f437"
   },
   {
     "name": "pig2",
+    "alt_names": [
+
+    ],
     "file": "1f416"
   },
   {
     "name": "pig_nose",
+    "alt_names": [
+
+    ],
     "file": "1f43d"
   },
   {
     "name": "pill",
+    "alt_names": [
+
+    ],
     "file": "1f48a"
   },
   {
     "name": "pineapple",
+    "alt_names": [
+
+    ],
     "file": "1f34d"
   },
   {
     "name": "pisces",
+    "alt_names": [
+
+    ],
     "file": "2653"
   },
   {
     "name": "pizza",
+    "alt_names": [
+
+    ],
     "file": "1f355"
   },
   {
     "name": "place_of_worship",
+    "alt_names": [
+
+    ],
     "file": "1f6d0"
   },
   {
     "name": "point_down",
+    "alt_names": [
+
+    ],
     "file": "1f447"
   },
   {
     "name": "point_left",
+    "alt_names": [
+
+    ],
     "file": "1f448"
   },
   {
     "name": "point_right",
+    "alt_names": [
+
+    ],
     "file": "1f449"
   },
   {
     "name": "point_up",
+    "alt_names": [
+
+    ],
     "file": "261d"
   },
   {
     "name": "point_up_2",
+    "alt_names": [
+
+    ],
     "file": "1f446"
   },
   {
     "name": "police_car",
+    "alt_names": [
+
+    ],
     "file": "1f693"
   },
   {
     "name": "poodle",
+    "alt_names": [
+
+    ],
     "file": "1f429"
   },
   {
     "name": "popcorn",
+    "alt_names": [
+
+    ],
     "file": "1f37f"
   },
   {
     "name": "post_office",
+    "alt_names": [
+
+    ],
     "file": "1f3e3"
   },
   {
     "name": "postal_horn",
+    "alt_names": [
+
+    ],
     "file": "1f4ef"
   },
   {
     "name": "postbox",
+    "alt_names": [
+
+    ],
     "file": "1f4ee"
   },
   {
     "name": "potable_water",
+    "alt_names": [
+
+    ],
     "file": "1f6b0"
   },
   {
     "name": "potato",
+    "alt_names": [
+
+    ],
     "file": "1f954"
   },
   {
     "name": "pouch",
+    "alt_names": [
+
+    ],
     "file": "1f45d"
   },
   {
     "name": "poultry_leg",
+    "alt_names": [
+
+    ],
     "file": "1f357"
   },
   {
     "name": "pound",
+    "alt_names": [
+
+    ],
     "file": "1f4b7"
   },
   {
     "name": "pouting_cat",
+    "alt_names": [
+
+    ],
     "file": "1f63e"
   },
   {
     "name": "pray",
+    "alt_names": [
+
+    ],
     "file": "1f64f"
   },
   {
     "name": "prayer_beads",
+    "alt_names": [
+
+    ],
     "file": "1f4ff"
   },
   {
     "name": "pregnant_woman",
+    "alt_names": [
+
+    ],
     "file": "1f930"
   },
   {
     "name": "pretzel",
+    "alt_names": [
+
+    ],
     "file": "1f968"
   },
   {
     "name": "prince",
+    "alt_names": [
+
+    ],
     "file": "1f934"
   },
   {
     "name": "princess",
+    "alt_names": [
+
+    ],
     "file": "1f478"
   },
   {
     "name": "printer",
+    "alt_names": [
+
+    ],
     "file": "1f5a8"
   },
   {
     "name": "purple_heart",
+    "alt_names": [
+
+    ],
     "file": "1f49c"
   },
   {
     "name": "purse",
+    "alt_names": [
+
+    ],
     "file": "1f45b"
   },
   {
     "name": "pushpin",
+    "alt_names": [
+
+    ],
     "file": "1f4cc"
   },
   {
     "name": "put_litter_in_its_place",
+    "alt_names": [
+
+    ],
     "file": "1f6ae"
   },
   {
     "name": "question",
+    "alt_names": [
+
+    ],
     "file": "2753"
   },
   {
     "name": "rabbit",
+    "alt_names": [
+
+    ],
     "file": "1f430"
   },
   {
     "name": "rabbit2",
+    "alt_names": [
+
+    ],
     "file": "1f407"
   },
   {
     "name": "racehorse",
+    "alt_names": [
+
+    ],
     "file": "1f40e"
   },
   {
     "name": "racing_car",
+    "alt_names": [
+
+    ],
     "file": "1f3ce"
   },
   {
     "name": "racing_motorcycle",
+    "alt_names": [
+
+    ],
     "file": "1f3cd"
   },
   {
     "name": "radio",
+    "alt_names": [
+
+    ],
     "file": "1f4fb"
   },
   {
     "name": "radio_button",
+    "alt_names": [
+
+    ],
     "file": "1f518"
   },
   {
     "name": "radioactive_sign",
+    "alt_names": [
+
+    ],
     "file": "2622"
   },
   {
     "name": "rage",
+    "alt_names": [
+
+    ],
     "file": "1f621"
   },
   {
     "name": "railway_car",
+    "alt_names": [
+
+    ],
     "file": "1f683"
   },
   {
     "name": "railway_track",
+    "alt_names": [
+
+    ],
     "file": "1f6e4"
   },
   {
     "name": "rain_cloud",
+    "alt_names": [
+
+    ],
     "file": "1f327"
   },
   {
     "name": "rainbow",
+    "alt_names": [
+
+    ],
     "file": "1f308"
   },
   {
     "name": "rainbow-flag",
+    "alt_names": [
+
+    ],
     "file": "1f3f3"
   },
   {
     "name": "raised_back_of_hand",
+    "alt_names": [
+
+    ],
     "file": "1f91a"
   },
   {
     "name": "raised_hand_with_fingers_splayed",
+    "alt_names": [
+
+    ],
     "file": "1f590"
   },
   {
     "name": "raised_hands",
+    "alt_names": [
+
+    ],
     "file": "1f64c"
   },
   {
     "name": "raising_hand",
+    "alt_names": [
+
+    ],
     "file": "1f64b"
   },
   {
     "name": "ram",
+    "alt_names": [
+
+    ],
     "file": "1f40f"
   },
   {
     "name": "ramen",
+    "alt_names": [
+
+    ],
     "file": "1f35c"
   },
   {
     "name": "rat",
+    "alt_names": [
+
+    ],
     "file": "1f400"
   },
   {
     "name": "recycle",
+    "alt_names": [
+
+    ],
     "file": "267b"
   },
   {
     "name": "red_circle",
+    "alt_names": [
+
+    ],
     "file": "1f534"
   },
   {
     "name": "relaxed",
+    "alt_names": [
+
+    ],
     "file": "263a"
   },
   {
     "name": "relieved",
+    "alt_names": [
+
+    ],
     "file": "1f60c"
   },
   {
     "name": "reminder_ribbon",
+    "alt_names": [
+
+    ],
     "file": "1f397"
   },
   {
     "name": "repeat",
+    "alt_names": [
+
+    ],
     "file": "1f501"
   },
   {
     "name": "repeat_one",
+    "alt_names": [
+
+    ],
     "file": "1f502"
   },
   {
     "name": "restroom",
+    "alt_names": [
+
+    ],
     "file": "1f6bb"
   },
   {
     "name": "revolving_hearts",
+    "alt_names": [
+
+    ],
     "file": "1f49e"
   },
   {
     "name": "rewind",
+    "alt_names": [
+
+    ],
     "file": "23ea"
   },
   {
     "name": "rhinoceros",
+    "alt_names": [
+
+    ],
     "file": "1f98f"
   },
   {
     "name": "ribbon",
+    "alt_names": [
+
+    ],
     "file": "1f380"
   },
   {
     "name": "rice",
+    "alt_names": [
+
+    ],
     "file": "1f35a"
   },
   {
     "name": "rice_ball",
+    "alt_names": [
+
+    ],
     "file": "1f359"
   },
   {
     "name": "rice_cracker",
+    "alt_names": [
+
+    ],
     "file": "1f358"
   },
   {
     "name": "rice_scene",
+    "alt_names": [
+
+    ],
     "file": "1f391"
   },
   {
     "name": "right-facing_fist",
+    "alt_names": [
+
+    ],
     "file": "1f91c"
   },
   {
     "name": "right_anger_bubble",
+    "alt_names": [
+
+    ],
     "file": "1f5ef"
   },
   {
     "name": "ring",
+    "alt_names": [
+
+    ],
     "file": "1f48d"
   },
   {
     "name": "robot_face",
+    "alt_names": [
+
+    ],
     "file": "1f916"
   },
   {
     "name": "rocket",
+    "alt_names": [
+
+    ],
     "file": "1f680"
   },
   {
     "name": "rolled_up_newspaper",
+    "alt_names": [
+
+    ],
     "file": "1f5de"
   },
   {
     "name": "roller_coaster",
+    "alt_names": [
+
+    ],
     "file": "1f3a2"
   },
   {
     "name": "rolling_on_the_floor_laughing",
+    "alt_names": [
+
+    ],
     "file": "1f923"
   },
   {
     "name": "rooster",
+    "alt_names": [
+
+    ],
     "file": "1f413"
   },
   {
     "name": "rose",
+    "alt_names": [
+
+    ],
     "file": "1f339"
   },
   {
     "name": "rosette",
+    "alt_names": [
+
+    ],
     "file": "1f3f5"
   },
   {
     "name": "rotating_light",
+    "alt_names": [
+
+    ],
     "file": "1f6a8"
   },
   {
     "name": "round_pushpin",
+    "alt_names": [
+
+    ],
     "file": "1f4cd"
   },
   {
     "name": "rowboat",
+    "alt_names": [
+
+    ],
     "file": "1f6a3"
   },
   {
     "name": "ru",
+    "alt_names": [
+      "flag-ru"
+    ],
     "file": "1f1f7"
   },
   {
     "name": "rugby_football",
+    "alt_names": [
+
+    ],
     "file": "1f3c9"
   },
   {
     "name": "runner",
+    "alt_names": [
+      "running"
+    ],
     "file": "1f3c3"
   },
   {
     "name": "running_shirt_with_sash",
+    "alt_names": [
+
+    ],
     "file": "1f3bd"
   },
   {
     "name": "sa",
+    "alt_names": [
+
+    ],
     "file": "1f202"
   },
   {
     "name": "sagittarius",
+    "alt_names": [
+
+    ],
     "file": "2650"
   },
   {
     "name": "sake",
+    "alt_names": [
+
+    ],
     "file": "1f376"
   },
   {
     "name": "sandal",
+    "alt_names": [
+
+    ],
     "file": "1f461"
   },
   {
     "name": "sandwich",
+    "alt_names": [
+
+    ],
     "file": "1f96a"
   },
   {
     "name": "santa",
+    "alt_names": [
+
+    ],
     "file": "1f385"
   },
   {
     "name": "satellite",
+    "alt_names": [
+
+    ],
     "file": "1f6f0"
   },
   {
     "name": "satellite_antenna",
+    "alt_names": [
+
+    ],
     "file": "1f4e1"
   },
   {
     "name": "sauropod",
+    "alt_names": [
+
+    ],
     "file": "1f995"
   },
   {
     "name": "saxophone",
+    "alt_names": [
+
+    ],
     "file": "1f3b7"
   },
   {
     "name": "scales",
+    "alt_names": [
+
+    ],
     "file": "2696"
   },
   {
     "name": "scarf",
+    "alt_names": [
+
+    ],
     "file": "1f9e3"
   },
   {
     "name": "school",
+    "alt_names": [
+
+    ],
     "file": "1f3eb"
   },
   {
     "name": "school_satchel",
+    "alt_names": [
+
+    ],
     "file": "1f392"
   },
   {
     "name": "scissors",
+    "alt_names": [
+
+    ],
     "file": "2702"
   },
   {
     "name": "scooter",
+    "alt_names": [
+
+    ],
     "file": "1f6f4"
   },
   {
     "name": "scorpion",
+    "alt_names": [
+
+    ],
     "file": "1f982"
   },
   {
     "name": "scorpius",
+    "alt_names": [
+
+    ],
     "file": "264f"
   },
   {
     "name": "scream",
+    "alt_names": [
+
+    ],
     "file": "1f631"
   },
   {
     "name": "scream_cat",
+    "alt_names": [
+
+    ],
     "file": "1f640"
   },
   {
     "name": "scroll",
+    "alt_names": [
+
+    ],
     "file": "1f4dc"
   },
   {
     "name": "seat",
+    "alt_names": [
+
+    ],
     "file": "1f4ba"
   },
   {
     "name": "second_place_medal",
+    "alt_names": [
+
+    ],
     "file": "1f948"
   },
   {
     "name": "secret",
+    "alt_names": [
+
+    ],
     "file": "3299"
   },
   {
     "name": "see_no_evil",
+    "alt_names": [
+
+    ],
     "file": "1f648"
   },
   {
     "name": "seedling",
+    "alt_names": [
+
+    ],
     "file": "1f331"
   },
   {
     "name": "selfie",
+    "alt_names": [
+
+    ],
     "file": "1f933"
   },
   {
     "name": "serious_face_with_symbols_covering_mouth",
+    "alt_names": [
+
+    ],
     "file": "1f92c"
   },
   {
     "name": "seven",
+    "alt_names": [
+
+    ],
     "file": "37-20e3"
   },
   {
     "name": "shallow_pan_of_food",
+    "alt_names": [
+
+    ],
     "file": "1f958"
   },
   {
     "name": "shamrock",
+    "alt_names": [
+
+    ],
     "file": "2618"
   },
   {
     "name": "shark",
+    "alt_names": [
+
+    ],
     "file": "1f988"
   },
   {
     "name": "shaved_ice",
+    "alt_names": [
+
+    ],
     "file": "1f367"
   },
   {
     "name": "sheep",
+    "alt_names": [
+
+    ],
     "file": "1f411"
   },
   {
     "name": "shell",
+    "alt_names": [
+
+    ],
     "file": "1f41a"
   },
   {
     "name": "shield",
+    "alt_names": [
+
+    ],
     "file": "1f6e1"
   },
   {
     "name": "shinto_shrine",
+    "alt_names": [
+
+    ],
     "file": "26e9"
   },
   {
     "name": "ship",
+    "alt_names": [
+
+    ],
     "file": "1f6a2"
   },
   {
     "name": "shirt",
+    "alt_names": [
+      "tshirt"
+    ],
     "file": "1f455"
   },
   {
     "name": "shocked_face_with_exploding_head",
+    "alt_names": [
+
+    ],
     "file": "1f92f"
   },
   {
     "name": "shopping_bags",
+    "alt_names": [
+
+    ],
     "file": "1f6cd"
   },
   {
     "name": "shopping_trolley",
+    "alt_names": [
+
+    ],
     "file": "1f6d2"
   },
   {
     "name": "shower",
+    "alt_names": [
+
+    ],
     "file": "1f6bf"
   },
   {
     "name": "shrimp",
+    "alt_names": [
+
+    ],
     "file": "1f990"
   },
   {
     "name": "shrug",
+    "alt_names": [
+
+    ],
     "file": "1f937"
   },
   {
     "name": "signal_strength",
+    "alt_names": [
+
+    ],
     "file": "1f4f6"
   },
   {
     "name": "six",
+    "alt_names": [
+
+    ],
     "file": "36-20e3"
   },
   {
     "name": "six_pointed_star",
+    "alt_names": [
+
+    ],
     "file": "1f52f"
   },
   {
     "name": "ski",
+    "alt_names": [
+
+    ],
     "file": "1f3bf"
   },
   {
     "name": "skier",
+    "alt_names": [
+
+    ],
     "file": "26f7"
   },
   {
     "name": "skin-tone-2",
+    "alt_names": [
+
+    ],
     "file": "1f3fb"
   },
   {
     "name": "skin-tone-3",
+    "alt_names": [
+
+    ],
     "file": "1f3fc"
   },
   {
     "name": "skin-tone-4",
+    "alt_names": [
+
+    ],
     "file": "1f3fd"
   },
   {
     "name": "skin-tone-5",
+    "alt_names": [
+
+    ],
     "file": "1f3fe"
   },
   {
     "name": "skin-tone-6",
+    "alt_names": [
+
+    ],
     "file": "1f3ff"
   },
   {
     "name": "skull",
+    "alt_names": [
+
+    ],
     "file": "1f480"
   },
   {
     "name": "skull_and_crossbones",
+    "alt_names": [
+
+    ],
     "file": "2620"
   },
   {
     "name": "sled",
+    "alt_names": [
+
+    ],
     "file": "1f6f7"
   },
   {
     "name": "sleeping",
+    "alt_names": [
+
+    ],
     "file": "1f634"
   },
   {
     "name": "sleeping_accommodation",
+    "alt_names": [
+
+    ],
     "file": "1f6cc"
   },
   {
     "name": "sleepy",
+    "alt_names": [
+
+    ],
     "file": "1f62a"
   },
   {
     "name": "sleuth_or_spy",
+    "alt_names": [
+
+    ],
     "file": "1f575"
   },
   {
     "name": "slightly_frowning_face",
+    "alt_names": [
+
+    ],
     "file": "1f641"
   },
   {
     "name": "slightly_smiling_face",
+    "alt_names": [
+
+    ],
     "file": "1f642"
   },
   {
     "name": "slot_machine",
+    "alt_names": [
+
+    ],
     "file": "1f3b0"
   },
   {
     "name": "small_airplane",
+    "alt_names": [
+
+    ],
     "file": "1f6e9"
   },
   {
     "name": "small_blue_diamond",
+    "alt_names": [
+
+    ],
     "file": "1f539"
   },
   {
     "name": "small_orange_diamond",
+    "alt_names": [
+
+    ],
     "file": "1f538"
   },
   {
     "name": "small_red_triangle",
+    "alt_names": [
+
+    ],
     "file": "1f53a"
   },
   {
     "name": "small_red_triangle_down",
+    "alt_names": [
+
+    ],
     "file": "1f53b"
   },
   {
     "name": "smile",
+    "alt_names": [
+
+    ],
     "file": "1f604"
   },
   {
     "name": "smile_cat",
+    "alt_names": [
+
+    ],
     "file": "1f638"
   },
   {
     "name": "smiley",
+    "alt_names": [
+
+    ],
     "file": "1f603"
   },
   {
     "name": "smiley_cat",
+    "alt_names": [
+
+    ],
     "file": "1f63a"
   },
   {
     "name": "smiling_face_with_smiling_eyes_and_hand_covering_mouth",
+    "alt_names": [
+
+    ],
     "file": "1f92d"
   },
   {
     "name": "smiling_imp",
+    "alt_names": [
+
+    ],
     "file": "1f608"
   },
   {
     "name": "smirk",
+    "alt_names": [
+
+    ],
     "file": "1f60f"
   },
   {
     "name": "smirk_cat",
+    "alt_names": [
+
+    ],
     "file": "1f63c"
   },
   {
     "name": "smoking",
+    "alt_names": [
+
+    ],
     "file": "1f6ac"
   },
   {
     "name": "snail",
+    "alt_names": [
+
+    ],
     "file": "1f40c"
   },
   {
     "name": "snake",
+    "alt_names": [
+
+    ],
     "file": "1f40d"
   },
   {
     "name": "sneezing_face",
+    "alt_names": [
+
+    ],
     "file": "1f927"
   },
   {
     "name": "snow_capped_mountain",
+    "alt_names": [
+
+    ],
     "file": "1f3d4"
   },
   {
     "name": "snow_cloud",
+    "alt_names": [
+
+    ],
     "file": "1f328"
   },
   {
     "name": "snowboarder",
+    "alt_names": [
+
+    ],
     "file": "1f3c2"
   },
   {
     "name": "snowflake",
+    "alt_names": [
+
+    ],
     "file": "2744"
   },
   {
     "name": "snowman",
+    "alt_names": [
+
+    ],
     "file": "2603"
   },
   {
     "name": "snowman_without_snow",
+    "alt_names": [
+
+    ],
     "file": "26c4"
   },
   {
     "name": "sob",
+    "alt_names": [
+
+    ],
     "file": "1f62d"
   },
   {
     "name": "soccer",
+    "alt_names": [
+
+    ],
     "file": "26bd"
   },
   {
     "name": "socks",
+    "alt_names": [
+
+    ],
     "file": "1f9e6"
   },
   {
     "name": "soon",
+    "alt_names": [
+
+    ],
     "file": "1f51c"
   },
   {
     "name": "sos",
+    "alt_names": [
+
+    ],
     "file": "1f198"
   },
   {
     "name": "sound",
+    "alt_names": [
+
+    ],
     "file": "1f509"
   },
   {
     "name": "space_invader",
+    "alt_names": [
+
+    ],
     "file": "1f47e"
   },
   {
     "name": "spades",
+    "alt_names": [
+
+    ],
     "file": "2660"
   },
   {
     "name": "spaghetti",
+    "alt_names": [
+
+    ],
     "file": "1f35d"
   },
   {
     "name": "sparkle",
+    "alt_names": [
+
+    ],
     "file": "2747"
   },
   {
     "name": "sparkler",
+    "alt_names": [
+
+    ],
     "file": "1f387"
   },
   {
     "name": "sparkles",
+    "alt_names": [
+
+    ],
     "file": "2728"
   },
   {
     "name": "sparkling_heart",
+    "alt_names": [
+
+    ],
     "file": "1f496"
   },
   {
     "name": "speak_no_evil",
+    "alt_names": [
+
+    ],
     "file": "1f64a"
   },
   {
     "name": "speaker",
+    "alt_names": [
+
+    ],
     "file": "1f508"
   },
   {
     "name": "speaking_head_in_silhouette",
+    "alt_names": [
+
+    ],
     "file": "1f5e3"
   },
   {
     "name": "speech_balloon",
+    "alt_names": [
+
+    ],
     "file": "1f4ac"
   },
   {
     "name": "speedboat",
+    "alt_names": [
+
+    ],
     "file": "1f6a4"
   },
   {
     "name": "spider",
+    "alt_names": [
+
+    ],
     "file": "1f577"
   },
   {
     "name": "spider_web",
+    "alt_names": [
+
+    ],
     "file": "1f578"
   },
   {
     "name": "spiral_calendar_pad",
+    "alt_names": [
+
+    ],
     "file": "1f5d3"
   },
   {
     "name": "spiral_note_pad",
+    "alt_names": [
+
+    ],
     "file": "1f5d2"
   },
   {
     "name": "spock-hand",
+    "alt_names": [
+
+    ],
     "file": "1f596"
   },
   {
     "name": "spoon",
+    "alt_names": [
+
+    ],
     "file": "1f944"
   },
   {
     "name": "sports_medal",
+    "alt_names": [
+
+    ],
     "file": "1f3c5"
   },
   {
     "name": "squid",
+    "alt_names": [
+
+    ],
     "file": "1f991"
   },
   {
     "name": "stadium",
+    "alt_names": [
+
+    ],
     "file": "1f3df"
   },
   {
     "name": "staff_of_aesculapius",
+    "alt_names": [
+
+    ],
     "file": "2695"
   },
   {
     "name": "star",
+    "alt_names": [
+
+    ],
     "file": "2b50"
   },
   {
     "name": "star2",
+    "alt_names": [
+
+    ],
     "file": "1f31f"
   },
   {
     "name": "star_and_crescent",
+    "alt_names": [
+
+    ],
     "file": "262a"
   },
   {
     "name": "star_of_david",
+    "alt_names": [
+
+    ],
     "file": "2721"
   },
   {
     "name": "stars",
+    "alt_names": [
+
+    ],
     "file": "1f320"
   },
   {
     "name": "station",
+    "alt_names": [
+
+    ],
     "file": "1f689"
   },
   {
     "name": "statue_of_liberty",
+    "alt_names": [
+
+    ],
     "file": "1f5fd"
   },
   {
     "name": "steam_locomotive",
+    "alt_names": [
+
+    ],
     "file": "1f682"
   },
   {
     "name": "stew",
+    "alt_names": [
+
+    ],
     "file": "1f372"
   },
   {
     "name": "stopwatch",
+    "alt_names": [
+
+    ],
     "file": "23f1"
   },
   {
     "name": "straight_ruler",
+    "alt_names": [
+
+    ],
     "file": "1f4cf"
   },
   {
     "name": "strawberry",
+    "alt_names": [
+
+    ],
     "file": "1f353"
   },
   {
     "name": "stuck_out_tongue",
+    "alt_names": [
+
+    ],
     "file": "1f61b"
   },
   {
     "name": "stuck_out_tongue_closed_eyes",
+    "alt_names": [
+
+    ],
     "file": "1f61d"
   },
   {
     "name": "stuck_out_tongue_winking_eye",
+    "alt_names": [
+
+    ],
     "file": "1f61c"
   },
   {
     "name": "studio_microphone",
+    "alt_names": [
+
+    ],
     "file": "1f399"
   },
   {
     "name": "stuffed_flatbread",
+    "alt_names": [
+
+    ],
     "file": "1f959"
   },
   {
     "name": "sun_with_face",
+    "alt_names": [
+
+    ],
     "file": "1f31e"
   },
   {
     "name": "sunflower",
+    "alt_names": [
+
+    ],
     "file": "1f33b"
   },
   {
     "name": "sunglasses",
+    "alt_names": [
+
+    ],
     "file": "1f60e"
   },
   {
     "name": "sunny",
+    "alt_names": [
+
+    ],
     "file": "2600"
   },
   {
     "name": "sunrise",
+    "alt_names": [
+
+    ],
     "file": "1f305"
   },
   {
     "name": "sunrise_over_mountains",
+    "alt_names": [
+
+    ],
     "file": "1f304"
   },
   {
     "name": "surfer",
+    "alt_names": [
+
+    ],
     "file": "1f3c4"
   },
   {
     "name": "sushi",
+    "alt_names": [
+
+    ],
     "file": "1f363"
   },
   {
     "name": "suspension_railway",
+    "alt_names": [
+
+    ],
     "file": "1f69f"
   },
   {
     "name": "sweat",
+    "alt_names": [
+
+    ],
     "file": "1f613"
   },
   {
     "name": "sweat_drops",
+    "alt_names": [
+
+    ],
     "file": "1f4a6"
   },
   {
     "name": "sweat_smile",
+    "alt_names": [
+
+    ],
     "file": "1f605"
   },
   {
     "name": "sweet_potato",
+    "alt_names": [
+
+    ],
     "file": "1f360"
   },
   {
     "name": "swimmer",
+    "alt_names": [
+
+    ],
     "file": "1f3ca"
   },
   {
     "name": "symbols",
+    "alt_names": [
+
+    ],
     "file": "1f523"
   },
   {
     "name": "synagogue",
+    "alt_names": [
+
+    ],
     "file": "1f54d"
   },
   {
     "name": "syringe",
+    "alt_names": [
+
+    ],
     "file": "1f489"
   },
   {
     "name": "t-rex",
+    "alt_names": [
+
+    ],
     "file": "1f996"
   },
   {
     "name": "table_tennis_paddle_and_ball",
+    "alt_names": [
+
+    ],
     "file": "1f3d3"
   },
   {
     "name": "taco",
+    "alt_names": [
+
+    ],
     "file": "1f32e"
   },
   {
     "name": "tada",
+    "alt_names": [
+
+    ],
     "file": "1f389"
   },
   {
     "name": "takeout_box",
+    "alt_names": [
+
+    ],
     "file": "1f961"
   },
   {
     "name": "tanabata_tree",
+    "alt_names": [
+
+    ],
     "file": "1f38b"
   },
   {
     "name": "tangerine",
+    "alt_names": [
+
+    ],
     "file": "1f34a"
   },
   {
     "name": "taurus",
+    "alt_names": [
+
+    ],
     "file": "2649"
   },
   {
     "name": "taxi",
+    "alt_names": [
+
+    ],
     "file": "1f695"
   },
   {
     "name": "tea",
+    "alt_names": [
+
+    ],
     "file": "1f375"
   },
   {
     "name": "telephone_receiver",
+    "alt_names": [
+
+    ],
     "file": "1f4de"
   },
   {
     "name": "telescope",
+    "alt_names": [
+
+    ],
     "file": "1f52d"
   },
   {
     "name": "tennis",
+    "alt_names": [
+
+    ],
     "file": "1f3be"
   },
   {
     "name": "tent",
+    "alt_names": [
+
+    ],
     "file": "26fa"
   },
   {
     "name": "the_horns",
+    "alt_names": [
+      "sign_of_the_horns"
+    ],
     "file": "1f918"
   },
   {
     "name": "thermometer",
+    "alt_names": [
+
+    ],
     "file": "1f321"
   },
   {
     "name": "thinking_face",
+    "alt_names": [
+
+    ],
     "file": "1f914"
   },
   {
     "name": "third_place_medal",
+    "alt_names": [
+
+    ],
     "file": "1f949"
   },
   {
     "name": "thought_balloon",
+    "alt_names": [
+
+    ],
     "file": "1f4ad"
   },
   {
     "name": "three",
+    "alt_names": [
+
+    ],
     "file": "33-20e3"
   },
   {
     "name": "three_button_mouse",
+    "alt_names": [
+
+    ],
     "file": "1f5b1"
   },
   {
     "name": "thunder_cloud_and_rain",
+    "alt_names": [
+
+    ],
     "file": "26c8"
   },
   {
     "name": "ticket",
+    "alt_names": [
+
+    ],
     "file": "1f3ab"
   },
   {
     "name": "tiger",
+    "alt_names": [
+
+    ],
     "file": "1f42f"
   },
   {
     "name": "tiger2",
+    "alt_names": [
+
+    ],
     "file": "1f405"
   },
   {
     "name": "timer_clock",
+    "alt_names": [
+
+    ],
     "file": "23f2"
   },
   {
     "name": "tired_face",
+    "alt_names": [
+
+    ],
     "file": "1f62b"
   },
   {
     "name": "tm",
+    "alt_names": [
+
+    ],
     "file": "2122"
   },
   {
     "name": "toilet",
+    "alt_names": [
+
+    ],
     "file": "1f6bd"
   },
   {
     "name": "tokyo_tower",
+    "alt_names": [
+
+    ],
     "file": "1f5fc"
   },
   {
     "name": "tomato",
+    "alt_names": [
+
+    ],
     "file": "1f345"
   },
   {
     "name": "tongue",
+    "alt_names": [
+
+    ],
     "file": "1f445"
   },
   {
     "name": "top",
+    "alt_names": [
+
+    ],
     "file": "1f51d"
   },
   {
     "name": "tophat",
+    "alt_names": [
+
+    ],
     "file": "1f3a9"
   },
   {
     "name": "tornado",
+    "alt_names": [
+      "tornado_cloud"
+    ],
     "file": "1f32a"
   },
   {
     "name": "trackball",
+    "alt_names": [
+
+    ],
     "file": "1f5b2"
   },
   {
     "name": "tractor",
+    "alt_names": [
+
+    ],
     "file": "1f69c"
   },
   {
     "name": "traffic_light",
+    "alt_names": [
+
+    ],
     "file": "1f6a5"
   },
   {
     "name": "train",
+    "alt_names": [
+
+    ],
     "file": "1f68b"
   },
   {
     "name": "train2",
+    "alt_names": [
+
+    ],
     "file": "1f686"
   },
   {
     "name": "tram",
+    "alt_names": [
+
+    ],
     "file": "1f68a"
   },
   {
     "name": "triangular_flag_on_post",
+    "alt_names": [
+
+    ],
     "file": "1f6a9"
   },
   {
     "name": "triangular_ruler",
+    "alt_names": [
+
+    ],
     "file": "1f4d0"
   },
   {
     "name": "trident",
+    "alt_names": [
+
+    ],
     "file": "1f531"
   },
   {
     "name": "triumph",
+    "alt_names": [
+
+    ],
     "file": "1f624"
   },
   {
     "name": "trolleybus",
+    "alt_names": [
+
+    ],
     "file": "1f68e"
   },
   {
     "name": "trophy",
+    "alt_names": [
+
+    ],
     "file": "1f3c6"
   },
   {
     "name": "tropical_drink",
+    "alt_names": [
+
+    ],
     "file": "1f379"
   },
   {
     "name": "tropical_fish",
+    "alt_names": [
+
+    ],
     "file": "1f420"
   },
   {
     "name": "truck",
+    "alt_names": [
+
+    ],
     "file": "1f69a"
   },
   {
     "name": "trumpet",
+    "alt_names": [
+
+    ],
     "file": "1f3ba"
   },
   {
     "name": "tulip",
+    "alt_names": [
+
+    ],
     "file": "1f337"
   },
   {
     "name": "tumbler_glass",
+    "alt_names": [
+
+    ],
     "file": "1f943"
   },
   {
     "name": "turkey",
+    "alt_names": [
+
+    ],
     "file": "1f983"
   },
   {
     "name": "turtle",
+    "alt_names": [
+
+    ],
     "file": "1f422"
   },
   {
     "name": "tv",
+    "alt_names": [
+
+    ],
     "file": "1f4fa"
   },
   {
     "name": "twisted_rightwards_arrows",
+    "alt_names": [
+
+    ],
     "file": "1f500"
   },
   {
     "name": "two",
+    "alt_names": [
+
+    ],
     "file": "32-20e3"
   },
   {
     "name": "two_hearts",
+    "alt_names": [
+
+    ],
     "file": "1f495"
   },
   {
     "name": "two_men_holding_hands",
+    "alt_names": [
+
+    ],
     "file": "1f46c"
   },
   {
     "name": "two_women_holding_hands",
+    "alt_names": [
+
+    ],
     "file": "1f46d"
   },
   {
     "name": "u5272",
+    "alt_names": [
+
+    ],
     "file": "1f239"
   },
   {
     "name": "u5408",
+    "alt_names": [
+
+    ],
     "file": "1f234"
   },
   {
     "name": "u55b6",
+    "alt_names": [
+
+    ],
     "file": "1f23a"
   },
   {
     "name": "u6307",
+    "alt_names": [
+
+    ],
     "file": "1f22f"
   },
   {
     "name": "u6708",
+    "alt_names": [
+
+    ],
     "file": "1f237"
   },
   {
     "name": "u6709",
+    "alt_names": [
+
+    ],
     "file": "1f236"
   },
   {
     "name": "u6e80",
+    "alt_names": [
+
+    ],
     "file": "1f235"
   },
   {
     "name": "u7121",
+    "alt_names": [
+
+    ],
     "file": "1f21a"
   },
   {
     "name": "u7533",
+    "alt_names": [
+
+    ],
     "file": "1f238"
   },
   {
     "name": "u7981",
+    "alt_names": [
+
+    ],
     "file": "1f232"
   },
   {
     "name": "u7a7a",
+    "alt_names": [
+
+    ],
     "file": "1f233"
   },
   {
     "name": "umbrella",
+    "alt_names": [
+
+    ],
     "file": "2602"
   },
   {
     "name": "umbrella_on_ground",
+    "alt_names": [
+
+    ],
     "file": "26f1"
   },
   {
     "name": "umbrella_with_rain_drops",
+    "alt_names": [
+
+    ],
     "file": "2614"
   },
   {
     "name": "unamused",
+    "alt_names": [
+
+    ],
     "file": "1f612"
   },
   {
     "name": "underage",
+    "alt_names": [
+
+    ],
     "file": "1f51e"
   },
   {
     "name": "unicorn_face",
+    "alt_names": [
+
+    ],
     "file": "1f984"
   },
   {
     "name": "unlock",
+    "alt_names": [
+
+    ],
     "file": "1f513"
   },
   {
     "name": "up",
+    "alt_names": [
+
+    ],
     "file": "1f199"
   },
   {
     "name": "upside_down_face",
+    "alt_names": [
+
+    ],
     "file": "1f643"
   },
   {
     "name": "us",
+    "alt_names": [
+      "flag-us"
+    ],
     "file": "1f1fa"
   },
   {
     "name": "v",
+    "alt_names": [
+
+    ],
     "file": "270c"
   },
   {
     "name": "vampire",
+    "alt_names": [
+
+    ],
     "file": "1f9db"
   },
   {
     "name": "vertical_traffic_light",
+    "alt_names": [
+
+    ],
     "file": "1f6a6"
   },
   {
     "name": "vhs",
+    "alt_names": [
+
+    ],
     "file": "1f4fc"
   },
   {
     "name": "vibration_mode",
+    "alt_names": [
+
+    ],
     "file": "1f4f3"
   },
   {
     "name": "video_camera",
+    "alt_names": [
+
+    ],
     "file": "1f4f9"
   },
   {
     "name": "video_game",
+    "alt_names": [
+
+    ],
     "file": "1f3ae"
   },
   {
     "name": "violin",
+    "alt_names": [
+
+    ],
     "file": "1f3bb"
   },
   {
     "name": "virgo",
+    "alt_names": [
+
+    ],
     "file": "264d"
   },
   {
     "name": "volcano",
+    "alt_names": [
+
+    ],
     "file": "1f30b"
   },
   {
     "name": "volleyball",
+    "alt_names": [
+
+    ],
     "file": "1f3d0"
   },
   {
     "name": "vs",
+    "alt_names": [
+
+    ],
     "file": "1f19a"
   },
   {
     "name": "walking",
+    "alt_names": [
+
+    ],
     "file": "1f6b6"
   },
   {
     "name": "waning_crescent_moon",
+    "alt_names": [
+
+    ],
     "file": "1f318"
   },
   {
     "name": "waning_gibbous_moon",
+    "alt_names": [
+
+    ],
     "file": "1f316"
   },
   {
     "name": "warning",
+    "alt_names": [
+
+    ],
     "file": "26a0"
   },
   {
     "name": "wastebasket",
+    "alt_names": [
+
+    ],
     "file": "1f5d1"
   },
   {
     "name": "watch",
+    "alt_names": [
+
+    ],
     "file": "231a"
   },
   {
     "name": "water_buffalo",
+    "alt_names": [
+
+    ],
     "file": "1f403"
   },
   {
     "name": "water_polo",
+    "alt_names": [
+
+    ],
     "file": "1f93d"
   },
   {
     "name": "watermelon",
+    "alt_names": [
+
+    ],
     "file": "1f349"
   },
   {
     "name": "wave",
+    "alt_names": [
+
+    ],
     "file": "1f44b"
   },
   {
     "name": "waving_black_flag",
+    "alt_names": [
+
+    ],
     "file": "1f3f4"
   },
   {
     "name": "waving_white_flag",
+    "alt_names": [
+
+    ],
     "file": "1f3f3"
   },
   {
     "name": "wavy_dash",
+    "alt_names": [
+
+    ],
     "file": "3030"
   },
   {
     "name": "waxing_crescent_moon",
+    "alt_names": [
+
+    ],
     "file": "1f312"
   },
   {
     "name": "wc",
+    "alt_names": [
+
+    ],
     "file": "1f6be"
   },
   {
     "name": "weary",
+    "alt_names": [
+
+    ],
     "file": "1f629"
   },
   {
     "name": "wedding",
+    "alt_names": [
+
+    ],
     "file": "1f492"
   },
   {
     "name": "weight_lifter",
+    "alt_names": [
+
+    ],
     "file": "1f3cb"
   },
   {
     "name": "whale",
+    "alt_names": [
+
+    ],
     "file": "1f433"
   },
   {
     "name": "whale2",
+    "alt_names": [
+
+    ],
     "file": "1f40b"
   },
   {
     "name": "wheel_of_dharma",
+    "alt_names": [
+
+    ],
     "file": "2638"
   },
   {
     "name": "wheelchair",
+    "alt_names": [
+
+    ],
     "file": "267f"
   },
   {
     "name": "white_check_mark",
+    "alt_names": [
+
+    ],
     "file": "2705"
   },
   {
     "name": "white_circle",
+    "alt_names": [
+
+    ],
     "file": "26aa"
   },
   {
     "name": "white_flower",
+    "alt_names": [
+
+    ],
     "file": "1f4ae"
   },
   {
     "name": "white_frowning_face",
+    "alt_names": [
+
+    ],
     "file": "2639"
   },
   {
     "name": "white_large_square",
+    "alt_names": [
+
+    ],
     "file": "2b1c"
   },
   {
     "name": "white_medium_small_square",
+    "alt_names": [
+
+    ],
     "file": "25fd"
   },
   {
     "name": "white_medium_square",
+    "alt_names": [
+
+    ],
     "file": "25fb"
   },
   {
     "name": "white_small_square",
+    "alt_names": [
+
+    ],
     "file": "25ab"
   },
   {
     "name": "white_square_button",
+    "alt_names": [
+
+    ],
     "file": "1f533"
   },
   {
     "name": "wilted_flower",
+    "alt_names": [
+
+    ],
     "file": "1f940"
   },
   {
     "name": "wind_blowing_face",
+    "alt_names": [
+
+    ],
     "file": "1f32c"
   },
   {
     "name": "wind_chime",
+    "alt_names": [
+
+    ],
     "file": "1f390"
   },
   {
     "name": "wine_glass",
+    "alt_names": [
+
+    ],
     "file": "1f377"
   },
   {
     "name": "wink",
+    "alt_names": [
+
+    ],
     "file": "1f609"
   },
   {
     "name": "wolf",
+    "alt_names": [
+
+    ],
     "file": "1f43a"
   },
   {
     "name": "woman",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-biking",
+    "alt_names": [
+
+    ],
     "file": "1f6b4"
   },
   {
     "name": "woman-bouncing-ball",
+    "alt_names": [
+
+    ],
     "file": "26f9"
   },
   {
     "name": "woman-bowing",
+    "alt_names": [
+
+    ],
     "file": "1f647"
   },
   {
     "name": "woman-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-boy-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-cartwheeling",
+    "alt_names": [
+
+    ],
     "file": "1f938"
   },
   {
     "name": "woman-facepalming",
+    "alt_names": [
+
+    ],
     "file": "1f926"
   },
   {
     "name": "woman-frowning",
+    "alt_names": [
+
+    ],
     "file": "1f64d"
   },
   {
     "name": "woman-gesturing-no",
+    "alt_names": [
+
+    ],
     "file": "1f645"
   },
   {
     "name": "woman-gesturing-ok",
+    "alt_names": [
+
+    ],
     "file": "1f646"
   },
   {
     "name": "woman-getting-haircut",
+    "alt_names": [
+
+    ],
     "file": "1f487"
   },
   {
     "name": "woman-getting-massage",
+    "alt_names": [
+
+    ],
     "file": "1f486"
   },
   {
     "name": "woman-girl",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-girl-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-girl-girl",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-golfing",
+    "alt_names": [
+
+    ],
     "file": "1f3cc"
   },
   {
     "name": "woman-heart-man",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-heart-woman",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-juggling",
+    "alt_names": [
+
+    ],
     "file": "1f939"
   },
   {
     "name": "woman-kiss-man",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-kiss-woman",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-lifting-weights",
+    "alt_names": [
+
+    ],
     "file": "1f3cb"
   },
   {
     "name": "woman-mountain-biking",
+    "alt_names": [
+
+    ],
     "file": "1f6b5"
   },
   {
     "name": "woman-playing-handball",
+    "alt_names": [
+
+    ],
     "file": "1f93e"
   },
   {
     "name": "woman-playing-water-polo",
+    "alt_names": [
+
+    ],
     "file": "1f93d"
   },
   {
     "name": "woman-pouting",
+    "alt_names": [
+
+    ],
     "file": "1f64e"
   },
   {
     "name": "woman-raising-hand",
+    "alt_names": [
+
+    ],
     "file": "1f64b"
   },
   {
     "name": "woman-rowing-boat",
+    "alt_names": [
+
+    ],
     "file": "1f6a3"
   },
   {
     "name": "woman-running",
+    "alt_names": [
+
+    ],
     "file": "1f3c3"
   },
   {
     "name": "woman-shrugging",
+    "alt_names": [
+
+    ],
     "file": "1f937"
   },
   {
     "name": "woman-surfing",
+    "alt_names": [
+
+    ],
     "file": "1f3c4"
   },
   {
     "name": "woman-swimming",
+    "alt_names": [
+
+    ],
     "file": "1f3ca"
   },
   {
     "name": "woman-tipping-hand",
+    "alt_names": [
+
+    ],
     "file": "1f481"
   },
   {
     "name": "woman-walking",
+    "alt_names": [
+
+    ],
     "file": "1f6b6"
   },
   {
     "name": "woman-wearing-turban",
+    "alt_names": [
+
+    ],
     "file": "1f473"
   },
   {
     "name": "woman-with-bunny-ears-partying",
+    "alt_names": [
+
+    ],
     "file": "1f46f"
   },
   {
     "name": "woman-woman-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-woman-boy-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-woman-girl",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-woman-girl-boy",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-woman-girl-girl",
+    "alt_names": [
+
+    ],
     "file": "1f469"
   },
   {
     "name": "woman-wrestling",
+    "alt_names": [
+
+    ],
     "file": "1f93c"
   },
   {
     "name": "woman_climbing",
+    "alt_names": [
+
+    ],
     "file": "1f9d7"
   },
   {
     "name": "woman_in_lotus_position",
+    "alt_names": [
+
+    ],
     "file": "1f9d8"
   },
   {
     "name": "woman_in_steamy_room",
+    "alt_names": [
+
+    ],
     "file": "1f9d6"
   },
   {
     "name": "womans_clothes",
+    "alt_names": [
+
+    ],
     "file": "1f45a"
   },
   {
     "name": "womans_hat",
+    "alt_names": [
+
+    ],
     "file": "1f452"
   },
   {
     "name": "womens",
+    "alt_names": [
+
+    ],
     "file": "1f6ba"
   },
   {
     "name": "world_map",
+    "alt_names": [
+
+    ],
     "file": "1f5fa"
   },
   {
     "name": "worried",
+    "alt_names": [
+
+    ],
     "file": "1f61f"
   },
   {
     "name": "wrench",
+    "alt_names": [
+
+    ],
     "file": "1f527"
   },
   {
     "name": "wrestlers",
+    "alt_names": [
+
+    ],
     "file": "1f93c"
   },
   {
     "name": "writing_hand",
+    "alt_names": [
+
+    ],
     "file": "270d"
   },
   {
     "name": "x",
+    "alt_names": [
+
+    ],
     "file": "274c"
   },
   {
     "name": "yellow_heart",
+    "alt_names": [
+
+    ],
     "file": "1f49b"
   },
   {
     "name": "yen",
+    "alt_names": [
+
+    ],
     "file": "1f4b4"
   },
   {
     "name": "yin_yang",
+    "alt_names": [
+
+    ],
     "file": "262f"
   },
   {
     "name": "yum",
+    "alt_names": [
+
+    ],
     "file": "1f60b"
   },
   {
     "name": "zap",
+    "alt_names": [
+
+    ],
     "file": "26a1"
   },
   {
     "name": "zebra_face",
+    "alt_names": [
+
+    ],
     "file": "1f993"
   },
   {
     "name": "zero",
+    "alt_names": [
+
+    ],
     "file": "30-20e3"
   },
   {
     "name": "zipper_mouth_face",
+    "alt_names": [
+
+    ],
     "file": "1f910"
   },
   {
     "name": "zombie",
+    "alt_names": [
+
+    ],
     "file": "1f9df"
   },
   {
     "name": "zzz",
+    "alt_names": [
+
+    ],
     "file": "1f4a4"
   }
 ]
