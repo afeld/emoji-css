@@ -73,8 +73,6 @@ end_emoji = Dir.glob('tmp/twitter-twemoji-*/2/72x72/*.png').map do |file|
 end
 
 end_emoji.compact!
-# since `uniq!` takes the first match, pre-sort by the simplest filename variant
-end_emoji.sort_by! { |e| e[:file] }
 end_emoji.uniq! { |e| e[:name] }
 end_emoji.sort_by! { |e| e[:name] }
 
