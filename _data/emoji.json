@@ -8,11 +8,91 @@
     "file": "1f44d"
   },
   {
+    "name": "--1-dark",
+    "alt_names": [
+      "+1 - dark",
+      "thumbsup - dark"
+    ],
+    "file": "1f44d-1f3ff"
+  },
+  {
+    "name": "--1-light",
+    "alt_names": [
+      "+1 - light",
+      "thumbsup - light"
+    ],
+    "file": "1f44d-1f3fb"
+  },
+  {
+    "name": "--1-medium",
+    "alt_names": [
+      "+1 - medium",
+      "thumbsup - medium"
+    ],
+    "file": "1f44d-1f3fd"
+  },
+  {
+    "name": "--1-medium-dark",
+    "alt_names": [
+      "+1 - medium-dark",
+      "thumbsup - medium-dark"
+    ],
+    "file": "1f44d-1f3fe"
+  },
+  {
+    "name": "--1-medium-light",
+    "alt_names": [
+      "+1 - medium-light",
+      "thumbsup - medium-light"
+    ],
+    "file": "1f44d-1f3fc"
+  },
+  {
     "name": "-1",
     "alt_names": [
       "thumbsdown"
     ],
     "file": "1f44e"
+  },
+  {
+    "name": "-1-dark",
+    "alt_names": [
+      "-1 - dark",
+      "thumbsdown - dark"
+    ],
+    "file": "1f44e-1f3ff"
+  },
+  {
+    "name": "-1-light",
+    "alt_names": [
+      "-1 - light",
+      "thumbsdown - light"
+    ],
+    "file": "1f44e-1f3fb"
+  },
+  {
+    "name": "-1-medium",
+    "alt_names": [
+      "-1 - medium",
+      "thumbsdown - medium"
+    ],
+    "file": "1f44e-1f3fd"
+  },
+  {
+    "name": "-1-medium-dark",
+    "alt_names": [
+      "-1 - medium-dark",
+      "thumbsdown - medium-dark"
+    ],
+    "file": "1f44e-1f3fe"
+  },
+  {
+    "name": "-1-medium-light",
+    "alt_names": [
+      "-1 - medium-light",
+      "thumbsdown - medium-light"
+    ],
+    "file": "1f44e-1f3fc"
   },
   {
     "name": "100",
@@ -83,6 +163,41 @@
 
     ],
     "file": "1f9d1"
+  },
+  {
+    "name": "adult-dark",
+    "alt_names": [
+      "adult - dark"
+    ],
+    "file": "1f9d1-1f3ff"
+  },
+  {
+    "name": "adult-light",
+    "alt_names": [
+      "adult - light"
+    ],
+    "file": "1f9d1-1f3fb"
+  },
+  {
+    "name": "adult-medium",
+    "alt_names": [
+      "adult - medium"
+    ],
+    "file": "1f9d1-1f3fd"
+  },
+  {
+    "name": "adult-medium-dark",
+    "alt_names": [
+      "adult - medium-dark"
+    ],
+    "file": "1f9d1-1f3fe"
+  },
+  {
+    "name": "adult-medium-light",
+    "alt_names": [
+      "adult - medium-light"
+    ],
+    "file": "1f9d1-1f3fc"
   },
   {
     "name": "aerial_tramway",
@@ -160,6 +275,41 @@
 
     ],
     "file": "1f47c"
+  },
+  {
+    "name": "angel-dark",
+    "alt_names": [
+      "angel - dark"
+    ],
+    "file": "1f47c-1f3ff"
+  },
+  {
+    "name": "angel-light",
+    "alt_names": [
+      "angel - light"
+    ],
+    "file": "1f47c-1f3fb"
+  },
+  {
+    "name": "angel-medium",
+    "alt_names": [
+      "angel - medium"
+    ],
+    "file": "1f47c-1f3fd"
+  },
+  {
+    "name": "angel-medium-dark",
+    "alt_names": [
+      "angel - medium-dark"
+    ],
+    "file": "1f47c-1f3fe"
+  },
+  {
+    "name": "angel-medium-light",
+    "alt_names": [
+      "angel - medium-light"
+    ],
+    "file": "1f47c-1f3fc"
   },
   {
     "name": "anger",
@@ -414,6 +564,41 @@
     "file": "1f476"
   },
   {
+    "name": "baby-dark",
+    "alt_names": [
+      "baby - dark"
+    ],
+    "file": "1f476-1f3ff"
+  },
+  {
+    "name": "baby-light",
+    "alt_names": [
+      "baby - light"
+    ],
+    "file": "1f476-1f3fb"
+  },
+  {
+    "name": "baby-medium",
+    "alt_names": [
+      "baby - medium"
+    ],
+    "file": "1f476-1f3fd"
+  },
+  {
+    "name": "baby-medium-dark",
+    "alt_names": [
+      "baby - medium-dark"
+    ],
+    "file": "1f476-1f3fe"
+  },
+  {
+    "name": "baby-medium-light",
+    "alt_names": [
+      "baby - medium-light"
+    ],
+    "file": "1f476-1f3fc"
+  },
+  {
     "name": "baby_bottle",
     "alt_names": [
 
@@ -568,6 +753,41 @@
     "file": "1f6c0"
   },
   {
+    "name": "bath-dark",
+    "alt_names": [
+      "bath - dark"
+    ],
+    "file": "1f6c0-1f3ff"
+  },
+  {
+    "name": "bath-light",
+    "alt_names": [
+      "bath - light"
+    ],
+    "file": "1f6c0-1f3fb"
+  },
+  {
+    "name": "bath-medium",
+    "alt_names": [
+      "bath - medium"
+    ],
+    "file": "1f6c0-1f3fd"
+  },
+  {
+    "name": "bath-medium-dark",
+    "alt_names": [
+      "bath - medium-dark"
+    ],
+    "file": "1f6c0-1f3fe"
+  },
+  {
+    "name": "bath-medium-light",
+    "alt_names": [
+      "bath - medium-light"
+    ],
+    "file": "1f6c0-1f3fc"
+  },
+  {
     "name": "bathtub",
     "alt_names": [
 
@@ -601,6 +821,41 @@
 
     ],
     "file": "1f9d4"
+  },
+  {
+    "name": "bearded_person-dark",
+    "alt_names": [
+      "bearded_person - dark"
+    ],
+    "file": "1f9d4-1f3ff"
+  },
+  {
+    "name": "bearded_person-light",
+    "alt_names": [
+      "bearded_person - light"
+    ],
+    "file": "1f9d4-1f3fb"
+  },
+  {
+    "name": "bearded_person-medium",
+    "alt_names": [
+      "bearded_person - medium"
+    ],
+    "file": "1f9d4-1f3fd"
+  },
+  {
+    "name": "bearded_person-medium-dark",
+    "alt_names": [
+      "bearded_person - medium-dark"
+    ],
+    "file": "1f9d4-1f3fe"
+  },
+  {
+    "name": "bearded_person-medium-light",
+    "alt_names": [
+      "bearded_person - medium-light"
+    ],
+    "file": "1f9d4-1f3fc"
   },
   {
     "name": "bed",
@@ -671,6 +926,41 @@
 
     ],
     "file": "1f6b4"
+  },
+  {
+    "name": "bicyclist-dark",
+    "alt_names": [
+      "bicyclist - dark"
+    ],
+    "file": "1f6b4-1f3ff"
+  },
+  {
+    "name": "bicyclist-light",
+    "alt_names": [
+      "bicyclist - light"
+    ],
+    "file": "1f6b4-1f3fb"
+  },
+  {
+    "name": "bicyclist-medium",
+    "alt_names": [
+      "bicyclist - medium"
+    ],
+    "file": "1f6b4-1f3fd"
+  },
+  {
+    "name": "bicyclist-medium-dark",
+    "alt_names": [
+      "bicyclist - medium-dark"
+    ],
+    "file": "1f6b4-1f3fe"
+  },
+  {
+    "name": "bicyclist-medium-light",
+    "alt_names": [
+      "bicyclist - medium-light"
+    ],
+    "file": "1f6b4-1f3fc"
   },
   {
     "name": "bike",
@@ -820,11 +1110,81 @@
     "file": "1f471-200d-2642-fe0f"
   },
   {
+    "name": "blond-haired-man-dark",
+    "alt_names": [
+      "blond-haired-man - dark"
+    ],
+    "file": "1f471-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "blond-haired-man-light",
+    "alt_names": [
+      "blond-haired-man - light"
+    ],
+    "file": "1f471-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "blond-haired-man-medium",
+    "alt_names": [
+      "blond-haired-man - medium"
+    ],
+    "file": "1f471-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "blond-haired-man-medium-dark",
+    "alt_names": [
+      "blond-haired-man - medium-dark"
+    ],
+    "file": "1f471-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "blond-haired-man-medium-light",
+    "alt_names": [
+      "blond-haired-man - medium-light"
+    ],
+    "file": "1f471-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "blond-haired-woman",
     "alt_names": [
 
     ],
     "file": "1f471-200d-2640-fe0f"
+  },
+  {
+    "name": "blond-haired-woman-dark",
+    "alt_names": [
+      "blond-haired-woman - dark"
+    ],
+    "file": "1f471-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "blond-haired-woman-light",
+    "alt_names": [
+      "blond-haired-woman - light"
+    ],
+    "file": "1f471-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "blond-haired-woman-medium",
+    "alt_names": [
+      "blond-haired-woman - medium"
+    ],
+    "file": "1f471-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "blond-haired-woman-medium-dark",
+    "alt_names": [
+      "blond-haired-woman - medium-dark"
+    ],
+    "file": "1f471-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "blond-haired-woman-medium-light",
+    "alt_names": [
+      "blond-haired-woman - medium-light"
+    ],
+    "file": "1f471-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "blossom",
@@ -946,6 +1306,41 @@
     "file": "1f647"
   },
   {
+    "name": "bow-dark",
+    "alt_names": [
+      "bow - dark"
+    ],
+    "file": "1f647-1f3ff"
+  },
+  {
+    "name": "bow-light",
+    "alt_names": [
+      "bow - light"
+    ],
+    "file": "1f647-1f3fb"
+  },
+  {
+    "name": "bow-medium",
+    "alt_names": [
+      "bow - medium"
+    ],
+    "file": "1f647-1f3fd"
+  },
+  {
+    "name": "bow-medium-dark",
+    "alt_names": [
+      "bow - medium-dark"
+    ],
+    "file": "1f647-1f3fe"
+  },
+  {
+    "name": "bow-medium-light",
+    "alt_names": [
+      "bow - medium-light"
+    ],
+    "file": "1f647-1f3fc"
+  },
+  {
     "name": "bow_and_arrow",
     "alt_names": [
 
@@ -981,6 +1376,41 @@
     "file": "1f466"
   },
   {
+    "name": "boy-dark",
+    "alt_names": [
+      "boy - dark"
+    ],
+    "file": "1f466-1f3ff"
+  },
+  {
+    "name": "boy-light",
+    "alt_names": [
+      "boy - light"
+    ],
+    "file": "1f466-1f3fb"
+  },
+  {
+    "name": "boy-medium",
+    "alt_names": [
+      "boy - medium"
+    ],
+    "file": "1f466-1f3fd"
+  },
+  {
+    "name": "boy-medium-dark",
+    "alt_names": [
+      "boy - medium-dark"
+    ],
+    "file": "1f466-1f3fe"
+  },
+  {
+    "name": "boy-medium-light",
+    "alt_names": [
+      "boy - medium-light"
+    ],
+    "file": "1f466-1f3fc"
+  },
+  {
     "name": "brain",
     "alt_names": [
 
@@ -1002,11 +1432,81 @@
     "file": "1f931"
   },
   {
+    "name": "breast-feeding-dark",
+    "alt_names": [
+      "breast-feeding - dark"
+    ],
+    "file": "1f931-1f3ff"
+  },
+  {
+    "name": "breast-feeding-light",
+    "alt_names": [
+      "breast-feeding - light"
+    ],
+    "file": "1f931-1f3fb"
+  },
+  {
+    "name": "breast-feeding-medium",
+    "alt_names": [
+      "breast-feeding - medium"
+    ],
+    "file": "1f931-1f3fd"
+  },
+  {
+    "name": "breast-feeding-medium-dark",
+    "alt_names": [
+      "breast-feeding - medium-dark"
+    ],
+    "file": "1f931-1f3fe"
+  },
+  {
+    "name": "breast-feeding-medium-light",
+    "alt_names": [
+      "breast-feeding - medium-light"
+    ],
+    "file": "1f931-1f3fc"
+  },
+  {
     "name": "bride_with_veil",
     "alt_names": [
 
     ],
     "file": "1f470"
+  },
+  {
+    "name": "bride_with_veil-dark",
+    "alt_names": [
+      "bride_with_veil - dark"
+    ],
+    "file": "1f470-1f3ff"
+  },
+  {
+    "name": "bride_with_veil-light",
+    "alt_names": [
+      "bride_with_veil - light"
+    ],
+    "file": "1f470-1f3fb"
+  },
+  {
+    "name": "bride_with_veil-medium",
+    "alt_names": [
+      "bride_with_veil - medium"
+    ],
+    "file": "1f470-1f3fd"
+  },
+  {
+    "name": "bride_with_veil-medium-dark",
+    "alt_names": [
+      "bride_with_veil - medium-dark"
+    ],
+    "file": "1f470-1f3fe"
+  },
+  {
+    "name": "bride_with_veil-medium-light",
+    "alt_names": [
+      "bride_with_veil - medium-light"
+    ],
+    "file": "1f470-1f3fc"
   },
   {
     "name": "bridge_at_night",
@@ -1140,6 +1640,41 @@
 
     ],
     "file": "1f919"
+  },
+  {
+    "name": "call_me_hand-dark",
+    "alt_names": [
+      "call_me_hand - dark"
+    ],
+    "file": "1f919-1f3ff"
+  },
+  {
+    "name": "call_me_hand-light",
+    "alt_names": [
+      "call_me_hand - light"
+    ],
+    "file": "1f919-1f3fb"
+  },
+  {
+    "name": "call_me_hand-medium",
+    "alt_names": [
+      "call_me_hand - medium"
+    ],
+    "file": "1f919-1f3fd"
+  },
+  {
+    "name": "call_me_hand-medium-dark",
+    "alt_names": [
+      "call_me_hand - medium-dark"
+    ],
+    "file": "1f919-1f3fe"
+  },
+  {
+    "name": "call_me_hand-medium-light",
+    "alt_names": [
+      "call_me_hand - medium-light"
+    ],
+    "file": "1f919-1f3fc"
   },
   {
     "name": "calling",
@@ -1373,6 +1908,41 @@
     "file": "1f9d2"
   },
   {
+    "name": "child-dark",
+    "alt_names": [
+      "child - dark"
+    ],
+    "file": "1f9d2-1f3ff"
+  },
+  {
+    "name": "child-light",
+    "alt_names": [
+      "child - light"
+    ],
+    "file": "1f9d2-1f3fb"
+  },
+  {
+    "name": "child-medium",
+    "alt_names": [
+      "child - medium"
+    ],
+    "file": "1f9d2-1f3fd"
+  },
+  {
+    "name": "child-medium-dark",
+    "alt_names": [
+      "child - medium-dark"
+    ],
+    "file": "1f9d2-1f3fe"
+  },
+  {
+    "name": "child-medium-light",
+    "alt_names": [
+      "child - medium-light"
+    ],
+    "file": "1f9d2-1f3fc"
+  },
+  {
     "name": "children_crossing",
     "alt_names": [
 
@@ -1462,6 +2032,41 @@
 
     ],
     "file": "1f44f"
+  },
+  {
+    "name": "clap-dark",
+    "alt_names": [
+      "clap - dark"
+    ],
+    "file": "1f44f-1f3ff"
+  },
+  {
+    "name": "clap-light",
+    "alt_names": [
+      "clap - light"
+    ],
+    "file": "1f44f-1f3fb"
+  },
+  {
+    "name": "clap-medium",
+    "alt_names": [
+      "clap - medium"
+    ],
+    "file": "1f44f-1f3fd"
+  },
+  {
+    "name": "clap-medium-dark",
+    "alt_names": [
+      "clap - medium-dark"
+    ],
+    "file": "1f44f-1f3fe"
+  },
+  {
+    "name": "clap-medium-light",
+    "alt_names": [
+      "clap - medium-light"
+    ],
+    "file": "1f44f-1f3fc"
   },
   {
     "name": "clapper",
@@ -1814,6 +2419,41 @@
     "file": "1f477"
   },
   {
+    "name": "construction_worker-dark",
+    "alt_names": [
+      "construction_worker - dark"
+    ],
+    "file": "1f477-1f3ff"
+  },
+  {
+    "name": "construction_worker-light",
+    "alt_names": [
+      "construction_worker - light"
+    ],
+    "file": "1f477-1f3fb"
+  },
+  {
+    "name": "construction_worker-medium",
+    "alt_names": [
+      "construction_worker - medium"
+    ],
+    "file": "1f477-1f3fd"
+  },
+  {
+    "name": "construction_worker-medium-dark",
+    "alt_names": [
+      "construction_worker - medium-dark"
+    ],
+    "file": "1f477-1f3fe"
+  },
+  {
+    "name": "construction_worker-medium-light",
+    "alt_names": [
+      "construction_worker - medium-light"
+    ],
+    "file": "1f477-1f3fc"
+  },
+  {
     "name": "control_knobs",
     "alt_names": [
 
@@ -1847,6 +2487,41 @@
 
     ],
     "file": "1f46e"
+  },
+  {
+    "name": "cop-dark",
+    "alt_names": [
+      "cop - dark"
+    ],
+    "file": "1f46e-1f3ff"
+  },
+  {
+    "name": "cop-light",
+    "alt_names": [
+      "cop - light"
+    ],
+    "file": "1f46e-1f3fb"
+  },
+  {
+    "name": "cop-medium",
+    "alt_names": [
+      "cop - medium"
+    ],
+    "file": "1f46e-1f3fd"
+  },
+  {
+    "name": "cop-medium-dark",
+    "alt_names": [
+      "cop - medium-dark"
+    ],
+    "file": "1f46e-1f3fe"
+  },
+  {
+    "name": "cop-medium-light",
+    "alt_names": [
+      "cop - medium-light"
+    ],
+    "file": "1f46e-1f3fc"
   },
   {
     "name": "copyright",
@@ -2085,6 +2760,41 @@
 
     ],
     "file": "1f483"
+  },
+  {
+    "name": "dancer-dark",
+    "alt_names": [
+      "dancer - dark"
+    ],
+    "file": "1f483-1f3ff"
+  },
+  {
+    "name": "dancer-light",
+    "alt_names": [
+      "dancer - light"
+    ],
+    "file": "1f483-1f3fb"
+  },
+  {
+    "name": "dancer-medium",
+    "alt_names": [
+      "dancer - medium"
+    ],
+    "file": "1f483-1f3fd"
+  },
+  {
+    "name": "dancer-medium-dark",
+    "alt_names": [
+      "dancer - medium-dark"
+    ],
+    "file": "1f483-1f3fe"
+  },
+  {
+    "name": "dancer-medium-light",
+    "alt_names": [
+      "dancer - medium-light"
+    ],
+    "file": "1f483-1f3fc"
   },
   {
     "name": "dancers",
@@ -2388,6 +3098,41 @@
     "file": "1f442"
   },
   {
+    "name": "ear-dark",
+    "alt_names": [
+      "ear - dark"
+    ],
+    "file": "1f442-1f3ff"
+  },
+  {
+    "name": "ear-light",
+    "alt_names": [
+      "ear - light"
+    ],
+    "file": "1f442-1f3fb"
+  },
+  {
+    "name": "ear-medium",
+    "alt_names": [
+      "ear - medium"
+    ],
+    "file": "1f442-1f3fd"
+  },
+  {
+    "name": "ear-medium-dark",
+    "alt_names": [
+      "ear - medium-dark"
+    ],
+    "file": "1f442-1f3fe"
+  },
+  {
+    "name": "ear-medium-light",
+    "alt_names": [
+      "ear - medium-light"
+    ],
+    "file": "1f442-1f3fc"
+  },
+  {
     "name": "ear_of_rice",
     "alt_names": [
 
@@ -2477,6 +3222,41 @@
 
     ],
     "file": "1f9dd"
+  },
+  {
+    "name": "elf-dark",
+    "alt_names": [
+      "elf - dark"
+    ],
+    "file": "1f9dd-1f3ff"
+  },
+  {
+    "name": "elf-light",
+    "alt_names": [
+      "elf - light"
+    ],
+    "file": "1f9dd-1f3fb"
+  },
+  {
+    "name": "elf-medium",
+    "alt_names": [
+      "elf - medium"
+    ],
+    "file": "1f9dd-1f3fd"
+  },
+  {
+    "name": "elf-medium-dark",
+    "alt_names": [
+      "elf - medium-dark"
+    ],
+    "file": "1f9dd-1f3fe"
+  },
+  {
+    "name": "elf-medium-light",
+    "alt_names": [
+      "elf - medium-light"
+    ],
+    "file": "1f9dd-1f3fc"
   },
   {
     "name": "email",
@@ -2577,6 +3357,41 @@
     "file": "1f926"
   },
   {
+    "name": "face_palm-dark",
+    "alt_names": [
+      "face_palm - dark"
+    ],
+    "file": "1f926-1f3ff"
+  },
+  {
+    "name": "face_palm-light",
+    "alt_names": [
+      "face_palm - light"
+    ],
+    "file": "1f926-1f3fb"
+  },
+  {
+    "name": "face_palm-medium",
+    "alt_names": [
+      "face_palm - medium"
+    ],
+    "file": "1f926-1f3fd"
+  },
+  {
+    "name": "face_palm-medium-dark",
+    "alt_names": [
+      "face_palm - medium-dark"
+    ],
+    "file": "1f926-1f3fe"
+  },
+  {
+    "name": "face_palm-medium-light",
+    "alt_names": [
+      "face_palm - medium-light"
+    ],
+    "file": "1f926-1f3fc"
+  },
+  {
     "name": "face_with_cowboy_hat",
     "alt_names": [
 
@@ -2640,6 +3455,46 @@
     "file": "1f44a"
   },
   {
+    "name": "facepunch-dark",
+    "alt_names": [
+      "facepunch - dark",
+      "punch - dark"
+    ],
+    "file": "1f44a-1f3ff"
+  },
+  {
+    "name": "facepunch-light",
+    "alt_names": [
+      "facepunch - light",
+      "punch - light"
+    ],
+    "file": "1f44a-1f3fb"
+  },
+  {
+    "name": "facepunch-medium",
+    "alt_names": [
+      "facepunch - medium",
+      "punch - medium"
+    ],
+    "file": "1f44a-1f3fd"
+  },
+  {
+    "name": "facepunch-medium-dark",
+    "alt_names": [
+      "facepunch - medium-dark",
+      "punch - medium-dark"
+    ],
+    "file": "1f44a-1f3fe"
+  },
+  {
+    "name": "facepunch-medium-light",
+    "alt_names": [
+      "facepunch - medium-light",
+      "punch - medium-light"
+    ],
+    "file": "1f44a-1f3fc"
+  },
+  {
     "name": "factory",
     "alt_names": [
 
@@ -2652,6 +3507,41 @@
 
     ],
     "file": "1f9da"
+  },
+  {
+    "name": "fairy-dark",
+    "alt_names": [
+      "fairy - dark"
+    ],
+    "file": "1f9da-1f3ff"
+  },
+  {
+    "name": "fairy-light",
+    "alt_names": [
+      "fairy - light"
+    ],
+    "file": "1f9da-1f3fb"
+  },
+  {
+    "name": "fairy-medium",
+    "alt_names": [
+      "fairy - medium"
+    ],
+    "file": "1f9da-1f3fd"
+  },
+  {
+    "name": "fairy-medium-dark",
+    "alt_names": [
+      "fairy - medium-dark"
+    ],
+    "file": "1f9da-1f3fe"
+  },
+  {
+    "name": "fairy-medium-light",
+    "alt_names": [
+      "fairy - medium-light"
+    ],
+    "file": "1f9da-1f3fc"
   },
   {
     "name": "fallen_leaf",
@@ -2703,11 +3593,81 @@
     "file": "1f469-200d-1f3a8"
   },
   {
+    "name": "female-artist-dark",
+    "alt_names": [
+      "female-artist - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f3a8"
+  },
+  {
+    "name": "female-artist-light",
+    "alt_names": [
+      "female-artist - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f3a8"
+  },
+  {
+    "name": "female-artist-medium",
+    "alt_names": [
+      "female-artist - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f3a8"
+  },
+  {
+    "name": "female-artist-medium-dark",
+    "alt_names": [
+      "female-artist - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f3a8"
+  },
+  {
+    "name": "female-artist-medium-light",
+    "alt_names": [
+      "female-artist - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f3a8"
+  },
+  {
     "name": "female-astronaut",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f680"
+  },
+  {
+    "name": "female-astronaut-dark",
+    "alt_names": [
+      "female-astronaut - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f680"
+  },
+  {
+    "name": "female-astronaut-light",
+    "alt_names": [
+      "female-astronaut - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f680"
+  },
+  {
+    "name": "female-astronaut-medium",
+    "alt_names": [
+      "female-astronaut - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f680"
+  },
+  {
+    "name": "female-astronaut-medium-dark",
+    "alt_names": [
+      "female-astronaut - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f680"
+  },
+  {
+    "name": "female-astronaut-medium-light",
+    "alt_names": [
+      "female-astronaut - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f680"
   },
   {
     "name": "female-construction-worker",
@@ -2717,11 +3677,81 @@
     "file": "1f477-200d-2640-fe0f"
   },
   {
+    "name": "female-construction-worker-dark",
+    "alt_names": [
+      "female-construction-worker - dark"
+    ],
+    "file": "1f477-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female-construction-worker-light",
+    "alt_names": [
+      "female-construction-worker - light"
+    ],
+    "file": "1f477-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female-construction-worker-medium",
+    "alt_names": [
+      "female-construction-worker - medium"
+    ],
+    "file": "1f477-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female-construction-worker-medium-dark",
+    "alt_names": [
+      "female-construction-worker - medium-dark"
+    ],
+    "file": "1f477-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female-construction-worker-medium-light",
+    "alt_names": [
+      "female-construction-worker - medium-light"
+    ],
+    "file": "1f477-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "female-cook",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f373"
+  },
+  {
+    "name": "female-cook-dark",
+    "alt_names": [
+      "female-cook - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f373"
+  },
+  {
+    "name": "female-cook-light",
+    "alt_names": [
+      "female-cook - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f373"
+  },
+  {
+    "name": "female-cook-medium",
+    "alt_names": [
+      "female-cook - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f373"
+  },
+  {
+    "name": "female-cook-medium-dark",
+    "alt_names": [
+      "female-cook - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f373"
+  },
+  {
+    "name": "female-cook-medium-light",
+    "alt_names": [
+      "female-cook - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f373"
   },
   {
     "name": "female-detective",
@@ -2731,11 +3761,81 @@
     "file": "1f575-fe0f-200d-2640-fe0f"
   },
   {
+    "name": "female-detective-dark",
+    "alt_names": [
+      "female-detective - dark"
+    ],
+    "file": "1f575-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female-detective-light",
+    "alt_names": [
+      "female-detective - light"
+    ],
+    "file": "1f575-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female-detective-medium",
+    "alt_names": [
+      "female-detective - medium"
+    ],
+    "file": "1f575-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female-detective-medium-dark",
+    "alt_names": [
+      "female-detective - medium-dark"
+    ],
+    "file": "1f575-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female-detective-medium-light",
+    "alt_names": [
+      "female-detective - medium-light"
+    ],
+    "file": "1f575-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "female-doctor",
     "alt_names": [
 
     ],
     "file": "1f469-200d-2695-fe0f"
+  },
+  {
+    "name": "female-doctor-dark",
+    "alt_names": [
+      "female-doctor - dark"
+    ],
+    "file": "1f469-1f3ff-200d-2695-fe0f"
+  },
+  {
+    "name": "female-doctor-light",
+    "alt_names": [
+      "female-doctor - light"
+    ],
+    "file": "1f469-1f3fb-200d-2695-fe0f"
+  },
+  {
+    "name": "female-doctor-medium",
+    "alt_names": [
+      "female-doctor - medium"
+    ],
+    "file": "1f469-1f3fd-200d-2695-fe0f"
+  },
+  {
+    "name": "female-doctor-medium-dark",
+    "alt_names": [
+      "female-doctor - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-2695-fe0f"
+  },
+  {
+    "name": "female-doctor-medium-light",
+    "alt_names": [
+      "female-doctor - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-2695-fe0f"
   },
   {
     "name": "female-factory-worker",
@@ -2745,11 +3845,81 @@
     "file": "1f469-200d-1f3ed"
   },
   {
+    "name": "female-factory-worker-dark",
+    "alt_names": [
+      "female-factory-worker - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f3ed"
+  },
+  {
+    "name": "female-factory-worker-light",
+    "alt_names": [
+      "female-factory-worker - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f3ed"
+  },
+  {
+    "name": "female-factory-worker-medium",
+    "alt_names": [
+      "female-factory-worker - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f3ed"
+  },
+  {
+    "name": "female-factory-worker-medium-dark",
+    "alt_names": [
+      "female-factory-worker - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f3ed"
+  },
+  {
+    "name": "female-factory-worker-medium-light",
+    "alt_names": [
+      "female-factory-worker - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f3ed"
+  },
+  {
     "name": "female-farmer",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f33e"
+  },
+  {
+    "name": "female-farmer-dark",
+    "alt_names": [
+      "female-farmer - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f33e"
+  },
+  {
+    "name": "female-farmer-light",
+    "alt_names": [
+      "female-farmer - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f33e"
+  },
+  {
+    "name": "female-farmer-medium",
+    "alt_names": [
+      "female-farmer - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f33e"
+  },
+  {
+    "name": "female-farmer-medium-dark",
+    "alt_names": [
+      "female-farmer - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f33e"
+  },
+  {
+    "name": "female-farmer-medium-light",
+    "alt_names": [
+      "female-farmer - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f33e"
   },
   {
     "name": "female-firefighter",
@@ -2759,11 +3929,81 @@
     "file": "1f469-200d-1f692"
   },
   {
+    "name": "female-firefighter-dark",
+    "alt_names": [
+      "female-firefighter - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f692"
+  },
+  {
+    "name": "female-firefighter-light",
+    "alt_names": [
+      "female-firefighter - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f692"
+  },
+  {
+    "name": "female-firefighter-medium",
+    "alt_names": [
+      "female-firefighter - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f692"
+  },
+  {
+    "name": "female-firefighter-medium-dark",
+    "alt_names": [
+      "female-firefighter - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f692"
+  },
+  {
+    "name": "female-firefighter-medium-light",
+    "alt_names": [
+      "female-firefighter - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f692"
+  },
+  {
     "name": "female-guard",
     "alt_names": [
 
     ],
     "file": "1f482-200d-2640-fe0f"
+  },
+  {
+    "name": "female-guard-dark",
+    "alt_names": [
+      "female-guard - dark"
+    ],
+    "file": "1f482-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female-guard-light",
+    "alt_names": [
+      "female-guard - light"
+    ],
+    "file": "1f482-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female-guard-medium",
+    "alt_names": [
+      "female-guard - medium"
+    ],
+    "file": "1f482-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female-guard-medium-dark",
+    "alt_names": [
+      "female-guard - medium-dark"
+    ],
+    "file": "1f482-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female-guard-medium-light",
+    "alt_names": [
+      "female-guard - medium-light"
+    ],
+    "file": "1f482-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "female-judge",
@@ -2773,11 +4013,81 @@
     "file": "1f469-200d-2696-fe0f"
   },
   {
+    "name": "female-judge-dark",
+    "alt_names": [
+      "female-judge - dark"
+    ],
+    "file": "1f469-1f3ff-200d-2696-fe0f"
+  },
+  {
+    "name": "female-judge-light",
+    "alt_names": [
+      "female-judge - light"
+    ],
+    "file": "1f469-1f3fb-200d-2696-fe0f"
+  },
+  {
+    "name": "female-judge-medium",
+    "alt_names": [
+      "female-judge - medium"
+    ],
+    "file": "1f469-1f3fd-200d-2696-fe0f"
+  },
+  {
+    "name": "female-judge-medium-dark",
+    "alt_names": [
+      "female-judge - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-2696-fe0f"
+  },
+  {
+    "name": "female-judge-medium-light",
+    "alt_names": [
+      "female-judge - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-2696-fe0f"
+  },
+  {
     "name": "female-mechanic",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f527"
+  },
+  {
+    "name": "female-mechanic-dark",
+    "alt_names": [
+      "female-mechanic - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f527"
+  },
+  {
+    "name": "female-mechanic-light",
+    "alt_names": [
+      "female-mechanic - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f527"
+  },
+  {
+    "name": "female-mechanic-medium",
+    "alt_names": [
+      "female-mechanic - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f527"
+  },
+  {
+    "name": "female-mechanic-medium-dark",
+    "alt_names": [
+      "female-mechanic - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f527"
+  },
+  {
+    "name": "female-mechanic-medium-light",
+    "alt_names": [
+      "female-mechanic - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f527"
   },
   {
     "name": "female-office-worker",
@@ -2787,11 +4097,81 @@
     "file": "1f469-200d-1f4bc"
   },
   {
+    "name": "female-office-worker-dark",
+    "alt_names": [
+      "female-office-worker - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f4bc"
+  },
+  {
+    "name": "female-office-worker-light",
+    "alt_names": [
+      "female-office-worker - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f4bc"
+  },
+  {
+    "name": "female-office-worker-medium",
+    "alt_names": [
+      "female-office-worker - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f4bc"
+  },
+  {
+    "name": "female-office-worker-medium-dark",
+    "alt_names": [
+      "female-office-worker - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f4bc"
+  },
+  {
+    "name": "female-office-worker-medium-light",
+    "alt_names": [
+      "female-office-worker - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f4bc"
+  },
+  {
     "name": "female-pilot",
     "alt_names": [
 
     ],
     "file": "1f469-200d-2708-fe0f"
+  },
+  {
+    "name": "female-pilot-dark",
+    "alt_names": [
+      "female-pilot - dark"
+    ],
+    "file": "1f469-1f3ff-200d-2708-fe0f"
+  },
+  {
+    "name": "female-pilot-light",
+    "alt_names": [
+      "female-pilot - light"
+    ],
+    "file": "1f469-1f3fb-200d-2708-fe0f"
+  },
+  {
+    "name": "female-pilot-medium",
+    "alt_names": [
+      "female-pilot - medium"
+    ],
+    "file": "1f469-1f3fd-200d-2708-fe0f"
+  },
+  {
+    "name": "female-pilot-medium-dark",
+    "alt_names": [
+      "female-pilot - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-2708-fe0f"
+  },
+  {
+    "name": "female-pilot-medium-light",
+    "alt_names": [
+      "female-pilot - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-2708-fe0f"
   },
   {
     "name": "female-police-officer",
@@ -2801,11 +4181,81 @@
     "file": "1f46e-200d-2640-fe0f"
   },
   {
+    "name": "female-police-officer-dark",
+    "alt_names": [
+      "female-police-officer - dark"
+    ],
+    "file": "1f46e-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female-police-officer-light",
+    "alt_names": [
+      "female-police-officer - light"
+    ],
+    "file": "1f46e-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female-police-officer-medium",
+    "alt_names": [
+      "female-police-officer - medium"
+    ],
+    "file": "1f46e-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female-police-officer-medium-dark",
+    "alt_names": [
+      "female-police-officer - medium-dark"
+    ],
+    "file": "1f46e-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female-police-officer-medium-light",
+    "alt_names": [
+      "female-police-officer - medium-light"
+    ],
+    "file": "1f46e-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "female-scientist",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f52c"
+  },
+  {
+    "name": "female-scientist-dark",
+    "alt_names": [
+      "female-scientist - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f52c"
+  },
+  {
+    "name": "female-scientist-light",
+    "alt_names": [
+      "female-scientist - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f52c"
+  },
+  {
+    "name": "female-scientist-medium",
+    "alt_names": [
+      "female-scientist - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f52c"
+  },
+  {
+    "name": "female-scientist-medium-dark",
+    "alt_names": [
+      "female-scientist - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f52c"
+  },
+  {
+    "name": "female-scientist-medium-light",
+    "alt_names": [
+      "female-scientist - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f52c"
   },
   {
     "name": "female-singer",
@@ -2815,11 +4265,81 @@
     "file": "1f469-200d-1f3a4"
   },
   {
+    "name": "female-singer-dark",
+    "alt_names": [
+      "female-singer - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f3a4"
+  },
+  {
+    "name": "female-singer-light",
+    "alt_names": [
+      "female-singer - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f3a4"
+  },
+  {
+    "name": "female-singer-medium",
+    "alt_names": [
+      "female-singer - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f3a4"
+  },
+  {
+    "name": "female-singer-medium-dark",
+    "alt_names": [
+      "female-singer - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f3a4"
+  },
+  {
+    "name": "female-singer-medium-light",
+    "alt_names": [
+      "female-singer - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f3a4"
+  },
+  {
     "name": "female-student",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f393"
+  },
+  {
+    "name": "female-student-dark",
+    "alt_names": [
+      "female-student - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f393"
+  },
+  {
+    "name": "female-student-light",
+    "alt_names": [
+      "female-student - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f393"
+  },
+  {
+    "name": "female-student-medium",
+    "alt_names": [
+      "female-student - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f393"
+  },
+  {
+    "name": "female-student-medium-dark",
+    "alt_names": [
+      "female-student - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f393"
+  },
+  {
+    "name": "female-student-medium-light",
+    "alt_names": [
+      "female-student - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f393"
   },
   {
     "name": "female-teacher",
@@ -2829,11 +4349,81 @@
     "file": "1f469-200d-1f3eb"
   },
   {
+    "name": "female-teacher-dark",
+    "alt_names": [
+      "female-teacher - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f3eb"
+  },
+  {
+    "name": "female-teacher-light",
+    "alt_names": [
+      "female-teacher - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f3eb"
+  },
+  {
+    "name": "female-teacher-medium",
+    "alt_names": [
+      "female-teacher - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f3eb"
+  },
+  {
+    "name": "female-teacher-medium-dark",
+    "alt_names": [
+      "female-teacher - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f3eb"
+  },
+  {
+    "name": "female-teacher-medium-light",
+    "alt_names": [
+      "female-teacher - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f3eb"
+  },
+  {
     "name": "female-technologist",
     "alt_names": [
 
     ],
     "file": "1f469-200d-1f4bb"
+  },
+  {
+    "name": "female-technologist-dark",
+    "alt_names": [
+      "female-technologist - dark"
+    ],
+    "file": "1f469-1f3ff-200d-1f4bb"
+  },
+  {
+    "name": "female-technologist-light",
+    "alt_names": [
+      "female-technologist - light"
+    ],
+    "file": "1f469-1f3fb-200d-1f4bb"
+  },
+  {
+    "name": "female-technologist-medium",
+    "alt_names": [
+      "female-technologist - medium"
+    ],
+    "file": "1f469-1f3fd-200d-1f4bb"
+  },
+  {
+    "name": "female-technologist-medium-dark",
+    "alt_names": [
+      "female-technologist - medium-dark"
+    ],
+    "file": "1f469-1f3fe-200d-1f4bb"
+  },
+  {
+    "name": "female-technologist-medium-light",
+    "alt_names": [
+      "female-technologist - medium-light"
+    ],
+    "file": "1f469-1f3fc-200d-1f4bb"
   },
   {
     "name": "female_elf",
@@ -2843,11 +4433,81 @@
     "file": "1f9dd-200d-2640-fe0f"
   },
   {
+    "name": "female_elf-dark",
+    "alt_names": [
+      "female_elf - dark"
+    ],
+    "file": "1f9dd-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female_elf-light",
+    "alt_names": [
+      "female_elf - light"
+    ],
+    "file": "1f9dd-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female_elf-medium",
+    "alt_names": [
+      "female_elf - medium"
+    ],
+    "file": "1f9dd-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female_elf-medium-dark",
+    "alt_names": [
+      "female_elf - medium-dark"
+    ],
+    "file": "1f9dd-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female_elf-medium-light",
+    "alt_names": [
+      "female_elf - medium-light"
+    ],
+    "file": "1f9dd-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "female_fairy",
     "alt_names": [
 
     ],
     "file": "1f9da-200d-2640-fe0f"
+  },
+  {
+    "name": "female_fairy-dark",
+    "alt_names": [
+      "female_fairy - dark"
+    ],
+    "file": "1f9da-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female_fairy-light",
+    "alt_names": [
+      "female_fairy - light"
+    ],
+    "file": "1f9da-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female_fairy-medium",
+    "alt_names": [
+      "female_fairy - medium"
+    ],
+    "file": "1f9da-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female_fairy-medium-dark",
+    "alt_names": [
+      "female_fairy - medium-dark"
+    ],
+    "file": "1f9da-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female_fairy-medium-light",
+    "alt_names": [
+      "female_fairy - medium-light"
+    ],
+    "file": "1f9da-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "female_genie",
@@ -2864,6 +4524,41 @@
     "file": "1f9d9-200d-2640-fe0f"
   },
   {
+    "name": "female_mage-dark",
+    "alt_names": [
+      "female_mage - dark"
+    ],
+    "file": "1f9d9-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female_mage-light",
+    "alt_names": [
+      "female_mage - light"
+    ],
+    "file": "1f9d9-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female_mage-medium",
+    "alt_names": [
+      "female_mage - medium"
+    ],
+    "file": "1f9d9-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female_mage-medium-dark",
+    "alt_names": [
+      "female_mage - medium-dark"
+    ],
+    "file": "1f9d9-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female_mage-medium-light",
+    "alt_names": [
+      "female_mage - medium-light"
+    ],
+    "file": "1f9d9-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "female_sign",
     "alt_names": [
 
@@ -2876,6 +4571,41 @@
 
     ],
     "file": "1f9db-200d-2640-fe0f"
+  },
+  {
+    "name": "female_vampire-dark",
+    "alt_names": [
+      "female_vampire - dark"
+    ],
+    "file": "1f9db-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "female_vampire-light",
+    "alt_names": [
+      "female_vampire - light"
+    ],
+    "file": "1f9db-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "female_vampire-medium",
+    "alt_names": [
+      "female_vampire - medium"
+    ],
+    "file": "1f9db-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "female_vampire-medium-dark",
+    "alt_names": [
+      "female_vampire - medium-dark"
+    ],
+    "file": "1f9db-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "female_vampire-medium-light",
+    "alt_names": [
+      "female_vampire - medium-light"
+    ],
+    "file": "1f9db-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "female_zombie",
@@ -3009,6 +4739,41 @@
 
     ],
     "file": "270a"
+  },
+  {
+    "name": "fist-dark",
+    "alt_names": [
+      "fist - dark"
+    ],
+    "file": "270a-1f3ff"
+  },
+  {
+    "name": "fist-light",
+    "alt_names": [
+      "fist - light"
+    ],
+    "file": "270a-1f3fb"
+  },
+  {
+    "name": "fist-medium",
+    "alt_names": [
+      "fist - medium"
+    ],
+    "file": "270a-1f3fd"
+  },
+  {
+    "name": "fist-medium-dark",
+    "alt_names": [
+      "fist - medium-dark"
+    ],
+    "file": "270a-1f3fe"
+  },
+  {
+    "name": "fist-medium-light",
+    "alt_names": [
+      "fist - medium-light"
+    ],
+    "file": "270a-1f3fc"
   },
   {
     "name": "five",
@@ -5056,6 +6821,41 @@
     "file": "1f467"
   },
   {
+    "name": "girl-dark",
+    "alt_names": [
+      "girl - dark"
+    ],
+    "file": "1f467-1f3ff"
+  },
+  {
+    "name": "girl-light",
+    "alt_names": [
+      "girl - light"
+    ],
+    "file": "1f467-1f3fb"
+  },
+  {
+    "name": "girl-medium",
+    "alt_names": [
+      "girl - medium"
+    ],
+    "file": "1f467-1f3fd"
+  },
+  {
+    "name": "girl-medium-dark",
+    "alt_names": [
+      "girl - medium-dark"
+    ],
+    "file": "1f467-1f3fe"
+  },
+  {
+    "name": "girl-medium-light",
+    "alt_names": [
+      "girl - medium-light"
+    ],
+    "file": "1f467-1f3fc"
+  },
+  {
     "name": "glass_of_milk",
     "alt_names": [
 
@@ -5203,6 +7003,41 @@
     "file": "1f482"
   },
   {
+    "name": "guardsman-dark",
+    "alt_names": [
+      "guardsman - dark"
+    ],
+    "file": "1f482-1f3ff"
+  },
+  {
+    "name": "guardsman-light",
+    "alt_names": [
+      "guardsman - light"
+    ],
+    "file": "1f482-1f3fb"
+  },
+  {
+    "name": "guardsman-medium",
+    "alt_names": [
+      "guardsman - medium"
+    ],
+    "file": "1f482-1f3fd"
+  },
+  {
+    "name": "guardsman-medium-dark",
+    "alt_names": [
+      "guardsman - medium-dark"
+    ],
+    "file": "1f482-1f3fe"
+  },
+  {
+    "name": "guardsman-medium-light",
+    "alt_names": [
+      "guardsman - medium-light"
+    ],
+    "file": "1f482-1f3fc"
+  },
+  {
     "name": "guitar",
     "alt_names": [
 
@@ -5222,6 +7057,41 @@
 
     ],
     "file": "1f487"
+  },
+  {
+    "name": "haircut-dark",
+    "alt_names": [
+      "haircut - dark"
+    ],
+    "file": "1f487-1f3ff"
+  },
+  {
+    "name": "haircut-light",
+    "alt_names": [
+      "haircut - light"
+    ],
+    "file": "1f487-1f3fb"
+  },
+  {
+    "name": "haircut-medium",
+    "alt_names": [
+      "haircut - medium"
+    ],
+    "file": "1f487-1f3fd"
+  },
+  {
+    "name": "haircut-medium-dark",
+    "alt_names": [
+      "haircut - medium-dark"
+    ],
+    "file": "1f487-1f3fe"
+  },
+  {
+    "name": "haircut-medium-light",
+    "alt_names": [
+      "haircut - medium-light"
+    ],
+    "file": "1f487-1f3fc"
   },
   {
     "name": "hamburger",
@@ -5266,11 +7136,86 @@
     "file": "270b"
   },
   {
+    "name": "hand-dark",
+    "alt_names": [
+      "hand - dark",
+      "raised_hand - dark"
+    ],
+    "file": "270b-1f3ff"
+  },
+  {
+    "name": "hand-light",
+    "alt_names": [
+      "hand - light",
+      "raised_hand - light"
+    ],
+    "file": "270b-1f3fb"
+  },
+  {
+    "name": "hand-medium",
+    "alt_names": [
+      "hand - medium",
+      "raised_hand - medium"
+    ],
+    "file": "270b-1f3fd"
+  },
+  {
+    "name": "hand-medium-dark",
+    "alt_names": [
+      "hand - medium-dark",
+      "raised_hand - medium-dark"
+    ],
+    "file": "270b-1f3fe"
+  },
+  {
+    "name": "hand-medium-light",
+    "alt_names": [
+      "hand - medium-light",
+      "raised_hand - medium-light"
+    ],
+    "file": "270b-1f3fc"
+  },
+  {
     "name": "hand_with_index_and_middle_fingers_crossed",
     "alt_names": [
 
     ],
     "file": "1f91e"
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed-dark",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed - dark"
+    ],
+    "file": "1f91e-1f3ff"
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed-light",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed - light"
+    ],
+    "file": "1f91e-1f3fb"
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed-medium",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed - medium"
+    ],
+    "file": "1f91e-1f3fd"
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed-medium-dark",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed - medium-dark"
+    ],
+    "file": "1f91e-1f3fe"
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed-medium-light",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed - medium-light"
+    ],
+    "file": "1f91e-1f3fc"
   },
   {
     "name": "handbag",
@@ -5285,6 +7230,41 @@
 
     ],
     "file": "1f93e"
+  },
+  {
+    "name": "handball-dark",
+    "alt_names": [
+      "handball - dark"
+    ],
+    "file": "1f93e-1f3ff"
+  },
+  {
+    "name": "handball-light",
+    "alt_names": [
+      "handball - light"
+    ],
+    "file": "1f93e-1f3fb"
+  },
+  {
+    "name": "handball-medium",
+    "alt_names": [
+      "handball - medium"
+    ],
+    "file": "1f93e-1f3fd"
+  },
+  {
+    "name": "handball-medium-dark",
+    "alt_names": [
+      "handball - medium-dark"
+    ],
+    "file": "1f93e-1f3fe"
+  },
+  {
+    "name": "handball-medium-light",
+    "alt_names": [
+      "handball - medium-light"
+    ],
+    "file": "1f93e-1f3fc"
   },
   {
     "name": "handshake",
@@ -5519,6 +7499,41 @@
     "file": "1f3c7"
   },
   {
+    "name": "horse_racing-dark",
+    "alt_names": [
+      "horse_racing - dark"
+    ],
+    "file": "1f3c7-1f3ff"
+  },
+  {
+    "name": "horse_racing-light",
+    "alt_names": [
+      "horse_racing - light"
+    ],
+    "file": "1f3c7-1f3fb"
+  },
+  {
+    "name": "horse_racing-medium",
+    "alt_names": [
+      "horse_racing - medium"
+    ],
+    "file": "1f3c7-1f3fd"
+  },
+  {
+    "name": "horse_racing-medium-dark",
+    "alt_names": [
+      "horse_racing - medium-dark"
+    ],
+    "file": "1f3c7-1f3fe"
+  },
+  {
+    "name": "horse_racing-medium-light",
+    "alt_names": [
+      "horse_racing - medium-light"
+    ],
+    "file": "1f3c7-1f3fc"
+  },
+  {
     "name": "hospital",
     "alt_names": [
 
@@ -5610,6 +7625,41 @@
     "file": "1f91f"
   },
   {
+    "name": "i_love_you_hand_sign-dark",
+    "alt_names": [
+      "i_love_you_hand_sign - dark"
+    ],
+    "file": "1f91f-1f3ff"
+  },
+  {
+    "name": "i_love_you_hand_sign-light",
+    "alt_names": [
+      "i_love_you_hand_sign - light"
+    ],
+    "file": "1f91f-1f3fb"
+  },
+  {
+    "name": "i_love_you_hand_sign-medium",
+    "alt_names": [
+      "i_love_you_hand_sign - medium"
+    ],
+    "file": "1f91f-1f3fd"
+  },
+  {
+    "name": "i_love_you_hand_sign-medium-dark",
+    "alt_names": [
+      "i_love_you_hand_sign - medium-dark"
+    ],
+    "file": "1f91f-1f3fe"
+  },
+  {
+    "name": "i_love_you_hand_sign-medium-light",
+    "alt_names": [
+      "i_love_you_hand_sign - medium-light"
+    ],
+    "file": "1f91f-1f3fc"
+  },
+  {
     "name": "ice_cream",
     "alt_names": [
 
@@ -5678,6 +7728,41 @@
 
     ],
     "file": "1f481"
+  },
+  {
+    "name": "information_desk_person-dark",
+    "alt_names": [
+      "information_desk_person - dark"
+    ],
+    "file": "1f481-1f3ff"
+  },
+  {
+    "name": "information_desk_person-light",
+    "alt_names": [
+      "information_desk_person - light"
+    ],
+    "file": "1f481-1f3fb"
+  },
+  {
+    "name": "information_desk_person-medium",
+    "alt_names": [
+      "information_desk_person - medium"
+    ],
+    "file": "1f481-1f3fd"
+  },
+  {
+    "name": "information_desk_person-medium-dark",
+    "alt_names": [
+      "information_desk_person - medium-dark"
+    ],
+    "file": "1f481-1f3fe"
+  },
+  {
+    "name": "information_desk_person-medium-light",
+    "alt_names": [
+      "information_desk_person - medium-light"
+    ],
+    "file": "1f481-1f3fc"
   },
   {
     "name": "information_source",
@@ -5797,6 +7882,41 @@
 
     ],
     "file": "1f939"
+  },
+  {
+    "name": "juggling-dark",
+    "alt_names": [
+      "juggling - dark"
+    ],
+    "file": "1f939-1f3ff"
+  },
+  {
+    "name": "juggling-light",
+    "alt_names": [
+      "juggling - light"
+    ],
+    "file": "1f939-1f3fb"
+  },
+  {
+    "name": "juggling-medium",
+    "alt_names": [
+      "juggling - medium"
+    ],
+    "file": "1f939-1f3fd"
+  },
+  {
+    "name": "juggling-medium-dark",
+    "alt_names": [
+      "juggling - medium-dark"
+    ],
+    "file": "1f939-1f3fe"
+  },
+  {
+    "name": "juggling-medium-light",
+    "alt_names": [
+      "juggling - medium-light"
+    ],
+    "file": "1f939-1f3fc"
   },
   {
     "name": "kaaba",
@@ -5993,6 +8113,41 @@
 
     ],
     "file": "1f91b"
+  },
+  {
+    "name": "left-facing_fist-dark",
+    "alt_names": [
+      "left-facing_fist - dark"
+    ],
+    "file": "1f91b-1f3ff"
+  },
+  {
+    "name": "left-facing_fist-light",
+    "alt_names": [
+      "left-facing_fist - light"
+    ],
+    "file": "1f91b-1f3fb"
+  },
+  {
+    "name": "left-facing_fist-medium",
+    "alt_names": [
+      "left-facing_fist - medium"
+    ],
+    "file": "1f91b-1f3fd"
+  },
+  {
+    "name": "left-facing_fist-medium-dark",
+    "alt_names": [
+      "left-facing_fist - medium-dark"
+    ],
+    "file": "1f91b-1f3fe"
+  },
+  {
+    "name": "left-facing_fist-medium-light",
+    "alt_names": [
+      "left-facing_fist - medium-light"
+    ],
+    "file": "1f91b-1f3fc"
   },
   {
     "name": "left_luggage",
@@ -6240,6 +8395,41 @@
     "file": "1f9d9"
   },
   {
+    "name": "mage-dark",
+    "alt_names": [
+      "mage - dark"
+    ],
+    "file": "1f9d9-1f3ff"
+  },
+  {
+    "name": "mage-light",
+    "alt_names": [
+      "mage - light"
+    ],
+    "file": "1f9d9-1f3fb"
+  },
+  {
+    "name": "mage-medium",
+    "alt_names": [
+      "mage - medium"
+    ],
+    "file": "1f9d9-1f3fd"
+  },
+  {
+    "name": "mage-medium-dark",
+    "alt_names": [
+      "mage - medium-dark"
+    ],
+    "file": "1f9d9-1f3fe"
+  },
+  {
+    "name": "mage-medium-light",
+    "alt_names": [
+      "mage - medium-light"
+    ],
+    "file": "1f9d9-1f3fc"
+  },
+  {
     "name": "mahjong",
     "alt_names": [
 
@@ -6282,11 +8472,81 @@
     "file": "1f468-200d-1f3a8"
   },
   {
+    "name": "male-artist-dark",
+    "alt_names": [
+      "male-artist - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f3a8"
+  },
+  {
+    "name": "male-artist-light",
+    "alt_names": [
+      "male-artist - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f3a8"
+  },
+  {
+    "name": "male-artist-medium",
+    "alt_names": [
+      "male-artist - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f3a8"
+  },
+  {
+    "name": "male-artist-medium-dark",
+    "alt_names": [
+      "male-artist - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f3a8"
+  },
+  {
+    "name": "male-artist-medium-light",
+    "alt_names": [
+      "male-artist - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f3a8"
+  },
+  {
     "name": "male-astronaut",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f680"
+  },
+  {
+    "name": "male-astronaut-dark",
+    "alt_names": [
+      "male-astronaut - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f680"
+  },
+  {
+    "name": "male-astronaut-light",
+    "alt_names": [
+      "male-astronaut - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f680"
+  },
+  {
+    "name": "male-astronaut-medium",
+    "alt_names": [
+      "male-astronaut - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f680"
+  },
+  {
+    "name": "male-astronaut-medium-dark",
+    "alt_names": [
+      "male-astronaut - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f680"
+  },
+  {
+    "name": "male-astronaut-medium-light",
+    "alt_names": [
+      "male-astronaut - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f680"
   },
   {
     "name": "male-construction-worker",
@@ -6296,11 +8556,81 @@
     "file": "1f477-200d-2642-fe0f"
   },
   {
+    "name": "male-construction-worker-dark",
+    "alt_names": [
+      "male-construction-worker - dark"
+    ],
+    "file": "1f477-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male-construction-worker-light",
+    "alt_names": [
+      "male-construction-worker - light"
+    ],
+    "file": "1f477-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male-construction-worker-medium",
+    "alt_names": [
+      "male-construction-worker - medium"
+    ],
+    "file": "1f477-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male-construction-worker-medium-dark",
+    "alt_names": [
+      "male-construction-worker - medium-dark"
+    ],
+    "file": "1f477-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male-construction-worker-medium-light",
+    "alt_names": [
+      "male-construction-worker - medium-light"
+    ],
+    "file": "1f477-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "male-cook",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f373"
+  },
+  {
+    "name": "male-cook-dark",
+    "alt_names": [
+      "male-cook - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f373"
+  },
+  {
+    "name": "male-cook-light",
+    "alt_names": [
+      "male-cook - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f373"
+  },
+  {
+    "name": "male-cook-medium",
+    "alt_names": [
+      "male-cook - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f373"
+  },
+  {
+    "name": "male-cook-medium-dark",
+    "alt_names": [
+      "male-cook - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f373"
+  },
+  {
+    "name": "male-cook-medium-light",
+    "alt_names": [
+      "male-cook - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f373"
   },
   {
     "name": "male-detective",
@@ -6310,11 +8640,81 @@
     "file": "1f575-fe0f-200d-2642-fe0f"
   },
   {
+    "name": "male-detective-dark",
+    "alt_names": [
+      "male-detective - dark"
+    ],
+    "file": "1f575-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male-detective-light",
+    "alt_names": [
+      "male-detective - light"
+    ],
+    "file": "1f575-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male-detective-medium",
+    "alt_names": [
+      "male-detective - medium"
+    ],
+    "file": "1f575-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male-detective-medium-dark",
+    "alt_names": [
+      "male-detective - medium-dark"
+    ],
+    "file": "1f575-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male-detective-medium-light",
+    "alt_names": [
+      "male-detective - medium-light"
+    ],
+    "file": "1f575-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "male-doctor",
     "alt_names": [
 
     ],
     "file": "1f468-200d-2695-fe0f"
+  },
+  {
+    "name": "male-doctor-dark",
+    "alt_names": [
+      "male-doctor - dark"
+    ],
+    "file": "1f468-1f3ff-200d-2695-fe0f"
+  },
+  {
+    "name": "male-doctor-light",
+    "alt_names": [
+      "male-doctor - light"
+    ],
+    "file": "1f468-1f3fb-200d-2695-fe0f"
+  },
+  {
+    "name": "male-doctor-medium",
+    "alt_names": [
+      "male-doctor - medium"
+    ],
+    "file": "1f468-1f3fd-200d-2695-fe0f"
+  },
+  {
+    "name": "male-doctor-medium-dark",
+    "alt_names": [
+      "male-doctor - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-2695-fe0f"
+  },
+  {
+    "name": "male-doctor-medium-light",
+    "alt_names": [
+      "male-doctor - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-2695-fe0f"
   },
   {
     "name": "male-factory-worker",
@@ -6324,11 +8724,81 @@
     "file": "1f468-200d-1f3ed"
   },
   {
+    "name": "male-factory-worker-dark",
+    "alt_names": [
+      "male-factory-worker - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f3ed"
+  },
+  {
+    "name": "male-factory-worker-light",
+    "alt_names": [
+      "male-factory-worker - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f3ed"
+  },
+  {
+    "name": "male-factory-worker-medium",
+    "alt_names": [
+      "male-factory-worker - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f3ed"
+  },
+  {
+    "name": "male-factory-worker-medium-dark",
+    "alt_names": [
+      "male-factory-worker - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f3ed"
+  },
+  {
+    "name": "male-factory-worker-medium-light",
+    "alt_names": [
+      "male-factory-worker - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f3ed"
+  },
+  {
     "name": "male-farmer",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f33e"
+  },
+  {
+    "name": "male-farmer-dark",
+    "alt_names": [
+      "male-farmer - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f33e"
+  },
+  {
+    "name": "male-farmer-light",
+    "alt_names": [
+      "male-farmer - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f33e"
+  },
+  {
+    "name": "male-farmer-medium",
+    "alt_names": [
+      "male-farmer - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f33e"
+  },
+  {
+    "name": "male-farmer-medium-dark",
+    "alt_names": [
+      "male-farmer - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f33e"
+  },
+  {
+    "name": "male-farmer-medium-light",
+    "alt_names": [
+      "male-farmer - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f33e"
   },
   {
     "name": "male-firefighter",
@@ -6338,11 +8808,81 @@
     "file": "1f468-200d-1f692"
   },
   {
+    "name": "male-firefighter-dark",
+    "alt_names": [
+      "male-firefighter - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f692"
+  },
+  {
+    "name": "male-firefighter-light",
+    "alt_names": [
+      "male-firefighter - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f692"
+  },
+  {
+    "name": "male-firefighter-medium",
+    "alt_names": [
+      "male-firefighter - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f692"
+  },
+  {
+    "name": "male-firefighter-medium-dark",
+    "alt_names": [
+      "male-firefighter - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f692"
+  },
+  {
+    "name": "male-firefighter-medium-light",
+    "alt_names": [
+      "male-firefighter - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f692"
+  },
+  {
     "name": "male-guard",
     "alt_names": [
 
     ],
     "file": "1f482-200d-2642-fe0f"
+  },
+  {
+    "name": "male-guard-dark",
+    "alt_names": [
+      "male-guard - dark"
+    ],
+    "file": "1f482-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male-guard-light",
+    "alt_names": [
+      "male-guard - light"
+    ],
+    "file": "1f482-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male-guard-medium",
+    "alt_names": [
+      "male-guard - medium"
+    ],
+    "file": "1f482-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male-guard-medium-dark",
+    "alt_names": [
+      "male-guard - medium-dark"
+    ],
+    "file": "1f482-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male-guard-medium-light",
+    "alt_names": [
+      "male-guard - medium-light"
+    ],
+    "file": "1f482-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "male-judge",
@@ -6352,11 +8892,81 @@
     "file": "1f468-200d-2696-fe0f"
   },
   {
+    "name": "male-judge-dark",
+    "alt_names": [
+      "male-judge - dark"
+    ],
+    "file": "1f468-1f3ff-200d-2696-fe0f"
+  },
+  {
+    "name": "male-judge-light",
+    "alt_names": [
+      "male-judge - light"
+    ],
+    "file": "1f468-1f3fb-200d-2696-fe0f"
+  },
+  {
+    "name": "male-judge-medium",
+    "alt_names": [
+      "male-judge - medium"
+    ],
+    "file": "1f468-1f3fd-200d-2696-fe0f"
+  },
+  {
+    "name": "male-judge-medium-dark",
+    "alt_names": [
+      "male-judge - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-2696-fe0f"
+  },
+  {
+    "name": "male-judge-medium-light",
+    "alt_names": [
+      "male-judge - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-2696-fe0f"
+  },
+  {
     "name": "male-mechanic",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f527"
+  },
+  {
+    "name": "male-mechanic-dark",
+    "alt_names": [
+      "male-mechanic - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f527"
+  },
+  {
+    "name": "male-mechanic-light",
+    "alt_names": [
+      "male-mechanic - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f527"
+  },
+  {
+    "name": "male-mechanic-medium",
+    "alt_names": [
+      "male-mechanic - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f527"
+  },
+  {
+    "name": "male-mechanic-medium-dark",
+    "alt_names": [
+      "male-mechanic - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f527"
+  },
+  {
+    "name": "male-mechanic-medium-light",
+    "alt_names": [
+      "male-mechanic - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f527"
   },
   {
     "name": "male-office-worker",
@@ -6366,11 +8976,81 @@
     "file": "1f468-200d-1f4bc"
   },
   {
+    "name": "male-office-worker-dark",
+    "alt_names": [
+      "male-office-worker - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f4bc"
+  },
+  {
+    "name": "male-office-worker-light",
+    "alt_names": [
+      "male-office-worker - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f4bc"
+  },
+  {
+    "name": "male-office-worker-medium",
+    "alt_names": [
+      "male-office-worker - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f4bc"
+  },
+  {
+    "name": "male-office-worker-medium-dark",
+    "alt_names": [
+      "male-office-worker - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f4bc"
+  },
+  {
+    "name": "male-office-worker-medium-light",
+    "alt_names": [
+      "male-office-worker - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f4bc"
+  },
+  {
     "name": "male-pilot",
     "alt_names": [
 
     ],
     "file": "1f468-200d-2708-fe0f"
+  },
+  {
+    "name": "male-pilot-dark",
+    "alt_names": [
+      "male-pilot - dark"
+    ],
+    "file": "1f468-1f3ff-200d-2708-fe0f"
+  },
+  {
+    "name": "male-pilot-light",
+    "alt_names": [
+      "male-pilot - light"
+    ],
+    "file": "1f468-1f3fb-200d-2708-fe0f"
+  },
+  {
+    "name": "male-pilot-medium",
+    "alt_names": [
+      "male-pilot - medium"
+    ],
+    "file": "1f468-1f3fd-200d-2708-fe0f"
+  },
+  {
+    "name": "male-pilot-medium-dark",
+    "alt_names": [
+      "male-pilot - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-2708-fe0f"
+  },
+  {
+    "name": "male-pilot-medium-light",
+    "alt_names": [
+      "male-pilot - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-2708-fe0f"
   },
   {
     "name": "male-police-officer",
@@ -6380,11 +9060,81 @@
     "file": "1f46e-200d-2642-fe0f"
   },
   {
+    "name": "male-police-officer-dark",
+    "alt_names": [
+      "male-police-officer - dark"
+    ],
+    "file": "1f46e-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male-police-officer-light",
+    "alt_names": [
+      "male-police-officer - light"
+    ],
+    "file": "1f46e-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male-police-officer-medium",
+    "alt_names": [
+      "male-police-officer - medium"
+    ],
+    "file": "1f46e-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male-police-officer-medium-dark",
+    "alt_names": [
+      "male-police-officer - medium-dark"
+    ],
+    "file": "1f46e-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male-police-officer-medium-light",
+    "alt_names": [
+      "male-police-officer - medium-light"
+    ],
+    "file": "1f46e-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "male-scientist",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f52c"
+  },
+  {
+    "name": "male-scientist-dark",
+    "alt_names": [
+      "male-scientist - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f52c"
+  },
+  {
+    "name": "male-scientist-light",
+    "alt_names": [
+      "male-scientist - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f52c"
+  },
+  {
+    "name": "male-scientist-medium",
+    "alt_names": [
+      "male-scientist - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f52c"
+  },
+  {
+    "name": "male-scientist-medium-dark",
+    "alt_names": [
+      "male-scientist - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f52c"
+  },
+  {
+    "name": "male-scientist-medium-light",
+    "alt_names": [
+      "male-scientist - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f52c"
   },
   {
     "name": "male-singer",
@@ -6394,11 +9144,81 @@
     "file": "1f468-200d-1f3a4"
   },
   {
+    "name": "male-singer-dark",
+    "alt_names": [
+      "male-singer - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f3a4"
+  },
+  {
+    "name": "male-singer-light",
+    "alt_names": [
+      "male-singer - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f3a4"
+  },
+  {
+    "name": "male-singer-medium",
+    "alt_names": [
+      "male-singer - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f3a4"
+  },
+  {
+    "name": "male-singer-medium-dark",
+    "alt_names": [
+      "male-singer - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f3a4"
+  },
+  {
+    "name": "male-singer-medium-light",
+    "alt_names": [
+      "male-singer - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f3a4"
+  },
+  {
     "name": "male-student",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f393"
+  },
+  {
+    "name": "male-student-dark",
+    "alt_names": [
+      "male-student - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f393"
+  },
+  {
+    "name": "male-student-light",
+    "alt_names": [
+      "male-student - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f393"
+  },
+  {
+    "name": "male-student-medium",
+    "alt_names": [
+      "male-student - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f393"
+  },
+  {
+    "name": "male-student-medium-dark",
+    "alt_names": [
+      "male-student - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f393"
+  },
+  {
+    "name": "male-student-medium-light",
+    "alt_names": [
+      "male-student - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f393"
   },
   {
     "name": "male-teacher",
@@ -6408,11 +9228,81 @@
     "file": "1f468-200d-1f3eb"
   },
   {
+    "name": "male-teacher-dark",
+    "alt_names": [
+      "male-teacher - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f3eb"
+  },
+  {
+    "name": "male-teacher-light",
+    "alt_names": [
+      "male-teacher - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f3eb"
+  },
+  {
+    "name": "male-teacher-medium",
+    "alt_names": [
+      "male-teacher - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f3eb"
+  },
+  {
+    "name": "male-teacher-medium-dark",
+    "alt_names": [
+      "male-teacher - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f3eb"
+  },
+  {
+    "name": "male-teacher-medium-light",
+    "alt_names": [
+      "male-teacher - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f3eb"
+  },
+  {
     "name": "male-technologist",
     "alt_names": [
 
     ],
     "file": "1f468-200d-1f4bb"
+  },
+  {
+    "name": "male-technologist-dark",
+    "alt_names": [
+      "male-technologist - dark"
+    ],
+    "file": "1f468-1f3ff-200d-1f4bb"
+  },
+  {
+    "name": "male-technologist-light",
+    "alt_names": [
+      "male-technologist - light"
+    ],
+    "file": "1f468-1f3fb-200d-1f4bb"
+  },
+  {
+    "name": "male-technologist-medium",
+    "alt_names": [
+      "male-technologist - medium"
+    ],
+    "file": "1f468-1f3fd-200d-1f4bb"
+  },
+  {
+    "name": "male-technologist-medium-dark",
+    "alt_names": [
+      "male-technologist - medium-dark"
+    ],
+    "file": "1f468-1f3fe-200d-1f4bb"
+  },
+  {
+    "name": "male-technologist-medium-light",
+    "alt_names": [
+      "male-technologist - medium-light"
+    ],
+    "file": "1f468-1f3fc-200d-1f4bb"
   },
   {
     "name": "male_elf",
@@ -6422,11 +9312,81 @@
     "file": "1f9dd-200d-2642-fe0f"
   },
   {
+    "name": "male_elf-dark",
+    "alt_names": [
+      "male_elf - dark"
+    ],
+    "file": "1f9dd-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male_elf-light",
+    "alt_names": [
+      "male_elf - light"
+    ],
+    "file": "1f9dd-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male_elf-medium",
+    "alt_names": [
+      "male_elf - medium"
+    ],
+    "file": "1f9dd-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male_elf-medium-dark",
+    "alt_names": [
+      "male_elf - medium-dark"
+    ],
+    "file": "1f9dd-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male_elf-medium-light",
+    "alt_names": [
+      "male_elf - medium-light"
+    ],
+    "file": "1f9dd-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "male_fairy",
     "alt_names": [
 
     ],
     "file": "1f9da-200d-2642-fe0f"
+  },
+  {
+    "name": "male_fairy-dark",
+    "alt_names": [
+      "male_fairy - dark"
+    ],
+    "file": "1f9da-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male_fairy-light",
+    "alt_names": [
+      "male_fairy - light"
+    ],
+    "file": "1f9da-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male_fairy-medium",
+    "alt_names": [
+      "male_fairy - medium"
+    ],
+    "file": "1f9da-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male_fairy-medium-dark",
+    "alt_names": [
+      "male_fairy - medium-dark"
+    ],
+    "file": "1f9da-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male_fairy-medium-light",
+    "alt_names": [
+      "male_fairy - medium-light"
+    ],
+    "file": "1f9da-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "male_genie",
@@ -6443,6 +9403,41 @@
     "file": "1f9d9-200d-2642-fe0f"
   },
   {
+    "name": "male_mage-dark",
+    "alt_names": [
+      "male_mage - dark"
+    ],
+    "file": "1f9d9-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male_mage-light",
+    "alt_names": [
+      "male_mage - light"
+    ],
+    "file": "1f9d9-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male_mage-medium",
+    "alt_names": [
+      "male_mage - medium"
+    ],
+    "file": "1f9d9-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male_mage-medium-dark",
+    "alt_names": [
+      "male_mage - medium-dark"
+    ],
+    "file": "1f9d9-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male_mage-medium-light",
+    "alt_names": [
+      "male_mage - medium-light"
+    ],
+    "file": "1f9d9-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "male_sign",
     "alt_names": [
 
@@ -6455,6 +9450,41 @@
 
     ],
     "file": "1f9db-200d-2642-fe0f"
+  },
+  {
+    "name": "male_vampire-dark",
+    "alt_names": [
+      "male_vampire - dark"
+    ],
+    "file": "1f9db-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "male_vampire-light",
+    "alt_names": [
+      "male_vampire - light"
+    ],
+    "file": "1f9db-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "male_vampire-medium",
+    "alt_names": [
+      "male_vampire - medium"
+    ],
+    "file": "1f9db-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "male_vampire-medium-dark",
+    "alt_names": [
+      "male_vampire - medium-dark"
+    ],
+    "file": "1f9db-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "male_vampire-medium-light",
+    "alt_names": [
+      "male_vampire - medium-light"
+    ],
+    "file": "1f9db-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "male_zombie",
@@ -6478,6 +9508,41 @@
     "file": "1f6b4-200d-2642-fe0f"
   },
   {
+    "name": "man-biking-dark",
+    "alt_names": [
+      "man-biking - dark"
+    ],
+    "file": "1f6b4-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-biking-light",
+    "alt_names": [
+      "man-biking - light"
+    ],
+    "file": "1f6b4-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-biking-medium",
+    "alt_names": [
+      "man-biking - medium"
+    ],
+    "file": "1f6b4-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-biking-medium-dark",
+    "alt_names": [
+      "man-biking - medium-dark"
+    ],
+    "file": "1f6b4-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-biking-medium-light",
+    "alt_names": [
+      "man-biking - medium-light"
+    ],
+    "file": "1f6b4-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-bouncing-ball",
     "alt_names": [
 
@@ -6485,11 +9550,81 @@
     "file": "26f9-fe0f-200d-2642-fe0f"
   },
   {
+    "name": "man-bouncing-ball-dark",
+    "alt_names": [
+      "man-bouncing-ball - dark"
+    ],
+    "file": "26f9-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bouncing-ball-light",
+    "alt_names": [
+      "man-bouncing-ball - light"
+    ],
+    "file": "26f9-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bouncing-ball-medium",
+    "alt_names": [
+      "man-bouncing-ball - medium"
+    ],
+    "file": "26f9-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bouncing-ball-medium-dark",
+    "alt_names": [
+      "man-bouncing-ball - medium-dark"
+    ],
+    "file": "26f9-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bouncing-ball-medium-light",
+    "alt_names": [
+      "man-bouncing-ball - medium-light"
+    ],
+    "file": "26f9-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-bowing",
     "alt_names": [
 
     ],
     "file": "1f647-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bowing-dark",
+    "alt_names": [
+      "man-bowing - dark"
+    ],
+    "file": "1f647-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bowing-light",
+    "alt_names": [
+      "man-bowing - light"
+    ],
+    "file": "1f647-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bowing-medium",
+    "alt_names": [
+      "man-bowing - medium"
+    ],
+    "file": "1f647-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bowing-medium-dark",
+    "alt_names": [
+      "man-bowing - medium-dark"
+    ],
+    "file": "1f647-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-bowing-medium-light",
+    "alt_names": [
+      "man-bowing - medium-light"
+    ],
+    "file": "1f647-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-boy",
@@ -6513,11 +9648,88 @@
     "file": "1f938-200d-2642-fe0f"
   },
   {
+    "name": "man-cartwheeling-dark",
+    "alt_names": [
+      "man-cartwheeling - dark"
+    ],
+    "file": "1f938-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-cartwheeling-light",
+    "alt_names": [
+      "man-cartwheeling - light"
+    ],
+    "file": "1f938-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-cartwheeling-medium",
+    "alt_names": [
+      "man-cartwheeling - medium"
+    ],
+    "file": "1f938-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-cartwheeling-medium-dark",
+    "alt_names": [
+      "man-cartwheeling - medium-dark"
+    ],
+    "file": "1f938-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-cartwheeling-medium-light",
+    "alt_names": [
+      "man-cartwheeling - medium-light"
+    ],
+    "file": "1f938-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "name": "man-dark",
+    "alt_names": [
+      "man - dark"
+    ],
+    "file": "1f468-1f3ff"
+  },
+  {
     "name": "man-facepalming",
     "alt_names": [
 
     ],
     "file": "1f926-200d-2642-fe0f"
+  },
+  {
+    "name": "man-facepalming-dark",
+    "alt_names": [
+      "man-facepalming - dark"
+    ],
+    "file": "1f926-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-facepalming-light",
+    "alt_names": [
+      "man-facepalming - light"
+    ],
+    "file": "1f926-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-facepalming-medium",
+    "alt_names": [
+      "man-facepalming - medium"
+    ],
+    "file": "1f926-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-facepalming-medium-dark",
+    "alt_names": [
+      "man-facepalming - medium-dark"
+    ],
+    "file": "1f926-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-facepalming-medium-light",
+    "alt_names": [
+      "man-facepalming - medium-light"
+    ],
+    "file": "1f926-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-frowning",
@@ -6527,11 +9739,81 @@
     "file": "1f64d-200d-2642-fe0f"
   },
   {
+    "name": "man-frowning-dark",
+    "alt_names": [
+      "man-frowning - dark"
+    ],
+    "file": "1f64d-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-frowning-light",
+    "alt_names": [
+      "man-frowning - light"
+    ],
+    "file": "1f64d-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-frowning-medium",
+    "alt_names": [
+      "man-frowning - medium"
+    ],
+    "file": "1f64d-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-frowning-medium-dark",
+    "alt_names": [
+      "man-frowning - medium-dark"
+    ],
+    "file": "1f64d-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-frowning-medium-light",
+    "alt_names": [
+      "man-frowning - medium-light"
+    ],
+    "file": "1f64d-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-gesturing-no",
     "alt_names": [
 
     ],
     "file": "1f645-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-no-dark",
+    "alt_names": [
+      "man-gesturing-no - dark"
+    ],
+    "file": "1f645-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-no-light",
+    "alt_names": [
+      "man-gesturing-no - light"
+    ],
+    "file": "1f645-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-no-medium",
+    "alt_names": [
+      "man-gesturing-no - medium"
+    ],
+    "file": "1f645-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-no-medium-dark",
+    "alt_names": [
+      "man-gesturing-no - medium-dark"
+    ],
+    "file": "1f645-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-no-medium-light",
+    "alt_names": [
+      "man-gesturing-no - medium-light"
+    ],
+    "file": "1f645-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-gesturing-ok",
@@ -6541,6 +9823,41 @@
     "file": "1f646-200d-2642-fe0f"
   },
   {
+    "name": "man-gesturing-ok-dark",
+    "alt_names": [
+      "man-gesturing-ok - dark"
+    ],
+    "file": "1f646-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-ok-light",
+    "alt_names": [
+      "man-gesturing-ok - light"
+    ],
+    "file": "1f646-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-ok-medium",
+    "alt_names": [
+      "man-gesturing-ok - medium"
+    ],
+    "file": "1f646-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-ok-medium-dark",
+    "alt_names": [
+      "man-gesturing-ok - medium-dark"
+    ],
+    "file": "1f646-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-gesturing-ok-medium-light",
+    "alt_names": [
+      "man-gesturing-ok - medium-light"
+    ],
+    "file": "1f646-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-getting-haircut",
     "alt_names": [
 
@@ -6548,11 +9865,81 @@
     "file": "1f487-200d-2642-fe0f"
   },
   {
+    "name": "man-getting-haircut-dark",
+    "alt_names": [
+      "man-getting-haircut - dark"
+    ],
+    "file": "1f487-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-haircut-light",
+    "alt_names": [
+      "man-getting-haircut - light"
+    ],
+    "file": "1f487-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-haircut-medium",
+    "alt_names": [
+      "man-getting-haircut - medium"
+    ],
+    "file": "1f487-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-haircut-medium-dark",
+    "alt_names": [
+      "man-getting-haircut - medium-dark"
+    ],
+    "file": "1f487-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-haircut-medium-light",
+    "alt_names": [
+      "man-getting-haircut - medium-light"
+    ],
+    "file": "1f487-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-getting-massage",
     "alt_names": [
 
     ],
     "file": "1f486-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-massage-dark",
+    "alt_names": [
+      "man-getting-massage - dark"
+    ],
+    "file": "1f486-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-massage-light",
+    "alt_names": [
+      "man-getting-massage - light"
+    ],
+    "file": "1f486-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-massage-medium",
+    "alt_names": [
+      "man-getting-massage - medium"
+    ],
+    "file": "1f486-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-massage-medium-dark",
+    "alt_names": [
+      "man-getting-massage - medium-dark"
+    ],
+    "file": "1f486-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-getting-massage-medium-light",
+    "alt_names": [
+      "man-getting-massage - medium-light"
+    ],
+    "file": "1f486-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-girl",
@@ -6583,6 +9970,41 @@
     "file": "1f3cc-fe0f-200d-2642-fe0f"
   },
   {
+    "name": "man-golfing-dark",
+    "alt_names": [
+      "man-golfing - dark"
+    ],
+    "file": "1f3cc-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-golfing-light",
+    "alt_names": [
+      "man-golfing - light"
+    ],
+    "file": "1f3cc-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-golfing-medium",
+    "alt_names": [
+      "man-golfing - medium"
+    ],
+    "file": "1f3cc-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-golfing-medium-dark",
+    "alt_names": [
+      "man-golfing - medium-dark"
+    ],
+    "file": "1f3cc-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-golfing-medium-light",
+    "alt_names": [
+      "man-golfing - medium-light"
+    ],
+    "file": "1f3cc-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-heart-man",
     "alt_names": [
 
@@ -6597,6 +10019,41 @@
     "file": "1f939-200d-2642-fe0f"
   },
   {
+    "name": "man-juggling-dark",
+    "alt_names": [
+      "man-juggling - dark"
+    ],
+    "file": "1f939-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-juggling-light",
+    "alt_names": [
+      "man-juggling - light"
+    ],
+    "file": "1f939-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-juggling-medium",
+    "alt_names": [
+      "man-juggling - medium"
+    ],
+    "file": "1f939-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-juggling-medium-dark",
+    "alt_names": [
+      "man-juggling - medium-dark"
+    ],
+    "file": "1f939-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-juggling-medium-light",
+    "alt_names": [
+      "man-juggling - medium-light"
+    ],
+    "file": "1f939-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-kiss-man",
     "alt_names": [
 
@@ -6609,6 +10066,48 @@
 
     ],
     "file": "1f3cb-fe0f-200d-2642-fe0f"
+  },
+  {
+    "name": "man-lifting-weights-dark",
+    "alt_names": [
+      "man-lifting-weights - dark"
+    ],
+    "file": "1f3cb-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-lifting-weights-light",
+    "alt_names": [
+      "man-lifting-weights - light"
+    ],
+    "file": "1f3cb-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-lifting-weights-medium",
+    "alt_names": [
+      "man-lifting-weights - medium"
+    ],
+    "file": "1f3cb-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-lifting-weights-medium-dark",
+    "alt_names": [
+      "man-lifting-weights - medium-dark"
+    ],
+    "file": "1f3cb-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-lifting-weights-medium-light",
+    "alt_names": [
+      "man-lifting-weights - medium-light"
+    ],
+    "file": "1f3cb-1f3fc-200d-2642-fe0f"
+  },
+  {
+    "name": "man-light",
+    "alt_names": [
+      "man - light"
+    ],
+    "file": "1f468-1f3fb"
   },
   {
     "name": "man-man-boy",
@@ -6646,11 +10145,67 @@
     "file": "1f468-200d-1f468-200d-1f467-200d-1f467"
   },
   {
+    "name": "man-medium",
+    "alt_names": [
+      "man - medium"
+    ],
+    "file": "1f468-1f3fd"
+  },
+  {
+    "name": "man-medium-dark",
+    "alt_names": [
+      "man - medium-dark"
+    ],
+    "file": "1f468-1f3fe"
+  },
+  {
+    "name": "man-medium-light",
+    "alt_names": [
+      "man - medium-light"
+    ],
+    "file": "1f468-1f3fc"
+  },
+  {
     "name": "man-mountain-biking",
     "alt_names": [
 
     ],
     "file": "1f6b5-200d-2642-fe0f"
+  },
+  {
+    "name": "man-mountain-biking-dark",
+    "alt_names": [
+      "man-mountain-biking - dark"
+    ],
+    "file": "1f6b5-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-mountain-biking-light",
+    "alt_names": [
+      "man-mountain-biking - light"
+    ],
+    "file": "1f6b5-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-mountain-biking-medium",
+    "alt_names": [
+      "man-mountain-biking - medium"
+    ],
+    "file": "1f6b5-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-mountain-biking-medium-dark",
+    "alt_names": [
+      "man-mountain-biking - medium-dark"
+    ],
+    "file": "1f6b5-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-mountain-biking-medium-light",
+    "alt_names": [
+      "man-mountain-biking - medium-light"
+    ],
+    "file": "1f6b5-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-playing-handball",
@@ -6660,11 +10215,81 @@
     "file": "1f93e-200d-2642-fe0f"
   },
   {
+    "name": "man-playing-handball-dark",
+    "alt_names": [
+      "man-playing-handball - dark"
+    ],
+    "file": "1f93e-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-handball-light",
+    "alt_names": [
+      "man-playing-handball - light"
+    ],
+    "file": "1f93e-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-handball-medium",
+    "alt_names": [
+      "man-playing-handball - medium"
+    ],
+    "file": "1f93e-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-handball-medium-dark",
+    "alt_names": [
+      "man-playing-handball - medium-dark"
+    ],
+    "file": "1f93e-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-handball-medium-light",
+    "alt_names": [
+      "man-playing-handball - medium-light"
+    ],
+    "file": "1f93e-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-playing-water-polo",
     "alt_names": [
 
     ],
     "file": "1f93d-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-water-polo-dark",
+    "alt_names": [
+      "man-playing-water-polo - dark"
+    ],
+    "file": "1f93d-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-water-polo-light",
+    "alt_names": [
+      "man-playing-water-polo - light"
+    ],
+    "file": "1f93d-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-water-polo-medium",
+    "alt_names": [
+      "man-playing-water-polo - medium"
+    ],
+    "file": "1f93d-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-water-polo-medium-dark",
+    "alt_names": [
+      "man-playing-water-polo - medium-dark"
+    ],
+    "file": "1f93d-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-playing-water-polo-medium-light",
+    "alt_names": [
+      "man-playing-water-polo - medium-light"
+    ],
+    "file": "1f93d-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-pouting",
@@ -6674,11 +10299,81 @@
     "file": "1f64e-200d-2642-fe0f"
   },
   {
+    "name": "man-pouting-dark",
+    "alt_names": [
+      "man-pouting - dark"
+    ],
+    "file": "1f64e-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-pouting-light",
+    "alt_names": [
+      "man-pouting - light"
+    ],
+    "file": "1f64e-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-pouting-medium",
+    "alt_names": [
+      "man-pouting - medium"
+    ],
+    "file": "1f64e-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-pouting-medium-dark",
+    "alt_names": [
+      "man-pouting - medium-dark"
+    ],
+    "file": "1f64e-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-pouting-medium-light",
+    "alt_names": [
+      "man-pouting - medium-light"
+    ],
+    "file": "1f64e-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-raising-hand",
     "alt_names": [
 
     ],
     "file": "1f64b-200d-2642-fe0f"
+  },
+  {
+    "name": "man-raising-hand-dark",
+    "alt_names": [
+      "man-raising-hand - dark"
+    ],
+    "file": "1f64b-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-raising-hand-light",
+    "alt_names": [
+      "man-raising-hand - light"
+    ],
+    "file": "1f64b-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-raising-hand-medium",
+    "alt_names": [
+      "man-raising-hand - medium"
+    ],
+    "file": "1f64b-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-raising-hand-medium-dark",
+    "alt_names": [
+      "man-raising-hand - medium-dark"
+    ],
+    "file": "1f64b-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-raising-hand-medium-light",
+    "alt_names": [
+      "man-raising-hand - medium-light"
+    ],
+    "file": "1f64b-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-rowing-boat",
@@ -6688,11 +10383,81 @@
     "file": "1f6a3-200d-2642-fe0f"
   },
   {
+    "name": "man-rowing-boat-dark",
+    "alt_names": [
+      "man-rowing-boat - dark"
+    ],
+    "file": "1f6a3-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-rowing-boat-light",
+    "alt_names": [
+      "man-rowing-boat - light"
+    ],
+    "file": "1f6a3-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-rowing-boat-medium",
+    "alt_names": [
+      "man-rowing-boat - medium"
+    ],
+    "file": "1f6a3-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-rowing-boat-medium-dark",
+    "alt_names": [
+      "man-rowing-boat - medium-dark"
+    ],
+    "file": "1f6a3-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-rowing-boat-medium-light",
+    "alt_names": [
+      "man-rowing-boat - medium-light"
+    ],
+    "file": "1f6a3-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-running",
     "alt_names": [
 
     ],
     "file": "1f3c3-200d-2642-fe0f"
+  },
+  {
+    "name": "man-running-dark",
+    "alt_names": [
+      "man-running - dark"
+    ],
+    "file": "1f3c3-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-running-light",
+    "alt_names": [
+      "man-running - light"
+    ],
+    "file": "1f3c3-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-running-medium",
+    "alt_names": [
+      "man-running - medium"
+    ],
+    "file": "1f3c3-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-running-medium-dark",
+    "alt_names": [
+      "man-running - medium-dark"
+    ],
+    "file": "1f3c3-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-running-medium-light",
+    "alt_names": [
+      "man-running - medium-light"
+    ],
+    "file": "1f3c3-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-shrugging",
@@ -6702,11 +10467,81 @@
     "file": "1f937-200d-2642-fe0f"
   },
   {
+    "name": "man-shrugging-dark",
+    "alt_names": [
+      "man-shrugging - dark"
+    ],
+    "file": "1f937-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-shrugging-light",
+    "alt_names": [
+      "man-shrugging - light"
+    ],
+    "file": "1f937-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-shrugging-medium",
+    "alt_names": [
+      "man-shrugging - medium"
+    ],
+    "file": "1f937-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-shrugging-medium-dark",
+    "alt_names": [
+      "man-shrugging - medium-dark"
+    ],
+    "file": "1f937-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-shrugging-medium-light",
+    "alt_names": [
+      "man-shrugging - medium-light"
+    ],
+    "file": "1f937-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-surfing",
     "alt_names": [
 
     ],
     "file": "1f3c4-200d-2642-fe0f"
+  },
+  {
+    "name": "man-surfing-dark",
+    "alt_names": [
+      "man-surfing - dark"
+    ],
+    "file": "1f3c4-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-surfing-light",
+    "alt_names": [
+      "man-surfing - light"
+    ],
+    "file": "1f3c4-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-surfing-medium",
+    "alt_names": [
+      "man-surfing - medium"
+    ],
+    "file": "1f3c4-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-surfing-medium-dark",
+    "alt_names": [
+      "man-surfing - medium-dark"
+    ],
+    "file": "1f3c4-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-surfing-medium-light",
+    "alt_names": [
+      "man-surfing - medium-light"
+    ],
+    "file": "1f3c4-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-swimming",
@@ -6716,11 +10551,81 @@
     "file": "1f3ca-200d-2642-fe0f"
   },
   {
+    "name": "man-swimming-dark",
+    "alt_names": [
+      "man-swimming - dark"
+    ],
+    "file": "1f3ca-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-swimming-light",
+    "alt_names": [
+      "man-swimming - light"
+    ],
+    "file": "1f3ca-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-swimming-medium",
+    "alt_names": [
+      "man-swimming - medium"
+    ],
+    "file": "1f3ca-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-swimming-medium-dark",
+    "alt_names": [
+      "man-swimming - medium-dark"
+    ],
+    "file": "1f3ca-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-swimming-medium-light",
+    "alt_names": [
+      "man-swimming - medium-light"
+    ],
+    "file": "1f3ca-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-tipping-hand",
     "alt_names": [
 
     ],
     "file": "1f481-200d-2642-fe0f"
+  },
+  {
+    "name": "man-tipping-hand-dark",
+    "alt_names": [
+      "man-tipping-hand - dark"
+    ],
+    "file": "1f481-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-tipping-hand-light",
+    "alt_names": [
+      "man-tipping-hand - light"
+    ],
+    "file": "1f481-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-tipping-hand-medium",
+    "alt_names": [
+      "man-tipping-hand - medium"
+    ],
+    "file": "1f481-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-tipping-hand-medium-dark",
+    "alt_names": [
+      "man-tipping-hand - medium-dark"
+    ],
+    "file": "1f481-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-tipping-hand-medium-light",
+    "alt_names": [
+      "man-tipping-hand - medium-light"
+    ],
+    "file": "1f481-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-walking",
@@ -6730,11 +10635,81 @@
     "file": "1f6b6-200d-2642-fe0f"
   },
   {
+    "name": "man-walking-dark",
+    "alt_names": [
+      "man-walking - dark"
+    ],
+    "file": "1f6b6-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-walking-light",
+    "alt_names": [
+      "man-walking - light"
+    ],
+    "file": "1f6b6-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-walking-medium",
+    "alt_names": [
+      "man-walking - medium"
+    ],
+    "file": "1f6b6-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-walking-medium-dark",
+    "alt_names": [
+      "man-walking - medium-dark"
+    ],
+    "file": "1f6b6-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-walking-medium-light",
+    "alt_names": [
+      "man-walking - medium-light"
+    ],
+    "file": "1f6b6-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man-wearing-turban",
     "alt_names": [
 
     ],
     "file": "1f473-200d-2642-fe0f"
+  },
+  {
+    "name": "man-wearing-turban-dark",
+    "alt_names": [
+      "man-wearing-turban - dark"
+    ],
+    "file": "1f473-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man-wearing-turban-light",
+    "alt_names": [
+      "man-wearing-turban - light"
+    ],
+    "file": "1f473-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man-wearing-turban-medium",
+    "alt_names": [
+      "man-wearing-turban - medium"
+    ],
+    "file": "1f473-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man-wearing-turban-medium-dark",
+    "alt_names": [
+      "man-wearing-turban - medium-dark"
+    ],
+    "file": "1f473-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man-wearing-turban-medium-light",
+    "alt_names": [
+      "man-wearing-turban - medium-light"
+    ],
+    "file": "1f473-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man-with-bunny-ears-partying",
@@ -6793,11 +10768,81 @@
     "file": "1f9d7-200d-2642-fe0f"
   },
   {
+    "name": "man_climbing-dark",
+    "alt_names": [
+      "man_climbing - dark"
+    ],
+    "file": "1f9d7-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man_climbing-light",
+    "alt_names": [
+      "man_climbing - light"
+    ],
+    "file": "1f9d7-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man_climbing-medium",
+    "alt_names": [
+      "man_climbing - medium"
+    ],
+    "file": "1f9d7-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man_climbing-medium-dark",
+    "alt_names": [
+      "man_climbing - medium-dark"
+    ],
+    "file": "1f9d7-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man_climbing-medium-light",
+    "alt_names": [
+      "man_climbing - medium-light"
+    ],
+    "file": "1f9d7-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man_dancing",
     "alt_names": [
 
     ],
     "file": "1f57a"
+  },
+  {
+    "name": "man_dancing-dark",
+    "alt_names": [
+      "man_dancing - dark"
+    ],
+    "file": "1f57a-1f3ff"
+  },
+  {
+    "name": "man_dancing-light",
+    "alt_names": [
+      "man_dancing - light"
+    ],
+    "file": "1f57a-1f3fb"
+  },
+  {
+    "name": "man_dancing-medium",
+    "alt_names": [
+      "man_dancing - medium"
+    ],
+    "file": "1f57a-1f3fd"
+  },
+  {
+    "name": "man_dancing-medium-dark",
+    "alt_names": [
+      "man_dancing - medium-dark"
+    ],
+    "file": "1f57a-1f3fe"
+  },
+  {
+    "name": "man_dancing-medium-light",
+    "alt_names": [
+      "man_dancing - medium-light"
+    ],
+    "file": "1f57a-1f3fc"
   },
   {
     "name": "man_in_business_suit_levitating",
@@ -6814,11 +10859,81 @@
     "file": "1f9d8-200d-2642-fe0f"
   },
   {
+    "name": "man_in_lotus_position-dark",
+    "alt_names": [
+      "man_in_lotus_position - dark"
+    ],
+    "file": "1f9d8-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_lotus_position-light",
+    "alt_names": [
+      "man_in_lotus_position - light"
+    ],
+    "file": "1f9d8-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_lotus_position-medium",
+    "alt_names": [
+      "man_in_lotus_position - medium"
+    ],
+    "file": "1f9d8-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_lotus_position-medium-dark",
+    "alt_names": [
+      "man_in_lotus_position - medium-dark"
+    ],
+    "file": "1f9d8-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_lotus_position-medium-light",
+    "alt_names": [
+      "man_in_lotus_position - medium-light"
+    ],
+    "file": "1f9d8-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "man_in_steamy_room",
     "alt_names": [
 
     ],
     "file": "1f9d6-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_steamy_room-dark",
+    "alt_names": [
+      "man_in_steamy_room - dark"
+    ],
+    "file": "1f9d6-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_steamy_room-light",
+    "alt_names": [
+      "man_in_steamy_room - light"
+    ],
+    "file": "1f9d6-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_steamy_room-medium",
+    "alt_names": [
+      "man_in_steamy_room - medium"
+    ],
+    "file": "1f9d6-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_steamy_room-medium-dark",
+    "alt_names": [
+      "man_in_steamy_room - medium-dark"
+    ],
+    "file": "1f9d6-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "man_in_steamy_room-medium-light",
+    "alt_names": [
+      "man_in_steamy_room - medium-light"
+    ],
+    "file": "1f9d6-1f3fc-200d-2642-fe0f"
   },
   {
     "name": "man_in_tuxedo",
@@ -6828,6 +10943,41 @@
     "file": "1f935"
   },
   {
+    "name": "man_in_tuxedo-dark",
+    "alt_names": [
+      "man_in_tuxedo - dark"
+    ],
+    "file": "1f935-1f3ff"
+  },
+  {
+    "name": "man_in_tuxedo-light",
+    "alt_names": [
+      "man_in_tuxedo - light"
+    ],
+    "file": "1f935-1f3fb"
+  },
+  {
+    "name": "man_in_tuxedo-medium",
+    "alt_names": [
+      "man_in_tuxedo - medium"
+    ],
+    "file": "1f935-1f3fd"
+  },
+  {
+    "name": "man_in_tuxedo-medium-dark",
+    "alt_names": [
+      "man_in_tuxedo - medium-dark"
+    ],
+    "file": "1f935-1f3fe"
+  },
+  {
+    "name": "man_in_tuxedo-medium-light",
+    "alt_names": [
+      "man_in_tuxedo - medium-light"
+    ],
+    "file": "1f935-1f3fc"
+  },
+  {
     "name": "man_with_gua_pi_mao",
     "alt_names": [
 
@@ -6835,11 +10985,81 @@
     "file": "1f472"
   },
   {
+    "name": "man_with_gua_pi_mao-dark",
+    "alt_names": [
+      "man_with_gua_pi_mao - dark"
+    ],
+    "file": "1f472-1f3ff"
+  },
+  {
+    "name": "man_with_gua_pi_mao-light",
+    "alt_names": [
+      "man_with_gua_pi_mao - light"
+    ],
+    "file": "1f472-1f3fb"
+  },
+  {
+    "name": "man_with_gua_pi_mao-medium",
+    "alt_names": [
+      "man_with_gua_pi_mao - medium"
+    ],
+    "file": "1f472-1f3fd"
+  },
+  {
+    "name": "man_with_gua_pi_mao-medium-dark",
+    "alt_names": [
+      "man_with_gua_pi_mao - medium-dark"
+    ],
+    "file": "1f472-1f3fe"
+  },
+  {
+    "name": "man_with_gua_pi_mao-medium-light",
+    "alt_names": [
+      "man_with_gua_pi_mao - medium-light"
+    ],
+    "file": "1f472-1f3fc"
+  },
+  {
     "name": "man_with_turban",
     "alt_names": [
 
     ],
     "file": "1f473"
+  },
+  {
+    "name": "man_with_turban-dark",
+    "alt_names": [
+      "man_with_turban - dark"
+    ],
+    "file": "1f473-1f3ff"
+  },
+  {
+    "name": "man_with_turban-light",
+    "alt_names": [
+      "man_with_turban - light"
+    ],
+    "file": "1f473-1f3fb"
+  },
+  {
+    "name": "man_with_turban-medium",
+    "alt_names": [
+      "man_with_turban - medium"
+    ],
+    "file": "1f473-1f3fd"
+  },
+  {
+    "name": "man_with_turban-medium-dark",
+    "alt_names": [
+      "man_with_turban - medium-dark"
+    ],
+    "file": "1f473-1f3fe"
+  },
+  {
+    "name": "man_with_turban-medium-light",
+    "alt_names": [
+      "man_with_turban - medium-light"
+    ],
+    "file": "1f473-1f3fc"
   },
   {
     "name": "mans_shoe",
@@ -6882,6 +11102,41 @@
 
     ],
     "file": "1f486"
+  },
+  {
+    "name": "massage-dark",
+    "alt_names": [
+      "massage - dark"
+    ],
+    "file": "1f486-1f3ff"
+  },
+  {
+    "name": "massage-light",
+    "alt_names": [
+      "massage - light"
+    ],
+    "file": "1f486-1f3fb"
+  },
+  {
+    "name": "massage-medium",
+    "alt_names": [
+      "massage - medium"
+    ],
+    "file": "1f486-1f3fd"
+  },
+  {
+    "name": "massage-medium-dark",
+    "alt_names": [
+      "massage - medium-dark"
+    ],
+    "file": "1f486-1f3fe"
+  },
+  {
+    "name": "massage-medium-light",
+    "alt_names": [
+      "massage - medium-light"
+    ],
+    "file": "1f486-1f3fc"
   },
   {
     "name": "meat_on_bone",
@@ -6940,6 +11195,41 @@
     "file": "1f9dc-200d-2640-fe0f"
   },
   {
+    "name": "mermaid-dark",
+    "alt_names": [
+      "mermaid - dark"
+    ],
+    "file": "1f9dc-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "mermaid-light",
+    "alt_names": [
+      "mermaid - light"
+    ],
+    "file": "1f9dc-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "mermaid-medium",
+    "alt_names": [
+      "mermaid - medium"
+    ],
+    "file": "1f9dc-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "mermaid-medium-dark",
+    "alt_names": [
+      "mermaid - medium-dark"
+    ],
+    "file": "1f9dc-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "mermaid-medium-light",
+    "alt_names": [
+      "mermaid - medium-light"
+    ],
+    "file": "1f9dc-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "merman",
     "alt_names": [
 
@@ -6947,11 +11237,81 @@
     "file": "1f9dc-200d-2642-fe0f"
   },
   {
+    "name": "merman-dark",
+    "alt_names": [
+      "merman - dark"
+    ],
+    "file": "1f9dc-1f3ff-200d-2642-fe0f"
+  },
+  {
+    "name": "merman-light",
+    "alt_names": [
+      "merman - light"
+    ],
+    "file": "1f9dc-1f3fb-200d-2642-fe0f"
+  },
+  {
+    "name": "merman-medium",
+    "alt_names": [
+      "merman - medium"
+    ],
+    "file": "1f9dc-1f3fd-200d-2642-fe0f"
+  },
+  {
+    "name": "merman-medium-dark",
+    "alt_names": [
+      "merman - medium-dark"
+    ],
+    "file": "1f9dc-1f3fe-200d-2642-fe0f"
+  },
+  {
+    "name": "merman-medium-light",
+    "alt_names": [
+      "merman - medium-light"
+    ],
+    "file": "1f9dc-1f3fc-200d-2642-fe0f"
+  },
+  {
     "name": "merperson",
     "alt_names": [
 
     ],
     "file": "1f9dc"
+  },
+  {
+    "name": "merperson-dark",
+    "alt_names": [
+      "merperson - dark"
+    ],
+    "file": "1f9dc-1f3ff"
+  },
+  {
+    "name": "merperson-light",
+    "alt_names": [
+      "merperson - light"
+    ],
+    "file": "1f9dc-1f3fb"
+  },
+  {
+    "name": "merperson-medium",
+    "alt_names": [
+      "merperson - medium"
+    ],
+    "file": "1f9dc-1f3fd"
+  },
+  {
+    "name": "merperson-medium-dark",
+    "alt_names": [
+      "merperson - medium-dark"
+    ],
+    "file": "1f9dc-1f3fe"
+  },
+  {
+    "name": "merperson-medium-light",
+    "alt_names": [
+      "merperson - medium-light"
+    ],
+    "file": "1f9dc-1f3fc"
   },
   {
     "name": "metro",
@@ -6980,6 +11340,46 @@
       "reversed_hand_with_middle_finger_extended"
     ],
     "file": "1f595"
+  },
+  {
+    "name": "middle_finger-dark",
+    "alt_names": [
+      "middle_finger - dark",
+      "reversed_hand_with_middle_finger_extended - dark"
+    ],
+    "file": "1f595-1f3ff"
+  },
+  {
+    "name": "middle_finger-light",
+    "alt_names": [
+      "middle_finger - light",
+      "reversed_hand_with_middle_finger_extended - light"
+    ],
+    "file": "1f595-1f3fb"
+  },
+  {
+    "name": "middle_finger-medium",
+    "alt_names": [
+      "middle_finger - medium",
+      "reversed_hand_with_middle_finger_extended - medium"
+    ],
+    "file": "1f595-1f3fd"
+  },
+  {
+    "name": "middle_finger-medium-dark",
+    "alt_names": [
+      "middle_finger - medium-dark",
+      "reversed_hand_with_middle_finger_extended - medium-dark"
+    ],
+    "file": "1f595-1f3fe"
+  },
+  {
+    "name": "middle_finger-medium-light",
+    "alt_names": [
+      "middle_finger - medium-light",
+      "reversed_hand_with_middle_finger_extended - medium-light"
+    ],
+    "file": "1f595-1f3fc"
   },
   {
     "name": "milky_way",
@@ -7087,6 +11487,41 @@
     "file": "1f936"
   },
   {
+    "name": "mother_christmas-dark",
+    "alt_names": [
+      "mother_christmas - dark"
+    ],
+    "file": "1f936-1f3ff"
+  },
+  {
+    "name": "mother_christmas-light",
+    "alt_names": [
+      "mother_christmas - light"
+    ],
+    "file": "1f936-1f3fb"
+  },
+  {
+    "name": "mother_christmas-medium",
+    "alt_names": [
+      "mother_christmas - medium"
+    ],
+    "file": "1f936-1f3fd"
+  },
+  {
+    "name": "mother_christmas-medium-dark",
+    "alt_names": [
+      "mother_christmas - medium-dark"
+    ],
+    "file": "1f936-1f3fe"
+  },
+  {
+    "name": "mother_christmas-medium-light",
+    "alt_names": [
+      "mother_christmas - medium-light"
+    ],
+    "file": "1f936-1f3fc"
+  },
+  {
     "name": "motor_boat",
     "alt_names": [
 
@@ -7127,6 +11562,41 @@
 
     ],
     "file": "1f6b5"
+  },
+  {
+    "name": "mountain_bicyclist-dark",
+    "alt_names": [
+      "mountain_bicyclist - dark"
+    ],
+    "file": "1f6b5-1f3ff"
+  },
+  {
+    "name": "mountain_bicyclist-light",
+    "alt_names": [
+      "mountain_bicyclist - light"
+    ],
+    "file": "1f6b5-1f3fb"
+  },
+  {
+    "name": "mountain_bicyclist-medium",
+    "alt_names": [
+      "mountain_bicyclist - medium"
+    ],
+    "file": "1f6b5-1f3fd"
+  },
+  {
+    "name": "mountain_bicyclist-medium-dark",
+    "alt_names": [
+      "mountain_bicyclist - medium-dark"
+    ],
+    "file": "1f6b5-1f3fe"
+  },
+  {
+    "name": "mountain_bicyclist-medium-light",
+    "alt_names": [
+      "mountain_bicyclist - medium-light"
+    ],
+    "file": "1f6b5-1f3fc"
   },
   {
     "name": "mountain_cableway",
@@ -7178,6 +11648,41 @@
     "file": "1f4aa"
   },
   {
+    "name": "muscle-dark",
+    "alt_names": [
+      "muscle - dark"
+    ],
+    "file": "1f4aa-1f3ff"
+  },
+  {
+    "name": "muscle-light",
+    "alt_names": [
+      "muscle - light"
+    ],
+    "file": "1f4aa-1f3fb"
+  },
+  {
+    "name": "muscle-medium",
+    "alt_names": [
+      "muscle - medium"
+    ],
+    "file": "1f4aa-1f3fd"
+  },
+  {
+    "name": "muscle-medium-dark",
+    "alt_names": [
+      "muscle - medium-dark"
+    ],
+    "file": "1f4aa-1f3fe"
+  },
+  {
+    "name": "muscle-medium-light",
+    "alt_names": [
+      "muscle - medium-light"
+    ],
+    "file": "1f4aa-1f3fc"
+  },
+  {
     "name": "mushroom",
     "alt_names": [
 
@@ -7218,6 +11723,41 @@
 
     ],
     "file": "1f485"
+  },
+  {
+    "name": "nail_care-dark",
+    "alt_names": [
+      "nail_care - dark"
+    ],
+    "file": "1f485-1f3ff"
+  },
+  {
+    "name": "nail_care-light",
+    "alt_names": [
+      "nail_care - light"
+    ],
+    "file": "1f485-1f3fb"
+  },
+  {
+    "name": "nail_care-medium",
+    "alt_names": [
+      "nail_care - medium"
+    ],
+    "file": "1f485-1f3fd"
+  },
+  {
+    "name": "nail_care-medium-dark",
+    "alt_names": [
+      "nail_care - medium-dark"
+    ],
+    "file": "1f485-1f3fe"
+  },
+  {
+    "name": "nail_care-medium-light",
+    "alt_names": [
+      "nail_care - medium-light"
+    ],
+    "file": "1f485-1f3fc"
   },
   {
     "name": "name_badge",
@@ -7353,6 +11893,41 @@
     "file": "1f645"
   },
   {
+    "name": "no_good-dark",
+    "alt_names": [
+      "no_good - dark"
+    ],
+    "file": "1f645-1f3ff"
+  },
+  {
+    "name": "no_good-light",
+    "alt_names": [
+      "no_good - light"
+    ],
+    "file": "1f645-1f3fb"
+  },
+  {
+    "name": "no_good-medium",
+    "alt_names": [
+      "no_good - medium"
+    ],
+    "file": "1f645-1f3fd"
+  },
+  {
+    "name": "no_good-medium-dark",
+    "alt_names": [
+      "no_good - medium-dark"
+    ],
+    "file": "1f645-1f3fe"
+  },
+  {
+    "name": "no_good-medium-light",
+    "alt_names": [
+      "no_good - medium-light"
+    ],
+    "file": "1f645-1f3fc"
+  },
+  {
     "name": "no_mobile_phones",
     "alt_names": [
 
@@ -7393,6 +11968,41 @@
 
     ],
     "file": "1f443"
+  },
+  {
+    "name": "nose-dark",
+    "alt_names": [
+      "nose - dark"
+    ],
+    "file": "1f443-1f3ff"
+  },
+  {
+    "name": "nose-light",
+    "alt_names": [
+      "nose - light"
+    ],
+    "file": "1f443-1f3fb"
+  },
+  {
+    "name": "nose-medium",
+    "alt_names": [
+      "nose - medium"
+    ],
+    "file": "1f443-1f3fd"
+  },
+  {
+    "name": "nose-medium-dark",
+    "alt_names": [
+      "nose - medium-dark"
+    ],
+    "file": "1f443-1f3fe"
+  },
+  {
+    "name": "nose-medium-light",
+    "alt_names": [
+      "nose - medium-light"
+    ],
+    "file": "1f443-1f3fc"
   },
   {
     "name": "notebook",
@@ -7493,11 +12103,81 @@
     "file": "1f44c"
   },
   {
+    "name": "ok_hand-dark",
+    "alt_names": [
+      "ok_hand - dark"
+    ],
+    "file": "1f44c-1f3ff"
+  },
+  {
+    "name": "ok_hand-light",
+    "alt_names": [
+      "ok_hand - light"
+    ],
+    "file": "1f44c-1f3fb"
+  },
+  {
+    "name": "ok_hand-medium",
+    "alt_names": [
+      "ok_hand - medium"
+    ],
+    "file": "1f44c-1f3fd"
+  },
+  {
+    "name": "ok_hand-medium-dark",
+    "alt_names": [
+      "ok_hand - medium-dark"
+    ],
+    "file": "1f44c-1f3fe"
+  },
+  {
+    "name": "ok_hand-medium-light",
+    "alt_names": [
+      "ok_hand - medium-light"
+    ],
+    "file": "1f44c-1f3fc"
+  },
+  {
     "name": "ok_woman",
     "alt_names": [
 
     ],
     "file": "1f646"
+  },
+  {
+    "name": "ok_woman-dark",
+    "alt_names": [
+      "ok_woman - dark"
+    ],
+    "file": "1f646-1f3ff"
+  },
+  {
+    "name": "ok_woman-light",
+    "alt_names": [
+      "ok_woman - light"
+    ],
+    "file": "1f646-1f3fb"
+  },
+  {
+    "name": "ok_woman-medium",
+    "alt_names": [
+      "ok_woman - medium"
+    ],
+    "file": "1f646-1f3fd"
+  },
+  {
+    "name": "ok_woman-medium-dark",
+    "alt_names": [
+      "ok_woman - medium-dark"
+    ],
+    "file": "1f646-1f3fe"
+  },
+  {
+    "name": "ok_woman-medium-light",
+    "alt_names": [
+      "ok_woman - medium-light"
+    ],
+    "file": "1f646-1f3fc"
   },
   {
     "name": "old_key",
@@ -7514,6 +12194,41 @@
     "file": "1f9d3"
   },
   {
+    "name": "older_adult-dark",
+    "alt_names": [
+      "older_adult - dark"
+    ],
+    "file": "1f9d3-1f3ff"
+  },
+  {
+    "name": "older_adult-light",
+    "alt_names": [
+      "older_adult - light"
+    ],
+    "file": "1f9d3-1f3fb"
+  },
+  {
+    "name": "older_adult-medium",
+    "alt_names": [
+      "older_adult - medium"
+    ],
+    "file": "1f9d3-1f3fd"
+  },
+  {
+    "name": "older_adult-medium-dark",
+    "alt_names": [
+      "older_adult - medium-dark"
+    ],
+    "file": "1f9d3-1f3fe"
+  },
+  {
+    "name": "older_adult-medium-light",
+    "alt_names": [
+      "older_adult - medium-light"
+    ],
+    "file": "1f9d3-1f3fc"
+  },
+  {
     "name": "older_man",
     "alt_names": [
 
@@ -7521,11 +12236,81 @@
     "file": "1f474"
   },
   {
+    "name": "older_man-dark",
+    "alt_names": [
+      "older_man - dark"
+    ],
+    "file": "1f474-1f3ff"
+  },
+  {
+    "name": "older_man-light",
+    "alt_names": [
+      "older_man - light"
+    ],
+    "file": "1f474-1f3fb"
+  },
+  {
+    "name": "older_man-medium",
+    "alt_names": [
+      "older_man - medium"
+    ],
+    "file": "1f474-1f3fd"
+  },
+  {
+    "name": "older_man-medium-dark",
+    "alt_names": [
+      "older_man - medium-dark"
+    ],
+    "file": "1f474-1f3fe"
+  },
+  {
+    "name": "older_man-medium-light",
+    "alt_names": [
+      "older_man - medium-light"
+    ],
+    "file": "1f474-1f3fc"
+  },
+  {
     "name": "older_woman",
     "alt_names": [
 
     ],
     "file": "1f475"
+  },
+  {
+    "name": "older_woman-dark",
+    "alt_names": [
+      "older_woman - dark"
+    ],
+    "file": "1f475-1f3ff"
+  },
+  {
+    "name": "older_woman-light",
+    "alt_names": [
+      "older_woman - light"
+    ],
+    "file": "1f475-1f3fb"
+  },
+  {
+    "name": "older_woman-medium",
+    "alt_names": [
+      "older_woman - medium"
+    ],
+    "file": "1f475-1f3fd"
+  },
+  {
+    "name": "older_woman-medium-dark",
+    "alt_names": [
+      "older_woman - medium-dark"
+    ],
+    "file": "1f475-1f3fe"
+  },
+  {
+    "name": "older_woman-medium-light",
+    "alt_names": [
+      "older_woman - medium-light"
+    ],
+    "file": "1f475-1f3fc"
   },
   {
     "name": "om_symbol",
@@ -7589,6 +12374,41 @@
 
     ],
     "file": "1f450"
+  },
+  {
+    "name": "open_hands-dark",
+    "alt_names": [
+      "open_hands - dark"
+    ],
+    "file": "1f450-1f3ff"
+  },
+  {
+    "name": "open_hands-light",
+    "alt_names": [
+      "open_hands - light"
+    ],
+    "file": "1f450-1f3fb"
+  },
+  {
+    "name": "open_hands-medium",
+    "alt_names": [
+      "open_hands - medium"
+    ],
+    "file": "1f450-1f3fd"
+  },
+  {
+    "name": "open_hands-medium-dark",
+    "alt_names": [
+      "open_hands - medium-dark"
+    ],
+    "file": "1f450-1f3fe"
+  },
+  {
+    "name": "open_hands-medium-light",
+    "alt_names": [
+      "open_hands - medium-light"
+    ],
+    "file": "1f450-1f3fc"
   },
   {
     "name": "open_mouth",
@@ -7687,6 +12507,41 @@
 
     ],
     "file": "1f932"
+  },
+  {
+    "name": "palms_up_together-dark",
+    "alt_names": [
+      "palms_up_together - dark"
+    ],
+    "file": "1f932-1f3ff"
+  },
+  {
+    "name": "palms_up_together-light",
+    "alt_names": [
+      "palms_up_together - light"
+    ],
+    "file": "1f932-1f3fb"
+  },
+  {
+    "name": "palms_up_together-medium",
+    "alt_names": [
+      "palms_up_together - medium"
+    ],
+    "file": "1f932-1f3fd"
+  },
+  {
+    "name": "palms_up_together-medium-dark",
+    "alt_names": [
+      "palms_up_together - medium-dark"
+    ],
+    "file": "1f932-1f3fe"
+  },
+  {
+    "name": "palms_up_together-medium-light",
+    "alt_names": [
+      "palms_up_together - medium-light"
+    ],
+    "file": "1f932-1f3fc"
   },
   {
     "name": "pancakes",
@@ -7822,11 +12677,81 @@
     "file": "1f9d7"
   },
   {
+    "name": "person_climbing-dark",
+    "alt_names": [
+      "person_climbing - dark"
+    ],
+    "file": "1f9d7-1f3ff"
+  },
+  {
+    "name": "person_climbing-light",
+    "alt_names": [
+      "person_climbing - light"
+    ],
+    "file": "1f9d7-1f3fb"
+  },
+  {
+    "name": "person_climbing-medium",
+    "alt_names": [
+      "person_climbing - medium"
+    ],
+    "file": "1f9d7-1f3fd"
+  },
+  {
+    "name": "person_climbing-medium-dark",
+    "alt_names": [
+      "person_climbing - medium-dark"
+    ],
+    "file": "1f9d7-1f3fe"
+  },
+  {
+    "name": "person_climbing-medium-light",
+    "alt_names": [
+      "person_climbing - medium-light"
+    ],
+    "file": "1f9d7-1f3fc"
+  },
+  {
     "name": "person_doing_cartwheel",
     "alt_names": [
 
     ],
     "file": "1f938"
+  },
+  {
+    "name": "person_doing_cartwheel-dark",
+    "alt_names": [
+      "person_doing_cartwheel - dark"
+    ],
+    "file": "1f938-1f3ff"
+  },
+  {
+    "name": "person_doing_cartwheel-light",
+    "alt_names": [
+      "person_doing_cartwheel - light"
+    ],
+    "file": "1f938-1f3fb"
+  },
+  {
+    "name": "person_doing_cartwheel-medium",
+    "alt_names": [
+      "person_doing_cartwheel - medium"
+    ],
+    "file": "1f938-1f3fd"
+  },
+  {
+    "name": "person_doing_cartwheel-medium-dark",
+    "alt_names": [
+      "person_doing_cartwheel - medium-dark"
+    ],
+    "file": "1f938-1f3fe"
+  },
+  {
+    "name": "person_doing_cartwheel-medium-light",
+    "alt_names": [
+      "person_doing_cartwheel - medium-light"
+    ],
+    "file": "1f938-1f3fc"
   },
   {
     "name": "person_frowning",
@@ -7836,6 +12761,41 @@
     "file": "1f64d"
   },
   {
+    "name": "person_frowning-dark",
+    "alt_names": [
+      "person_frowning - dark"
+    ],
+    "file": "1f64d-1f3ff"
+  },
+  {
+    "name": "person_frowning-light",
+    "alt_names": [
+      "person_frowning - light"
+    ],
+    "file": "1f64d-1f3fb"
+  },
+  {
+    "name": "person_frowning-medium",
+    "alt_names": [
+      "person_frowning - medium"
+    ],
+    "file": "1f64d-1f3fd"
+  },
+  {
+    "name": "person_frowning-medium-dark",
+    "alt_names": [
+      "person_frowning - medium-dark"
+    ],
+    "file": "1f64d-1f3fe"
+  },
+  {
+    "name": "person_frowning-medium-light",
+    "alt_names": [
+      "person_frowning - medium-light"
+    ],
+    "file": "1f64d-1f3fc"
+  },
+  {
     "name": "person_in_lotus_position",
     "alt_names": [
 
@@ -7843,11 +12803,81 @@
     "file": "1f9d8"
   },
   {
+    "name": "person_in_lotus_position-dark",
+    "alt_names": [
+      "person_in_lotus_position - dark"
+    ],
+    "file": "1f9d8-1f3ff"
+  },
+  {
+    "name": "person_in_lotus_position-light",
+    "alt_names": [
+      "person_in_lotus_position - light"
+    ],
+    "file": "1f9d8-1f3fb"
+  },
+  {
+    "name": "person_in_lotus_position-medium",
+    "alt_names": [
+      "person_in_lotus_position - medium"
+    ],
+    "file": "1f9d8-1f3fd"
+  },
+  {
+    "name": "person_in_lotus_position-medium-dark",
+    "alt_names": [
+      "person_in_lotus_position - medium-dark"
+    ],
+    "file": "1f9d8-1f3fe"
+  },
+  {
+    "name": "person_in_lotus_position-medium-light",
+    "alt_names": [
+      "person_in_lotus_position - medium-light"
+    ],
+    "file": "1f9d8-1f3fc"
+  },
+  {
     "name": "person_in_steamy_room",
     "alt_names": [
 
     ],
     "file": "1f9d6"
+  },
+  {
+    "name": "person_in_steamy_room-dark",
+    "alt_names": [
+      "person_in_steamy_room - dark"
+    ],
+    "file": "1f9d6-1f3ff"
+  },
+  {
+    "name": "person_in_steamy_room-light",
+    "alt_names": [
+      "person_in_steamy_room - light"
+    ],
+    "file": "1f9d6-1f3fb"
+  },
+  {
+    "name": "person_in_steamy_room-medium",
+    "alt_names": [
+      "person_in_steamy_room - medium"
+    ],
+    "file": "1f9d6-1f3fd"
+  },
+  {
+    "name": "person_in_steamy_room-medium-dark",
+    "alt_names": [
+      "person_in_steamy_room - medium-dark"
+    ],
+    "file": "1f9d6-1f3fe"
+  },
+  {
+    "name": "person_in_steamy_room-medium-light",
+    "alt_names": [
+      "person_in_steamy_room - medium-light"
+    ],
+    "file": "1f9d6-1f3fc"
   },
   {
     "name": "person_with_ball",
@@ -7864,6 +12894,41 @@
     "file": "1f471"
   },
   {
+    "name": "person_with_blond_hair-dark",
+    "alt_names": [
+      "person_with_blond_hair - dark"
+    ],
+    "file": "1f471-1f3ff"
+  },
+  {
+    "name": "person_with_blond_hair-light",
+    "alt_names": [
+      "person_with_blond_hair - light"
+    ],
+    "file": "1f471-1f3fb"
+  },
+  {
+    "name": "person_with_blond_hair-medium",
+    "alt_names": [
+      "person_with_blond_hair - medium"
+    ],
+    "file": "1f471-1f3fd"
+  },
+  {
+    "name": "person_with_blond_hair-medium-dark",
+    "alt_names": [
+      "person_with_blond_hair - medium-dark"
+    ],
+    "file": "1f471-1f3fe"
+  },
+  {
+    "name": "person_with_blond_hair-medium-light",
+    "alt_names": [
+      "person_with_blond_hair - medium-light"
+    ],
+    "file": "1f471-1f3fc"
+  },
+  {
     "name": "person_with_headscarf",
     "alt_names": [
 
@@ -7871,11 +12936,81 @@
     "file": "1f9d5"
   },
   {
+    "name": "person_with_headscarf-dark",
+    "alt_names": [
+      "person_with_headscarf - dark"
+    ],
+    "file": "1f9d5-1f3ff"
+  },
+  {
+    "name": "person_with_headscarf-light",
+    "alt_names": [
+      "person_with_headscarf - light"
+    ],
+    "file": "1f9d5-1f3fb"
+  },
+  {
+    "name": "person_with_headscarf-medium",
+    "alt_names": [
+      "person_with_headscarf - medium"
+    ],
+    "file": "1f9d5-1f3fd"
+  },
+  {
+    "name": "person_with_headscarf-medium-dark",
+    "alt_names": [
+      "person_with_headscarf - medium-dark"
+    ],
+    "file": "1f9d5-1f3fe"
+  },
+  {
+    "name": "person_with_headscarf-medium-light",
+    "alt_names": [
+      "person_with_headscarf - medium-light"
+    ],
+    "file": "1f9d5-1f3fc"
+  },
+  {
     "name": "person_with_pouting_face",
     "alt_names": [
 
     ],
     "file": "1f64e"
+  },
+  {
+    "name": "person_with_pouting_face-dark",
+    "alt_names": [
+      "person_with_pouting_face - dark"
+    ],
+    "file": "1f64e-1f3ff"
+  },
+  {
+    "name": "person_with_pouting_face-light",
+    "alt_names": [
+      "person_with_pouting_face - light"
+    ],
+    "file": "1f64e-1f3fb"
+  },
+  {
+    "name": "person_with_pouting_face-medium",
+    "alt_names": [
+      "person_with_pouting_face - medium"
+    ],
+    "file": "1f64e-1f3fd"
+  },
+  {
+    "name": "person_with_pouting_face-medium-dark",
+    "alt_names": [
+      "person_with_pouting_face - medium-dark"
+    ],
+    "file": "1f64e-1f3fe"
+  },
+  {
+    "name": "person_with_pouting_face-medium-light",
+    "alt_names": [
+      "person_with_pouting_face - medium-light"
+    ],
+    "file": "1f64e-1f3fc"
   },
   {
     "name": "phone",
@@ -7962,6 +13097,41 @@
     "file": "1f447"
   },
   {
+    "name": "point_down-dark",
+    "alt_names": [
+      "point_down - dark"
+    ],
+    "file": "1f447-1f3ff"
+  },
+  {
+    "name": "point_down-light",
+    "alt_names": [
+      "point_down - light"
+    ],
+    "file": "1f447-1f3fb"
+  },
+  {
+    "name": "point_down-medium",
+    "alt_names": [
+      "point_down - medium"
+    ],
+    "file": "1f447-1f3fd"
+  },
+  {
+    "name": "point_down-medium-dark",
+    "alt_names": [
+      "point_down - medium-dark"
+    ],
+    "file": "1f447-1f3fe"
+  },
+  {
+    "name": "point_down-medium-light",
+    "alt_names": [
+      "point_down - medium-light"
+    ],
+    "file": "1f447-1f3fc"
+  },
+  {
     "name": "point_left",
     "alt_names": [
 
@@ -7969,11 +13139,81 @@
     "file": "1f448"
   },
   {
+    "name": "point_left-dark",
+    "alt_names": [
+      "point_left - dark"
+    ],
+    "file": "1f448-1f3ff"
+  },
+  {
+    "name": "point_left-light",
+    "alt_names": [
+      "point_left - light"
+    ],
+    "file": "1f448-1f3fb"
+  },
+  {
+    "name": "point_left-medium",
+    "alt_names": [
+      "point_left - medium"
+    ],
+    "file": "1f448-1f3fd"
+  },
+  {
+    "name": "point_left-medium-dark",
+    "alt_names": [
+      "point_left - medium-dark"
+    ],
+    "file": "1f448-1f3fe"
+  },
+  {
+    "name": "point_left-medium-light",
+    "alt_names": [
+      "point_left - medium-light"
+    ],
+    "file": "1f448-1f3fc"
+  },
+  {
     "name": "point_right",
     "alt_names": [
 
     ],
     "file": "1f449"
+  },
+  {
+    "name": "point_right-dark",
+    "alt_names": [
+      "point_right - dark"
+    ],
+    "file": "1f449-1f3ff"
+  },
+  {
+    "name": "point_right-light",
+    "alt_names": [
+      "point_right - light"
+    ],
+    "file": "1f449-1f3fb"
+  },
+  {
+    "name": "point_right-medium",
+    "alt_names": [
+      "point_right - medium"
+    ],
+    "file": "1f449-1f3fd"
+  },
+  {
+    "name": "point_right-medium-dark",
+    "alt_names": [
+      "point_right - medium-dark"
+    ],
+    "file": "1f449-1f3fe"
+  },
+  {
+    "name": "point_right-medium-light",
+    "alt_names": [
+      "point_right - medium-light"
+    ],
+    "file": "1f449-1f3fc"
   },
   {
     "name": "point_up",
@@ -7988,6 +13228,41 @@
 
     ],
     "file": "1f446"
+  },
+  {
+    "name": "point_up_2-dark",
+    "alt_names": [
+      "point_up_2 - dark"
+    ],
+    "file": "1f446-1f3ff"
+  },
+  {
+    "name": "point_up_2-light",
+    "alt_names": [
+      "point_up_2 - light"
+    ],
+    "file": "1f446-1f3fb"
+  },
+  {
+    "name": "point_up_2-medium",
+    "alt_names": [
+      "point_up_2 - medium"
+    ],
+    "file": "1f446-1f3fd"
+  },
+  {
+    "name": "point_up_2-medium-dark",
+    "alt_names": [
+      "point_up_2 - medium-dark"
+    ],
+    "file": "1f446-1f3fe"
+  },
+  {
+    "name": "point_up_2-medium-light",
+    "alt_names": [
+      "point_up_2 - medium-light"
+    ],
+    "file": "1f446-1f3fc"
   },
   {
     "name": "police_car",
@@ -8081,6 +13356,41 @@
     "file": "1f64f"
   },
   {
+    "name": "pray-dark",
+    "alt_names": [
+      "pray - dark"
+    ],
+    "file": "1f64f-1f3ff"
+  },
+  {
+    "name": "pray-light",
+    "alt_names": [
+      "pray - light"
+    ],
+    "file": "1f64f-1f3fb"
+  },
+  {
+    "name": "pray-medium",
+    "alt_names": [
+      "pray - medium"
+    ],
+    "file": "1f64f-1f3fd"
+  },
+  {
+    "name": "pray-medium-dark",
+    "alt_names": [
+      "pray - medium-dark"
+    ],
+    "file": "1f64f-1f3fe"
+  },
+  {
+    "name": "pray-medium-light",
+    "alt_names": [
+      "pray - medium-light"
+    ],
+    "file": "1f64f-1f3fc"
+  },
+  {
     "name": "prayer_beads",
     "alt_names": [
 
@@ -8093,6 +13403,41 @@
 
     ],
     "file": "1f930"
+  },
+  {
+    "name": "pregnant_woman-dark",
+    "alt_names": [
+      "pregnant_woman - dark"
+    ],
+    "file": "1f930-1f3ff"
+  },
+  {
+    "name": "pregnant_woman-light",
+    "alt_names": [
+      "pregnant_woman - light"
+    ],
+    "file": "1f930-1f3fb"
+  },
+  {
+    "name": "pregnant_woman-medium",
+    "alt_names": [
+      "pregnant_woman - medium"
+    ],
+    "file": "1f930-1f3fd"
+  },
+  {
+    "name": "pregnant_woman-medium-dark",
+    "alt_names": [
+      "pregnant_woman - medium-dark"
+    ],
+    "file": "1f930-1f3fe"
+  },
+  {
+    "name": "pregnant_woman-medium-light",
+    "alt_names": [
+      "pregnant_woman - medium-light"
+    ],
+    "file": "1f930-1f3fc"
   },
   {
     "name": "pretzel",
@@ -8109,11 +13454,81 @@
     "file": "1f934"
   },
   {
+    "name": "prince-dark",
+    "alt_names": [
+      "prince - dark"
+    ],
+    "file": "1f934-1f3ff"
+  },
+  {
+    "name": "prince-light",
+    "alt_names": [
+      "prince - light"
+    ],
+    "file": "1f934-1f3fb"
+  },
+  {
+    "name": "prince-medium",
+    "alt_names": [
+      "prince - medium"
+    ],
+    "file": "1f934-1f3fd"
+  },
+  {
+    "name": "prince-medium-dark",
+    "alt_names": [
+      "prince - medium-dark"
+    ],
+    "file": "1f934-1f3fe"
+  },
+  {
+    "name": "prince-medium-light",
+    "alt_names": [
+      "prince - medium-light"
+    ],
+    "file": "1f934-1f3fc"
+  },
+  {
     "name": "princess",
     "alt_names": [
 
     ],
     "file": "1f478"
+  },
+  {
+    "name": "princess-dark",
+    "alt_names": [
+      "princess - dark"
+    ],
+    "file": "1f478-1f3ff"
+  },
+  {
+    "name": "princess-light",
+    "alt_names": [
+      "princess - light"
+    ],
+    "file": "1f478-1f3fb"
+  },
+  {
+    "name": "princess-medium",
+    "alt_names": [
+      "princess - medium"
+    ],
+    "file": "1f478-1f3fd"
+  },
+  {
+    "name": "princess-medium-dark",
+    "alt_names": [
+      "princess - medium-dark"
+    ],
+    "file": "1f478-1f3fe"
+  },
+  {
+    "name": "princess-medium-light",
+    "alt_names": [
+      "princess - medium-light"
+    ],
+    "file": "1f478-1f3fc"
   },
   {
     "name": "printer",
@@ -8263,6 +13678,41 @@
     "file": "1f91a"
   },
   {
+    "name": "raised_back_of_hand-dark",
+    "alt_names": [
+      "raised_back_of_hand - dark"
+    ],
+    "file": "1f91a-1f3ff"
+  },
+  {
+    "name": "raised_back_of_hand-light",
+    "alt_names": [
+      "raised_back_of_hand - light"
+    ],
+    "file": "1f91a-1f3fb"
+  },
+  {
+    "name": "raised_back_of_hand-medium",
+    "alt_names": [
+      "raised_back_of_hand - medium"
+    ],
+    "file": "1f91a-1f3fd"
+  },
+  {
+    "name": "raised_back_of_hand-medium-dark",
+    "alt_names": [
+      "raised_back_of_hand - medium-dark"
+    ],
+    "file": "1f91a-1f3fe"
+  },
+  {
+    "name": "raised_back_of_hand-medium-light",
+    "alt_names": [
+      "raised_back_of_hand - medium-light"
+    ],
+    "file": "1f91a-1f3fc"
+  },
+  {
     "name": "raised_hand_with_fingers_splayed",
     "alt_names": [
 
@@ -8277,11 +13727,81 @@
     "file": "1f64c"
   },
   {
+    "name": "raised_hands-dark",
+    "alt_names": [
+      "raised_hands - dark"
+    ],
+    "file": "1f64c-1f3ff"
+  },
+  {
+    "name": "raised_hands-light",
+    "alt_names": [
+      "raised_hands - light"
+    ],
+    "file": "1f64c-1f3fb"
+  },
+  {
+    "name": "raised_hands-medium",
+    "alt_names": [
+      "raised_hands - medium"
+    ],
+    "file": "1f64c-1f3fd"
+  },
+  {
+    "name": "raised_hands-medium-dark",
+    "alt_names": [
+      "raised_hands - medium-dark"
+    ],
+    "file": "1f64c-1f3fe"
+  },
+  {
+    "name": "raised_hands-medium-light",
+    "alt_names": [
+      "raised_hands - medium-light"
+    ],
+    "file": "1f64c-1f3fc"
+  },
+  {
     "name": "raising_hand",
     "alt_names": [
 
     ],
     "file": "1f64b"
+  },
+  {
+    "name": "raising_hand-dark",
+    "alt_names": [
+      "raising_hand - dark"
+    ],
+    "file": "1f64b-1f3ff"
+  },
+  {
+    "name": "raising_hand-light",
+    "alt_names": [
+      "raising_hand - light"
+    ],
+    "file": "1f64b-1f3fb"
+  },
+  {
+    "name": "raising_hand-medium",
+    "alt_names": [
+      "raising_hand - medium"
+    ],
+    "file": "1f64b-1f3fd"
+  },
+  {
+    "name": "raising_hand-medium-dark",
+    "alt_names": [
+      "raising_hand - medium-dark"
+    ],
+    "file": "1f64b-1f3fe"
+  },
+  {
+    "name": "raising_hand-medium-light",
+    "alt_names": [
+      "raising_hand - medium-light"
+    ],
+    "file": "1f64b-1f3fc"
   },
   {
     "name": "ram",
@@ -8431,6 +13951,41 @@
     "file": "1f91c"
   },
   {
+    "name": "right-facing_fist-dark",
+    "alt_names": [
+      "right-facing_fist - dark"
+    ],
+    "file": "1f91c-1f3ff"
+  },
+  {
+    "name": "right-facing_fist-light",
+    "alt_names": [
+      "right-facing_fist - light"
+    ],
+    "file": "1f91c-1f3fb"
+  },
+  {
+    "name": "right-facing_fist-medium",
+    "alt_names": [
+      "right-facing_fist - medium"
+    ],
+    "file": "1f91c-1f3fd"
+  },
+  {
+    "name": "right-facing_fist-medium-dark",
+    "alt_names": [
+      "right-facing_fist - medium-dark"
+    ],
+    "file": "1f91c-1f3fe"
+  },
+  {
+    "name": "right-facing_fist-medium-light",
+    "alt_names": [
+      "right-facing_fist - medium-light"
+    ],
+    "file": "1f91c-1f3fc"
+  },
+  {
     "name": "right_anger_bubble",
     "alt_names": [
 
@@ -8522,6 +14077,41 @@
     "file": "1f6a3"
   },
   {
+    "name": "rowboat-dark",
+    "alt_names": [
+      "rowboat - dark"
+    ],
+    "file": "1f6a3-1f3ff"
+  },
+  {
+    "name": "rowboat-light",
+    "alt_names": [
+      "rowboat - light"
+    ],
+    "file": "1f6a3-1f3fb"
+  },
+  {
+    "name": "rowboat-medium",
+    "alt_names": [
+      "rowboat - medium"
+    ],
+    "file": "1f6a3-1f3fd"
+  },
+  {
+    "name": "rowboat-medium-dark",
+    "alt_names": [
+      "rowboat - medium-dark"
+    ],
+    "file": "1f6a3-1f3fe"
+  },
+  {
+    "name": "rowboat-medium-light",
+    "alt_names": [
+      "rowboat - medium-light"
+    ],
+    "file": "1f6a3-1f3fc"
+  },
+  {
     "name": "ru",
     "alt_names": [
       "flag-ru"
@@ -8541,6 +14131,46 @@
       "running"
     ],
     "file": "1f3c3"
+  },
+  {
+    "name": "runner-dark",
+    "alt_names": [
+      "runner - dark",
+      "running - dark"
+    ],
+    "file": "1f3c3-1f3ff"
+  },
+  {
+    "name": "runner-light",
+    "alt_names": [
+      "runner - light",
+      "running - light"
+    ],
+    "file": "1f3c3-1f3fb"
+  },
+  {
+    "name": "runner-medium",
+    "alt_names": [
+      "runner - medium",
+      "running - medium"
+    ],
+    "file": "1f3c3-1f3fd"
+  },
+  {
+    "name": "runner-medium-dark",
+    "alt_names": [
+      "runner - medium-dark",
+      "running - medium-dark"
+    ],
+    "file": "1f3c3-1f3fe"
+  },
+  {
+    "name": "runner-medium-light",
+    "alt_names": [
+      "runner - medium-light",
+      "running - medium-light"
+    ],
+    "file": "1f3c3-1f3fc"
   },
   {
     "name": "running_shirt_with_sash",
@@ -8590,6 +14220,41 @@
 
     ],
     "file": "1f385"
+  },
+  {
+    "name": "santa-dark",
+    "alt_names": [
+      "santa - dark"
+    ],
+    "file": "1f385-1f3ff"
+  },
+  {
+    "name": "santa-light",
+    "alt_names": [
+      "santa - light"
+    ],
+    "file": "1f385-1f3fb"
+  },
+  {
+    "name": "santa-medium",
+    "alt_names": [
+      "santa - medium"
+    ],
+    "file": "1f385-1f3fd"
+  },
+  {
+    "name": "santa-medium-dark",
+    "alt_names": [
+      "santa - medium-dark"
+    ],
+    "file": "1f385-1f3fe"
+  },
+  {
+    "name": "santa-medium-light",
+    "alt_names": [
+      "santa - medium-light"
+    ],
+    "file": "1f385-1f3fc"
   },
   {
     "name": "satellite",
@@ -8739,6 +14404,41 @@
     "file": "1f933"
   },
   {
+    "name": "selfie-dark",
+    "alt_names": [
+      "selfie - dark"
+    ],
+    "file": "1f933-1f3ff"
+  },
+  {
+    "name": "selfie-light",
+    "alt_names": [
+      "selfie - light"
+    ],
+    "file": "1f933-1f3fb"
+  },
+  {
+    "name": "selfie-medium",
+    "alt_names": [
+      "selfie - medium"
+    ],
+    "file": "1f933-1f3fd"
+  },
+  {
+    "name": "selfie-medium-dark",
+    "alt_names": [
+      "selfie - medium-dark"
+    ],
+    "file": "1f933-1f3fe"
+  },
+  {
+    "name": "selfie-medium-light",
+    "alt_names": [
+      "selfie - medium-light"
+    ],
+    "file": "1f933-1f3fc"
+  },
+  {
     "name": "serious_face_with_symbols_covering_mouth",
     "alt_names": [
 
@@ -8865,6 +14565,41 @@
     "file": "1f937"
   },
   {
+    "name": "shrug-dark",
+    "alt_names": [
+      "shrug - dark"
+    ],
+    "file": "1f937-1f3ff"
+  },
+  {
+    "name": "shrug-light",
+    "alt_names": [
+      "shrug - light"
+    ],
+    "file": "1f937-1f3fb"
+  },
+  {
+    "name": "shrug-medium",
+    "alt_names": [
+      "shrug - medium"
+    ],
+    "file": "1f937-1f3fd"
+  },
+  {
+    "name": "shrug-medium-dark",
+    "alt_names": [
+      "shrug - medium-dark"
+    ],
+    "file": "1f937-1f3fe"
+  },
+  {
+    "name": "shrug-medium-light",
+    "alt_names": [
+      "shrug - medium-light"
+    ],
+    "file": "1f937-1f3fc"
+  },
+  {
     "name": "signal_strength",
     "alt_names": [
 
@@ -8968,6 +14703,41 @@
 
     ],
     "file": "1f6cc"
+  },
+  {
+    "name": "sleeping_accommodation-dark",
+    "alt_names": [
+      "sleeping_accommodation - dark"
+    ],
+    "file": "1f6cc-1f3ff"
+  },
+  {
+    "name": "sleeping_accommodation-light",
+    "alt_names": [
+      "sleeping_accommodation - light"
+    ],
+    "file": "1f6cc-1f3fb"
+  },
+  {
+    "name": "sleeping_accommodation-medium",
+    "alt_names": [
+      "sleeping_accommodation - medium"
+    ],
+    "file": "1f6cc-1f3fd"
+  },
+  {
+    "name": "sleeping_accommodation-medium-dark",
+    "alt_names": [
+      "sleeping_accommodation - medium-dark"
+    ],
+    "file": "1f6cc-1f3fe"
+  },
+  {
+    "name": "sleeping_accommodation-medium-light",
+    "alt_names": [
+      "sleeping_accommodation - medium-light"
+    ],
+    "file": "1f6cc-1f3fc"
   },
   {
     "name": "sleepy",
@@ -9143,6 +14913,41 @@
 
     ],
     "file": "1f3c2"
+  },
+  {
+    "name": "snowboarder-dark",
+    "alt_names": [
+      "snowboarder - dark"
+    ],
+    "file": "1f3c2-1f3ff"
+  },
+  {
+    "name": "snowboarder-light",
+    "alt_names": [
+      "snowboarder - light"
+    ],
+    "file": "1f3c2-1f3fb"
+  },
+  {
+    "name": "snowboarder-medium",
+    "alt_names": [
+      "snowboarder - medium"
+    ],
+    "file": "1f3c2-1f3fd"
+  },
+  {
+    "name": "snowboarder-medium-dark",
+    "alt_names": [
+      "snowboarder - medium-dark"
+    ],
+    "file": "1f3c2-1f3fe"
+  },
+  {
+    "name": "snowboarder-medium-light",
+    "alt_names": [
+      "snowboarder - medium-light"
+    ],
+    "file": "1f3c2-1f3fc"
   },
   {
     "name": "snowflake",
@@ -9325,6 +15130,41 @@
 
     ],
     "file": "1f596"
+  },
+  {
+    "name": "spock-hand-dark",
+    "alt_names": [
+      "spock-hand - dark"
+    ],
+    "file": "1f596-1f3ff"
+  },
+  {
+    "name": "spock-hand-light",
+    "alt_names": [
+      "spock-hand - light"
+    ],
+    "file": "1f596-1f3fb"
+  },
+  {
+    "name": "spock-hand-medium",
+    "alt_names": [
+      "spock-hand - medium"
+    ],
+    "file": "1f596-1f3fd"
+  },
+  {
+    "name": "spock-hand-medium-dark",
+    "alt_names": [
+      "spock-hand - medium-dark"
+    ],
+    "file": "1f596-1f3fe"
+  },
+  {
+    "name": "spock-hand-medium-light",
+    "alt_names": [
+      "spock-hand - medium-light"
+    ],
+    "file": "1f596-1f3fc"
   },
   {
     "name": "spoon",
@@ -9530,6 +15370,41 @@
     "file": "1f3c4"
   },
   {
+    "name": "surfer-dark",
+    "alt_names": [
+      "surfer - dark"
+    ],
+    "file": "1f3c4-1f3ff"
+  },
+  {
+    "name": "surfer-light",
+    "alt_names": [
+      "surfer - light"
+    ],
+    "file": "1f3c4-1f3fb"
+  },
+  {
+    "name": "surfer-medium",
+    "alt_names": [
+      "surfer - medium"
+    ],
+    "file": "1f3c4-1f3fd"
+  },
+  {
+    "name": "surfer-medium-dark",
+    "alt_names": [
+      "surfer - medium-dark"
+    ],
+    "file": "1f3c4-1f3fe"
+  },
+  {
+    "name": "surfer-medium-light",
+    "alt_names": [
+      "surfer - medium-light"
+    ],
+    "file": "1f3c4-1f3fc"
+  },
+  {
     "name": "sushi",
     "alt_names": [
 
@@ -9577,6 +15452,41 @@
 
     ],
     "file": "1f3ca"
+  },
+  {
+    "name": "swimmer-dark",
+    "alt_names": [
+      "swimmer - dark"
+    ],
+    "file": "1f3ca-1f3ff"
+  },
+  {
+    "name": "swimmer-light",
+    "alt_names": [
+      "swimmer - light"
+    ],
+    "file": "1f3ca-1f3fb"
+  },
+  {
+    "name": "swimmer-medium",
+    "alt_names": [
+      "swimmer - medium"
+    ],
+    "file": "1f3ca-1f3fd"
+  },
+  {
+    "name": "swimmer-medium-dark",
+    "alt_names": [
+      "swimmer - medium-dark"
+    ],
+    "file": "1f3ca-1f3fe"
+  },
+  {
+    "name": "swimmer-medium-light",
+    "alt_names": [
+      "swimmer - medium-light"
+    ],
+    "file": "1f3ca-1f3fc"
   },
   {
     "name": "symbols",
@@ -9703,6 +15613,46 @@
       "sign_of_the_horns"
     ],
     "file": "1f918"
+  },
+  {
+    "name": "the_horns-dark",
+    "alt_names": [
+      "the_horns - dark",
+      "sign_of_the_horns - dark"
+    ],
+    "file": "1f918-1f3ff"
+  },
+  {
+    "name": "the_horns-light",
+    "alt_names": [
+      "the_horns - light",
+      "sign_of_the_horns - light"
+    ],
+    "file": "1f918-1f3fb"
+  },
+  {
+    "name": "the_horns-medium",
+    "alt_names": [
+      "the_horns - medium",
+      "sign_of_the_horns - medium"
+    ],
+    "file": "1f918-1f3fd"
+  },
+  {
+    "name": "the_horns-medium-dark",
+    "alt_names": [
+      "the_horns - medium-dark",
+      "sign_of_the_horns - medium-dark"
+    ],
+    "file": "1f918-1f3fe"
+  },
+  {
+    "name": "the_horns-medium-light",
+    "alt_names": [
+      "the_horns - medium-light",
+      "sign_of_the_horns - medium-light"
+    ],
+    "file": "1f918-1f3fc"
   },
   {
     "name": "thermometer",
@@ -10188,6 +16138,41 @@
     "file": "1f9db"
   },
   {
+    "name": "vampire-dark",
+    "alt_names": [
+      "vampire - dark"
+    ],
+    "file": "1f9db-1f3ff"
+  },
+  {
+    "name": "vampire-light",
+    "alt_names": [
+      "vampire - light"
+    ],
+    "file": "1f9db-1f3fb"
+  },
+  {
+    "name": "vampire-medium",
+    "alt_names": [
+      "vampire - medium"
+    ],
+    "file": "1f9db-1f3fd"
+  },
+  {
+    "name": "vampire-medium-dark",
+    "alt_names": [
+      "vampire - medium-dark"
+    ],
+    "file": "1f9db-1f3fe"
+  },
+  {
+    "name": "vampire-medium-light",
+    "alt_names": [
+      "vampire - medium-light"
+    ],
+    "file": "1f9db-1f3fc"
+  },
+  {
     "name": "vertical_traffic_light",
     "alt_names": [
 
@@ -10265,6 +16250,41 @@
     "file": "1f6b6"
   },
   {
+    "name": "walking-dark",
+    "alt_names": [
+      "walking - dark"
+    ],
+    "file": "1f6b6-1f3ff"
+  },
+  {
+    "name": "walking-light",
+    "alt_names": [
+      "walking - light"
+    ],
+    "file": "1f6b6-1f3fb"
+  },
+  {
+    "name": "walking-medium",
+    "alt_names": [
+      "walking - medium"
+    ],
+    "file": "1f6b6-1f3fd"
+  },
+  {
+    "name": "walking-medium-dark",
+    "alt_names": [
+      "walking - medium-dark"
+    ],
+    "file": "1f6b6-1f3fe"
+  },
+  {
+    "name": "walking-medium-light",
+    "alt_names": [
+      "walking - medium-light"
+    ],
+    "file": "1f6b6-1f3fc"
+  },
+  {
     "name": "waning_crescent_moon",
     "alt_names": [
 
@@ -10314,6 +16334,41 @@
     "file": "1f93d"
   },
   {
+    "name": "water_polo-dark",
+    "alt_names": [
+      "water_polo - dark"
+    ],
+    "file": "1f93d-1f3ff"
+  },
+  {
+    "name": "water_polo-light",
+    "alt_names": [
+      "water_polo - light"
+    ],
+    "file": "1f93d-1f3fb"
+  },
+  {
+    "name": "water_polo-medium",
+    "alt_names": [
+      "water_polo - medium"
+    ],
+    "file": "1f93d-1f3fd"
+  },
+  {
+    "name": "water_polo-medium-dark",
+    "alt_names": [
+      "water_polo - medium-dark"
+    ],
+    "file": "1f93d-1f3fe"
+  },
+  {
+    "name": "water_polo-medium-light",
+    "alt_names": [
+      "water_polo - medium-light"
+    ],
+    "file": "1f93d-1f3fc"
+  },
+  {
     "name": "watermelon",
     "alt_names": [
 
@@ -10326,6 +16381,41 @@
 
     ],
     "file": "1f44b"
+  },
+  {
+    "name": "wave-dark",
+    "alt_names": [
+      "wave - dark"
+    ],
+    "file": "1f44b-1f3ff"
+  },
+  {
+    "name": "wave-light",
+    "alt_names": [
+      "wave - light"
+    ],
+    "file": "1f44b-1f3fb"
+  },
+  {
+    "name": "wave-medium",
+    "alt_names": [
+      "wave - medium"
+    ],
+    "file": "1f44b-1f3fd"
+  },
+  {
+    "name": "wave-medium-dark",
+    "alt_names": [
+      "wave - medium-dark"
+    ],
+    "file": "1f44b-1f3fe"
+  },
+  {
+    "name": "wave-medium-light",
+    "alt_names": [
+      "wave - medium-light"
+    ],
+    "file": "1f44b-1f3fc"
   },
   {
     "name": "waving_black_flag",
@@ -10531,6 +16621,41 @@
     "file": "1f6b4-200d-2640-fe0f"
   },
   {
+    "name": "woman-biking-dark",
+    "alt_names": [
+      "woman-biking - dark"
+    ],
+    "file": "1f6b4-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-biking-light",
+    "alt_names": [
+      "woman-biking - light"
+    ],
+    "file": "1f6b4-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-biking-medium",
+    "alt_names": [
+      "woman-biking - medium"
+    ],
+    "file": "1f6b4-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-biking-medium-dark",
+    "alt_names": [
+      "woman-biking - medium-dark"
+    ],
+    "file": "1f6b4-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-biking-medium-light",
+    "alt_names": [
+      "woman-biking - medium-light"
+    ],
+    "file": "1f6b4-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-bouncing-ball",
     "alt_names": [
 
@@ -10538,11 +16663,81 @@
     "file": "26f9-fe0f-200d-2640-fe0f"
   },
   {
+    "name": "woman-bouncing-ball-dark",
+    "alt_names": [
+      "woman-bouncing-ball - dark"
+    ],
+    "file": "26f9-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bouncing-ball-light",
+    "alt_names": [
+      "woman-bouncing-ball - light"
+    ],
+    "file": "26f9-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bouncing-ball-medium",
+    "alt_names": [
+      "woman-bouncing-ball - medium"
+    ],
+    "file": "26f9-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bouncing-ball-medium-dark",
+    "alt_names": [
+      "woman-bouncing-ball - medium-dark"
+    ],
+    "file": "26f9-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bouncing-ball-medium-light",
+    "alt_names": [
+      "woman-bouncing-ball - medium-light"
+    ],
+    "file": "26f9-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-bowing",
     "alt_names": [
 
     ],
     "file": "1f647-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bowing-dark",
+    "alt_names": [
+      "woman-bowing - dark"
+    ],
+    "file": "1f647-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bowing-light",
+    "alt_names": [
+      "woman-bowing - light"
+    ],
+    "file": "1f647-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bowing-medium",
+    "alt_names": [
+      "woman-bowing - medium"
+    ],
+    "file": "1f647-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bowing-medium-dark",
+    "alt_names": [
+      "woman-bowing - medium-dark"
+    ],
+    "file": "1f647-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-bowing-medium-light",
+    "alt_names": [
+      "woman-bowing - medium-light"
+    ],
+    "file": "1f647-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-boy",
@@ -10566,11 +16761,88 @@
     "file": "1f938-200d-2640-fe0f"
   },
   {
+    "name": "woman-cartwheeling-dark",
+    "alt_names": [
+      "woman-cartwheeling - dark"
+    ],
+    "file": "1f938-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-cartwheeling-light",
+    "alt_names": [
+      "woman-cartwheeling - light"
+    ],
+    "file": "1f938-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-cartwheeling-medium",
+    "alt_names": [
+      "woman-cartwheeling - medium"
+    ],
+    "file": "1f938-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-cartwheeling-medium-dark",
+    "alt_names": [
+      "woman-cartwheeling - medium-dark"
+    ],
+    "file": "1f938-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-cartwheeling-medium-light",
+    "alt_names": [
+      "woman-cartwheeling - medium-light"
+    ],
+    "file": "1f938-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-dark",
+    "alt_names": [
+      "woman - dark"
+    ],
+    "file": "1f469-1f3ff"
+  },
+  {
     "name": "woman-facepalming",
     "alt_names": [
 
     ],
     "file": "1f926-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-facepalming-dark",
+    "alt_names": [
+      "woman-facepalming - dark"
+    ],
+    "file": "1f926-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-facepalming-light",
+    "alt_names": [
+      "woman-facepalming - light"
+    ],
+    "file": "1f926-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-facepalming-medium",
+    "alt_names": [
+      "woman-facepalming - medium"
+    ],
+    "file": "1f926-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-facepalming-medium-dark",
+    "alt_names": [
+      "woman-facepalming - medium-dark"
+    ],
+    "file": "1f926-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-facepalming-medium-light",
+    "alt_names": [
+      "woman-facepalming - medium-light"
+    ],
+    "file": "1f926-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-frowning",
@@ -10580,11 +16852,81 @@
     "file": "1f64d-200d-2640-fe0f"
   },
   {
+    "name": "woman-frowning-dark",
+    "alt_names": [
+      "woman-frowning - dark"
+    ],
+    "file": "1f64d-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-frowning-light",
+    "alt_names": [
+      "woman-frowning - light"
+    ],
+    "file": "1f64d-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-frowning-medium",
+    "alt_names": [
+      "woman-frowning - medium"
+    ],
+    "file": "1f64d-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-frowning-medium-dark",
+    "alt_names": [
+      "woman-frowning - medium-dark"
+    ],
+    "file": "1f64d-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-frowning-medium-light",
+    "alt_names": [
+      "woman-frowning - medium-light"
+    ],
+    "file": "1f64d-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-gesturing-no",
     "alt_names": [
 
     ],
     "file": "1f645-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-no-dark",
+    "alt_names": [
+      "woman-gesturing-no - dark"
+    ],
+    "file": "1f645-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-no-light",
+    "alt_names": [
+      "woman-gesturing-no - light"
+    ],
+    "file": "1f645-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-no-medium",
+    "alt_names": [
+      "woman-gesturing-no - medium"
+    ],
+    "file": "1f645-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-no-medium-dark",
+    "alt_names": [
+      "woman-gesturing-no - medium-dark"
+    ],
+    "file": "1f645-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-no-medium-light",
+    "alt_names": [
+      "woman-gesturing-no - medium-light"
+    ],
+    "file": "1f645-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-gesturing-ok",
@@ -10594,6 +16936,41 @@
     "file": "1f646-200d-2640-fe0f"
   },
   {
+    "name": "woman-gesturing-ok-dark",
+    "alt_names": [
+      "woman-gesturing-ok - dark"
+    ],
+    "file": "1f646-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-ok-light",
+    "alt_names": [
+      "woman-gesturing-ok - light"
+    ],
+    "file": "1f646-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-ok-medium",
+    "alt_names": [
+      "woman-gesturing-ok - medium"
+    ],
+    "file": "1f646-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-ok-medium-dark",
+    "alt_names": [
+      "woman-gesturing-ok - medium-dark"
+    ],
+    "file": "1f646-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-gesturing-ok-medium-light",
+    "alt_names": [
+      "woman-gesturing-ok - medium-light"
+    ],
+    "file": "1f646-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-getting-haircut",
     "alt_names": [
 
@@ -10601,11 +16978,81 @@
     "file": "1f487-200d-2640-fe0f"
   },
   {
+    "name": "woman-getting-haircut-dark",
+    "alt_names": [
+      "woman-getting-haircut - dark"
+    ],
+    "file": "1f487-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-haircut-light",
+    "alt_names": [
+      "woman-getting-haircut - light"
+    ],
+    "file": "1f487-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-haircut-medium",
+    "alt_names": [
+      "woman-getting-haircut - medium"
+    ],
+    "file": "1f487-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-haircut-medium-dark",
+    "alt_names": [
+      "woman-getting-haircut - medium-dark"
+    ],
+    "file": "1f487-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-haircut-medium-light",
+    "alt_names": [
+      "woman-getting-haircut - medium-light"
+    ],
+    "file": "1f487-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-getting-massage",
     "alt_names": [
 
     ],
     "file": "1f486-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-massage-dark",
+    "alt_names": [
+      "woman-getting-massage - dark"
+    ],
+    "file": "1f486-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-massage-light",
+    "alt_names": [
+      "woman-getting-massage - light"
+    ],
+    "file": "1f486-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-massage-medium",
+    "alt_names": [
+      "woman-getting-massage - medium"
+    ],
+    "file": "1f486-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-massage-medium-dark",
+    "alt_names": [
+      "woman-getting-massage - medium-dark"
+    ],
+    "file": "1f486-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-getting-massage-medium-light",
+    "alt_names": [
+      "woman-getting-massage - medium-light"
+    ],
+    "file": "1f486-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-girl",
@@ -10636,6 +17083,41 @@
     "file": "1f3cc-fe0f-200d-2640-fe0f"
   },
   {
+    "name": "woman-golfing-dark",
+    "alt_names": [
+      "woman-golfing - dark"
+    ],
+    "file": "1f3cc-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-golfing-light",
+    "alt_names": [
+      "woman-golfing - light"
+    ],
+    "file": "1f3cc-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-golfing-medium",
+    "alt_names": [
+      "woman-golfing - medium"
+    ],
+    "file": "1f3cc-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-golfing-medium-dark",
+    "alt_names": [
+      "woman-golfing - medium-dark"
+    ],
+    "file": "1f3cc-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-golfing-medium-light",
+    "alt_names": [
+      "woman-golfing - medium-light"
+    ],
+    "file": "1f3cc-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-heart-man",
     "alt_names": [
 
@@ -10655,6 +17137,41 @@
 
     ],
     "file": "1f939-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-juggling-dark",
+    "alt_names": [
+      "woman-juggling - dark"
+    ],
+    "file": "1f939-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-juggling-light",
+    "alt_names": [
+      "woman-juggling - light"
+    ],
+    "file": "1f939-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-juggling-medium",
+    "alt_names": [
+      "woman-juggling - medium"
+    ],
+    "file": "1f939-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-juggling-medium-dark",
+    "alt_names": [
+      "woman-juggling - medium-dark"
+    ],
+    "file": "1f939-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-juggling-medium-light",
+    "alt_names": [
+      "woman-juggling - medium-light"
+    ],
+    "file": "1f939-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-kiss-man",
@@ -10678,11 +17195,109 @@
     "file": "1f3cb-fe0f-200d-2640-fe0f"
   },
   {
+    "name": "woman-lifting-weights-dark",
+    "alt_names": [
+      "woman-lifting-weights - dark"
+    ],
+    "file": "1f3cb-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-lifting-weights-light",
+    "alt_names": [
+      "woman-lifting-weights - light"
+    ],
+    "file": "1f3cb-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-lifting-weights-medium",
+    "alt_names": [
+      "woman-lifting-weights - medium"
+    ],
+    "file": "1f3cb-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-lifting-weights-medium-dark",
+    "alt_names": [
+      "woman-lifting-weights - medium-dark"
+    ],
+    "file": "1f3cb-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-lifting-weights-medium-light",
+    "alt_names": [
+      "woman-lifting-weights - medium-light"
+    ],
+    "file": "1f3cb-1f3fc-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-light",
+    "alt_names": [
+      "woman - light"
+    ],
+    "file": "1f469-1f3fb"
+  },
+  {
+    "name": "woman-medium",
+    "alt_names": [
+      "woman - medium"
+    ],
+    "file": "1f469-1f3fd"
+  },
+  {
+    "name": "woman-medium-dark",
+    "alt_names": [
+      "woman - medium-dark"
+    ],
+    "file": "1f469-1f3fe"
+  },
+  {
+    "name": "woman-medium-light",
+    "alt_names": [
+      "woman - medium-light"
+    ],
+    "file": "1f469-1f3fc"
+  },
+  {
     "name": "woman-mountain-biking",
     "alt_names": [
 
     ],
     "file": "1f6b5-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-mountain-biking-dark",
+    "alt_names": [
+      "woman-mountain-biking - dark"
+    ],
+    "file": "1f6b5-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-mountain-biking-light",
+    "alt_names": [
+      "woman-mountain-biking - light"
+    ],
+    "file": "1f6b5-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-mountain-biking-medium",
+    "alt_names": [
+      "woman-mountain-biking - medium"
+    ],
+    "file": "1f6b5-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-mountain-biking-medium-dark",
+    "alt_names": [
+      "woman-mountain-biking - medium-dark"
+    ],
+    "file": "1f6b5-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-mountain-biking-medium-light",
+    "alt_names": [
+      "woman-mountain-biking - medium-light"
+    ],
+    "file": "1f6b5-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-playing-handball",
@@ -10692,11 +17307,81 @@
     "file": "1f93e-200d-2640-fe0f"
   },
   {
+    "name": "woman-playing-handball-dark",
+    "alt_names": [
+      "woman-playing-handball - dark"
+    ],
+    "file": "1f93e-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-handball-light",
+    "alt_names": [
+      "woman-playing-handball - light"
+    ],
+    "file": "1f93e-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-handball-medium",
+    "alt_names": [
+      "woman-playing-handball - medium"
+    ],
+    "file": "1f93e-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-handball-medium-dark",
+    "alt_names": [
+      "woman-playing-handball - medium-dark"
+    ],
+    "file": "1f93e-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-handball-medium-light",
+    "alt_names": [
+      "woman-playing-handball - medium-light"
+    ],
+    "file": "1f93e-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-playing-water-polo",
     "alt_names": [
 
     ],
     "file": "1f93d-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-water-polo-dark",
+    "alt_names": [
+      "woman-playing-water-polo - dark"
+    ],
+    "file": "1f93d-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-water-polo-light",
+    "alt_names": [
+      "woman-playing-water-polo - light"
+    ],
+    "file": "1f93d-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-water-polo-medium",
+    "alt_names": [
+      "woman-playing-water-polo - medium"
+    ],
+    "file": "1f93d-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-water-polo-medium-dark",
+    "alt_names": [
+      "woman-playing-water-polo - medium-dark"
+    ],
+    "file": "1f93d-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-playing-water-polo-medium-light",
+    "alt_names": [
+      "woman-playing-water-polo - medium-light"
+    ],
+    "file": "1f93d-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-pouting",
@@ -10706,11 +17391,81 @@
     "file": "1f64e-200d-2640-fe0f"
   },
   {
+    "name": "woman-pouting-dark",
+    "alt_names": [
+      "woman-pouting - dark"
+    ],
+    "file": "1f64e-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-pouting-light",
+    "alt_names": [
+      "woman-pouting - light"
+    ],
+    "file": "1f64e-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-pouting-medium",
+    "alt_names": [
+      "woman-pouting - medium"
+    ],
+    "file": "1f64e-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-pouting-medium-dark",
+    "alt_names": [
+      "woman-pouting - medium-dark"
+    ],
+    "file": "1f64e-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-pouting-medium-light",
+    "alt_names": [
+      "woman-pouting - medium-light"
+    ],
+    "file": "1f64e-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-raising-hand",
     "alt_names": [
 
     ],
     "file": "1f64b-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-raising-hand-dark",
+    "alt_names": [
+      "woman-raising-hand - dark"
+    ],
+    "file": "1f64b-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-raising-hand-light",
+    "alt_names": [
+      "woman-raising-hand - light"
+    ],
+    "file": "1f64b-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-raising-hand-medium",
+    "alt_names": [
+      "woman-raising-hand - medium"
+    ],
+    "file": "1f64b-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-raising-hand-medium-dark",
+    "alt_names": [
+      "woman-raising-hand - medium-dark"
+    ],
+    "file": "1f64b-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-raising-hand-medium-light",
+    "alt_names": [
+      "woman-raising-hand - medium-light"
+    ],
+    "file": "1f64b-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-rowing-boat",
@@ -10720,11 +17475,81 @@
     "file": "1f6a3-200d-2640-fe0f"
   },
   {
+    "name": "woman-rowing-boat-dark",
+    "alt_names": [
+      "woman-rowing-boat - dark"
+    ],
+    "file": "1f6a3-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-rowing-boat-light",
+    "alt_names": [
+      "woman-rowing-boat - light"
+    ],
+    "file": "1f6a3-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-rowing-boat-medium",
+    "alt_names": [
+      "woman-rowing-boat - medium"
+    ],
+    "file": "1f6a3-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-rowing-boat-medium-dark",
+    "alt_names": [
+      "woman-rowing-boat - medium-dark"
+    ],
+    "file": "1f6a3-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-rowing-boat-medium-light",
+    "alt_names": [
+      "woman-rowing-boat - medium-light"
+    ],
+    "file": "1f6a3-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-running",
     "alt_names": [
 
     ],
     "file": "1f3c3-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-running-dark",
+    "alt_names": [
+      "woman-running - dark"
+    ],
+    "file": "1f3c3-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-running-light",
+    "alt_names": [
+      "woman-running - light"
+    ],
+    "file": "1f3c3-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-running-medium",
+    "alt_names": [
+      "woman-running - medium"
+    ],
+    "file": "1f3c3-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-running-medium-dark",
+    "alt_names": [
+      "woman-running - medium-dark"
+    ],
+    "file": "1f3c3-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-running-medium-light",
+    "alt_names": [
+      "woman-running - medium-light"
+    ],
+    "file": "1f3c3-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-shrugging",
@@ -10734,11 +17559,81 @@
     "file": "1f937-200d-2640-fe0f"
   },
   {
+    "name": "woman-shrugging-dark",
+    "alt_names": [
+      "woman-shrugging - dark"
+    ],
+    "file": "1f937-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-shrugging-light",
+    "alt_names": [
+      "woman-shrugging - light"
+    ],
+    "file": "1f937-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-shrugging-medium",
+    "alt_names": [
+      "woman-shrugging - medium"
+    ],
+    "file": "1f937-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-shrugging-medium-dark",
+    "alt_names": [
+      "woman-shrugging - medium-dark"
+    ],
+    "file": "1f937-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-shrugging-medium-light",
+    "alt_names": [
+      "woman-shrugging - medium-light"
+    ],
+    "file": "1f937-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-surfing",
     "alt_names": [
 
     ],
     "file": "1f3c4-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-surfing-dark",
+    "alt_names": [
+      "woman-surfing - dark"
+    ],
+    "file": "1f3c4-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-surfing-light",
+    "alt_names": [
+      "woman-surfing - light"
+    ],
+    "file": "1f3c4-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-surfing-medium",
+    "alt_names": [
+      "woman-surfing - medium"
+    ],
+    "file": "1f3c4-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-surfing-medium-dark",
+    "alt_names": [
+      "woman-surfing - medium-dark"
+    ],
+    "file": "1f3c4-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-surfing-medium-light",
+    "alt_names": [
+      "woman-surfing - medium-light"
+    ],
+    "file": "1f3c4-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-swimming",
@@ -10748,11 +17643,81 @@
     "file": "1f3ca-200d-2640-fe0f"
   },
   {
+    "name": "woman-swimming-dark",
+    "alt_names": [
+      "woman-swimming - dark"
+    ],
+    "file": "1f3ca-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-swimming-light",
+    "alt_names": [
+      "woman-swimming - light"
+    ],
+    "file": "1f3ca-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-swimming-medium",
+    "alt_names": [
+      "woman-swimming - medium"
+    ],
+    "file": "1f3ca-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-swimming-medium-dark",
+    "alt_names": [
+      "woman-swimming - medium-dark"
+    ],
+    "file": "1f3ca-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-swimming-medium-light",
+    "alt_names": [
+      "woman-swimming - medium-light"
+    ],
+    "file": "1f3ca-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-tipping-hand",
     "alt_names": [
 
     ],
     "file": "1f481-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-tipping-hand-dark",
+    "alt_names": [
+      "woman-tipping-hand - dark"
+    ],
+    "file": "1f481-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-tipping-hand-light",
+    "alt_names": [
+      "woman-tipping-hand - light"
+    ],
+    "file": "1f481-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-tipping-hand-medium",
+    "alt_names": [
+      "woman-tipping-hand - medium"
+    ],
+    "file": "1f481-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-tipping-hand-medium-dark",
+    "alt_names": [
+      "woman-tipping-hand - medium-dark"
+    ],
+    "file": "1f481-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-tipping-hand-medium-light",
+    "alt_names": [
+      "woman-tipping-hand - medium-light"
+    ],
+    "file": "1f481-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-walking",
@@ -10762,11 +17727,81 @@
     "file": "1f6b6-200d-2640-fe0f"
   },
   {
+    "name": "woman-walking-dark",
+    "alt_names": [
+      "woman-walking - dark"
+    ],
+    "file": "1f6b6-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-walking-light",
+    "alt_names": [
+      "woman-walking - light"
+    ],
+    "file": "1f6b6-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-walking-medium",
+    "alt_names": [
+      "woman-walking - medium"
+    ],
+    "file": "1f6b6-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-walking-medium-dark",
+    "alt_names": [
+      "woman-walking - medium-dark"
+    ],
+    "file": "1f6b6-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-walking-medium-light",
+    "alt_names": [
+      "woman-walking - medium-light"
+    ],
+    "file": "1f6b6-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman-wearing-turban",
     "alt_names": [
 
     ],
     "file": "1f473-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-wearing-turban-dark",
+    "alt_names": [
+      "woman-wearing-turban - dark"
+    ],
+    "file": "1f473-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-wearing-turban-light",
+    "alt_names": [
+      "woman-wearing-turban - light"
+    ],
+    "file": "1f473-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-wearing-turban-medium",
+    "alt_names": [
+      "woman-wearing-turban - medium"
+    ],
+    "file": "1f473-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-wearing-turban-medium-dark",
+    "alt_names": [
+      "woman-wearing-turban - medium-dark"
+    ],
+    "file": "1f473-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman-wearing-turban-medium-light",
+    "alt_names": [
+      "woman-wearing-turban - medium-light"
+    ],
+    "file": "1f473-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "woman-with-bunny-ears-partying",
@@ -10825,6 +17860,41 @@
     "file": "1f9d7-200d-2640-fe0f"
   },
   {
+    "name": "woman_climbing-dark",
+    "alt_names": [
+      "woman_climbing - dark"
+    ],
+    "file": "1f9d7-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_climbing-light",
+    "alt_names": [
+      "woman_climbing - light"
+    ],
+    "file": "1f9d7-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_climbing-medium",
+    "alt_names": [
+      "woman_climbing - medium"
+    ],
+    "file": "1f9d7-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_climbing-medium-dark",
+    "alt_names": [
+      "woman_climbing - medium-dark"
+    ],
+    "file": "1f9d7-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_climbing-medium-light",
+    "alt_names": [
+      "woman_climbing - medium-light"
+    ],
+    "file": "1f9d7-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman_in_lotus_position",
     "alt_names": [
 
@@ -10832,11 +17902,81 @@
     "file": "1f9d8-200d-2640-fe0f"
   },
   {
+    "name": "woman_in_lotus_position-dark",
+    "alt_names": [
+      "woman_in_lotus_position - dark"
+    ],
+    "file": "1f9d8-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_lotus_position-light",
+    "alt_names": [
+      "woman_in_lotus_position - light"
+    ],
+    "file": "1f9d8-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_lotus_position-medium",
+    "alt_names": [
+      "woman_in_lotus_position - medium"
+    ],
+    "file": "1f9d8-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_lotus_position-medium-dark",
+    "alt_names": [
+      "woman_in_lotus_position - medium-dark"
+    ],
+    "file": "1f9d8-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_lotus_position-medium-light",
+    "alt_names": [
+      "woman_in_lotus_position - medium-light"
+    ],
+    "file": "1f9d8-1f3fc-200d-2640-fe0f"
+  },
+  {
     "name": "woman_in_steamy_room",
     "alt_names": [
 
     ],
     "file": "1f9d6-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_steamy_room-dark",
+    "alt_names": [
+      "woman_in_steamy_room - dark"
+    ],
+    "file": "1f9d6-1f3ff-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_steamy_room-light",
+    "alt_names": [
+      "woman_in_steamy_room - light"
+    ],
+    "file": "1f9d6-1f3fb-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_steamy_room-medium",
+    "alt_names": [
+      "woman_in_steamy_room - medium"
+    ],
+    "file": "1f9d6-1f3fd-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_steamy_room-medium-dark",
+    "alt_names": [
+      "woman_in_steamy_room - medium-dark"
+    ],
+    "file": "1f9d6-1f3fe-200d-2640-fe0f"
+  },
+  {
+    "name": "woman_in_steamy_room-medium-light",
+    "alt_names": [
+      "woman_in_steamy_room - medium-light"
+    ],
+    "file": "1f9d6-1f3fc-200d-2640-fe0f"
   },
   {
     "name": "womans_clothes",
