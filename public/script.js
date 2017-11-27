@@ -52,9 +52,9 @@ $(function() {
   });
 
   function isElementMatching(element, needle) {
-    var alternative = element.attr("data-alternative-name");
+    var alternatives = element.attr("data-alternative-names");
     return ($(element).text().toLowerCase().indexOf(needle) >= 0) ||
-      (alternative != null && alternative.toLowerCase().indexOf(needle) >= 0);
+      (alternatives != null && alternatives.toLowerCase().indexOf(needle) >= 0);
   }
 
   function highlightElements(needle) {

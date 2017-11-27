@@ -31,7 +31,7 @@
     <ul class="emojis">
       {% for emo in site.data.emoji %}
         <li class="emoji" data-clipboard-text="{{ emo.name }}">
-          <i class="em em-{{ emo.name }}"></i> em-<span class="name">{{ emo.name }}</span>
+          <i class="em em-{{ emo.name }}"></i> em-<span class="name" data-alternative-names="{{ emo.alt_names | join: ',' }}">{{ emo.name }}</span>
         </li>
       {% endfor %}
     </ul>
