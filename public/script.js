@@ -32,24 +32,17 @@ $(function() {
     return $('<div/>').text(value).html();
   }
 
+  if (Clipboard.isSupported()) {
+    var clip = new Clipboard('.emoji');
 
-  ZeroClipboard.config({
-    forceHandCursor: true
-  });
-  var clip = new ZeroClipboard(document.getElementsByClassName('emoji'));
+    $.jnotify.setup({ 'delay': 1000, 'fadeSpeed': 500 });
 
-  $.jnotify.setup({ 'delay': 1000, 'fadeSpeed': 500 });
+    clip.on('success', function(event) {
+      $.jnotify('Copied <code>' + htmlEncode(event.text) + '</code>');
+    });
 
-  clip.on('copy', function(event) {
-    var name = clip.getData('text/plain');
-    var el = '<i class="em em-' + name + '"></i>';
-    event.clipboardData.setData('text/plain', el);
-  });
-
-  clip.on('aftercopy', function(event) {
-    var text = event.data['text/plain'];
-    $.jnotify('Copied <code>' + htmlEncode(text) + '</code>');
-  });
+    $(document.body).addClass('supports-clipboard')
+  }
 
   function isElementMatching(element, needle) {
     var alternatives = element.attr("data-alternative-names");
