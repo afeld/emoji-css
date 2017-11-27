@@ -1,7 +1,31 @@
 require 'json'
 
+# https://unicode.org/reports/tr51/#Emoji_Modifiers_Table
+MODIFIER_NAMES_BY_CODE = {
+  '1F3FB' => 'light',
+  '1F3FC' => 'medium-light',
+  '1F3FD' => 'medium',
+  '1F3FE' => 'medium-dark',
+  '1F3FF' => 'dark'
+}
+
 json_str = File.read('tmp/emoji.json')
 emoji = JSON.parse(json_str)
+
+emoji = emoji.flat_map do |e|
+  variations = e['skin_variations'] || {}
+  variations.each do |modifier, variation|
+    mod_name = MODIFIER_NAMES_BY_CODE[modifier]
+    if mod_name.nil?
+      puts "Unknown modifier: #{modifier}"
+    end
+
+    variation['short_name'] ||= e['short_name'] + '-' + mod_name
+    variation['short_names'] ||= e['short_names'].map { |sn| "#{sn} - #{mod_name}" }
+  end
+
+  [e] + variations.values
+end
 
 emoji_by_unicode = {}
 
