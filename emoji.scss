@@ -16,7 +16,8 @@
 {% assign emoji = site.data.emoji | sort: 'short_name' %}
 {% for emo in emoji %}
   {% assign name = emo.short_name | replace:'+','--' %}
+  {% assign filename = emo.unified | split: '-' | first | downcase %}
   .em-{{ name }} {
-    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.unified | downcase }}.png');
+    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ filename }}.png');
   }
 {% endfor %}
