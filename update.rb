@@ -1,35 +1,82 @@
-require 'net/http'
 require 'json'
 
-src = 'https://raw.githubusercontent.com/iamcal/emoji-data/master/emoji.json'
-json_str = Net::HTTP.get(URI(src))
+json_str = File.read('tmp/emoji.json')
 emoji = JSON.parse(json_str)
 
-emoji.select! { |e| e['has_img_twitter'] }
+emoji_by_unicode = {}
 
-emoji.map! do |e|
-  name = e['short_name']
 
-  # can't have plus signs in CSS selectors
-  name.gsub!('+', '--')
+## do multiple passes, adding the variants in decreasing order of preference ##
 
-  alt_names = e['short_names']
-  alt_names.delete(name)
-
-  file = e['unified'].downcase.split('-').first
-  # https://github.com/iamcal/emoji-data/blob/f9f01088a660cfd17bd20aec78daeebb96621aa2/build/twitter/grab.php#L28
-  if file.start_with? '00'
-    file = file[2,2] + '-20e3'
-  end
-
-  {
-    name: name,
-    alt_names: alt_names,
-    file: file
-  }
+# unified
+emoji.each do |e|
+  unicode = e['unified'].downcase
+  emoji_by_unicode[unicode] = e
 end
 
-emoji.sort_by! { |e| e[:name] }
+# non-qualified
+emoji.each do |e|
+  if e['non_qualified']
+    unicode = e['non_qualified'].downcase
+    emoji_by_unicode[unicode] ||= e
+  end
+end
 
-final_json_str = JSON.pretty_generate(emoji)
+# unified, without leading 00s
+emoji.each do |e|
+  unicode = e['unified'].downcase
+  if unicode.start_with? '00'
+    unicode = unicode[2,2]
+    emoji_by_unicode[unicode] ||= e
+
+    # adding a "COMBINING ENCLOSING KEYCAP"
+    # https://github.com/iamcal/emoji-data/blob/f9f01088a660cfd17bd20aec78daeebb96621aa2/build/twitter/grab.php#L28
+    unicode += '-20e3'
+    emoji_by_unicode[unicode] ||= e
+  end
+end
+
+# unified, first part
+emoji.each do |e|
+  unified = e['unified'].downcase.split('-').first
+  emoji_by_unicode[unified] ||= e
+end
+
+############################################
+
+
+end_emoji = Dir.glob('tmp/twitter-twemoji-*/2/72x72/*.png').map do |file|
+  unicode = File.basename(file, '.*')
+  e = emoji_by_unicode[unicode]
+  if e.nil?
+    unicode = unicode.split('-').first
+    e = emoji_by_unicode[unicode]
+  end
+
+  if e
+    name = e['short_name']
+    # can't have plus signs in CSS selectors
+    name = name.gsub('+', '--')
+
+    alt_names = e['short_names']
+    alt_names.delete(name)
+
+    {
+      name: name,
+      alt_names: alt_names,
+      file: unicode
+    }
+  else
+    puts "Missing emoji data: #{unicode}"
+    nil
+  end
+end
+
+end_emoji.compact!
+# since `uniq!` takes the first match, pre-sort by the simplest filename variant
+end_emoji.sort_by! { |e| e[:file] }
+end_emoji.uniq! { |e| e[:name] }
+end_emoji.sort_by! { |e| e[:name] }
+
+final_json_str = JSON.pretty_generate(end_emoji)
 File.write('_data/emoji.json', final_json_str)
