@@ -26,6 +26,7 @@
       <pre><code>&lt;link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet"&gt;
 
 &lt;i class="em em-some-emoji"&gt;&lt;/i&gt;</code></pre>
+      By default, the emoji will be served as PNGs. To use SVG instead, use the <code>em-svg</code> class instead of <code>em</code>. This will scale better, but has larger file size.
     </p>
     <ul class="emojis">
       {% for emo in site.data.emoji %}

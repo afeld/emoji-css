@@ -1,7 +1,7 @@
 ---
 ---
 
-.em {
+.em, .em-svg {
   height: 1.5em;
   width: 1.5em;
 
@@ -12,8 +12,15 @@
   vertical-align: middle;
 }
 
+{% assign host = 'https://twemoji.maxcdn.com' %}
 {% for emo in site.data.emoji %}
   .em-{{ emo.name }} {
     background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.file }}.png');
+
+    &.em-svg {
+      {% comment %} SVG support https://css-tricks.com/using-svg/#article-header-id-5 {% endcomment %}
+      background: url('{{ host }}/2/72x72/{{ emo.file }}.png');
+      background-image: url('{{ host }}/2/svg/{{ emo.file }}.svg'), none;
+    }
   }
 {% endfor %}
