@@ -24,7 +24,9 @@ ul {
   li {
     list-style: none;
     float: left;
-    width: 330px;
+    width: 270px;
+    padding-right: 25px;
+    overflow-wrap: break-word;
     margin-bottom: .5em; }
     li .hover { margin-left: -4px; }
     li img {
