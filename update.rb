@@ -14,6 +14,10 @@ emoji.map! do |e|
   name.gsub!('+', '--')
 
   file = e['unified'].downcase.split('-').first
+  # https://github.com/iamcal/emoji-data/blob/f9f01088a660cfd17bd20aec78daeebb96621aa2/build/twitter/grab.php#L28
+  if file.start_with? '00'
+    file = file[2,2] + '-20e3'
+  end
 
   {
     name: name,
