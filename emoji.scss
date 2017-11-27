@@ -12,11 +12,8 @@
   vertical-align: middle;
 }
 
-{% comment %} This needs to match index.html. {% endcomment %}
-{% assign emoji = site.data.emoji | sort: 'short_name' %}
-{% for emo in emoji %}
-  {% assign name = emo.short_name | replace:'+','--' %}
-  .em-{{ name }} {
-    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.unified | downcase }}.png');
+{% for emo in site.data.emoji %}
+  .em-{{ emo.name }} {
+    background-image: url('https://twemoji.maxcdn.com/2/72x72/{{ emo.file }}.png');
   }
 {% endfor %}
