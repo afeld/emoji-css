@@ -1,5 +1,12 @@
 require 'json'
 
+
+def sanitize(name)
+  # can't have plus signs in CSS selectors
+  name.gsub('+', '--')
+end
+
+
 json_str = File.read('tmp/emoji.json')
 emoji = JSON.parse(json_str)
 
@@ -54,12 +61,11 @@ end_emoji = Dir.glob('tmp/twitter-twemoji-*/2/72x72/*.png').map do |file|
   end
 
   if e
-    name = e['short_name']
-    # can't have plus signs in CSS selectors
-    name = name.gsub('+', '--')
+    name = sanitize(e['short_name'])
 
     alt_names = e['short_names']
     alt_names.delete(name)
+    alt_names = alt_names.map { |n| sanitize(n) }
 
     {
       name: name,
