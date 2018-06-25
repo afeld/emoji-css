@@ -46,15 +46,11 @@ $(function() {
 
   function isElementMatching(element, needle) {
     var name = $(element).text().toLowerCase();
-    var alternatives = element.attr("data-alternative-names");
-    return (
-      // name match
-      name.indexOf(needle) >= 0 ||
-      // class match
-      ('em-' + name).indexOf(needle) >= 0 ||
-      // alt match
-      (alternatives != null && alternatives.toLowerCase().indexOf(needle) >= 0)
-    );
+    var alternatives = element.attr("data-alternative-names") || '';
+    var possibilities = [name, 'em-' + name, alternatives];
+    return possibilities.some(function(e) {
+      return e.indexOf(needle) >= 0;
+    });
   }
 
   function highlightElements(needle) {
