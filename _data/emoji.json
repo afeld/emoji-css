@@ -5,6 +5,7 @@
       "--1",
       "thumbsup"
     ],
+    "description": "THUMBS UP SIGN",
     "file": "1f44d"
   },
   {
@@ -12,6 +13,7 @@
     "alt_names": [
       "thumbsdown"
     ],
+    "description": "THUMBS DOWN SIGN",
     "file": "1f44e"
   },
   {
@@ -19,6 +21,7 @@
     "alt_names": [
 
     ],
+    "description": "HUNDRED POINTS SYMBOL",
     "file": "1f4af"
   },
   {
@@ -26,6 +29,7 @@
     "alt_names": [
 
     ],
+    "description": "INPUT SYMBOL FOR NUMBERS",
     "file": "1f522"
   },
   {
@@ -33,6 +37,7 @@
     "alt_names": [
 
     ],
+    "description": "BILLIARDS",
     "file": "1f3b1"
   },
   {
@@ -40,6 +45,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
     "file": "1f170"
   },
   {
@@ -47,6 +53,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED AB",
     "file": "1f18e"
   },
   {
@@ -54,6 +61,7 @@
     "alt_names": [
 
     ],
+    "description": "INPUT SYMBOL FOR LATIN LETTERS",
     "file": "1f524"
   },
   {
@@ -61,6 +69,7 @@
     "alt_names": [
 
     ],
+    "description": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
     "file": "1f521"
   },
   {
@@ -68,6 +77,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCLED IDEOGRAPH ACCEPT",
     "file": "1f251"
   },
   {
@@ -75,6 +85,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f39f"
   },
   {
@@ -82,6 +93,7 @@
     "alt_names": [
 
     ],
+    "description": "ADULT",
     "file": "1f9d1"
   },
   {
@@ -89,6 +101,7 @@
     "alt_names": [
 
     ],
+    "description": "AERIAL TRAMWAY",
     "file": "1f6a1"
   },
   {
@@ -96,6 +109,7 @@
     "alt_names": [
 
     ],
+    "description": "AIRPLANE",
     "file": "2708"
   },
   {
@@ -103,6 +117,7 @@
     "alt_names": [
 
     ],
+    "description": "AIRPLANE ARRIVING",
     "file": "1f6ec"
   },
   {
@@ -110,6 +125,7 @@
     "alt_names": [
 
     ],
+    "description": "AIRPLANE DEPARTURE",
     "file": "1f6eb"
   },
   {
@@ -117,6 +133,7 @@
     "alt_names": [
 
     ],
+    "description": "ALARM CLOCK",
     "file": "23f0"
   },
   {
@@ -124,6 +141,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2697"
   },
   {
@@ -131,6 +149,7 @@
     "alt_names": [
 
     ],
+    "description": "EXTRATERRESTRIAL ALIEN",
     "file": "1f47d"
   },
   {
@@ -138,6 +157,7 @@
     "alt_names": [
 
     ],
+    "description": "AMBULANCE",
     "file": "1f691"
   },
   {
@@ -145,6 +165,7 @@
     "alt_names": [
 
     ],
+    "description": "AMPHORA",
     "file": "1f3fa"
   },
   {
@@ -152,6 +173,7 @@
     "alt_names": [
 
     ],
+    "description": "ANCHOR",
     "file": "2693"
   },
   {
@@ -159,6 +181,7 @@
     "alt_names": [
 
     ],
+    "description": "BABY ANGEL",
     "file": "1f47c"
   },
   {
@@ -166,6 +189,7 @@
     "alt_names": [
 
     ],
+    "description": "ANGER SYMBOL",
     "file": "1f4a2"
   },
   {
@@ -173,6 +197,7 @@
     "alt_names": [
 
     ],
+    "description": "ANGRY FACE",
     "file": "1f620"
   },
   {
@@ -180,6 +205,7 @@
     "alt_names": [
 
     ],
+    "description": "ANGUISHED FACE",
     "file": "1f627"
   },
   {
@@ -187,6 +213,7 @@
     "alt_names": [
 
     ],
+    "description": "ANT",
     "file": "1f41c"
   },
   {
@@ -194,6 +221,7 @@
     "alt_names": [
 
     ],
+    "description": "RED APPLE",
     "file": "1f34e"
   },
   {
@@ -201,6 +229,7 @@
     "alt_names": [
 
     ],
+    "description": "AQUARIUS",
     "file": "2652"
   },
   {
@@ -208,6 +237,7 @@
     "alt_names": [
 
     ],
+    "description": "ARIES",
     "file": "2648"
   },
   {
@@ -215,6 +245,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK LEFT-POINTING TRIANGLE",
     "file": "25c0"
   },
   {
@@ -222,6 +253,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
     "file": "23ec"
   },
   {
@@ -229,6 +261,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK UP-POINTING DOUBLE TRIANGLE",
     "file": "23eb"
   },
   {
@@ -236,6 +269,7 @@
     "alt_names": [
 
     ],
+    "description": "DOWNWARDS BLACK ARROW",
     "file": "2b07"
   },
   {
@@ -243,6 +277,7 @@
     "alt_names": [
 
     ],
+    "description": "DOWN-POINTING SMALL RED TRIANGLE",
     "file": "1f53d"
   },
   {
@@ -250,6 +285,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK RIGHT-POINTING TRIANGLE",
     "file": "25b6"
   },
   {
@@ -257,6 +293,7 @@
     "alt_names": [
 
     ],
+    "description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
     "file": "2935"
   },
   {
@@ -264,6 +301,7 @@
     "alt_names": [
 
     ],
+    "description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
     "file": "2934"
   },
   {
@@ -271,6 +309,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFTWARDS BLACK ARROW",
     "file": "2b05"
   },
   {
@@ -278,6 +317,7 @@
     "alt_names": [
 
     ],
+    "description": "SOUTH WEST ARROW",
     "file": "2199"
   },
   {
@@ -285,6 +325,7 @@
     "alt_names": [
 
     ],
+    "description": "SOUTH EAST ARROW",
     "file": "2198"
   },
   {
@@ -292,6 +333,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK RIGHTWARDS ARROW",
     "file": "27a1"
   },
   {
@@ -299,6 +341,7 @@
     "alt_names": [
 
     ],
+    "description": "RIGHTWARDS ARROW WITH HOOK",
     "file": "21aa"
   },
   {
@@ -306,6 +349,7 @@
     "alt_names": [
 
     ],
+    "description": "UPWARDS BLACK ARROW",
     "file": "2b06"
   },
   {
@@ -313,6 +357,7 @@
     "alt_names": [
 
     ],
+    "description": "UP DOWN ARROW",
     "file": "2195"
   },
   {
@@ -320,6 +365,7 @@
     "alt_names": [
 
     ],
+    "description": "UP-POINTING SMALL RED TRIANGLE",
     "file": "1f53c"
   },
   {
@@ -327,6 +373,7 @@
     "alt_names": [
 
     ],
+    "description": "NORTH WEST ARROW",
     "file": "2196"
   },
   {
@@ -334,6 +381,7 @@
     "alt_names": [
 
     ],
+    "description": "NORTH EAST ARROW",
     "file": "2197"
   },
   {
@@ -341,6 +389,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
     "file": "1f503"
   },
   {
@@ -348,6 +397,7 @@
     "alt_names": [
 
     ],
+    "description": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
     "file": "1f504"
   },
   {
@@ -355,6 +405,7 @@
     "alt_names": [
 
     ],
+    "description": "ARTIST PALETTE",
     "file": "1f3a8"
   },
   {
@@ -362,6 +413,7 @@
     "alt_names": [
 
     ],
+    "description": "ARTICULATED LORRY",
     "file": "1f69b"
   },
   {
@@ -369,6 +421,7 @@
     "alt_names": [
 
     ],
+    "description": "ASTONISHED FACE",
     "file": "1f632"
   },
   {
@@ -376,6 +429,7 @@
     "alt_names": [
 
     ],
+    "description": "ATHLETIC SHOE",
     "file": "1f45f"
   },
   {
@@ -383,6 +437,7 @@
     "alt_names": [
 
     ],
+    "description": "AUTOMATED TELLER MACHINE",
     "file": "1f3e7"
   },
   {
@@ -390,6 +445,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "269b"
   },
   {
@@ -397,6 +453,7 @@
     "alt_names": [
 
     ],
+    "description": "AVOCADO",
     "file": "1f951"
   },
   {
@@ -404,6 +461,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
     "file": "1f171"
   },
   {
@@ -411,6 +469,7 @@
     "alt_names": [
 
     ],
+    "description": "BABY",
     "file": "1f476"
   },
   {
@@ -418,6 +477,7 @@
     "alt_names": [
 
     ],
+    "description": "BABY BOTTLE",
     "file": "1f37c"
   },
   {
@@ -425,6 +485,7 @@
     "alt_names": [
 
     ],
+    "description": "BABY CHICK",
     "file": "1f424"
   },
   {
@@ -432,6 +493,7 @@
     "alt_names": [
 
     ],
+    "description": "BABY SYMBOL",
     "file": "1f6bc"
   },
   {
@@ -439,6 +501,7 @@
     "alt_names": [
 
     ],
+    "description": "BACK WITH LEFTWARDS ARROW ABOVE",
     "file": "1f519"
   },
   {
@@ -446,6 +509,7 @@
     "alt_names": [
 
     ],
+    "description": "BACON",
     "file": "1f953"
   },
   {
@@ -453,6 +517,7 @@
     "alt_names": [
 
     ],
+    "description": "BADMINTON RACQUET AND SHUTTLECOCK",
     "file": "1f3f8"
   },
   {
@@ -460,6 +525,7 @@
     "alt_names": [
 
     ],
+    "description": "BAGGAGE CLAIM",
     "file": "1f6c4"
   },
   {
@@ -467,6 +533,7 @@
     "alt_names": [
 
     ],
+    "description": "BAGUETTE BREAD",
     "file": "1f956"
   },
   {
@@ -474,6 +541,7 @@
     "alt_names": [
 
     ],
+    "description": "BALLOON",
     "file": "1f388"
   },
   {
@@ -481,6 +549,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5f3"
   },
   {
@@ -488,6 +557,7 @@
     "alt_names": [
 
     ],
+    "description": "BALLOT BOX WITH CHECK",
     "file": "2611"
   },
   {
@@ -495,6 +565,7 @@
     "alt_names": [
 
     ],
+    "description": "PINE DECORATION",
     "file": "1f38d"
   },
   {
@@ -502,6 +573,7 @@
     "alt_names": [
 
     ],
+    "description": "BANANA",
     "file": "1f34c"
   },
   {
@@ -509,6 +581,7 @@
     "alt_names": [
 
     ],
+    "description": "DOUBLE EXCLAMATION MARK",
     "file": "203c"
   },
   {
@@ -516,6 +589,7 @@
     "alt_names": [
 
     ],
+    "description": "BANK",
     "file": "1f3e6"
   },
   {
@@ -523,6 +597,7 @@
     "alt_names": [
 
     ],
+    "description": "BAR CHART",
     "file": "1f4ca"
   },
   {
@@ -530,6 +605,7 @@
     "alt_names": [
 
     ],
+    "description": "BARBER POLE",
     "file": "1f488"
   },
   {
@@ -537,6 +613,7 @@
     "alt_names": [
       "sun_behind_cloud"
     ],
+    "description": null,
     "file": "1f325"
   },
   {
@@ -544,6 +621,7 @@
     "alt_names": [
 
     ],
+    "description": "BASEBALL",
     "file": "26be"
   },
   {
@@ -551,6 +629,7 @@
     "alt_names": [
 
     ],
+    "description": "BASKETBALL AND HOOP",
     "file": "1f3c0"
   },
   {
@@ -558,6 +637,7 @@
     "alt_names": [
 
     ],
+    "description": "BAT",
     "file": "1f987"
   },
   {
@@ -565,6 +645,7 @@
     "alt_names": [
 
     ],
+    "description": "BATH",
     "file": "1f6c0"
   },
   {
@@ -572,6 +653,7 @@
     "alt_names": [
 
     ],
+    "description": "BATHTUB",
     "file": "1f6c1"
   },
   {
@@ -579,6 +661,7 @@
     "alt_names": [
 
     ],
+    "description": "BATTERY",
     "file": "1f50b"
   },
   {
@@ -586,6 +669,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d6"
   },
   {
@@ -593,6 +677,7 @@
     "alt_names": [
 
     ],
+    "description": "BEAR FACE",
     "file": "1f43b"
   },
   {
@@ -600,6 +685,7 @@
     "alt_names": [
 
     ],
+    "description": "BEARDED PERSON",
     "file": "1f9d4"
   },
   {
@@ -607,6 +693,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6cf"
   },
   {
@@ -614,6 +701,7 @@
     "alt_names": [
       "honeybee"
     ],
+    "description": "HONEYBEE",
     "file": "1f41d"
   },
   {
@@ -621,6 +709,7 @@
     "alt_names": [
 
     ],
+    "description": "BEER MUG",
     "file": "1f37a"
   },
   {
@@ -628,6 +717,7 @@
     "alt_names": [
 
     ],
+    "description": "CLINKING BEER MUGS",
     "file": "1f37b"
   },
   {
@@ -635,6 +725,7 @@
     "alt_names": [
 
     ],
+    "description": "LADY BEETLE",
     "file": "1f41e"
   },
   {
@@ -642,6 +733,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE SYMBOL FOR BEGINNER",
     "file": "1f530"
   },
   {
@@ -649,6 +741,7 @@
     "alt_names": [
 
     ],
+    "description": "BELL",
     "file": "1f514"
   },
   {
@@ -656,6 +749,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6ce"
   },
   {
@@ -663,6 +757,7 @@
     "alt_names": [
 
     ],
+    "description": "BENTO BOX",
     "file": "1f371"
   },
   {
@@ -670,6 +765,7 @@
     "alt_names": [
 
     ],
+    "description": "BICYCLIST",
     "file": "1f6b4"
   },
   {
@@ -677,6 +773,7 @@
     "alt_names": [
 
     ],
+    "description": "BICYCLE",
     "file": "1f6b2"
   },
   {
@@ -684,6 +781,7 @@
     "alt_names": [
 
     ],
+    "description": "BIKINI",
     "file": "1f459"
   },
   {
@@ -691,6 +789,7 @@
     "alt_names": [
 
     ],
+    "description": "BILLED CAP",
     "file": "1f9e2"
   },
   {
@@ -698,6 +797,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2623"
   },
   {
@@ -705,6 +805,7 @@
     "alt_names": [
 
     ],
+    "description": "BIRD",
     "file": "1f426"
   },
   {
@@ -712,6 +813,7 @@
     "alt_names": [
 
     ],
+    "description": "BIRTHDAY CAKE",
     "file": "1f382"
   },
   {
@@ -719,6 +821,7 @@
     "alt_names": [
 
     ],
+    "description": "MEDIUM BLACK CIRCLE",
     "file": "26ab"
   },
   {
@@ -726,6 +829,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23fa"
   },
   {
@@ -733,6 +837,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK HEART",
     "file": "1f5a4"
   },
   {
@@ -740,6 +845,7 @@
     "alt_names": [
 
     ],
+    "description": "PLAYING CARD BLACK JOKER",
     "file": "1f0cf"
   },
   {
@@ -747,6 +853,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK LARGE SQUARE",
     "file": "2b1b"
   },
   {
@@ -754,6 +861,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23ee"
   },
   {
@@ -761,6 +869,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK MEDIUM SMALL SQUARE",
     "file": "25fe"
   },
   {
@@ -768,6 +877,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK MEDIUM SQUARE",
     "file": "25fc"
   },
   {
@@ -775,6 +885,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK NIB",
     "file": "2712"
   },
   {
@@ -782,6 +893,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23ed"
   },
   {
@@ -789,6 +901,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23ef"
   },
   {
@@ -796,6 +909,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK SMALL SQUARE",
     "file": "25aa"
   },
   {
@@ -803,6 +917,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK SQUARE BUTTON",
     "file": "1f532"
   },
   {
@@ -810,6 +925,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23f9"
   },
   {
@@ -817,6 +933,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f471-200d-2642-fe0f"
   },
   {
@@ -824,6 +941,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f471-200d-2640-fe0f"
   },
   {
@@ -831,6 +949,7 @@
     "alt_names": [
 
     ],
+    "description": "BLOSSOM",
     "file": "1f33c"
   },
   {
@@ -838,6 +957,7 @@
     "alt_names": [
 
     ],
+    "description": "BLOWFISH",
     "file": "1f421"
   },
   {
@@ -845,6 +965,7 @@
     "alt_names": [
 
     ],
+    "description": "BLUE BOOK",
     "file": "1f4d8"
   },
   {
@@ -852,6 +973,7 @@
     "alt_names": [
 
     ],
+    "description": "RECREATIONAL VEHICLE",
     "file": "1f699"
   },
   {
@@ -859,6 +981,7 @@
     "alt_names": [
 
     ],
+    "description": "BLUE HEART",
     "file": "1f499"
   },
   {
@@ -866,6 +989,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH SMILING EYES",
     "file": "1f60a"
   },
   {
@@ -873,6 +997,7 @@
     "alt_names": [
 
     ],
+    "description": "BOAR",
     "file": "1f417"
   },
   {
@@ -880,6 +1005,7 @@
     "alt_names": [
       "sailboat"
     ],
+    "description": "SAILBOAT",
     "file": "26f5"
   },
   {
@@ -887,6 +1013,7 @@
     "alt_names": [
 
     ],
+    "description": "BOMB",
     "file": "1f4a3"
   },
   {
@@ -894,6 +1021,7 @@
     "alt_names": [
       "open_book"
     ],
+    "description": "OPEN BOOK",
     "file": "1f4d6"
   },
   {
@@ -901,6 +1029,7 @@
     "alt_names": [
 
     ],
+    "description": "BOOKMARK",
     "file": "1f516"
   },
   {
@@ -908,6 +1037,7 @@
     "alt_names": [
 
     ],
+    "description": "BOOKMARK TABS",
     "file": "1f4d1"
   },
   {
@@ -915,6 +1045,7 @@
     "alt_names": [
 
     ],
+    "description": "BOOKS",
     "file": "1f4da"
   },
   {
@@ -922,6 +1053,7 @@
     "alt_names": [
       "collision"
     ],
+    "description": "COLLISION SYMBOL",
     "file": "1f4a5"
   },
   {
@@ -929,6 +1061,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMANS BOOTS",
     "file": "1f462"
   },
   {
@@ -936,6 +1069,7 @@
     "alt_names": [
 
     ],
+    "description": "BOUQUET",
     "file": "1f490"
   },
   {
@@ -943,6 +1077,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON BOWING DEEPLY",
     "file": "1f647"
   },
   {
@@ -950,6 +1085,7 @@
     "alt_names": [
 
     ],
+    "description": "BOW AND ARROW",
     "file": "1f3f9"
   },
   {
@@ -957,6 +1093,7 @@
     "alt_names": [
 
     ],
+    "description": "BOWL WITH SPOON",
     "file": "1f963"
   },
   {
@@ -964,6 +1101,7 @@
     "alt_names": [
 
     ],
+    "description": "BOWLING",
     "file": "1f3b3"
   },
   {
@@ -971,6 +1109,7 @@
     "alt_names": [
 
     ],
+    "description": "BOXING GLOVE",
     "file": "1f94a"
   },
   {
@@ -978,6 +1117,7 @@
     "alt_names": [
 
     ],
+    "description": "BOY",
     "file": "1f466"
   },
   {
@@ -985,6 +1125,7 @@
     "alt_names": [
 
     ],
+    "description": "BRAIN",
     "file": "1f9e0"
   },
   {
@@ -992,6 +1133,7 @@
     "alt_names": [
 
     ],
+    "description": "BREAD",
     "file": "1f35e"
   },
   {
@@ -999,6 +1141,7 @@
     "alt_names": [
 
     ],
+    "description": "BREAST-FEEDING",
     "file": "1f931"
   },
   {
@@ -1006,6 +1149,7 @@
     "alt_names": [
 
     ],
+    "description": "BRIDE WITH VEIL",
     "file": "1f470"
   },
   {
@@ -1013,6 +1157,7 @@
     "alt_names": [
 
     ],
+    "description": "BRIDGE AT NIGHT",
     "file": "1f309"
   },
   {
@@ -1020,6 +1165,7 @@
     "alt_names": [
 
     ],
+    "description": "BRIEFCASE",
     "file": "1f4bc"
   },
   {
@@ -1027,6 +1173,7 @@
     "alt_names": [
 
     ],
+    "description": "BROCCOLI",
     "file": "1f966"
   },
   {
@@ -1034,6 +1181,7 @@
     "alt_names": [
 
     ],
+    "description": "BROKEN HEART",
     "file": "1f494"
   },
   {
@@ -1041,6 +1189,7 @@
     "alt_names": [
 
     ],
+    "description": "BUG",
     "file": "1f41b"
   },
   {
@@ -1048,6 +1197,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d7"
   },
   {
@@ -1055,6 +1205,7 @@
     "alt_names": [
 
     ],
+    "description": "ELECTRIC LIGHT BULB",
     "file": "1f4a1"
   },
   {
@@ -1062,6 +1213,7 @@
     "alt_names": [
 
     ],
+    "description": "HIGH-SPEED TRAIN WITH BULLET NOSE",
     "file": "1f685"
   },
   {
@@ -1069,6 +1221,7 @@
     "alt_names": [
 
     ],
+    "description": "HIGH-SPEED TRAIN",
     "file": "1f684"
   },
   {
@@ -1076,6 +1229,7 @@
     "alt_names": [
 
     ],
+    "description": "BURRITO",
     "file": "1f32f"
   },
   {
@@ -1083,6 +1237,7 @@
     "alt_names": [
 
     ],
+    "description": "BUS",
     "file": "1f68c"
   },
   {
@@ -1090,6 +1245,7 @@
     "alt_names": [
 
     ],
+    "description": "BUS STOP",
     "file": "1f68f"
   },
   {
@@ -1097,6 +1253,7 @@
     "alt_names": [
 
     ],
+    "description": "BUST IN SILHOUETTE",
     "file": "1f464"
   },
   {
@@ -1104,6 +1261,7 @@
     "alt_names": [
 
     ],
+    "description": "BUSTS IN SILHOUETTE",
     "file": "1f465"
   },
   {
@@ -1111,6 +1269,7 @@
     "alt_names": [
 
     ],
+    "description": "BUTTERFLY",
     "file": "1f98b"
   },
   {
@@ -1118,6 +1277,7 @@
     "alt_names": [
 
     ],
+    "description": "CACTUS",
     "file": "1f335"
   },
   {
@@ -1125,6 +1285,7 @@
     "alt_names": [
 
     ],
+    "description": "SHORTCAKE",
     "file": "1f370"
   },
   {
@@ -1132,6 +1293,7 @@
     "alt_names": [
 
     ],
+    "description": "TEAR-OFF CALENDAR",
     "file": "1f4c6"
   },
   {
@@ -1139,6 +1301,7 @@
     "alt_names": [
 
     ],
+    "description": "CALL ME HAND",
     "file": "1f919"
   },
   {
@@ -1146,6 +1309,7 @@
     "alt_names": [
 
     ],
+    "description": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
     "file": "1f4f2"
   },
   {
@@ -1153,6 +1317,7 @@
     "alt_names": [
 
     ],
+    "description": "BACTRIAN CAMEL",
     "file": "1f42b"
   },
   {
@@ -1160,6 +1325,7 @@
     "alt_names": [
 
     ],
+    "description": "CAMERA",
     "file": "1f4f7"
   },
   {
@@ -1167,6 +1333,7 @@
     "alt_names": [
 
     ],
+    "description": "CAMERA WITH FLASH",
     "file": "1f4f8"
   },
   {
@@ -1174,6 +1341,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d5"
   },
   {
@@ -1181,6 +1349,7 @@
     "alt_names": [
 
     ],
+    "description": "CANCER",
     "file": "264b"
   },
   {
@@ -1188,6 +1357,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f56f"
   },
   {
@@ -1195,6 +1365,7 @@
     "alt_names": [
 
     ],
+    "description": "CANDY",
     "file": "1f36c"
   },
   {
@@ -1202,6 +1373,7 @@
     "alt_names": [
 
     ],
+    "description": "CANNED FOOD",
     "file": "1f96b"
   },
   {
@@ -1209,6 +1381,7 @@
     "alt_names": [
 
     ],
+    "description": "CANOE",
     "file": "1f6f6"
   },
   {
@@ -1216,6 +1389,7 @@
     "alt_names": [
 
     ],
+    "description": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
     "file": "1f520"
   },
   {
@@ -1223,6 +1397,7 @@
     "alt_names": [
 
     ],
+    "description": "CAPRICORN",
     "file": "2651"
   },
   {
@@ -1230,6 +1405,7 @@
     "alt_names": [
       "red_car"
     ],
+    "description": "AUTOMOBILE",
     "file": "1f697"
   },
   {
@@ -1237,6 +1413,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5c3"
   },
   {
@@ -1244,6 +1421,7 @@
     "alt_names": [
 
     ],
+    "description": "CARD INDEX",
     "file": "1f4c7"
   },
   {
@@ -1251,6 +1429,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5c2"
   },
   {
@@ -1258,6 +1437,7 @@
     "alt_names": [
 
     ],
+    "description": "CAROUSEL HORSE",
     "file": "1f3a0"
   },
   {
@@ -1265,6 +1445,7 @@
     "alt_names": [
 
     ],
+    "description": "CARROT",
     "file": "1f955"
   },
   {
@@ -1272,6 +1453,7 @@
     "alt_names": [
 
     ],
+    "description": "CAT FACE",
     "file": "1f431"
   },
   {
@@ -1279,6 +1461,7 @@
     "alt_names": [
 
     ],
+    "description": "CAT",
     "file": "1f408"
   },
   {
@@ -1286,6 +1469,7 @@
     "alt_names": [
 
     ],
+    "description": "OPTICAL DISC",
     "file": "1f4bf"
   },
   {
@@ -1293,6 +1477,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26d3"
   },
   {
@@ -1300,6 +1485,7 @@
     "alt_names": [
 
     ],
+    "description": "BOTTLE WITH POPPING CORK",
     "file": "1f37e"
   },
   {
@@ -1307,6 +1493,7 @@
     "alt_names": [
 
     ],
+    "description": "CHART WITH UPWARDS TREND AND YEN SIGN",
     "file": "1f4b9"
   },
   {
@@ -1314,6 +1501,7 @@
     "alt_names": [
 
     ],
+    "description": "CHART WITH DOWNWARDS TREND",
     "file": "1f4c9"
   },
   {
@@ -1321,6 +1509,7 @@
     "alt_names": [
 
     ],
+    "description": "CHART WITH UPWARDS TREND",
     "file": "1f4c8"
   },
   {
@@ -1328,6 +1517,7 @@
     "alt_names": [
 
     ],
+    "description": "CHEQUERED FLAG",
     "file": "1f3c1"
   },
   {
@@ -1335,6 +1525,7 @@
     "alt_names": [
 
     ],
+    "description": "CHEESE WEDGE",
     "file": "1f9c0"
   },
   {
@@ -1342,6 +1533,7 @@
     "alt_names": [
 
     ],
+    "description": "CHERRIES",
     "file": "1f352"
   },
   {
@@ -1349,6 +1541,7 @@
     "alt_names": [
 
     ],
+    "description": "CHERRY BLOSSOM",
     "file": "1f338"
   },
   {
@@ -1356,6 +1549,7 @@
     "alt_names": [
 
     ],
+    "description": "CHESTNUT",
     "file": "1f330"
   },
   {
@@ -1363,6 +1557,7 @@
     "alt_names": [
 
     ],
+    "description": "CHICKEN",
     "file": "1f414"
   },
   {
@@ -1370,6 +1565,7 @@
     "alt_names": [
 
     ],
+    "description": "CHILD",
     "file": "1f9d2"
   },
   {
@@ -1377,6 +1573,7 @@
     "alt_names": [
 
     ],
+    "description": "CHILDREN CROSSING",
     "file": "1f6b8"
   },
   {
@@ -1384,6 +1581,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f43f"
   },
   {
@@ -1391,6 +1589,7 @@
     "alt_names": [
 
     ],
+    "description": "CHOCOLATE BAR",
     "file": "1f36b"
   },
   {
@@ -1398,6 +1597,7 @@
     "alt_names": [
 
     ],
+    "description": "CHOPSTICKS",
     "file": "1f962"
   },
   {
@@ -1405,6 +1605,7 @@
     "alt_names": [
 
     ],
+    "description": "CHRISTMAS TREE",
     "file": "1f384"
   },
   {
@@ -1412,6 +1613,7 @@
     "alt_names": [
 
     ],
+    "description": "CHURCH",
     "file": "26ea"
   },
   {
@@ -1419,6 +1621,7 @@
     "alt_names": [
 
     ],
+    "description": "CINEMA",
     "file": "1f3a6"
   },
   {
@@ -1426,6 +1629,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCUS TENT",
     "file": "1f3aa"
   },
   {
@@ -1433,6 +1637,7 @@
     "alt_names": [
 
     ],
+    "description": "SUNSET OVER BUILDINGS",
     "file": "1f307"
   },
   {
@@ -1440,6 +1645,7 @@
     "alt_names": [
 
     ],
+    "description": "CITYSCAPE AT DUSK",
     "file": "1f306"
   },
   {
@@ -1447,6 +1653,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d9"
   },
   {
@@ -1454,6 +1661,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CL",
     "file": "1f191"
   },
   {
@@ -1461,6 +1669,7 @@
     "alt_names": [
 
     ],
+    "description": "CLAPPING HANDS SIGN",
     "file": "1f44f"
   },
   {
@@ -1468,6 +1677,7 @@
     "alt_names": [
 
     ],
+    "description": "CLAPPER BOARD",
     "file": "1f3ac"
   },
   {
@@ -1475,6 +1685,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3db"
   },
   {
@@ -1482,6 +1693,7 @@
     "alt_names": [
 
     ],
+    "description": "CLINKING GLASSES",
     "file": "1f942"
   },
   {
@@ -1489,6 +1701,7 @@
     "alt_names": [
 
     ],
+    "description": "CLIPBOARD",
     "file": "1f4cb"
   },
   {
@@ -1496,6 +1709,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE ONE OCLOCK",
     "file": "1f550"
   },
   {
@@ -1503,6 +1717,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TEN OCLOCK",
     "file": "1f559"
   },
   {
@@ -1510,6 +1725,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TEN-THIRTY",
     "file": "1f565"
   },
   {
@@ -1517,6 +1733,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE ELEVEN OCLOCK",
     "file": "1f55a"
   },
   {
@@ -1524,6 +1741,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE ELEVEN-THIRTY",
     "file": "1f566"
   },
   {
@@ -1531,6 +1749,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TWELVE OCLOCK",
     "file": "1f55b"
   },
   {
@@ -1538,6 +1757,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TWELVE-THIRTY",
     "file": "1f567"
   },
   {
@@ -1545,6 +1765,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE ONE-THIRTY",
     "file": "1f55c"
   },
   {
@@ -1552,6 +1773,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TWO OCLOCK",
     "file": "1f551"
   },
   {
@@ -1559,6 +1781,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE TWO-THIRTY",
     "file": "1f55d"
   },
   {
@@ -1566,6 +1789,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE THREE OCLOCK",
     "file": "1f552"
   },
   {
@@ -1573,6 +1797,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE THREE-THIRTY",
     "file": "1f55e"
   },
   {
@@ -1580,6 +1805,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE FOUR OCLOCK",
     "file": "1f553"
   },
   {
@@ -1587,6 +1813,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE FOUR-THIRTY",
     "file": "1f55f"
   },
   {
@@ -1594,6 +1821,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE FIVE OCLOCK",
     "file": "1f554"
   },
   {
@@ -1601,6 +1829,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE FIVE-THIRTY",
     "file": "1f560"
   },
   {
@@ -1608,6 +1837,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE SIX OCLOCK",
     "file": "1f555"
   },
   {
@@ -1615,6 +1845,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE SIX-THIRTY",
     "file": "1f561"
   },
   {
@@ -1622,6 +1853,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE SEVEN OCLOCK",
     "file": "1f556"
   },
   {
@@ -1629,6 +1861,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE SEVEN-THIRTY",
     "file": "1f562"
   },
   {
@@ -1636,6 +1869,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE EIGHT OCLOCK",
     "file": "1f557"
   },
   {
@@ -1643,6 +1877,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE EIGHT-THIRTY",
     "file": "1f563"
   },
   {
@@ -1650,6 +1885,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE NINE OCLOCK",
     "file": "1f558"
   },
   {
@@ -1657,6 +1893,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCK FACE NINE-THIRTY",
     "file": "1f564"
   },
   {
@@ -1664,6 +1901,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOSED BOOK",
     "file": "1f4d5"
   },
   {
@@ -1671,6 +1909,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOSED LOCK WITH KEY",
     "file": "1f510"
   },
   {
@@ -1678,6 +1917,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOSED UMBRELLA",
     "file": "1f302"
   },
   {
@@ -1685,6 +1925,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOUD",
     "file": "2601"
   },
   {
@@ -1692,6 +1933,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOWN FACE",
     "file": "1f921"
   },
   {
@@ -1699,6 +1941,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK CLUB SUIT",
     "file": "2663"
   },
   {
@@ -1706,6 +1949,7 @@
     "alt_names": [
       "flag-cn"
     ],
+    "description": "China Flag",
     "file": "1f1e8-1f1f3"
   },
   {
@@ -1713,6 +1957,7 @@
     "alt_names": [
 
     ],
+    "description": "COAT",
     "file": "1f9e5"
   },
   {
@@ -1720,6 +1965,7 @@
     "alt_names": [
 
     ],
+    "description": "COCKTAIL GLASS",
     "file": "1f378"
   },
   {
@@ -1727,6 +1973,7 @@
     "alt_names": [
 
     ],
+    "description": "COCONUT",
     "file": "1f965"
   },
   {
@@ -1734,6 +1981,7 @@
     "alt_names": [
 
     ],
+    "description": "HOT BEVERAGE",
     "file": "2615"
   },
   {
@@ -1741,6 +1989,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26b0"
   },
   {
@@ -1748,6 +1997,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH OPEN MOUTH AND COLD SWEAT",
     "file": "1f630"
   },
   {
@@ -1755,6 +2005,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2604"
   },
   {
@@ -1762,6 +2013,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5dc"
   },
   {
@@ -1769,6 +2021,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSONAL COMPUTER",
     "file": "1f4bb"
   },
   {
@@ -1776,6 +2029,7 @@
     "alt_names": [
 
     ],
+    "description": "CONFETTI BALL",
     "file": "1f38a"
   },
   {
@@ -1783,6 +2037,7 @@
     "alt_names": [
 
     ],
+    "description": "CONFOUNDED FACE",
     "file": "1f616"
   },
   {
@@ -1790,6 +2045,7 @@
     "alt_names": [
 
     ],
+    "description": "CONFUSED FACE",
     "file": "1f615"
   },
   {
@@ -1797,6 +2053,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCLED IDEOGRAPH CONGRATULATION",
     "file": "3297"
   },
   {
@@ -1804,6 +2061,7 @@
     "alt_names": [
 
     ],
+    "description": "CONSTRUCTION SIGN",
     "file": "1f6a7"
   },
   {
@@ -1811,6 +2069,7 @@
     "alt_names": [
 
     ],
+    "description": "CONSTRUCTION WORKER",
     "file": "1f477"
   },
   {
@@ -1818,6 +2077,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f39b"
   },
   {
@@ -1825,6 +2085,7 @@
     "alt_names": [
 
     ],
+    "description": "CONVENIENCE STORE",
     "file": "1f3ea"
   },
   {
@@ -1832,6 +2093,7 @@
     "alt_names": [
 
     ],
+    "description": "COOKIE",
     "file": "1f36a"
   },
   {
@@ -1839,6 +2101,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED COOL",
     "file": "1f192"
   },
   {
@@ -1846,6 +2109,7 @@
     "alt_names": [
 
     ],
+    "description": "POLICE OFFICER",
     "file": "1f46e"
   },
   {
@@ -1853,6 +2117,7 @@
     "alt_names": [
 
     ],
+    "description": "COPYRIGHT SIGN",
     "file": "a9"
   },
   {
@@ -1860,6 +2125,7 @@
     "alt_names": [
 
     ],
+    "description": "EAR OF MAIZE",
     "file": "1f33d"
   },
   {
@@ -1867,6 +2133,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6cb"
   },
   {
@@ -1874,6 +2141,7 @@
     "alt_names": [
       "man_and_woman_holding_hands"
     ],
+    "description": "MAN AND WOMAN HOLDING HANDS",
     "file": "1f46b"
   },
   {
@@ -1881,6 +2149,7 @@
     "alt_names": [
 
     ],
+    "description": "COUPLE WITH HEART",
     "file": "1f491"
   },
   {
@@ -1888,6 +2157,7 @@
     "alt_names": [
 
     ],
+    "description": "KISS",
     "file": "1f48f"
   },
   {
@@ -1895,6 +2165,7 @@
     "alt_names": [
 
     ],
+    "description": "COW FACE",
     "file": "1f42e"
   },
   {
@@ -1902,6 +2173,7 @@
     "alt_names": [
 
     ],
+    "description": "COW",
     "file": "1f404"
   },
   {
@@ -1909,6 +2181,7 @@
     "alt_names": [
 
     ],
+    "description": "CRAB",
     "file": "1f980"
   },
   {
@@ -1916,6 +2189,7 @@
     "alt_names": [
 
     ],
+    "description": "CREDIT CARD",
     "file": "1f4b3"
   },
   {
@@ -1923,6 +2197,7 @@
     "alt_names": [
 
     ],
+    "description": "CRESCENT MOON",
     "file": "1f319"
   },
   {
@@ -1930,6 +2205,7 @@
     "alt_names": [
 
     ],
+    "description": "CRICKET",
     "file": "1f997"
   },
   {
@@ -1937,6 +2213,7 @@
     "alt_names": [
 
     ],
+    "description": "CRICKET BAT AND BALL",
     "file": "1f3cf"
   },
   {
@@ -1944,6 +2221,7 @@
     "alt_names": [
 
     ],
+    "description": "CROCODILE",
     "file": "1f40a"
   },
   {
@@ -1951,6 +2229,7 @@
     "alt_names": [
 
     ],
+    "description": "CROISSANT",
     "file": "1f950"
   },
   {
@@ -1958,6 +2237,7 @@
     "alt_names": [
       "hand_with_index_and_middle_fingers_crossed"
     ],
+    "description": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
     "file": "1f91e"
   },
   {
@@ -1965,6 +2245,7 @@
     "alt_names": [
 
     ],
+    "description": "CROSSED FLAGS",
     "file": "1f38c"
   },
   {
@@ -1972,6 +2253,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2694"
   },
   {
@@ -1979,6 +2261,7 @@
     "alt_names": [
 
     ],
+    "description": "CROWN",
     "file": "1f451"
   },
   {
@@ -1986,6 +2269,7 @@
     "alt_names": [
 
     ],
+    "description": "CRYING FACE",
     "file": "1f622"
   },
   {
@@ -1993,6 +2277,7 @@
     "alt_names": [
 
     ],
+    "description": "CRYING CAT FACE",
     "file": "1f63f"
   },
   {
@@ -2000,6 +2285,7 @@
     "alt_names": [
 
     ],
+    "description": "CRYSTAL BALL",
     "file": "1f52e"
   },
   {
@@ -2007,6 +2293,7 @@
     "alt_names": [
 
     ],
+    "description": "CUCUMBER",
     "file": "1f952"
   },
   {
@@ -2014,6 +2301,7 @@
     "alt_names": [
 
     ],
+    "description": "CUP WITH STRAW",
     "file": "1f964"
   },
   {
@@ -2021,6 +2309,7 @@
     "alt_names": [
 
     ],
+    "description": "HEART WITH ARROW",
     "file": "1f498"
   },
   {
@@ -2028,6 +2317,7 @@
     "alt_names": [
 
     ],
+    "description": "CURLING STONE",
     "file": "1f94c"
   },
   {
@@ -2035,6 +2325,7 @@
     "alt_names": [
 
     ],
+    "description": "CURLY LOOP",
     "file": "27b0"
   },
   {
@@ -2042,6 +2333,7 @@
     "alt_names": [
 
     ],
+    "description": "CURRENCY EXCHANGE",
     "file": "1f4b1"
   },
   {
@@ -2049,6 +2341,7 @@
     "alt_names": [
 
     ],
+    "description": "CURRY AND RICE",
     "file": "1f35b"
   },
   {
@@ -2056,6 +2349,7 @@
     "alt_names": [
 
     ],
+    "description": "CUSTARD",
     "file": "1f36e"
   },
   {
@@ -2063,6 +2357,7 @@
     "alt_names": [
 
     ],
+    "description": "CUSTOMS",
     "file": "1f6c3"
   },
   {
@@ -2070,6 +2365,7 @@
     "alt_names": [
 
     ],
+    "description": "CUT OF MEAT",
     "file": "1f969"
   },
   {
@@ -2077,6 +2373,7 @@
     "alt_names": [
 
     ],
+    "description": "CYCLONE",
     "file": "1f300"
   },
   {
@@ -2084,6 +2381,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5e1"
   },
   {
@@ -2091,6 +2389,7 @@
     "alt_names": [
 
     ],
+    "description": "DANCER",
     "file": "1f483"
   },
   {
@@ -2098,6 +2397,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMAN WITH BUNNY EARS",
     "file": "1f46f"
   },
   {
@@ -2105,6 +2405,7 @@
     "alt_names": [
 
     ],
+    "description": "DANGO",
     "file": "1f361"
   },
   {
@@ -2112,6 +2413,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f576"
   },
   {
@@ -2119,6 +2421,7 @@
     "alt_names": [
 
     ],
+    "description": "DIRECT HIT",
     "file": "1f3af"
   },
   {
@@ -2126,6 +2429,7 @@
     "alt_names": [
 
     ],
+    "description": "DASH SYMBOL",
     "file": "1f4a8"
   },
   {
@@ -2133,6 +2437,7 @@
     "alt_names": [
 
     ],
+    "description": "CALENDAR",
     "file": "1f4c5"
   },
   {
@@ -2140,6 +2445,7 @@
     "alt_names": [
       "flag-de"
     ],
+    "description": "Germany Flag",
     "file": "1f1e9-1f1ea"
   },
   {
@@ -2147,6 +2453,7 @@
     "alt_names": [
 
     ],
+    "description": "DECIDUOUS TREE",
     "file": "1f333"
   },
   {
@@ -2154,6 +2461,7 @@
     "alt_names": [
 
     ],
+    "description": "DEER",
     "file": "1f98c"
   },
   {
@@ -2161,6 +2469,7 @@
     "alt_names": [
 
     ],
+    "description": "DEPARTMENT STORE",
     "file": "1f3ec"
   },
   {
@@ -2168,6 +2477,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3da"
   },
   {
@@ -2175,6 +2485,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3dc"
   },
   {
@@ -2182,6 +2493,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3dd"
   },
   {
@@ -2189,6 +2501,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5a5"
   },
   {
@@ -2196,6 +2509,7 @@
     "alt_names": [
 
     ],
+    "description": "DIAMOND SHAPE WITH A DOT INSIDE",
     "file": "1f4a0"
   },
   {
@@ -2203,6 +2517,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK DIAMOND SUIT",
     "file": "2666"
   },
   {
@@ -2210,6 +2525,7 @@
     "alt_names": [
 
     ],
+    "description": "DISAPPOINTED FACE",
     "file": "1f61e"
   },
   {
@@ -2217,6 +2533,7 @@
     "alt_names": [
 
     ],
+    "description": "DISAPPOINTED BUT RELIEVED FACE",
     "file": "1f625"
   },
   {
@@ -2224,6 +2541,7 @@
     "alt_names": [
 
     ],
+    "description": "DIZZY SYMBOL",
     "file": "1f4ab"
   },
   {
@@ -2231,6 +2549,7 @@
     "alt_names": [
 
     ],
+    "description": "DIZZY FACE",
     "file": "1f635"
   },
   {
@@ -2238,6 +2557,7 @@
     "alt_names": [
 
     ],
+    "description": "DO NOT LITTER SYMBOL",
     "file": "1f6af"
   },
   {
@@ -2245,6 +2565,7 @@
     "alt_names": [
 
     ],
+    "description": "DOG FACE",
     "file": "1f436"
   },
   {
@@ -2252,6 +2573,7 @@
     "alt_names": [
 
     ],
+    "description": "DOG",
     "file": "1f415"
   },
   {
@@ -2259,6 +2581,7 @@
     "alt_names": [
 
     ],
+    "description": "BANKNOTE WITH DOLLAR SIGN",
     "file": "1f4b5"
   },
   {
@@ -2266,6 +2589,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE DOLLS",
     "file": "1f38e"
   },
   {
@@ -2273,6 +2597,7 @@
     "alt_names": [
       "flipper"
     ],
+    "description": "DOLPHIN",
     "file": "1f42c"
   },
   {
@@ -2280,6 +2605,7 @@
     "alt_names": [
 
     ],
+    "description": "DOOR",
     "file": "1f6aa"
   },
   {
@@ -2287,6 +2613,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23f8"
   },
   {
@@ -2294,6 +2621,7 @@
     "alt_names": [
 
     ],
+    "description": "DOUGHNUT",
     "file": "1f369"
   },
   {
@@ -2301,6 +2629,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f54a"
   },
   {
@@ -2308,6 +2637,7 @@
     "alt_names": [
 
     ],
+    "description": "DRAGON",
     "file": "1f409"
   },
   {
@@ -2315,6 +2645,7 @@
     "alt_names": [
 
     ],
+    "description": "DRAGON FACE",
     "file": "1f432"
   },
   {
@@ -2322,6 +2653,7 @@
     "alt_names": [
 
     ],
+    "description": "DRESS",
     "file": "1f457"
   },
   {
@@ -2329,6 +2661,7 @@
     "alt_names": [
 
     ],
+    "description": "DROMEDARY CAMEL",
     "file": "1f42a"
   },
   {
@@ -2336,6 +2669,7 @@
     "alt_names": [
 
     ],
+    "description": "DROOLING FACE",
     "file": "1f924"
   },
   {
@@ -2343,6 +2677,7 @@
     "alt_names": [
 
     ],
+    "description": "DROPLET",
     "file": "1f4a7"
   },
   {
@@ -2350,6 +2685,7 @@
     "alt_names": [
 
     ],
+    "description": "DRUM WITH DRUMSTICKS",
     "file": "1f941"
   },
   {
@@ -2357,6 +2693,7 @@
     "alt_names": [
 
     ],
+    "description": "DUCK",
     "file": "1f986"
   },
   {
@@ -2364,6 +2701,7 @@
     "alt_names": [
 
     ],
+    "description": "DUMPLING",
     "file": "1f95f"
   },
   {
@@ -2371,6 +2709,7 @@
     "alt_names": [
 
     ],
+    "description": "DVD",
     "file": "1f4c0"
   },
   {
@@ -2378,6 +2717,7 @@
     "alt_names": [
 
     ],
+    "description": "E-MAIL SYMBOL",
     "file": "1f4e7"
   },
   {
@@ -2385,6 +2725,7 @@
     "alt_names": [
 
     ],
+    "description": "EAGLE",
     "file": "1f985"
   },
   {
@@ -2392,6 +2733,7 @@
     "alt_names": [
 
     ],
+    "description": "EAR",
     "file": "1f442"
   },
   {
@@ -2399,6 +2741,7 @@
     "alt_names": [
 
     ],
+    "description": "EAR OF RICE",
     "file": "1f33e"
   },
   {
@@ -2406,6 +2749,7 @@
     "alt_names": [
 
     ],
+    "description": "EARTH GLOBE EUROPE-AFRICA",
     "file": "1f30d"
   },
   {
@@ -2413,6 +2757,7 @@
     "alt_names": [
 
     ],
+    "description": "EARTH GLOBE AMERICAS",
     "file": "1f30e"
   },
   {
@@ -2420,6 +2765,7 @@
     "alt_names": [
 
     ],
+    "description": "EARTH GLOBE ASIA-AUSTRALIA",
     "file": "1f30f"
   },
   {
@@ -2427,6 +2773,7 @@
     "alt_names": [
 
     ],
+    "description": "EGG",
     "file": "1f95a"
   },
   {
@@ -2434,6 +2781,7 @@
     "alt_names": [
 
     ],
+    "description": "AUBERGINE",
     "file": "1f346"
   },
   {
@@ -2441,6 +2789,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 8",
     "file": "38-20e3"
   },
   {
@@ -2448,6 +2797,7 @@
     "alt_names": [
 
     ],
+    "description": "EIGHT POINTED BLACK STAR",
     "file": "2734"
   },
   {
@@ -2455,6 +2805,7 @@
     "alt_names": [
 
     ],
+    "description": "EIGHT SPOKED ASTERISK",
     "file": "2733"
   },
   {
@@ -2462,6 +2813,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23cf"
   },
   {
@@ -2469,6 +2821,7 @@
     "alt_names": [
 
     ],
+    "description": "ELECTRIC PLUG",
     "file": "1f50c"
   },
   {
@@ -2476,6 +2829,7 @@
     "alt_names": [
 
     ],
+    "description": "ELEPHANT",
     "file": "1f418"
   },
   {
@@ -2483,6 +2837,7 @@
     "alt_names": [
 
     ],
+    "description": "ELF",
     "file": "1f9dd"
   },
   {
@@ -2490,6 +2845,7 @@
     "alt_names": [
       "envelope"
     ],
+    "description": "ENVELOPE",
     "file": "2709"
   },
   {
@@ -2497,6 +2853,7 @@
     "alt_names": [
 
     ],
+    "description": "END WITH LEFTWARDS ARROW ABOVE",
     "file": "1f51a"
   },
   {
@@ -2504,6 +2861,7 @@
     "alt_names": [
 
     ],
+    "description": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
     "file": "1f4e9"
   },
   {
@@ -2511,6 +2869,7 @@
     "alt_names": [
       "flag-es"
     ],
+    "description": "Spain Flag",
     "file": "1f1ea-1f1f8"
   },
   {
@@ -2518,6 +2877,7 @@
     "alt_names": [
 
     ],
+    "description": "BANKNOTE WITH EURO SIGN",
     "file": "1f4b6"
   },
   {
@@ -2525,6 +2885,7 @@
     "alt_names": [
 
     ],
+    "description": "EUROPEAN CASTLE",
     "file": "1f3f0"
   },
   {
@@ -2532,6 +2893,7 @@
     "alt_names": [
 
     ],
+    "description": "EUROPEAN POST OFFICE",
     "file": "1f3e4"
   },
   {
@@ -2539,6 +2901,7 @@
     "alt_names": [
 
     ],
+    "description": "EVERGREEN TREE",
     "file": "1f332"
   },
   {
@@ -2546,6 +2909,7 @@
     "alt_names": [
       "heavy_exclamation_mark"
     ],
+    "description": "HEAVY EXCLAMATION MARK SYMBOL",
     "file": "2757"
   },
   {
@@ -2553,6 +2917,7 @@
     "alt_names": [
       "shocked_face_with_exploding_head"
     ],
+    "description": "SHOCKED FACE WITH EXPLODING HEAD",
     "file": "1f92f"
   },
   {
@@ -2560,6 +2925,7 @@
     "alt_names": [
 
     ],
+    "description": "EXPRESSIONLESS FACE",
     "file": "1f611"
   },
   {
@@ -2567,6 +2933,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f441"
   },
   {
@@ -2574,6 +2941,7 @@
     "alt_names": [
 
     ],
+    "description": "EYEGLASSES",
     "file": "1f453"
   },
   {
@@ -2581,6 +2949,7 @@
     "alt_names": [
 
     ],
+    "description": "EYES",
     "file": "1f440"
   },
   {
@@ -2588,6 +2957,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE PALM",
     "file": "1f926"
   },
   {
@@ -2595,6 +2965,7 @@
     "alt_names": [
       "face_with_open_mouth_vomiting"
     ],
+    "description": "FACE WITH OPEN MOUTH VOMITING",
     "file": "1f92e"
   },
   {
@@ -2602,6 +2973,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH COWBOY HAT",
     "file": "1f920"
   },
   {
@@ -2609,6 +2981,7 @@
     "alt_names": [
       "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
     ],
+    "description": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
     "file": "1f92d"
   },
   {
@@ -2616,6 +2989,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH HEAD-BANDAGE",
     "file": "1f915"
   },
   {
@@ -2623,6 +2997,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH MONOCLE",
     "file": "1f9d0"
   },
   {
@@ -2630,6 +3005,7 @@
     "alt_names": [
       "face_with_one_eyebrow_raised"
     ],
+    "description": "FACE WITH ONE EYEBROW RAISED",
     "file": "1f928"
   },
   {
@@ -2637,6 +3013,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH ROLLING EYES",
     "file": "1f644"
   },
   {
@@ -2644,6 +3021,7 @@
     "alt_names": [
       "serious_face_with_symbols_covering_mouth"
     ],
+    "description": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
     "file": "1f92c"
   },
   {
@@ -2651,6 +3029,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH THERMOMETER",
     "file": "1f912"
   },
   {
@@ -2658,6 +3037,7 @@
     "alt_names": [
       "punch"
     ],
+    "description": "FISTED HAND SIGN",
     "file": "1f44a"
   },
   {
@@ -2665,6 +3045,7 @@
     "alt_names": [
 
     ],
+    "description": "FACTORY",
     "file": "1f3ed"
   },
   {
@@ -2672,6 +3053,7 @@
     "alt_names": [
 
     ],
+    "description": "FAIRY",
     "file": "1f9da"
   },
   {
@@ -2679,6 +3061,7 @@
     "alt_names": [
 
     ],
+    "description": "FALLEN LEAF",
     "file": "1f342"
   },
   {
@@ -2686,6 +3069,7 @@
     "alt_names": [
       "man-woman-boy"
     ],
+    "description": "FAMILY",
     "file": "1f46a"
   },
   {
@@ -2693,6 +3077,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
     "file": "23e9"
   },
   {
@@ -2700,6 +3085,7 @@
     "alt_names": [
 
     ],
+    "description": "FAX MACHINE",
     "file": "1f4e0"
   },
   {
@@ -2707,6 +3093,7 @@
     "alt_names": [
 
     ],
+    "description": "FEARFUL FACE",
     "file": "1f628"
   },
   {
@@ -2714,6 +3101,7 @@
     "alt_names": [
       "paw_prints"
     ],
+    "description": "PAW PRINTS",
     "file": "1f43e"
   },
   {
@@ -2721,6 +3109,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f3a8"
   },
   {
@@ -2728,6 +3117,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f680"
   },
   {
@@ -2735,6 +3125,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f477-200d-2640-fe0f"
   },
   {
@@ -2742,6 +3133,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f373"
   },
   {
@@ -2749,6 +3141,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f575-fe0f-200d-2640-fe0f"
   },
   {
@@ -2756,6 +3149,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2695-fe0f"
   },
   {
@@ -2763,6 +3157,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f3ed"
   },
   {
@@ -2770,6 +3165,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f33e"
   },
   {
@@ -2777,6 +3173,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f692"
   },
   {
@@ -2784,6 +3181,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f482-200d-2640-fe0f"
   },
   {
@@ -2791,6 +3189,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2696-fe0f"
   },
   {
@@ -2798,6 +3197,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f527"
   },
   {
@@ -2805,6 +3205,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f4bc"
   },
   {
@@ -2812,6 +3213,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2708-fe0f"
   },
   {
@@ -2819,6 +3221,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f46e-200d-2640-fe0f"
   },
   {
@@ -2826,6 +3229,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f52c"
   },
   {
@@ -2833,6 +3237,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f3a4"
   },
   {
@@ -2840,6 +3245,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f393"
   },
   {
@@ -2847,6 +3253,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f3eb"
   },
   {
@@ -2854,6 +3261,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f4bb"
   },
   {
@@ -2861,6 +3269,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9dd-200d-2640-fe0f"
   },
   {
@@ -2868,6 +3277,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9da-200d-2640-fe0f"
   },
   {
@@ -2875,6 +3285,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9de-200d-2640-fe0f"
   },
   {
@@ -2882,6 +3293,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d9-200d-2640-fe0f"
   },
   {
@@ -2889,6 +3301,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2640"
   },
   {
@@ -2896,6 +3309,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9db-200d-2640-fe0f"
   },
   {
@@ -2903,6 +3317,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9df-200d-2640-fe0f"
   },
   {
@@ -2910,6 +3325,7 @@
     "alt_names": [
 
     ],
+    "description": "FENCER",
     "file": "1f93a"
   },
   {
@@ -2917,6 +3333,7 @@
     "alt_names": [
 
     ],
+    "description": "FERRIS WHEEL",
     "file": "1f3a1"
   },
   {
@@ -2924,6 +3341,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f4"
   },
   {
@@ -2931,6 +3349,7 @@
     "alt_names": [
 
     ],
+    "description": "FIELD HOCKEY STICK AND BALL",
     "file": "1f3d1"
   },
   {
@@ -2938,6 +3357,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5c4"
   },
   {
@@ -2945,6 +3365,7 @@
     "alt_names": [
 
     ],
+    "description": "FILE FOLDER",
     "file": "1f4c1"
   },
   {
@@ -2952,6 +3373,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f39e"
   },
   {
@@ -2959,6 +3381,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f4fd"
   },
   {
@@ -2966,6 +3389,7 @@
     "alt_names": [
 
     ],
+    "description": "FIRE",
     "file": "1f525"
   },
   {
@@ -2973,6 +3397,7 @@
     "alt_names": [
 
     ],
+    "description": "FIRE ENGINE",
     "file": "1f692"
   },
   {
@@ -2980,6 +3405,7 @@
     "alt_names": [
 
     ],
+    "description": "FIREWORKS",
     "file": "1f386"
   },
   {
@@ -2987,6 +3413,7 @@
     "alt_names": [
 
     ],
+    "description": "FIRST PLACE MEDAL",
     "file": "1f947"
   },
   {
@@ -2994,6 +3421,7 @@
     "alt_names": [
 
     ],
+    "description": "FIRST QUARTER MOON SYMBOL",
     "file": "1f313"
   },
   {
@@ -3001,6 +3429,7 @@
     "alt_names": [
 
     ],
+    "description": "FIRST QUARTER MOON WITH FACE",
     "file": "1f31b"
   },
   {
@@ -3008,6 +3437,7 @@
     "alt_names": [
 
     ],
+    "description": "FISH",
     "file": "1f41f"
   },
   {
@@ -3015,6 +3445,7 @@
     "alt_names": [
 
     ],
+    "description": "FISH CAKE WITH SWIRL DESIGN",
     "file": "1f365"
   },
   {
@@ -3022,6 +3453,7 @@
     "alt_names": [
 
     ],
+    "description": "FISHING POLE AND FISH",
     "file": "1f3a3"
   },
   {
@@ -3029,6 +3461,7 @@
     "alt_names": [
 
     ],
+    "description": "RAISED FIST",
     "file": "270a"
   },
   {
@@ -3036,6 +3469,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 5",
     "file": "35-20e3"
   },
   {
@@ -3043,6 +3477,7 @@
     "alt_names": [
 
     ],
+    "description": "Ascension Island Flag",
     "file": "1f1e6-1f1e8"
   },
   {
@@ -3050,6 +3485,7 @@
     "alt_names": [
 
     ],
+    "description": "Andorra Flag",
     "file": "1f1e6-1f1e9"
   },
   {
@@ -3057,6 +3493,7 @@
     "alt_names": [
 
     ],
+    "description": "United Arab Emirates Flag",
     "file": "1f1e6-1f1ea"
   },
   {
@@ -3064,6 +3501,7 @@
     "alt_names": [
 
     ],
+    "description": "Afghanistan Flag",
     "file": "1f1e6-1f1eb"
   },
   {
@@ -3071,6 +3509,7 @@
     "alt_names": [
 
     ],
+    "description": "Antigua & Barbuda Flag",
     "file": "1f1e6-1f1ec"
   },
   {
@@ -3078,6 +3517,7 @@
     "alt_names": [
 
     ],
+    "description": "Anguilla Flag",
     "file": "1f1e6-1f1ee"
   },
   {
@@ -3085,6 +3525,7 @@
     "alt_names": [
 
     ],
+    "description": "Albania Flag",
     "file": "1f1e6-1f1f1"
   },
   {
@@ -3092,6 +3533,7 @@
     "alt_names": [
 
     ],
+    "description": "Armenia Flag",
     "file": "1f1e6-1f1f2"
   },
   {
@@ -3099,6 +3541,7 @@
     "alt_names": [
 
     ],
+    "description": "Angola Flag",
     "file": "1f1e6-1f1f4"
   },
   {
@@ -3106,6 +3549,7 @@
     "alt_names": [
 
     ],
+    "description": "Antarctica Flag",
     "file": "1f1e6-1f1f6"
   },
   {
@@ -3113,6 +3557,7 @@
     "alt_names": [
 
     ],
+    "description": "Argentina Flag",
     "file": "1f1e6-1f1f7"
   },
   {
@@ -3120,6 +3565,7 @@
     "alt_names": [
 
     ],
+    "description": "American Samoa Flag",
     "file": "1f1e6-1f1f8"
   },
   {
@@ -3127,6 +3573,7 @@
     "alt_names": [
 
     ],
+    "description": "Austria Flag",
     "file": "1f1e6-1f1f9"
   },
   {
@@ -3134,6 +3581,7 @@
     "alt_names": [
 
     ],
+    "description": "Australia Flag",
     "file": "1f1e6-1f1fa"
   },
   {
@@ -3141,6 +3589,7 @@
     "alt_names": [
 
     ],
+    "description": "Aruba Flag",
     "file": "1f1e6-1f1fc"
   },
   {
@@ -3148,6 +3597,7 @@
     "alt_names": [
 
     ],
+    "description": "Åland Islands Flag",
     "file": "1f1e6-1f1fd"
   },
   {
@@ -3155,6 +3605,7 @@
     "alt_names": [
 
     ],
+    "description": "Azerbaijan Flag",
     "file": "1f1e6-1f1ff"
   },
   {
@@ -3162,6 +3613,7 @@
     "alt_names": [
 
     ],
+    "description": "Bosnia & Herzegovina Flag",
     "file": "1f1e7-1f1e6"
   },
   {
@@ -3169,6 +3621,7 @@
     "alt_names": [
 
     ],
+    "description": "Barbados Flag",
     "file": "1f1e7-1f1e7"
   },
   {
@@ -3176,6 +3629,7 @@
     "alt_names": [
 
     ],
+    "description": "Bangladesh Flag",
     "file": "1f1e7-1f1e9"
   },
   {
@@ -3183,6 +3637,7 @@
     "alt_names": [
 
     ],
+    "description": "Belgium Flag",
     "file": "1f1e7-1f1ea"
   },
   {
@@ -3190,6 +3645,7 @@
     "alt_names": [
 
     ],
+    "description": "Burkina Faso Flag",
     "file": "1f1e7-1f1eb"
   },
   {
@@ -3197,6 +3653,7 @@
     "alt_names": [
 
     ],
+    "description": "Bulgaria Flag",
     "file": "1f1e7-1f1ec"
   },
   {
@@ -3204,6 +3661,7 @@
     "alt_names": [
 
     ],
+    "description": "Bahrain Flag",
     "file": "1f1e7-1f1ed"
   },
   {
@@ -3211,6 +3669,7 @@
     "alt_names": [
 
     ],
+    "description": "Burundi Flag",
     "file": "1f1e7-1f1ee"
   },
   {
@@ -3218,6 +3677,7 @@
     "alt_names": [
 
     ],
+    "description": "Benin Flag",
     "file": "1f1e7-1f1ef"
   },
   {
@@ -3225,6 +3685,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Barthélemy Flag",
     "file": "1f1e7-1f1f1"
   },
   {
@@ -3232,6 +3693,7 @@
     "alt_names": [
 
     ],
+    "description": "Bermuda Flag",
     "file": "1f1e7-1f1f2"
   },
   {
@@ -3239,6 +3701,7 @@
     "alt_names": [
 
     ],
+    "description": "Brunei Flag",
     "file": "1f1e7-1f1f3"
   },
   {
@@ -3246,6 +3709,7 @@
     "alt_names": [
 
     ],
+    "description": "Bolivia Flag",
     "file": "1f1e7-1f1f4"
   },
   {
@@ -3253,6 +3717,7 @@
     "alt_names": [
 
     ],
+    "description": "Caribbean Netherlands Flag",
     "file": "1f1e7-1f1f6"
   },
   {
@@ -3260,6 +3725,7 @@
     "alt_names": [
 
     ],
+    "description": "Brazil Flag",
     "file": "1f1e7-1f1f7"
   },
   {
@@ -3267,6 +3733,7 @@
     "alt_names": [
 
     ],
+    "description": "Bahamas Flag",
     "file": "1f1e7-1f1f8"
   },
   {
@@ -3274,6 +3741,7 @@
     "alt_names": [
 
     ],
+    "description": "Bhutan Flag",
     "file": "1f1e7-1f1f9"
   },
   {
@@ -3281,6 +3749,7 @@
     "alt_names": [
 
     ],
+    "description": "Bouvet Island Flag",
     "file": "1f1e7-1f1fb"
   },
   {
@@ -3288,6 +3757,7 @@
     "alt_names": [
 
     ],
+    "description": "Botswana Flag",
     "file": "1f1e7-1f1fc"
   },
   {
@@ -3295,6 +3765,7 @@
     "alt_names": [
 
     ],
+    "description": "Belarus Flag",
     "file": "1f1e7-1f1fe"
   },
   {
@@ -3302,6 +3773,7 @@
     "alt_names": [
 
     ],
+    "description": "Belize Flag",
     "file": "1f1e7-1f1ff"
   },
   {
@@ -3309,6 +3781,7 @@
     "alt_names": [
 
     ],
+    "description": "Canada Flag",
     "file": "1f1e8-1f1e6"
   },
   {
@@ -3316,6 +3789,7 @@
     "alt_names": [
 
     ],
+    "description": "Cocos (Keeling) Islands Flag",
     "file": "1f1e8-1f1e8"
   },
   {
@@ -3323,6 +3797,7 @@
     "alt_names": [
 
     ],
+    "description": "Congo - Kinshasa Flag",
     "file": "1f1e8-1f1e9"
   },
   {
@@ -3330,6 +3805,7 @@
     "alt_names": [
 
     ],
+    "description": "Central African Republic Flag",
     "file": "1f1e8-1f1eb"
   },
   {
@@ -3337,6 +3813,7 @@
     "alt_names": [
 
     ],
+    "description": "Congo - Brazzaville Flag",
     "file": "1f1e8-1f1ec"
   },
   {
@@ -3344,6 +3821,7 @@
     "alt_names": [
 
     ],
+    "description": "Switzerland Flag",
     "file": "1f1e8-1f1ed"
   },
   {
@@ -3351,6 +3829,7 @@
     "alt_names": [
 
     ],
+    "description": "Côte d’Ivoire Flag",
     "file": "1f1e8-1f1ee"
   },
   {
@@ -3358,6 +3837,7 @@
     "alt_names": [
 
     ],
+    "description": "Cook Islands Flag",
     "file": "1f1e8-1f1f0"
   },
   {
@@ -3365,6 +3845,7 @@
     "alt_names": [
 
     ],
+    "description": "Chile Flag",
     "file": "1f1e8-1f1f1"
   },
   {
@@ -3372,6 +3853,7 @@
     "alt_names": [
 
     ],
+    "description": "Cameroon Flag",
     "file": "1f1e8-1f1f2"
   },
   {
@@ -3379,6 +3861,7 @@
     "alt_names": [
 
     ],
+    "description": "Colombia Flag",
     "file": "1f1e8-1f1f4"
   },
   {
@@ -3386,6 +3869,7 @@
     "alt_names": [
 
     ],
+    "description": "Clipperton Island Flag",
     "file": "1f1e8-1f1f5"
   },
   {
@@ -3393,6 +3877,7 @@
     "alt_names": [
 
     ],
+    "description": "Costa Rica Flag",
     "file": "1f1e8-1f1f7"
   },
   {
@@ -3400,6 +3885,7 @@
     "alt_names": [
 
     ],
+    "description": "Cuba Flag",
     "file": "1f1e8-1f1fa"
   },
   {
@@ -3407,6 +3893,7 @@
     "alt_names": [
 
     ],
+    "description": "Cape Verde Flag",
     "file": "1f1e8-1f1fb"
   },
   {
@@ -3414,6 +3901,7 @@
     "alt_names": [
 
     ],
+    "description": "Curaçao Flag",
     "file": "1f1e8-1f1fc"
   },
   {
@@ -3421,6 +3909,7 @@
     "alt_names": [
 
     ],
+    "description": "Christmas Island Flag",
     "file": "1f1e8-1f1fd"
   },
   {
@@ -3428,6 +3917,7 @@
     "alt_names": [
 
     ],
+    "description": "Cyprus Flag",
     "file": "1f1e8-1f1fe"
   },
   {
@@ -3435,6 +3925,7 @@
     "alt_names": [
 
     ],
+    "description": "Czechia Flag",
     "file": "1f1e8-1f1ff"
   },
   {
@@ -3442,6 +3933,7 @@
     "alt_names": [
 
     ],
+    "description": "Diego Garcia Flag",
     "file": "1f1e9-1f1ec"
   },
   {
@@ -3449,6 +3941,7 @@
     "alt_names": [
 
     ],
+    "description": "Djibouti Flag",
     "file": "1f1e9-1f1ef"
   },
   {
@@ -3456,6 +3949,7 @@
     "alt_names": [
 
     ],
+    "description": "Denmark Flag",
     "file": "1f1e9-1f1f0"
   },
   {
@@ -3463,6 +3957,7 @@
     "alt_names": [
 
     ],
+    "description": "Dominica Flag",
     "file": "1f1e9-1f1f2"
   },
   {
@@ -3470,6 +3965,7 @@
     "alt_names": [
 
     ],
+    "description": "Dominican Republic Flag",
     "file": "1f1e9-1f1f4"
   },
   {
@@ -3477,6 +3973,7 @@
     "alt_names": [
 
     ],
+    "description": "Algeria Flag",
     "file": "1f1e9-1f1ff"
   },
   {
@@ -3484,6 +3981,7 @@
     "alt_names": [
 
     ],
+    "description": "Ceuta & Melilla Flag",
     "file": "1f1ea-1f1e6"
   },
   {
@@ -3491,6 +3989,7 @@
     "alt_names": [
 
     ],
+    "description": "Ecuador Flag",
     "file": "1f1ea-1f1e8"
   },
   {
@@ -3498,6 +3997,7 @@
     "alt_names": [
 
     ],
+    "description": "Estonia Flag",
     "file": "1f1ea-1f1ea"
   },
   {
@@ -3505,6 +4005,7 @@
     "alt_names": [
 
     ],
+    "description": "Egypt Flag",
     "file": "1f1ea-1f1ec"
   },
   {
@@ -3512,6 +4013,7 @@
     "alt_names": [
 
     ],
+    "description": "Western Sahara Flag",
     "file": "1f1ea-1f1ed"
   },
   {
@@ -3519,6 +4021,7 @@
     "alt_names": [
 
     ],
+    "description": "England Flag",
     "file": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f"
   },
   {
@@ -3526,6 +4029,7 @@
     "alt_names": [
 
     ],
+    "description": "Eritrea Flag",
     "file": "1f1ea-1f1f7"
   },
   {
@@ -3533,6 +4037,7 @@
     "alt_names": [
 
     ],
+    "description": "Ethiopia Flag",
     "file": "1f1ea-1f1f9"
   },
   {
@@ -3540,6 +4045,7 @@
     "alt_names": [
 
     ],
+    "description": "European Union Flag",
     "file": "1f1ea-1f1fa"
   },
   {
@@ -3547,6 +4053,7 @@
     "alt_names": [
 
     ],
+    "description": "Finland Flag",
     "file": "1f1eb-1f1ee"
   },
   {
@@ -3554,6 +4061,7 @@
     "alt_names": [
 
     ],
+    "description": "Fiji Flag",
     "file": "1f1eb-1f1ef"
   },
   {
@@ -3561,6 +4069,7 @@
     "alt_names": [
 
     ],
+    "description": "Falkland Islands Flag",
     "file": "1f1eb-1f1f0"
   },
   {
@@ -3568,6 +4077,7 @@
     "alt_names": [
 
     ],
+    "description": "Micronesia Flag",
     "file": "1f1eb-1f1f2"
   },
   {
@@ -3575,6 +4085,7 @@
     "alt_names": [
 
     ],
+    "description": "Faroe Islands Flag",
     "file": "1f1eb-1f1f4"
   },
   {
@@ -3582,6 +4093,7 @@
     "alt_names": [
 
     ],
+    "description": "Gabon Flag",
     "file": "1f1ec-1f1e6"
   },
   {
@@ -3589,6 +4101,7 @@
     "alt_names": [
 
     ],
+    "description": "Grenada Flag",
     "file": "1f1ec-1f1e9"
   },
   {
@@ -3596,6 +4109,7 @@
     "alt_names": [
 
     ],
+    "description": "Georgia Flag",
     "file": "1f1ec-1f1ea"
   },
   {
@@ -3603,6 +4117,7 @@
     "alt_names": [
 
     ],
+    "description": "French Guiana Flag",
     "file": "1f1ec-1f1eb"
   },
   {
@@ -3610,6 +4125,7 @@
     "alt_names": [
 
     ],
+    "description": "Guernsey Flag",
     "file": "1f1ec-1f1ec"
   },
   {
@@ -3617,6 +4133,7 @@
     "alt_names": [
 
     ],
+    "description": "Ghana Flag",
     "file": "1f1ec-1f1ed"
   },
   {
@@ -3624,6 +4141,7 @@
     "alt_names": [
 
     ],
+    "description": "Gibraltar Flag",
     "file": "1f1ec-1f1ee"
   },
   {
@@ -3631,6 +4149,7 @@
     "alt_names": [
 
     ],
+    "description": "Greenland Flag",
     "file": "1f1ec-1f1f1"
   },
   {
@@ -3638,6 +4157,7 @@
     "alt_names": [
 
     ],
+    "description": "Gambia Flag",
     "file": "1f1ec-1f1f2"
   },
   {
@@ -3645,6 +4165,7 @@
     "alt_names": [
 
     ],
+    "description": "Guinea Flag",
     "file": "1f1ec-1f1f3"
   },
   {
@@ -3652,6 +4173,7 @@
     "alt_names": [
 
     ],
+    "description": "Guadeloupe Flag",
     "file": "1f1ec-1f1f5"
   },
   {
@@ -3659,6 +4181,7 @@
     "alt_names": [
 
     ],
+    "description": "Equatorial Guinea Flag",
     "file": "1f1ec-1f1f6"
   },
   {
@@ -3666,6 +4189,7 @@
     "alt_names": [
 
     ],
+    "description": "Greece Flag",
     "file": "1f1ec-1f1f7"
   },
   {
@@ -3673,6 +4197,7 @@
     "alt_names": [
 
     ],
+    "description": "South Georgia & South Sandwich Islands Flag",
     "file": "1f1ec-1f1f8"
   },
   {
@@ -3680,6 +4205,7 @@
     "alt_names": [
 
     ],
+    "description": "Guatemala Flag",
     "file": "1f1ec-1f1f9"
   },
   {
@@ -3687,6 +4213,7 @@
     "alt_names": [
 
     ],
+    "description": "Guam Flag",
     "file": "1f1ec-1f1fa"
   },
   {
@@ -3694,6 +4221,7 @@
     "alt_names": [
 
     ],
+    "description": "Guinea-Bissau Flag",
     "file": "1f1ec-1f1fc"
   },
   {
@@ -3701,6 +4229,7 @@
     "alt_names": [
 
     ],
+    "description": "Guyana Flag",
     "file": "1f1ec-1f1fe"
   },
   {
@@ -3708,6 +4237,7 @@
     "alt_names": [
 
     ],
+    "description": "Hong Kong SAR China Flag",
     "file": "1f1ed-1f1f0"
   },
   {
@@ -3715,6 +4245,7 @@
     "alt_names": [
 
     ],
+    "description": "Heard & McDonald Islands Flag",
     "file": "1f1ed-1f1f2"
   },
   {
@@ -3722,6 +4253,7 @@
     "alt_names": [
 
     ],
+    "description": "Honduras Flag",
     "file": "1f1ed-1f1f3"
   },
   {
@@ -3729,6 +4261,7 @@
     "alt_names": [
 
     ],
+    "description": "Croatia Flag",
     "file": "1f1ed-1f1f7"
   },
   {
@@ -3736,6 +4269,7 @@
     "alt_names": [
 
     ],
+    "description": "Haiti Flag",
     "file": "1f1ed-1f1f9"
   },
   {
@@ -3743,6 +4277,7 @@
     "alt_names": [
 
     ],
+    "description": "Hungary Flag",
     "file": "1f1ed-1f1fa"
   },
   {
@@ -3750,6 +4285,7 @@
     "alt_names": [
 
     ],
+    "description": "Canary Islands Flag",
     "file": "1f1ee-1f1e8"
   },
   {
@@ -3757,6 +4293,7 @@
     "alt_names": [
 
     ],
+    "description": "Indonesia Flag",
     "file": "1f1ee-1f1e9"
   },
   {
@@ -3764,6 +4301,7 @@
     "alt_names": [
 
     ],
+    "description": "Ireland Flag",
     "file": "1f1ee-1f1ea"
   },
   {
@@ -3771,6 +4309,7 @@
     "alt_names": [
 
     ],
+    "description": "Israel Flag",
     "file": "1f1ee-1f1f1"
   },
   {
@@ -3778,6 +4317,7 @@
     "alt_names": [
 
     ],
+    "description": "Isle of Man Flag",
     "file": "1f1ee-1f1f2"
   },
   {
@@ -3785,6 +4325,7 @@
     "alt_names": [
 
     ],
+    "description": "India Flag",
     "file": "1f1ee-1f1f3"
   },
   {
@@ -3792,6 +4333,7 @@
     "alt_names": [
 
     ],
+    "description": "British Indian Ocean Territory Flag",
     "file": "1f1ee-1f1f4"
   },
   {
@@ -3799,6 +4341,7 @@
     "alt_names": [
 
     ],
+    "description": "Iraq Flag",
     "file": "1f1ee-1f1f6"
   },
   {
@@ -3806,6 +4349,7 @@
     "alt_names": [
 
     ],
+    "description": "Iran Flag",
     "file": "1f1ee-1f1f7"
   },
   {
@@ -3813,6 +4357,7 @@
     "alt_names": [
 
     ],
+    "description": "Iceland Flag",
     "file": "1f1ee-1f1f8"
   },
   {
@@ -3820,6 +4365,7 @@
     "alt_names": [
 
     ],
+    "description": "Jersey Flag",
     "file": "1f1ef-1f1ea"
   },
   {
@@ -3827,6 +4373,7 @@
     "alt_names": [
 
     ],
+    "description": "Jamaica Flag",
     "file": "1f1ef-1f1f2"
   },
   {
@@ -3834,6 +4381,7 @@
     "alt_names": [
 
     ],
+    "description": "Jordan Flag",
     "file": "1f1ef-1f1f4"
   },
   {
@@ -3841,6 +4389,7 @@
     "alt_names": [
 
     ],
+    "description": "Kenya Flag",
     "file": "1f1f0-1f1ea"
   },
   {
@@ -3848,6 +4397,7 @@
     "alt_names": [
 
     ],
+    "description": "Kyrgyzstan Flag",
     "file": "1f1f0-1f1ec"
   },
   {
@@ -3855,6 +4405,7 @@
     "alt_names": [
 
     ],
+    "description": "Cambodia Flag",
     "file": "1f1f0-1f1ed"
   },
   {
@@ -3862,6 +4413,7 @@
     "alt_names": [
 
     ],
+    "description": "Kiribati Flag",
     "file": "1f1f0-1f1ee"
   },
   {
@@ -3869,6 +4421,7 @@
     "alt_names": [
 
     ],
+    "description": "Comoros Flag",
     "file": "1f1f0-1f1f2"
   },
   {
@@ -3876,6 +4429,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Kitts & Nevis Flag",
     "file": "1f1f0-1f1f3"
   },
   {
@@ -3883,6 +4437,7 @@
     "alt_names": [
 
     ],
+    "description": "North Korea Flag",
     "file": "1f1f0-1f1f5"
   },
   {
@@ -3890,6 +4445,7 @@
     "alt_names": [
 
     ],
+    "description": "Kuwait Flag",
     "file": "1f1f0-1f1fc"
   },
   {
@@ -3897,6 +4453,7 @@
     "alt_names": [
 
     ],
+    "description": "Cayman Islands Flag",
     "file": "1f1f0-1f1fe"
   },
   {
@@ -3904,6 +4461,7 @@
     "alt_names": [
 
     ],
+    "description": "Kazakhstan Flag",
     "file": "1f1f0-1f1ff"
   },
   {
@@ -3911,6 +4469,7 @@
     "alt_names": [
 
     ],
+    "description": "Laos Flag",
     "file": "1f1f1-1f1e6"
   },
   {
@@ -3918,6 +4477,7 @@
     "alt_names": [
 
     ],
+    "description": "Lebanon Flag",
     "file": "1f1f1-1f1e7"
   },
   {
@@ -3925,6 +4485,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Lucia Flag",
     "file": "1f1f1-1f1e8"
   },
   {
@@ -3932,6 +4493,7 @@
     "alt_names": [
 
     ],
+    "description": "Liechtenstein Flag",
     "file": "1f1f1-1f1ee"
   },
   {
@@ -3939,6 +4501,7 @@
     "alt_names": [
 
     ],
+    "description": "Sri Lanka Flag",
     "file": "1f1f1-1f1f0"
   },
   {
@@ -3946,6 +4509,7 @@
     "alt_names": [
 
     ],
+    "description": "Liberia Flag",
     "file": "1f1f1-1f1f7"
   },
   {
@@ -3953,6 +4517,7 @@
     "alt_names": [
 
     ],
+    "description": "Lesotho Flag",
     "file": "1f1f1-1f1f8"
   },
   {
@@ -3960,6 +4525,7 @@
     "alt_names": [
 
     ],
+    "description": "Lithuania Flag",
     "file": "1f1f1-1f1f9"
   },
   {
@@ -3967,6 +4533,7 @@
     "alt_names": [
 
     ],
+    "description": "Luxembourg Flag",
     "file": "1f1f1-1f1fa"
   },
   {
@@ -3974,6 +4541,7 @@
     "alt_names": [
 
     ],
+    "description": "Latvia Flag",
     "file": "1f1f1-1f1fb"
   },
   {
@@ -3981,6 +4549,7 @@
     "alt_names": [
 
     ],
+    "description": "Libya Flag",
     "file": "1f1f1-1f1fe"
   },
   {
@@ -3988,6 +4557,7 @@
     "alt_names": [
 
     ],
+    "description": "Morocco Flag",
     "file": "1f1f2-1f1e6"
   },
   {
@@ -3995,6 +4565,7 @@
     "alt_names": [
 
     ],
+    "description": "Monaco Flag",
     "file": "1f1f2-1f1e8"
   },
   {
@@ -4002,6 +4573,7 @@
     "alt_names": [
 
     ],
+    "description": "Moldova Flag",
     "file": "1f1f2-1f1e9"
   },
   {
@@ -4009,6 +4581,7 @@
     "alt_names": [
 
     ],
+    "description": "Montenegro Flag",
     "file": "1f1f2-1f1ea"
   },
   {
@@ -4016,6 +4589,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Martin Flag",
     "file": "1f1f2-1f1eb"
   },
   {
@@ -4023,6 +4597,7 @@
     "alt_names": [
 
     ],
+    "description": "Madagascar Flag",
     "file": "1f1f2-1f1ec"
   },
   {
@@ -4030,6 +4605,7 @@
     "alt_names": [
 
     ],
+    "description": "Marshall Islands Flag",
     "file": "1f1f2-1f1ed"
   },
   {
@@ -4037,6 +4613,7 @@
     "alt_names": [
 
     ],
+    "description": "Macedonia Flag",
     "file": "1f1f2-1f1f0"
   },
   {
@@ -4044,6 +4621,7 @@
     "alt_names": [
 
     ],
+    "description": "Mali Flag",
     "file": "1f1f2-1f1f1"
   },
   {
@@ -4051,6 +4629,7 @@
     "alt_names": [
 
     ],
+    "description": "Myanmar (Burma) Flag",
     "file": "1f1f2-1f1f2"
   },
   {
@@ -4058,6 +4637,7 @@
     "alt_names": [
 
     ],
+    "description": "Mongolia Flag",
     "file": "1f1f2-1f1f3"
   },
   {
@@ -4065,6 +4645,7 @@
     "alt_names": [
 
     ],
+    "description": "Macau SAR China Flag",
     "file": "1f1f2-1f1f4"
   },
   {
@@ -4072,6 +4653,7 @@
     "alt_names": [
 
     ],
+    "description": "Northern Mariana Islands Flag",
     "file": "1f1f2-1f1f5"
   },
   {
@@ -4079,6 +4661,7 @@
     "alt_names": [
 
     ],
+    "description": "Martinique Flag",
     "file": "1f1f2-1f1f6"
   },
   {
@@ -4086,6 +4669,7 @@
     "alt_names": [
 
     ],
+    "description": "Mauritania Flag",
     "file": "1f1f2-1f1f7"
   },
   {
@@ -4093,6 +4677,7 @@
     "alt_names": [
 
     ],
+    "description": "Montserrat Flag",
     "file": "1f1f2-1f1f8"
   },
   {
@@ -4100,6 +4685,7 @@
     "alt_names": [
 
     ],
+    "description": "Malta Flag",
     "file": "1f1f2-1f1f9"
   },
   {
@@ -4107,6 +4693,7 @@
     "alt_names": [
 
     ],
+    "description": "Mauritius Flag",
     "file": "1f1f2-1f1fa"
   },
   {
@@ -4114,6 +4701,7 @@
     "alt_names": [
 
     ],
+    "description": "Maldives Flag",
     "file": "1f1f2-1f1fb"
   },
   {
@@ -4121,6 +4709,7 @@
     "alt_names": [
 
     ],
+    "description": "Malawi Flag",
     "file": "1f1f2-1f1fc"
   },
   {
@@ -4128,6 +4717,7 @@
     "alt_names": [
 
     ],
+    "description": "Mexico Flag",
     "file": "1f1f2-1f1fd"
   },
   {
@@ -4135,6 +4725,7 @@
     "alt_names": [
 
     ],
+    "description": "Malaysia Flag",
     "file": "1f1f2-1f1fe"
   },
   {
@@ -4142,6 +4733,7 @@
     "alt_names": [
 
     ],
+    "description": "Mozambique Flag",
     "file": "1f1f2-1f1ff"
   },
   {
@@ -4149,6 +4741,7 @@
     "alt_names": [
 
     ],
+    "description": "Namibia Flag",
     "file": "1f1f3-1f1e6"
   },
   {
@@ -4156,6 +4749,7 @@
     "alt_names": [
 
     ],
+    "description": "New Caledonia Flag",
     "file": "1f1f3-1f1e8"
   },
   {
@@ -4163,6 +4757,7 @@
     "alt_names": [
 
     ],
+    "description": "Niger Flag",
     "file": "1f1f3-1f1ea"
   },
   {
@@ -4170,6 +4765,7 @@
     "alt_names": [
 
     ],
+    "description": "Norfolk Island Flag",
     "file": "1f1f3-1f1eb"
   },
   {
@@ -4177,6 +4773,7 @@
     "alt_names": [
 
     ],
+    "description": "Nigeria Flag",
     "file": "1f1f3-1f1ec"
   },
   {
@@ -4184,6 +4781,7 @@
     "alt_names": [
 
     ],
+    "description": "Nicaragua Flag",
     "file": "1f1f3-1f1ee"
   },
   {
@@ -4191,6 +4789,7 @@
     "alt_names": [
 
     ],
+    "description": "Netherlands Flag",
     "file": "1f1f3-1f1f1"
   },
   {
@@ -4198,6 +4797,7 @@
     "alt_names": [
 
     ],
+    "description": "Norway Flag",
     "file": "1f1f3-1f1f4"
   },
   {
@@ -4205,6 +4805,7 @@
     "alt_names": [
 
     ],
+    "description": "Nepal Flag",
     "file": "1f1f3-1f1f5"
   },
   {
@@ -4212,6 +4813,7 @@
     "alt_names": [
 
     ],
+    "description": "Nauru Flag",
     "file": "1f1f3-1f1f7"
   },
   {
@@ -4219,6 +4821,7 @@
     "alt_names": [
 
     ],
+    "description": "Niue Flag",
     "file": "1f1f3-1f1fa"
   },
   {
@@ -4226,6 +4829,7 @@
     "alt_names": [
 
     ],
+    "description": "New Zealand Flag",
     "file": "1f1f3-1f1ff"
   },
   {
@@ -4233,6 +4837,7 @@
     "alt_names": [
 
     ],
+    "description": "Oman Flag",
     "file": "1f1f4-1f1f2"
   },
   {
@@ -4240,6 +4845,7 @@
     "alt_names": [
 
     ],
+    "description": "Panama Flag",
     "file": "1f1f5-1f1e6"
   },
   {
@@ -4247,6 +4853,7 @@
     "alt_names": [
 
     ],
+    "description": "Peru Flag",
     "file": "1f1f5-1f1ea"
   },
   {
@@ -4254,6 +4861,7 @@
     "alt_names": [
 
     ],
+    "description": "French Polynesia Flag",
     "file": "1f1f5-1f1eb"
   },
   {
@@ -4261,6 +4869,7 @@
     "alt_names": [
 
     ],
+    "description": "Papua New Guinea Flag",
     "file": "1f1f5-1f1ec"
   },
   {
@@ -4268,6 +4877,7 @@
     "alt_names": [
 
     ],
+    "description": "Philippines Flag",
     "file": "1f1f5-1f1ed"
   },
   {
@@ -4275,6 +4885,7 @@
     "alt_names": [
 
     ],
+    "description": "Pakistan Flag",
     "file": "1f1f5-1f1f0"
   },
   {
@@ -4282,6 +4893,7 @@
     "alt_names": [
 
     ],
+    "description": "Poland Flag",
     "file": "1f1f5-1f1f1"
   },
   {
@@ -4289,6 +4901,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Pierre & Miquelon Flag",
     "file": "1f1f5-1f1f2"
   },
   {
@@ -4296,6 +4909,7 @@
     "alt_names": [
 
     ],
+    "description": "Pitcairn Islands Flag",
     "file": "1f1f5-1f1f3"
   },
   {
@@ -4303,6 +4917,7 @@
     "alt_names": [
 
     ],
+    "description": "Puerto Rico Flag",
     "file": "1f1f5-1f1f7"
   },
   {
@@ -4310,6 +4925,7 @@
     "alt_names": [
 
     ],
+    "description": "Palestinian Territories Flag",
     "file": "1f1f5-1f1f8"
   },
   {
@@ -4317,6 +4933,7 @@
     "alt_names": [
 
     ],
+    "description": "Portugal Flag",
     "file": "1f1f5-1f1f9"
   },
   {
@@ -4324,6 +4941,7 @@
     "alt_names": [
 
     ],
+    "description": "Palau Flag",
     "file": "1f1f5-1f1fc"
   },
   {
@@ -4331,6 +4949,7 @@
     "alt_names": [
 
     ],
+    "description": "Paraguay Flag",
     "file": "1f1f5-1f1fe"
   },
   {
@@ -4338,6 +4957,7 @@
     "alt_names": [
 
     ],
+    "description": "Qatar Flag",
     "file": "1f1f6-1f1e6"
   },
   {
@@ -4345,6 +4965,7 @@
     "alt_names": [
 
     ],
+    "description": "Réunion Flag",
     "file": "1f1f7-1f1ea"
   },
   {
@@ -4352,6 +4973,7 @@
     "alt_names": [
 
     ],
+    "description": "Romania Flag",
     "file": "1f1f7-1f1f4"
   },
   {
@@ -4359,6 +4981,7 @@
     "alt_names": [
 
     ],
+    "description": "Serbia Flag",
     "file": "1f1f7-1f1f8"
   },
   {
@@ -4366,6 +4989,7 @@
     "alt_names": [
 
     ],
+    "description": "Rwanda Flag",
     "file": "1f1f7-1f1fc"
   },
   {
@@ -4373,6 +4997,7 @@
     "alt_names": [
 
     ],
+    "description": "Saudi Arabia Flag",
     "file": "1f1f8-1f1e6"
   },
   {
@@ -4380,6 +5005,7 @@
     "alt_names": [
 
     ],
+    "description": "Solomon Islands Flag",
     "file": "1f1f8-1f1e7"
   },
   {
@@ -4387,6 +5013,7 @@
     "alt_names": [
 
     ],
+    "description": "Seychelles Flag",
     "file": "1f1f8-1f1e8"
   },
   {
@@ -4394,6 +5021,7 @@
     "alt_names": [
 
     ],
+    "description": "Scotland Flag",
     "file": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f"
   },
   {
@@ -4401,6 +5029,7 @@
     "alt_names": [
 
     ],
+    "description": "Sudan Flag",
     "file": "1f1f8-1f1e9"
   },
   {
@@ -4408,6 +5037,7 @@
     "alt_names": [
 
     ],
+    "description": "Sweden Flag",
     "file": "1f1f8-1f1ea"
   },
   {
@@ -4415,6 +5045,7 @@
     "alt_names": [
 
     ],
+    "description": "Singapore Flag",
     "file": "1f1f8-1f1ec"
   },
   {
@@ -4422,6 +5053,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Helena Flag",
     "file": "1f1f8-1f1ed"
   },
   {
@@ -4429,6 +5061,7 @@
     "alt_names": [
 
     ],
+    "description": "Slovenia Flag",
     "file": "1f1f8-1f1ee"
   },
   {
@@ -4436,6 +5069,7 @@
     "alt_names": [
 
     ],
+    "description": "Svalbard & Jan Mayen Flag",
     "file": "1f1f8-1f1ef"
   },
   {
@@ -4443,6 +5077,7 @@
     "alt_names": [
 
     ],
+    "description": "Slovakia Flag",
     "file": "1f1f8-1f1f0"
   },
   {
@@ -4450,6 +5085,7 @@
     "alt_names": [
 
     ],
+    "description": "Sierra Leone Flag",
     "file": "1f1f8-1f1f1"
   },
   {
@@ -4457,6 +5093,7 @@
     "alt_names": [
 
     ],
+    "description": "San Marino Flag",
     "file": "1f1f8-1f1f2"
   },
   {
@@ -4464,6 +5101,7 @@
     "alt_names": [
 
     ],
+    "description": "Senegal Flag",
     "file": "1f1f8-1f1f3"
   },
   {
@@ -4471,6 +5109,7 @@
     "alt_names": [
 
     ],
+    "description": "Somalia Flag",
     "file": "1f1f8-1f1f4"
   },
   {
@@ -4478,6 +5117,7 @@
     "alt_names": [
 
     ],
+    "description": "Suriname Flag",
     "file": "1f1f8-1f1f7"
   },
   {
@@ -4485,6 +5125,7 @@
     "alt_names": [
 
     ],
+    "description": "South Sudan Flag",
     "file": "1f1f8-1f1f8"
   },
   {
@@ -4492,6 +5133,7 @@
     "alt_names": [
 
     ],
+    "description": "São Tomé & Príncipe Flag",
     "file": "1f1f8-1f1f9"
   },
   {
@@ -4499,6 +5141,7 @@
     "alt_names": [
 
     ],
+    "description": "El Salvador Flag",
     "file": "1f1f8-1f1fb"
   },
   {
@@ -4506,6 +5149,7 @@
     "alt_names": [
 
     ],
+    "description": "Sint Maarten Flag",
     "file": "1f1f8-1f1fd"
   },
   {
@@ -4513,6 +5157,7 @@
     "alt_names": [
 
     ],
+    "description": "Syria Flag",
     "file": "1f1f8-1f1fe"
   },
   {
@@ -4520,6 +5165,7 @@
     "alt_names": [
 
     ],
+    "description": "Swaziland Flag",
     "file": "1f1f8-1f1ff"
   },
   {
@@ -4527,6 +5173,7 @@
     "alt_names": [
 
     ],
+    "description": "Tristan da Cunha Flag",
     "file": "1f1f9-1f1e6"
   },
   {
@@ -4534,6 +5181,7 @@
     "alt_names": [
 
     ],
+    "description": "Turks & Caicos Islands Flag",
     "file": "1f1f9-1f1e8"
   },
   {
@@ -4541,6 +5189,7 @@
     "alt_names": [
 
     ],
+    "description": "Chad Flag",
     "file": "1f1f9-1f1e9"
   },
   {
@@ -4548,6 +5197,7 @@
     "alt_names": [
 
     ],
+    "description": "French Southern Territories Flag",
     "file": "1f1f9-1f1eb"
   },
   {
@@ -4555,6 +5205,7 @@
     "alt_names": [
 
     ],
+    "description": "Togo Flag",
     "file": "1f1f9-1f1ec"
   },
   {
@@ -4562,6 +5213,7 @@
     "alt_names": [
 
     ],
+    "description": "Thailand Flag",
     "file": "1f1f9-1f1ed"
   },
   {
@@ -4569,6 +5221,7 @@
     "alt_names": [
 
     ],
+    "description": "Tajikistan Flag",
     "file": "1f1f9-1f1ef"
   },
   {
@@ -4576,6 +5229,7 @@
     "alt_names": [
 
     ],
+    "description": "Tokelau Flag",
     "file": "1f1f9-1f1f0"
   },
   {
@@ -4583,6 +5237,7 @@
     "alt_names": [
 
     ],
+    "description": "Timor-Leste Flag",
     "file": "1f1f9-1f1f1"
   },
   {
@@ -4590,6 +5245,7 @@
     "alt_names": [
 
     ],
+    "description": "Turkmenistan Flag",
     "file": "1f1f9-1f1f2"
   },
   {
@@ -4597,6 +5253,7 @@
     "alt_names": [
 
     ],
+    "description": "Tunisia Flag",
     "file": "1f1f9-1f1f3"
   },
   {
@@ -4604,6 +5261,7 @@
     "alt_names": [
 
     ],
+    "description": "Tonga Flag",
     "file": "1f1f9-1f1f4"
   },
   {
@@ -4611,6 +5269,7 @@
     "alt_names": [
 
     ],
+    "description": "Turkey Flag",
     "file": "1f1f9-1f1f7"
   },
   {
@@ -4618,6 +5277,7 @@
     "alt_names": [
 
     ],
+    "description": "Trinidad & Tobago Flag",
     "file": "1f1f9-1f1f9"
   },
   {
@@ -4625,6 +5285,7 @@
     "alt_names": [
 
     ],
+    "description": "Tuvalu Flag",
     "file": "1f1f9-1f1fb"
   },
   {
@@ -4632,6 +5293,7 @@
     "alt_names": [
 
     ],
+    "description": "Taiwan Flag",
     "file": "1f1f9-1f1fc"
   },
   {
@@ -4639,6 +5301,7 @@
     "alt_names": [
 
     ],
+    "description": "Tanzania Flag",
     "file": "1f1f9-1f1ff"
   },
   {
@@ -4646,6 +5309,7 @@
     "alt_names": [
 
     ],
+    "description": "Ukraine Flag",
     "file": "1f1fa-1f1e6"
   },
   {
@@ -4653,6 +5317,7 @@
     "alt_names": [
 
     ],
+    "description": "Uganda Flag",
     "file": "1f1fa-1f1ec"
   },
   {
@@ -4660,6 +5325,7 @@
     "alt_names": [
 
     ],
+    "description": "U.S. Outlying Islands Flag",
     "file": "1f1fa-1f1f2"
   },
   {
@@ -4667,6 +5333,7 @@
     "alt_names": [
 
     ],
+    "description": "United Nations Flag",
     "file": "1f1fa-1f1f3"
   },
   {
@@ -4674,6 +5341,7 @@
     "alt_names": [
 
     ],
+    "description": "Uruguay Flag",
     "file": "1f1fa-1f1fe"
   },
   {
@@ -4681,6 +5349,7 @@
     "alt_names": [
 
     ],
+    "description": "Uzbekistan Flag",
     "file": "1f1fa-1f1ff"
   },
   {
@@ -4688,6 +5357,7 @@
     "alt_names": [
 
     ],
+    "description": "Vatican City Flag",
     "file": "1f1fb-1f1e6"
   },
   {
@@ -4695,6 +5365,7 @@
     "alt_names": [
 
     ],
+    "description": "St. Vincent & Grenadines Flag",
     "file": "1f1fb-1f1e8"
   },
   {
@@ -4702,6 +5373,7 @@
     "alt_names": [
 
     ],
+    "description": "Venezuela Flag",
     "file": "1f1fb-1f1ea"
   },
   {
@@ -4709,6 +5381,7 @@
     "alt_names": [
 
     ],
+    "description": "British Virgin Islands Flag",
     "file": "1f1fb-1f1ec"
   },
   {
@@ -4716,6 +5389,7 @@
     "alt_names": [
 
     ],
+    "description": "U.S. Virgin Islands Flag",
     "file": "1f1fb-1f1ee"
   },
   {
@@ -4723,6 +5397,7 @@
     "alt_names": [
 
     ],
+    "description": "Vietnam Flag",
     "file": "1f1fb-1f1f3"
   },
   {
@@ -4730,6 +5405,7 @@
     "alt_names": [
 
     ],
+    "description": "Vanuatu Flag",
     "file": "1f1fb-1f1fa"
   },
   {
@@ -4737,6 +5413,7 @@
     "alt_names": [
 
     ],
+    "description": "Wales Flag",
     "file": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
   },
   {
@@ -4744,6 +5421,7 @@
     "alt_names": [
 
     ],
+    "description": "Wallis & Futuna Flag",
     "file": "1f1fc-1f1eb"
   },
   {
@@ -4751,6 +5429,7 @@
     "alt_names": [
 
     ],
+    "description": "Samoa Flag",
     "file": "1f1fc-1f1f8"
   },
   {
@@ -4758,6 +5437,7 @@
     "alt_names": [
 
     ],
+    "description": "Kosovo Flag",
     "file": "1f1fd-1f1f0"
   },
   {
@@ -4765,6 +5445,7 @@
     "alt_names": [
 
     ],
+    "description": "Yemen Flag",
     "file": "1f1fe-1f1ea"
   },
   {
@@ -4772,6 +5453,7 @@
     "alt_names": [
 
     ],
+    "description": "Mayotte Flag",
     "file": "1f1fe-1f1f9"
   },
   {
@@ -4779,6 +5461,7 @@
     "alt_names": [
 
     ],
+    "description": "South Africa Flag",
     "file": "1f1ff-1f1e6"
   },
   {
@@ -4786,6 +5469,7 @@
     "alt_names": [
 
     ],
+    "description": "Zambia Flag",
     "file": "1f1ff-1f1f2"
   },
   {
@@ -4793,6 +5477,7 @@
     "alt_names": [
 
     ],
+    "description": "Zimbabwe Flag",
     "file": "1f1ff-1f1fc"
   },
   {
@@ -4800,6 +5485,7 @@
     "alt_names": [
 
     ],
+    "description": "CARP STREAMER",
     "file": "1f38f"
   },
   {
@@ -4807,6 +5493,7 @@
     "alt_names": [
 
     ],
+    "description": "ELECTRIC TORCH",
     "file": "1f526"
   },
   {
@@ -4814,6 +5501,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "269c"
   },
   {
@@ -4821,6 +5509,7 @@
     "alt_names": [
 
     ],
+    "description": "FLOPPY DISK",
     "file": "1f4be"
   },
   {
@@ -4828,6 +5517,7 @@
     "alt_names": [
 
     ],
+    "description": "FLOWER PLAYING CARDS",
     "file": "1f3b4"
   },
   {
@@ -4835,6 +5525,7 @@
     "alt_names": [
 
     ],
+    "description": "FLUSHED FACE",
     "file": "1f633"
   },
   {
@@ -4842,6 +5533,7 @@
     "alt_names": [
 
     ],
+    "description": "FLYING SAUCER",
     "file": "1f6f8"
   },
   {
@@ -4849,6 +5541,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f32b"
   },
   {
@@ -4856,6 +5549,7 @@
     "alt_names": [
 
     ],
+    "description": "FOGGY",
     "file": "1f301"
   },
   {
@@ -4863,6 +5557,7 @@
     "alt_names": [
 
     ],
+    "description": "AMERICAN FOOTBALL",
     "file": "1f3c8"
   },
   {
@@ -4870,6 +5565,7 @@
     "alt_names": [
 
     ],
+    "description": "FOOTPRINTS",
     "file": "1f463"
   },
   {
@@ -4877,6 +5573,7 @@
     "alt_names": [
 
     ],
+    "description": "FORK AND KNIFE",
     "file": "1f374"
   },
   {
@@ -4884,6 +5581,7 @@
     "alt_names": [
 
     ],
+    "description": "FORTUNE COOKIE",
     "file": "1f960"
   },
   {
@@ -4891,6 +5589,7 @@
     "alt_names": [
 
     ],
+    "description": "FOUNTAIN",
     "file": "26f2"
   },
   {
@@ -4898,6 +5597,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 4",
     "file": "34-20e3"
   },
   {
@@ -4905,6 +5605,7 @@
     "alt_names": [
 
     ],
+    "description": "FOUR LEAF CLOVER",
     "file": "1f340"
   },
   {
@@ -4912,6 +5613,7 @@
     "alt_names": [
 
     ],
+    "description": "FOX FACE",
     "file": "1f98a"
   },
   {
@@ -4919,6 +5621,7 @@
     "alt_names": [
       "flag-fr"
     ],
+    "description": "France Flag",
     "file": "1f1eb-1f1f7"
   },
   {
@@ -4926,6 +5629,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5bc"
   },
   {
@@ -4933,6 +5637,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED FREE",
     "file": "1f193"
   },
   {
@@ -4940,6 +5645,7 @@
     "alt_names": [
       "cooking"
     ],
+    "description": "COOKING",
     "file": "1f373"
   },
   {
@@ -4947,6 +5653,7 @@
     "alt_names": [
 
     ],
+    "description": "FRIED SHRIMP",
     "file": "1f364"
   },
   {
@@ -4954,6 +5661,7 @@
     "alt_names": [
 
     ],
+    "description": "FRENCH FRIES",
     "file": "1f35f"
   },
   {
@@ -4961,6 +5669,7 @@
     "alt_names": [
 
     ],
+    "description": "FROG FACE",
     "file": "1f438"
   },
   {
@@ -4968,6 +5677,7 @@
     "alt_names": [
 
     ],
+    "description": "FROWNING FACE WITH OPEN MOUTH",
     "file": "1f626"
   },
   {
@@ -4975,6 +5685,7 @@
     "alt_names": [
 
     ],
+    "description": "FUEL PUMP",
     "file": "26fd"
   },
   {
@@ -4982,6 +5693,7 @@
     "alt_names": [
 
     ],
+    "description": "FULL MOON SYMBOL",
     "file": "1f315"
   },
   {
@@ -4989,6 +5701,7 @@
     "alt_names": [
 
     ],
+    "description": "FULL MOON WITH FACE",
     "file": "1f31d"
   },
   {
@@ -4996,6 +5709,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26b1"
   },
   {
@@ -5003,6 +5717,7 @@
     "alt_names": [
 
     ],
+    "description": "GAME DIE",
     "file": "1f3b2"
   },
   {
@@ -5011,6 +5726,7 @@
       "uk",
       "flag-gb"
     ],
+    "description": "United Kingdom Flag",
     "file": "1f1ec-1f1e7"
   },
   {
@@ -5018,6 +5734,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2699"
   },
   {
@@ -5025,6 +5742,7 @@
     "alt_names": [
 
     ],
+    "description": "GEM STONE",
     "file": "1f48e"
   },
   {
@@ -5032,6 +5750,7 @@
     "alt_names": [
 
     ],
+    "description": "GEMINI",
     "file": "264a"
   },
   {
@@ -5039,6 +5758,7 @@
     "alt_names": [
 
     ],
+    "description": "GENIE",
     "file": "1f9de"
   },
   {
@@ -5046,6 +5766,7 @@
     "alt_names": [
 
     ],
+    "description": "GHOST",
     "file": "1f47b"
   },
   {
@@ -5053,6 +5774,7 @@
     "alt_names": [
 
     ],
+    "description": "WRAPPED PRESENT",
     "file": "1f381"
   },
   {
@@ -5060,6 +5782,7 @@
     "alt_names": [
 
     ],
+    "description": "HEART WITH RIBBON",
     "file": "1f49d"
   },
   {
@@ -5067,6 +5790,7 @@
     "alt_names": [
 
     ],
+    "description": "GIRAFFE FACE",
     "file": "1f992"
   },
   {
@@ -5074,6 +5798,7 @@
     "alt_names": [
 
     ],
+    "description": "GIRL",
     "file": "1f467"
   },
   {
@@ -5081,6 +5806,7 @@
     "alt_names": [
 
     ],
+    "description": "GLASS OF MILK",
     "file": "1f95b"
   },
   {
@@ -5088,6 +5814,7 @@
     "alt_names": [
 
     ],
+    "description": "GLOBE WITH MERIDIANS",
     "file": "1f310"
   },
   {
@@ -5095,6 +5822,7 @@
     "alt_names": [
 
     ],
+    "description": "GLOVES",
     "file": "1f9e4"
   },
   {
@@ -5102,6 +5830,7 @@
     "alt_names": [
 
     ],
+    "description": "GOAL NET",
     "file": "1f945"
   },
   {
@@ -5109,6 +5838,7 @@
     "alt_names": [
 
     ],
+    "description": "GOAT",
     "file": "1f410"
   },
   {
@@ -5116,6 +5846,7 @@
     "alt_names": [
 
     ],
+    "description": "FLAG IN HOLE",
     "file": "26f3"
   },
   {
@@ -5123,6 +5854,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cc"
   },
   {
@@ -5130,6 +5862,7 @@
     "alt_names": [
 
     ],
+    "description": "GORILLA",
     "file": "1f98d"
   },
   {
@@ -5137,6 +5870,7 @@
     "alt_names": [
 
     ],
+    "description": "GRAPES",
     "file": "1f347"
   },
   {
@@ -5144,6 +5878,7 @@
     "alt_names": [
 
     ],
+    "description": "GREEN APPLE",
     "file": "1f34f"
   },
   {
@@ -5151,6 +5886,7 @@
     "alt_names": [
 
     ],
+    "description": "GREEN BOOK",
     "file": "1f4d7"
   },
   {
@@ -5158,6 +5894,7 @@
     "alt_names": [
 
     ],
+    "description": "GREEN HEART",
     "file": "1f49a"
   },
   {
@@ -5165,6 +5902,7 @@
     "alt_names": [
 
     ],
+    "description": "GREEN SALAD",
     "file": "1f957"
   },
   {
@@ -5172,6 +5910,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE EXCLAMATION MARK ORNAMENT",
     "file": "2755"
   },
   {
@@ -5179,6 +5918,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE QUESTION MARK ORNAMENT",
     "file": "2754"
   },
   {
@@ -5186,6 +5926,7 @@
     "alt_names": [
 
     ],
+    "description": "GRIMACING FACE",
     "file": "1f62c"
   },
   {
@@ -5193,6 +5934,7 @@
     "alt_names": [
 
     ],
+    "description": "GRINNING FACE WITH SMILING EYES",
     "file": "1f601"
   },
   {
@@ -5200,6 +5942,7 @@
     "alt_names": [
 
     ],
+    "description": "GRINNING FACE",
     "file": "1f600"
   },
   {
@@ -5207,6 +5950,7 @@
     "alt_names": [
 
     ],
+    "description": "GUARDSMAN",
     "file": "1f482"
   },
   {
@@ -5214,6 +5958,7 @@
     "alt_names": [
 
     ],
+    "description": "GUITAR",
     "file": "1f3b8"
   },
   {
@@ -5221,6 +5966,7 @@
     "alt_names": [
 
     ],
+    "description": "PISTOL",
     "file": "1f52b"
   },
   {
@@ -5228,6 +5974,7 @@
     "alt_names": [
 
     ],
+    "description": "HAIRCUT",
     "file": "1f487"
   },
   {
@@ -5235,6 +5982,7 @@
     "alt_names": [
 
     ],
+    "description": "HAMBURGER",
     "file": "1f354"
   },
   {
@@ -5242,6 +5990,7 @@
     "alt_names": [
 
     ],
+    "description": "HAMMER",
     "file": "1f528"
   },
   {
@@ -5249,6 +5998,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2692"
   },
   {
@@ -5256,6 +6006,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e0"
   },
   {
@@ -5263,6 +6014,7 @@
     "alt_names": [
 
     ],
+    "description": "HAMSTER FACE",
     "file": "1f439"
   },
   {
@@ -5270,6 +6022,7 @@
     "alt_names": [
       "raised_hand"
     ],
+    "description": "RAISED HAND",
     "file": "270b"
   },
   {
@@ -5277,6 +6030,7 @@
     "alt_names": [
 
     ],
+    "description": "HANDBAG",
     "file": "1f45c"
   },
   {
@@ -5284,6 +6038,7 @@
     "alt_names": [
 
     ],
+    "description": "HANDBALL",
     "file": "1f93e"
   },
   {
@@ -5291,6 +6046,7 @@
     "alt_names": [
 
     ],
+    "description": "HANDSHAKE",
     "file": "1f91d"
   },
   {
@@ -5299,6 +6055,7 @@
       "poop",
       "shit"
     ],
+    "description": "PILE OF POO",
     "file": "1f4a9"
   },
   {
@@ -5306,6 +6063,7 @@
     "alt_names": [
 
     ],
+    "description": "HASH KEY",
     "file": "23-20e3"
   },
   {
@@ -5313,6 +6071,7 @@
     "alt_names": [
 
     ],
+    "description": "FRONT-FACING BABY CHICK",
     "file": "1f425"
   },
   {
@@ -5320,6 +6079,7 @@
     "alt_names": [
 
     ],
+    "description": "HATCHING CHICK",
     "file": "1f423"
   },
   {
@@ -5327,6 +6087,7 @@
     "alt_names": [
 
     ],
+    "description": "HEADPHONE",
     "file": "1f3a7"
   },
   {
@@ -5334,6 +6095,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAR-NO-EVIL MONKEY",
     "file": "1f649"
   },
   {
@@ -5341,6 +6103,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY BLACK HEART",
     "file": "2764"
   },
   {
@@ -5348,6 +6111,7 @@
     "alt_names": [
 
     ],
+    "description": "HEART DECORATION",
     "file": "1f49f"
   },
   {
@@ -5355,6 +6119,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH HEART-SHAPED EYES",
     "file": "1f60d"
   },
   {
@@ -5362,6 +6127,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING CAT FACE WITH HEART-SHAPED EYES",
     "file": "1f63b"
   },
   {
@@ -5369,6 +6135,7 @@
     "alt_names": [
 
     ],
+    "description": "BEATING HEART",
     "file": "1f493"
   },
   {
@@ -5376,6 +6143,7 @@
     "alt_names": [
 
     ],
+    "description": "GROWING HEART",
     "file": "1f497"
   },
   {
@@ -5383,6 +6151,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK HEART SUIT",
     "file": "2665"
   },
   {
@@ -5390,6 +6159,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY CHECK MARK",
     "file": "2714"
   },
   {
@@ -5397,6 +6167,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY DIVISION SIGN",
     "file": "2797"
   },
   {
@@ -5404,6 +6175,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY DOLLAR SIGN",
     "file": "1f4b2"
   },
   {
@@ -5411,6 +6183,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2763"
   },
   {
@@ -5418,6 +6191,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY MINUS SIGN",
     "file": "2796"
   },
   {
@@ -5425,6 +6199,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY MULTIPLICATION X",
     "file": "2716"
   },
   {
@@ -5432,6 +6207,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY PLUS SIGN",
     "file": "2795"
   },
   {
@@ -5439,6 +6215,7 @@
     "alt_names": [
 
     ],
+    "description": "HEDGEHOG",
     "file": "1f994"
   },
   {
@@ -5446,6 +6223,7 @@
     "alt_names": [
 
     ],
+    "description": "HELICOPTER",
     "file": "1f681"
   },
   {
@@ -5453,6 +6231,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26d1"
   },
   {
@@ -5460,6 +6239,7 @@
     "alt_names": [
 
     ],
+    "description": "HERB",
     "file": "1f33f"
   },
   {
@@ -5467,6 +6247,7 @@
     "alt_names": [
 
     ],
+    "description": "HIBISCUS",
     "file": "1f33a"
   },
   {
@@ -5474,6 +6255,7 @@
     "alt_names": [
 
     ],
+    "description": "HIGH BRIGHTNESS SYMBOL",
     "file": "1f506"
   },
   {
@@ -5481,6 +6263,7 @@
     "alt_names": [
 
     ],
+    "description": "HIGH-HEELED SHOE",
     "file": "1f460"
   },
   {
@@ -5488,6 +6271,7 @@
     "alt_names": [
       "knife"
     ],
+    "description": "HOCHO",
     "file": "1f52a"
   },
   {
@@ -5495,6 +6279,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f573"
   },
   {
@@ -5502,6 +6287,7 @@
     "alt_names": [
 
     ],
+    "description": "HONEY POT",
     "file": "1f36f"
   },
   {
@@ -5509,6 +6295,7 @@
     "alt_names": [
 
     ],
+    "description": "HORSE FACE",
     "file": "1f434"
   },
   {
@@ -5516,6 +6303,7 @@
     "alt_names": [
 
     ],
+    "description": "HORSE RACING",
     "file": "1f3c7"
   },
   {
@@ -5523,6 +6311,7 @@
     "alt_names": [
 
     ],
+    "description": "HOSPITAL",
     "file": "1f3e5"
   },
   {
@@ -5530,6 +6319,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f336"
   },
   {
@@ -5537,6 +6327,7 @@
     "alt_names": [
 
     ],
+    "description": "HOT DOG",
     "file": "1f32d"
   },
   {
@@ -5544,6 +6335,7 @@
     "alt_names": [
 
     ],
+    "description": "HOTEL",
     "file": "1f3e8"
   },
   {
@@ -5551,6 +6343,7 @@
     "alt_names": [
 
     ],
+    "description": "HOT SPRINGS",
     "file": "2668"
   },
   {
@@ -5558,6 +6351,7 @@
     "alt_names": [
 
     ],
+    "description": "HOURGLASS",
     "file": "231b"
   },
   {
@@ -5565,6 +6359,7 @@
     "alt_names": [
 
     ],
+    "description": "HOURGLASS WITH FLOWING SAND",
     "file": "23f3"
   },
   {
@@ -5572,6 +6367,7 @@
     "alt_names": [
 
     ],
+    "description": "HOUSE BUILDING",
     "file": "1f3e0"
   },
   {
@@ -5579,6 +6375,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d8"
   },
   {
@@ -5586,6 +6383,7 @@
     "alt_names": [
 
     ],
+    "description": "HOUSE WITH GARDEN",
     "file": "1f3e1"
   },
   {
@@ -5593,6 +6391,7 @@
     "alt_names": [
 
     ],
+    "description": "HUGGING FACE",
     "file": "1f917"
   },
   {
@@ -5600,6 +6399,7 @@
     "alt_names": [
 
     ],
+    "description": "HUSHED FACE",
     "file": "1f62f"
   },
   {
@@ -5607,6 +6407,7 @@
     "alt_names": [
 
     ],
+    "description": "I LOVE YOU HAND SIGN",
     "file": "1f91f"
   },
   {
@@ -5614,6 +6415,7 @@
     "alt_names": [
 
     ],
+    "description": "ICE CREAM",
     "file": "1f368"
   },
   {
@@ -5621,6 +6423,7 @@
     "alt_names": [
 
     ],
+    "description": "ICE HOCKEY STICK AND PUCK",
     "file": "1f3d2"
   },
   {
@@ -5628,6 +6431,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f8"
   },
   {
@@ -5635,6 +6439,7 @@
     "alt_names": [
 
     ],
+    "description": "SOFT ICE CREAM",
     "file": "1f366"
   },
   {
@@ -5642,6 +6447,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED ID",
     "file": "1f194"
   },
   {
@@ -5649,6 +6455,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCLED IDEOGRAPH ADVANTAGE",
     "file": "1f250"
   },
   {
@@ -5656,6 +6463,7 @@
     "alt_names": [
 
     ],
+    "description": "IMP",
     "file": "1f47f"
   },
   {
@@ -5663,6 +6471,7 @@
     "alt_names": [
 
     ],
+    "description": "INBOX TRAY",
     "file": "1f4e5"
   },
   {
@@ -5670,6 +6479,7 @@
     "alt_names": [
 
     ],
+    "description": "INCOMING ENVELOPE",
     "file": "1f4e8"
   },
   {
@@ -5677,6 +6487,7 @@
     "alt_names": [
 
     ],
+    "description": "INFORMATION DESK PERSON",
     "file": "1f481"
   },
   {
@@ -5684,6 +6495,7 @@
     "alt_names": [
 
     ],
+    "description": "INFORMATION SOURCE",
     "file": "2139"
   },
   {
@@ -5691,6 +6503,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH HALO",
     "file": "1f607"
   },
   {
@@ -5698,6 +6511,7 @@
     "alt_names": [
 
     ],
+    "description": "EXCLAMATION QUESTION MARK",
     "file": "2049"
   },
   {
@@ -5705,6 +6519,7 @@
     "alt_names": [
 
     ],
+    "description": "MOBILE PHONE",
     "file": "1f4f1"
   },
   {
@@ -5712,6 +6527,7 @@
     "alt_names": [
       "flag-it"
     ],
+    "description": "Italy Flag",
     "file": "1f1ee-1f1f9"
   },
   {
@@ -5719,6 +6535,7 @@
     "alt_names": [
       "lantern"
     ],
+    "description": "IZAKAYA LANTERN",
     "file": "1f3ee"
   },
   {
@@ -5726,6 +6543,7 @@
     "alt_names": [
 
     ],
+    "description": "JACK-O-LANTERN",
     "file": "1f383"
   },
   {
@@ -5733,6 +6551,7 @@
     "alt_names": [
 
     ],
+    "description": "SILHOUETTE OF JAPAN",
     "file": "1f5fe"
   },
   {
@@ -5740,6 +6559,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE CASTLE",
     "file": "1f3ef"
   },
   {
@@ -5747,6 +6567,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE GOBLIN",
     "file": "1f47a"
   },
   {
@@ -5754,6 +6575,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE OGRE",
     "file": "1f479"
   },
   {
@@ -5761,6 +6583,7 @@
     "alt_names": [
 
     ],
+    "description": "JEANS",
     "file": "1f456"
   },
   {
@@ -5768,6 +6591,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH TEARS OF JOY",
     "file": "1f602"
   },
   {
@@ -5775,6 +6599,7 @@
     "alt_names": [
 
     ],
+    "description": "CAT FACE WITH TEARS OF JOY",
     "file": "1f639"
   },
   {
@@ -5782,6 +6607,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f579"
   },
   {
@@ -5789,6 +6615,7 @@
     "alt_names": [
       "flag-jp"
     ],
+    "description": "Japan Flag",
     "file": "1f1ef-1f1f5"
   },
   {
@@ -5796,6 +6623,7 @@
     "alt_names": [
 
     ],
+    "description": "JUGGLING",
     "file": "1f939"
   },
   {
@@ -5803,6 +6631,7 @@
     "alt_names": [
 
     ],
+    "description": "KAABA",
     "file": "1f54b"
   },
   {
@@ -5810,6 +6639,7 @@
     "alt_names": [
 
     ],
+    "description": "KEY",
     "file": "1f511"
   },
   {
@@ -5817,6 +6647,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2328"
   },
   {
@@ -5824,6 +6655,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2a-20e3"
   },
   {
@@ -5831,6 +6663,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP TEN",
     "file": "1f51f"
   },
   {
@@ -5838,6 +6671,7 @@
     "alt_names": [
 
     ],
+    "description": "KIMONO",
     "file": "1f458"
   },
   {
@@ -5845,6 +6679,7 @@
     "alt_names": [
 
     ],
+    "description": "KISS MARK",
     "file": "1f48b"
   },
   {
@@ -5852,6 +6687,7 @@
     "alt_names": [
 
     ],
+    "description": "KISSING FACE",
     "file": "1f617"
   },
   {
@@ -5859,6 +6695,7 @@
     "alt_names": [
 
     ],
+    "description": "KISSING CAT FACE WITH CLOSED EYES",
     "file": "1f63d"
   },
   {
@@ -5866,6 +6703,7 @@
     "alt_names": [
 
     ],
+    "description": "KISSING FACE WITH CLOSED EYES",
     "file": "1f61a"
   },
   {
@@ -5873,6 +6711,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE THROWING A KISS",
     "file": "1f618"
   },
   {
@@ -5880,6 +6719,7 @@
     "alt_names": [
 
     ],
+    "description": "KISSING FACE WITH SMILING EYES",
     "file": "1f619"
   },
   {
@@ -5887,6 +6727,7 @@
     "alt_names": [
 
     ],
+    "description": "KIWIFRUIT",
     "file": "1f95d"
   },
   {
@@ -5894,6 +6735,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f37d"
   },
   {
@@ -5901,6 +6743,7 @@
     "alt_names": [
 
     ],
+    "description": "KOALA",
     "file": "1f428"
   },
   {
@@ -5908,6 +6751,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED KATAKANA KOKO",
     "file": "1f201"
   },
   {
@@ -5915,6 +6759,7 @@
     "alt_names": [
       "flag-kr"
     ],
+    "description": "South Korea Flag",
     "file": "1f1f0-1f1f7"
   },
   {
@@ -5922,6 +6767,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3f7"
   },
   {
@@ -5929,6 +6775,7 @@
     "alt_names": [
 
     ],
+    "description": "LARGE BLUE CIRCLE",
     "file": "1f535"
   },
   {
@@ -5936,6 +6783,7 @@
     "alt_names": [
 
     ],
+    "description": "LARGE BLUE DIAMOND",
     "file": "1f537"
   },
   {
@@ -5943,6 +6791,7 @@
     "alt_names": [
 
     ],
+    "description": "LARGE ORANGE DIAMOND",
     "file": "1f536"
   },
   {
@@ -5950,6 +6799,7 @@
     "alt_names": [
 
     ],
+    "description": "LAST QUARTER MOON SYMBOL",
     "file": "1f317"
   },
   {
@@ -5957,6 +6807,7 @@
     "alt_names": [
 
     ],
+    "description": "LAST QUARTER MOON WITH FACE",
     "file": "1f31c"
   },
   {
@@ -5964,6 +6815,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "271d"
   },
   {
@@ -5971,6 +6823,7 @@
     "alt_names": [
       "satisfied"
     ],
+    "description": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
     "file": "1f606"
   },
   {
@@ -5978,6 +6831,7 @@
     "alt_names": [
 
     ],
+    "description": "LEAF FLUTTERING IN WIND",
     "file": "1f343"
   },
   {
@@ -5985,6 +6839,7 @@
     "alt_names": [
 
     ],
+    "description": "LEDGER",
     "file": "1f4d2"
   },
   {
@@ -5992,6 +6847,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFT-FACING FIST",
     "file": "1f91b"
   },
   {
@@ -5999,6 +6855,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFT LUGGAGE",
     "file": "1f6c5"
   },
   {
@@ -6006,6 +6863,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFT RIGHT ARROW",
     "file": "2194"
   },
   {
@@ -6013,6 +6871,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5e8"
   },
   {
@@ -6020,6 +6879,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFTWARDS ARROW WITH HOOK",
     "file": "21a9"
   },
   {
@@ -6027,6 +6887,7 @@
     "alt_names": [
 
     ],
+    "description": "LEMON",
     "file": "1f34b"
   },
   {
@@ -6034,6 +6895,7 @@
     "alt_names": [
 
     ],
+    "description": "LEO",
     "file": "264c"
   },
   {
@@ -6041,6 +6903,7 @@
     "alt_names": [
 
     ],
+    "description": "LEOPARD",
     "file": "1f406"
   },
   {
@@ -6048,6 +6911,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f39a"
   },
   {
@@ -6055,6 +6919,7 @@
     "alt_names": [
 
     ],
+    "description": "LIBRA",
     "file": "264e"
   },
   {
@@ -6062,6 +6927,7 @@
     "alt_names": [
 
     ],
+    "description": "LIGHT RAIL",
     "file": "1f688"
   },
   {
@@ -6069,6 +6935,7 @@
     "alt_names": [
       "lightning_cloud"
     ],
+    "description": null,
     "file": "1f329"
   },
   {
@@ -6076,6 +6943,7 @@
     "alt_names": [
 
     ],
+    "description": "LINK SYMBOL",
     "file": "1f517"
   },
   {
@@ -6083,6 +6951,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f587"
   },
   {
@@ -6090,6 +6959,7 @@
     "alt_names": [
 
     ],
+    "description": "LION FACE",
     "file": "1f981"
   },
   {
@@ -6097,6 +6967,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUTH",
     "file": "1f444"
   },
   {
@@ -6104,6 +6975,7 @@
     "alt_names": [
 
     ],
+    "description": "LIPSTICK",
     "file": "1f484"
   },
   {
@@ -6111,6 +6983,7 @@
     "alt_names": [
 
     ],
+    "description": "LIZARD",
     "file": "1f98e"
   },
   {
@@ -6118,6 +6991,7 @@
     "alt_names": [
 
     ],
+    "description": "LOCK",
     "file": "1f512"
   },
   {
@@ -6125,6 +6999,7 @@
     "alt_names": [
 
     ],
+    "description": "LOCK WITH INK PEN",
     "file": "1f50f"
   },
   {
@@ -6132,6 +7007,7 @@
     "alt_names": [
 
     ],
+    "description": "LOLLIPOP",
     "file": "1f36d"
   },
   {
@@ -6139,6 +7015,7 @@
     "alt_names": [
 
     ],
+    "description": "DOUBLE CURLY LOOP",
     "file": "27bf"
   },
   {
@@ -6146,6 +7023,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEAKER WITH THREE SOUND WAVES",
     "file": "1f50a"
   },
   {
@@ -6153,6 +7031,7 @@
     "alt_names": [
 
     ],
+    "description": "PUBLIC ADDRESS LOUDSPEAKER",
     "file": "1f4e2"
   },
   {
@@ -6160,6 +7039,7 @@
     "alt_names": [
 
     ],
+    "description": "LOVE HOTEL",
     "file": "1f3e9"
   },
   {
@@ -6167,6 +7047,7 @@
     "alt_names": [
 
     ],
+    "description": "LOVE LETTER",
     "file": "1f48c"
   },
   {
@@ -6174,6 +7055,7 @@
     "alt_names": [
 
     ],
+    "description": "LOW BRIGHTNESS SYMBOL",
     "file": "1f505"
   },
   {
@@ -6181,6 +7063,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f58a"
   },
   {
@@ -6188,6 +7071,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f58d"
   },
   {
@@ -6195,6 +7079,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f58b"
   },
   {
@@ -6202,6 +7087,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f58c"
   },
   {
@@ -6209,6 +7095,7 @@
     "alt_names": [
 
     ],
+    "description": "LYING FACE",
     "file": "1f925"
   },
   {
@@ -6216,6 +7103,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCLED LATIN CAPITAL LETTER M",
     "file": "24c2"
   },
   {
@@ -6223,6 +7111,7 @@
     "alt_names": [
 
     ],
+    "description": "LEFT-POINTING MAGNIFYING GLASS",
     "file": "1f50d"
   },
   {
@@ -6230,6 +7119,7 @@
     "alt_names": [
 
     ],
+    "description": "RIGHT-POINTING MAGNIFYING GLASS",
     "file": "1f50e"
   },
   {
@@ -6237,6 +7127,7 @@
     "alt_names": [
 
     ],
+    "description": "MAGE",
     "file": "1f9d9"
   },
   {
@@ -6244,6 +7135,7 @@
     "alt_names": [
 
     ],
+    "description": "MAHJONG TILE RED DRAGON",
     "file": "1f004"
   },
   {
@@ -6251,6 +7143,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOSED MAILBOX WITH RAISED FLAG",
     "file": "1f4eb"
   },
   {
@@ -6258,6 +7151,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOSED MAILBOX WITH LOWERED FLAG",
     "file": "1f4ea"
   },
   {
@@ -6265,6 +7159,7 @@
     "alt_names": [
 
     ],
+    "description": "OPEN MAILBOX WITH RAISED FLAG",
     "file": "1f4ec"
   },
   {
@@ -6272,6 +7167,7 @@
     "alt_names": [
 
     ],
+    "description": "OPEN MAILBOX WITH LOWERED FLAG",
     "file": "1f4ed"
   },
   {
@@ -6279,6 +7175,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f3a8"
   },
   {
@@ -6286,6 +7183,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f680"
   },
   {
@@ -6293,6 +7191,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f477-200d-2642-fe0f"
   },
   {
@@ -6300,6 +7199,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f373"
   },
   {
@@ -6307,6 +7207,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f575-fe0f-200d-2642-fe0f"
   },
   {
@@ -6314,6 +7215,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-2695-fe0f"
   },
   {
@@ -6321,6 +7223,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f3ed"
   },
   {
@@ -6328,6 +7231,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f33e"
   },
   {
@@ -6335,6 +7239,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f692"
   },
   {
@@ -6342,6 +7247,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f482-200d-2642-fe0f"
   },
   {
@@ -6349,6 +7255,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-2696-fe0f"
   },
   {
@@ -6356,6 +7263,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f527"
   },
   {
@@ -6363,6 +7271,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f4bc"
   },
   {
@@ -6370,6 +7279,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-2708-fe0f"
   },
   {
@@ -6377,6 +7287,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f46e-200d-2642-fe0f"
   },
   {
@@ -6384,6 +7295,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f52c"
   },
   {
@@ -6391,6 +7303,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f3a4"
   },
   {
@@ -6398,6 +7311,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f393"
   },
   {
@@ -6405,6 +7319,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f3eb"
   },
   {
@@ -6412,6 +7327,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f4bb"
   },
   {
@@ -6419,6 +7335,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9dd-200d-2642-fe0f"
   },
   {
@@ -6426,6 +7343,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9da-200d-2642-fe0f"
   },
   {
@@ -6433,6 +7351,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9de-200d-2642-fe0f"
   },
   {
@@ -6440,6 +7359,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d9-200d-2642-fe0f"
   },
   {
@@ -6447,6 +7367,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2642"
   },
   {
@@ -6454,6 +7375,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9db-200d-2642-fe0f"
   },
   {
@@ -6461,6 +7383,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9df-200d-2642-fe0f"
   },
   {
@@ -6468,6 +7391,7 @@
     "alt_names": [
 
     ],
+    "description": "MAN",
     "file": "1f468"
   },
   {
@@ -6475,6 +7399,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b4-200d-2642-fe0f"
   },
   {
@@ -6482,6 +7407,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f9-fe0f-200d-2642-fe0f"
   },
   {
@@ -6489,6 +7415,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f647-200d-2642-fe0f"
   },
   {
@@ -6496,6 +7423,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f466"
   },
   {
@@ -6503,6 +7431,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f466-200d-1f466"
   },
   {
@@ -6510,6 +7439,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f938-200d-2642-fe0f"
   },
   {
@@ -6517,6 +7447,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f926-200d-2642-fe0f"
   },
   {
@@ -6524,6 +7455,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64d-200d-2642-fe0f"
   },
   {
@@ -6531,6 +7463,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f645-200d-2642-fe0f"
   },
   {
@@ -6538,6 +7471,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f646-200d-2642-fe0f"
   },
   {
@@ -6545,6 +7479,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f487-200d-2642-fe0f"
   },
   {
@@ -6552,6 +7487,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f486-200d-2642-fe0f"
   },
   {
@@ -6559,6 +7495,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f467"
   },
   {
@@ -6566,6 +7503,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f467-200d-1f466"
   },
   {
@@ -6573,6 +7511,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f467-200d-1f467"
   },
   {
@@ -6580,6 +7519,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cc-fe0f-200d-2642-fe0f"
   },
   {
@@ -6587,6 +7527,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-2764-fe0f-200d-1f468"
   },
   {
@@ -6594,6 +7535,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f939-200d-2642-fe0f"
   },
   {
@@ -6601,6 +7543,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
   },
   {
@@ -6608,6 +7551,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cb-fe0f-200d-2642-fe0f"
   },
   {
@@ -6615,6 +7559,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f468-200d-1f466"
   },
   {
@@ -6622,6 +7567,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f468-200d-1f466-200d-1f466"
   },
   {
@@ -6629,6 +7575,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f468-200d-1f467"
   },
   {
@@ -6636,6 +7583,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f468-200d-1f467-200d-1f466"
   },
   {
@@ -6643,6 +7591,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f468-200d-1f467-200d-1f467"
   },
   {
@@ -6650,6 +7599,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b5-200d-2642-fe0f"
   },
   {
@@ -6657,6 +7607,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93e-200d-2642-fe0f"
   },
   {
@@ -6664,6 +7615,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93d-200d-2642-fe0f"
   },
   {
@@ -6671,6 +7623,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64e-200d-2642-fe0f"
   },
   {
@@ -6678,6 +7631,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64b-200d-2642-fe0f"
   },
   {
@@ -6685,6 +7639,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6a3-200d-2642-fe0f"
   },
   {
@@ -6692,6 +7647,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3c3-200d-2642-fe0f"
   },
   {
@@ -6699,6 +7655,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f937-200d-2642-fe0f"
   },
   {
@@ -6706,6 +7663,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3c4-200d-2642-fe0f"
   },
   {
@@ -6713,6 +7671,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3ca-200d-2642-fe0f"
   },
   {
@@ -6720,6 +7679,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f481-200d-2642-fe0f"
   },
   {
@@ -6727,6 +7687,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b6-200d-2642-fe0f"
   },
   {
@@ -6734,6 +7695,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f473-200d-2642-fe0f"
   },
   {
@@ -6741,6 +7703,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f46f-200d-2642-fe0f"
   },
   {
@@ -6748,6 +7711,7 @@
     "alt_names": [
       "family"
     ],
+    "description": null,
     "file": "1f468-200d-1f469-200d-1f466"
   },
   {
@@ -6755,6 +7719,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f469-200d-1f466-200d-1f466"
   },
   {
@@ -6762,6 +7727,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f469-200d-1f467"
   },
   {
@@ -6769,6 +7735,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f469-200d-1f467-200d-1f466"
   },
   {
@@ -6776,6 +7743,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f468-200d-1f469-200d-1f467-200d-1f467"
   },
   {
@@ -6783,6 +7751,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93c-200d-2642-fe0f"
   },
   {
@@ -6790,6 +7759,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d7-200d-2642-fe0f"
   },
   {
@@ -6797,6 +7767,7 @@
     "alt_names": [
 
     ],
+    "description": "MAN DANCING",
     "file": "1f57a"
   },
   {
@@ -6804,6 +7775,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f574"
   },
   {
@@ -6811,6 +7783,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d8-200d-2642-fe0f"
   },
   {
@@ -6818,6 +7791,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d6-200d-2642-fe0f"
   },
   {
@@ -6825,6 +7799,7 @@
     "alt_names": [
 
     ],
+    "description": "MAN IN TUXEDO",
     "file": "1f935"
   },
   {
@@ -6832,6 +7807,7 @@
     "alt_names": [
 
     ],
+    "description": "MAN WITH GUA PI MAO",
     "file": "1f472"
   },
   {
@@ -6839,6 +7815,7 @@
     "alt_names": [
 
     ],
+    "description": "MAN WITH TURBAN",
     "file": "1f473"
   },
   {
@@ -6846,6 +7823,7 @@
     "alt_names": [
       "shoe"
     ],
+    "description": "MANS SHOE",
     "file": "1f45e"
   },
   {
@@ -6853,6 +7831,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f570"
   },
   {
@@ -6860,6 +7839,7 @@
     "alt_names": [
 
     ],
+    "description": "MAPLE LEAF",
     "file": "1f341"
   },
   {
@@ -6867,6 +7847,7 @@
     "alt_names": [
 
     ],
+    "description": "MARTIAL ARTS UNIFORM",
     "file": "1f94b"
   },
   {
@@ -6874,6 +7855,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH MEDICAL MASK",
     "file": "1f637"
   },
   {
@@ -6881,6 +7863,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE MASSAGE",
     "file": "1f486"
   },
   {
@@ -6888,6 +7871,7 @@
     "alt_names": [
 
     ],
+    "description": "MEAT ON BONE",
     "file": "1f356"
   },
   {
@@ -6895,6 +7879,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f396"
   },
   {
@@ -6902,6 +7887,7 @@
     "alt_names": [
       "staff_of_aesculapius"
     ],
+    "description": null,
     "file": "2695"
   },
   {
@@ -6909,6 +7895,7 @@
     "alt_names": [
 
     ],
+    "description": "CHEERING MEGAPHONE",
     "file": "1f4e3"
   },
   {
@@ -6916,6 +7903,7 @@
     "alt_names": [
 
     ],
+    "description": "MELON",
     "file": "1f348"
   },
   {
@@ -6923,6 +7911,7 @@
     "alt_names": [
       "pencil"
     ],
+    "description": "MEMO",
     "file": "1f4dd"
   },
   {
@@ -6930,6 +7919,7 @@
     "alt_names": [
 
     ],
+    "description": "MENORAH WITH NINE BRANCHES",
     "file": "1f54e"
   },
   {
@@ -6937,6 +7927,7 @@
     "alt_names": [
 
     ],
+    "description": "MENS SYMBOL",
     "file": "1f6b9"
   },
   {
@@ -6944,6 +7935,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9dc-200d-2640-fe0f"
   },
   {
@@ -6951,6 +7943,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9dc-200d-2642-fe0f"
   },
   {
@@ -6958,6 +7951,7 @@
     "alt_names": [
 
     ],
+    "description": "MERPERSON",
     "file": "1f9dc"
   },
   {
@@ -6965,6 +7959,7 @@
     "alt_names": [
 
     ],
+    "description": "METRO",
     "file": "1f687"
   },
   {
@@ -6972,6 +7967,7 @@
     "alt_names": [
 
     ],
+    "description": "MICROPHONE",
     "file": "1f3a4"
   },
   {
@@ -6979,6 +7975,7 @@
     "alt_names": [
 
     ],
+    "description": "MICROSCOPE",
     "file": "1f52c"
   },
   {
@@ -6986,6 +7983,7 @@
     "alt_names": [
       "reversed_hand_with_middle_finger_extended"
     ],
+    "description": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
     "file": "1f595"
   },
   {
@@ -6993,6 +7991,7 @@
     "alt_names": [
 
     ],
+    "description": "MILKY WAY",
     "file": "1f30c"
   },
   {
@@ -7000,6 +7999,7 @@
     "alt_names": [
 
     ],
+    "description": "MINIBUS",
     "file": "1f690"
   },
   {
@@ -7007,6 +8007,7 @@
     "alt_names": [
 
     ],
+    "description": "MINIDISC",
     "file": "1f4bd"
   },
   {
@@ -7014,6 +8015,7 @@
     "alt_names": [
 
     ],
+    "description": "MOBILE PHONE OFF",
     "file": "1f4f4"
   },
   {
@@ -7021,6 +8023,7 @@
     "alt_names": [
 
     ],
+    "description": "MONEY-MOUTH FACE",
     "file": "1f911"
   },
   {
@@ -7028,6 +8031,7 @@
     "alt_names": [
 
     ],
+    "description": "MONEY WITH WINGS",
     "file": "1f4b8"
   },
   {
@@ -7035,6 +8039,7 @@
     "alt_names": [
 
     ],
+    "description": "MONEY BAG",
     "file": "1f4b0"
   },
   {
@@ -7042,6 +8047,7 @@
     "alt_names": [
 
     ],
+    "description": "MONKEY",
     "file": "1f412"
   },
   {
@@ -7049,6 +8055,7 @@
     "alt_names": [
 
     ],
+    "description": "MONKEY FACE",
     "file": "1f435"
   },
   {
@@ -7056,6 +8063,7 @@
     "alt_names": [
 
     ],
+    "description": "MONORAIL",
     "file": "1f69d"
   },
   {
@@ -7063,6 +8071,7 @@
     "alt_names": [
       "waxing_gibbous_moon"
     ],
+    "description": "WAXING GIBBOUS MOON SYMBOL",
     "file": "1f314"
   },
   {
@@ -7070,6 +8079,7 @@
     "alt_names": [
 
     ],
+    "description": "GRADUATION CAP",
     "file": "1f393"
   },
   {
@@ -7077,6 +8087,7 @@
     "alt_names": [
 
     ],
+    "description": "MOSQUE",
     "file": "1f54c"
   },
   {
@@ -7084,6 +8095,7 @@
     "alt_names": [
       "sun_small_cloud"
     ],
+    "description": null,
     "file": "1f324"
   },
   {
@@ -7091,6 +8103,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e5"
   },
   {
@@ -7098,6 +8111,7 @@
     "alt_names": [
 
     ],
+    "description": "MOTOR SCOOTER",
     "file": "1f6f5"
   },
   {
@@ -7105,6 +8119,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e3"
   },
   {
@@ -7112,6 +8127,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUNT FUJI",
     "file": "1f5fb"
   },
   {
@@ -7119,6 +8135,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f0"
   },
   {
@@ -7126,6 +8143,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUNTAIN BICYCLIST",
     "file": "1f6b5"
   },
   {
@@ -7133,6 +8151,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUNTAIN CABLEWAY",
     "file": "1f6a0"
   },
   {
@@ -7140,6 +8159,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUNTAIN RAILWAY",
     "file": "1f69e"
   },
   {
@@ -7147,6 +8167,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUSE FACE",
     "file": "1f42d"
   },
   {
@@ -7154,6 +8175,7 @@
     "alt_names": [
 
     ],
+    "description": "MOUSE",
     "file": "1f401"
   },
   {
@@ -7161,6 +8183,7 @@
     "alt_names": [
 
     ],
+    "description": "MOVIE CAMERA",
     "file": "1f3a5"
   },
   {
@@ -7168,6 +8191,7 @@
     "alt_names": [
 
     ],
+    "description": "MOYAI",
     "file": "1f5ff"
   },
   {
@@ -7175,6 +8199,7 @@
     "alt_names": [
       "mother_christmas"
     ],
+    "description": "MOTHER CHRISTMAS",
     "file": "1f936"
   },
   {
@@ -7182,6 +8207,7 @@
     "alt_names": [
 
     ],
+    "description": "FLEXED BICEPS",
     "file": "1f4aa"
   },
   {
@@ -7189,6 +8215,7 @@
     "alt_names": [
 
     ],
+    "description": "MUSHROOM",
     "file": "1f344"
   },
   {
@@ -7196,6 +8223,7 @@
     "alt_names": [
 
     ],
+    "description": "MUSICAL KEYBOARD",
     "file": "1f3b9"
   },
   {
@@ -7203,6 +8231,7 @@
     "alt_names": [
 
     ],
+    "description": "MUSICAL NOTE",
     "file": "1f3b5"
   },
   {
@@ -7210,6 +8239,7 @@
     "alt_names": [
 
     ],
+    "description": "MUSICAL SCORE",
     "file": "1f3bc"
   },
   {
@@ -7217,6 +8247,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEAKER WITH CANCELLATION STROKE",
     "file": "1f507"
   },
   {
@@ -7224,6 +8255,7 @@
     "alt_names": [
 
     ],
+    "description": "NAIL POLISH",
     "file": "1f485"
   },
   {
@@ -7231,6 +8263,7 @@
     "alt_names": [
 
     ],
+    "description": "NAME BADGE",
     "file": "1f4db"
   },
   {
@@ -7238,6 +8271,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3de"
   },
   {
@@ -7245,6 +8279,7 @@
     "alt_names": [
 
     ],
+    "description": "NAUSEATED FACE",
     "file": "1f922"
   },
   {
@@ -7252,6 +8287,7 @@
     "alt_names": [
 
     ],
+    "description": "NECKTIE",
     "file": "1f454"
   },
   {
@@ -7259,6 +8295,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED CROSS MARK",
     "file": "274e"
   },
   {
@@ -7266,6 +8303,7 @@
     "alt_names": [
 
     ],
+    "description": "NERD FACE",
     "file": "1f913"
   },
   {
@@ -7273,6 +8311,7 @@
     "alt_names": [
 
     ],
+    "description": "NEUTRAL FACE",
     "file": "1f610"
   },
   {
@@ -7280,6 +8319,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED NEW",
     "file": "1f195"
   },
   {
@@ -7287,6 +8327,7 @@
     "alt_names": [
 
     ],
+    "description": "NEW MOON SYMBOL",
     "file": "1f311"
   },
   {
@@ -7294,6 +8335,7 @@
     "alt_names": [
 
     ],
+    "description": "NEW MOON WITH FACE",
     "file": "1f31a"
   },
   {
@@ -7301,6 +8343,7 @@
     "alt_names": [
 
     ],
+    "description": "NEWSPAPER",
     "file": "1f4f0"
   },
   {
@@ -7308,6 +8351,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED NG",
     "file": "1f196"
   },
   {
@@ -7315,6 +8359,7 @@
     "alt_names": [
 
     ],
+    "description": "NIGHT WITH STARS",
     "file": "1f303"
   },
   {
@@ -7322,6 +8367,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 9",
     "file": "39-20e3"
   },
   {
@@ -7329,6 +8375,7 @@
     "alt_names": [
 
     ],
+    "description": "BELL WITH CANCELLATION STROKE",
     "file": "1f515"
   },
   {
@@ -7336,6 +8383,7 @@
     "alt_names": [
 
     ],
+    "description": "NO BICYCLES",
     "file": "1f6b3"
   },
   {
@@ -7343,6 +8391,7 @@
     "alt_names": [
 
     ],
+    "description": "NO ENTRY",
     "file": "26d4"
   },
   {
@@ -7350,6 +8399,7 @@
     "alt_names": [
 
     ],
+    "description": "NO ENTRY SIGN",
     "file": "1f6ab"
   },
   {
@@ -7357,6 +8407,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH NO GOOD GESTURE",
     "file": "1f645"
   },
   {
@@ -7364,6 +8415,7 @@
     "alt_names": [
 
     ],
+    "description": "NO MOBILE PHONES",
     "file": "1f4f5"
   },
   {
@@ -7371,6 +8423,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITHOUT MOUTH",
     "file": "1f636"
   },
   {
@@ -7378,6 +8431,7 @@
     "alt_names": [
 
     ],
+    "description": "NO PEDESTRIANS",
     "file": "1f6b7"
   },
   {
@@ -7385,6 +8439,7 @@
     "alt_names": [
 
     ],
+    "description": "NO SMOKING SYMBOL",
     "file": "1f6ad"
   },
   {
@@ -7392,6 +8447,7 @@
     "alt_names": [
 
     ],
+    "description": "NON-POTABLE WATER SYMBOL",
     "file": "1f6b1"
   },
   {
@@ -7399,6 +8455,7 @@
     "alt_names": [
 
     ],
+    "description": "NOSE",
     "file": "1f443"
   },
   {
@@ -7406,6 +8463,7 @@
     "alt_names": [
 
     ],
+    "description": "NOTEBOOK",
     "file": "1f4d3"
   },
   {
@@ -7413,6 +8471,7 @@
     "alt_names": [
 
     ],
+    "description": "NOTEBOOK WITH DECORATIVE COVER",
     "file": "1f4d4"
   },
   {
@@ -7420,6 +8479,7 @@
     "alt_names": [
 
     ],
+    "description": "MULTIPLE MUSICAL NOTES",
     "file": "1f3b6"
   },
   {
@@ -7427,6 +8487,7 @@
     "alt_names": [
 
     ],
+    "description": "NUT AND BOLT",
     "file": "1f529"
   },
   {
@@ -7434,6 +8495,7 @@
     "alt_names": [
 
     ],
+    "description": "HEAVY LARGE CIRCLE",
     "file": "2b55"
   },
   {
@@ -7441,6 +8503,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
     "file": "1f17e"
   },
   {
@@ -7448,6 +8511,7 @@
     "alt_names": [
 
     ],
+    "description": "WATER WAVE",
     "file": "1f30a"
   },
   {
@@ -7455,6 +8519,7 @@
     "alt_names": [
 
     ],
+    "description": "OCTAGONAL SIGN",
     "file": "1f6d1"
   },
   {
@@ -7462,6 +8527,7 @@
     "alt_names": [
 
     ],
+    "description": "OCTOPUS",
     "file": "1f419"
   },
   {
@@ -7469,6 +8535,7 @@
     "alt_names": [
 
     ],
+    "description": "ODEN",
     "file": "1f362"
   },
   {
@@ -7476,6 +8543,7 @@
     "alt_names": [
 
     ],
+    "description": "OFFICE BUILDING",
     "file": "1f3e2"
   },
   {
@@ -7483,6 +8551,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e2"
   },
   {
@@ -7490,6 +8559,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED OK",
     "file": "1f197"
   },
   {
@@ -7497,6 +8567,7 @@
     "alt_names": [
 
     ],
+    "description": "OK HAND SIGN",
     "file": "1f44c"
   },
   {
@@ -7504,6 +8575,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH OK GESTURE",
     "file": "1f646"
   },
   {
@@ -7511,6 +8583,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5dd"
   },
   {
@@ -7518,6 +8591,7 @@
     "alt_names": [
 
     ],
+    "description": "OLDER ADULT",
     "file": "1f9d3"
   },
   {
@@ -7525,6 +8599,7 @@
     "alt_names": [
 
     ],
+    "description": "OLDER MAN",
     "file": "1f474"
   },
   {
@@ -7532,6 +8607,7 @@
     "alt_names": [
 
     ],
+    "description": "OLDER WOMAN",
     "file": "1f475"
   },
   {
@@ -7539,6 +8615,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f549"
   },
   {
@@ -7546,6 +8623,7 @@
     "alt_names": [
 
     ],
+    "description": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
     "file": "1f51b"
   },
   {
@@ -7553,6 +8631,7 @@
     "alt_names": [
 
     ],
+    "description": "ONCOMING AUTOMOBILE",
     "file": "1f698"
   },
   {
@@ -7560,6 +8639,7 @@
     "alt_names": [
 
     ],
+    "description": "ONCOMING BUS",
     "file": "1f68d"
   },
   {
@@ -7567,6 +8647,7 @@
     "alt_names": [
 
     ],
+    "description": "ONCOMING POLICE CAR",
     "file": "1f694"
   },
   {
@@ -7574,6 +8655,7 @@
     "alt_names": [
 
     ],
+    "description": "ONCOMING TAXI",
     "file": "1f696"
   },
   {
@@ -7581,6 +8663,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 1",
     "file": "31-20e3"
   },
   {
@@ -7588,6 +8671,7 @@
     "alt_names": [
 
     ],
+    "description": "OPEN FILE FOLDER",
     "file": "1f4c2"
   },
   {
@@ -7595,6 +8679,7 @@
     "alt_names": [
 
     ],
+    "description": "OPEN HANDS SIGN",
     "file": "1f450"
   },
   {
@@ -7602,6 +8687,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH OPEN MOUTH",
     "file": "1f62e"
   },
   {
@@ -7609,6 +8695,7 @@
     "alt_names": [
 
     ],
+    "description": "OPHIUCHUS",
     "file": "26ce"
   },
   {
@@ -7616,6 +8703,7 @@
     "alt_names": [
 
     ],
+    "description": "ORANGE BOOK",
     "file": "1f4d9"
   },
   {
@@ -7623,6 +8711,7 @@
     "alt_names": [
 
     ],
+    "description": "ORANGE HEART",
     "file": "1f9e1"
   },
   {
@@ -7630,6 +8719,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2626"
   },
   {
@@ -7637,6 +8727,7 @@
     "alt_names": [
 
     ],
+    "description": "OUTBOX TRAY",
     "file": "1f4e4"
   },
   {
@@ -7644,6 +8735,7 @@
     "alt_names": [
 
     ],
+    "description": "OWL",
     "file": "1f989"
   },
   {
@@ -7651,6 +8743,7 @@
     "alt_names": [
 
     ],
+    "description": "OX",
     "file": "1f402"
   },
   {
@@ -7658,6 +8751,7 @@
     "alt_names": [
 
     ],
+    "description": "PACKAGE",
     "file": "1f4e6"
   },
   {
@@ -7665,6 +8759,7 @@
     "alt_names": [
 
     ],
+    "description": "PAGE FACING UP",
     "file": "1f4c4"
   },
   {
@@ -7672,6 +8767,7 @@
     "alt_names": [
 
     ],
+    "description": "PAGE WITH CURL",
     "file": "1f4c3"
   },
   {
@@ -7679,6 +8775,7 @@
     "alt_names": [
 
     ],
+    "description": "PAGER",
     "file": "1f4df"
   },
   {
@@ -7686,6 +8783,7 @@
     "alt_names": [
 
     ],
+    "description": "PALM TREE",
     "file": "1f334"
   },
   {
@@ -7693,6 +8791,7 @@
     "alt_names": [
 
     ],
+    "description": "PALMS UP TOGETHER",
     "file": "1f932"
   },
   {
@@ -7700,6 +8799,7 @@
     "alt_names": [
 
     ],
+    "description": "PANCAKES",
     "file": "1f95e"
   },
   {
@@ -7707,6 +8807,7 @@
     "alt_names": [
 
     ],
+    "description": "PANDA FACE",
     "file": "1f43c"
   },
   {
@@ -7714,6 +8815,7 @@
     "alt_names": [
 
     ],
+    "description": "PAPERCLIP",
     "file": "1f4ce"
   },
   {
@@ -7721,6 +8823,7 @@
     "alt_names": [
 
     ],
+    "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
     "file": "1f17f"
   },
   {
@@ -7728,6 +8831,7 @@
     "alt_names": [
 
     ],
+    "description": "PART ALTERNATION MARK",
     "file": "303d"
   },
   {
@@ -7735,6 +8839,7 @@
     "alt_names": [
 
     ],
+    "description": "SUN BEHIND CLOUD",
     "file": "26c5"
   },
   {
@@ -7742,6 +8847,7 @@
     "alt_names": [
       "sun_behind_rain_cloud"
     ],
+    "description": null,
     "file": "1f326"
   },
   {
@@ -7749,6 +8855,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6f3"
   },
   {
@@ -7756,6 +8863,7 @@
     "alt_names": [
 
     ],
+    "description": "PASSPORT CONTROL",
     "file": "1f6c2"
   },
   {
@@ -7763,6 +8871,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "262e"
   },
   {
@@ -7770,6 +8879,7 @@
     "alt_names": [
 
     ],
+    "description": "PEACH",
     "file": "1f351"
   },
   {
@@ -7777,6 +8887,7 @@
     "alt_names": [
 
     ],
+    "description": "PEANUTS",
     "file": "1f95c"
   },
   {
@@ -7784,6 +8895,7 @@
     "alt_names": [
 
     ],
+    "description": "PEAR",
     "file": "1f350"
   },
   {
@@ -7791,6 +8903,7 @@
     "alt_names": [
 
     ],
+    "description": "PENCIL",
     "file": "270f"
   },
   {
@@ -7798,6 +8911,7 @@
     "alt_names": [
 
     ],
+    "description": "PENGUIN",
     "file": "1f427"
   },
   {
@@ -7805,6 +8919,7 @@
     "alt_names": [
 
     ],
+    "description": "PENSIVE FACE",
     "file": "1f614"
   },
   {
@@ -7812,6 +8927,7 @@
     "alt_names": [
 
     ],
+    "description": "PERFORMING ARTS",
     "file": "1f3ad"
   },
   {
@@ -7819,6 +8935,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSEVERING FACE",
     "file": "1f623"
   },
   {
@@ -7826,6 +8943,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON CLIMBING",
     "file": "1f9d7"
   },
   {
@@ -7833,6 +8951,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON DOING CARTWHEEL",
     "file": "1f938"
   },
   {
@@ -7840,6 +8959,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON FROWNING",
     "file": "1f64d"
   },
   {
@@ -7847,6 +8967,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON IN LOTUS POSITION",
     "file": "1f9d8"
   },
   {
@@ -7854,6 +8975,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON IN STEAMY ROOM",
     "file": "1f9d6"
   },
   {
@@ -7861,6 +8983,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f9"
   },
   {
@@ -7868,6 +8991,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON WITH BLOND HAIR",
     "file": "1f471"
   },
   {
@@ -7875,6 +8999,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON WITH HEADSCARF",
     "file": "1f9d5"
   },
   {
@@ -7882,6 +9007,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON WITH POUTING FACE",
     "file": "1f64e"
   },
   {
@@ -7889,6 +9015,7 @@
     "alt_names": [
       "telephone"
     ],
+    "description": "BLACK TELEPHONE",
     "file": "260e"
   },
   {
@@ -7896,6 +9023,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26cf"
   },
   {
@@ -7903,6 +9031,7 @@
     "alt_names": [
 
     ],
+    "description": "PIE",
     "file": "1f967"
   },
   {
@@ -7910,6 +9039,7 @@
     "alt_names": [
 
     ],
+    "description": "PIG FACE",
     "file": "1f437"
   },
   {
@@ -7917,6 +9047,7 @@
     "alt_names": [
 
     ],
+    "description": "PIG",
     "file": "1f416"
   },
   {
@@ -7924,6 +9055,7 @@
     "alt_names": [
 
     ],
+    "description": "PIG NOSE",
     "file": "1f43d"
   },
   {
@@ -7931,6 +9063,7 @@
     "alt_names": [
 
     ],
+    "description": "PILL",
     "file": "1f48a"
   },
   {
@@ -7938,6 +9071,7 @@
     "alt_names": [
 
     ],
+    "description": "PINEAPPLE",
     "file": "1f34d"
   },
   {
@@ -7945,6 +9079,7 @@
     "alt_names": [
 
     ],
+    "description": "PISCES",
     "file": "2653"
   },
   {
@@ -7952,6 +9087,7 @@
     "alt_names": [
 
     ],
+    "description": "SLICE OF PIZZA",
     "file": "1f355"
   },
   {
@@ -7959,6 +9095,7 @@
     "alt_names": [
 
     ],
+    "description": "PLACE OF WORSHIP",
     "file": "1f6d0"
   },
   {
@@ -7966,6 +9103,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE DOWN POINTING BACKHAND INDEX",
     "file": "1f447"
   },
   {
@@ -7973,6 +9111,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE LEFT POINTING BACKHAND INDEX",
     "file": "1f448"
   },
   {
@@ -7980,6 +9119,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE RIGHT POINTING BACKHAND INDEX",
     "file": "1f449"
   },
   {
@@ -7987,6 +9127,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE UP POINTING INDEX",
     "file": "261d"
   },
   {
@@ -7994,6 +9135,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE UP POINTING BACKHAND INDEX",
     "file": "1f446"
   },
   {
@@ -8001,6 +9143,7 @@
     "alt_names": [
 
     ],
+    "description": "POLICE CAR",
     "file": "1f693"
   },
   {
@@ -8008,6 +9151,7 @@
     "alt_names": [
 
     ],
+    "description": "POODLE",
     "file": "1f429"
   },
   {
@@ -8015,6 +9159,7 @@
     "alt_names": [
 
     ],
+    "description": "POPCORN",
     "file": "1f37f"
   },
   {
@@ -8022,6 +9167,7 @@
     "alt_names": [
 
     ],
+    "description": "JAPANESE POST OFFICE",
     "file": "1f3e3"
   },
   {
@@ -8029,6 +9175,7 @@
     "alt_names": [
 
     ],
+    "description": "POSTAL HORN",
     "file": "1f4ef"
   },
   {
@@ -8036,6 +9183,7 @@
     "alt_names": [
 
     ],
+    "description": "POSTBOX",
     "file": "1f4ee"
   },
   {
@@ -8043,6 +9191,7 @@
     "alt_names": [
 
     ],
+    "description": "POTABLE WATER SYMBOL",
     "file": "1f6b0"
   },
   {
@@ -8050,6 +9199,7 @@
     "alt_names": [
 
     ],
+    "description": "POTATO",
     "file": "1f954"
   },
   {
@@ -8057,6 +9207,7 @@
     "alt_names": [
 
     ],
+    "description": "POUCH",
     "file": "1f45d"
   },
   {
@@ -8064,6 +9215,7 @@
     "alt_names": [
 
     ],
+    "description": "POULTRY LEG",
     "file": "1f357"
   },
   {
@@ -8071,6 +9223,7 @@
     "alt_names": [
 
     ],
+    "description": "BANKNOTE WITH POUND SIGN",
     "file": "1f4b7"
   },
   {
@@ -8078,6 +9231,7 @@
     "alt_names": [
 
     ],
+    "description": "POUTING CAT FACE",
     "file": "1f63e"
   },
   {
@@ -8085,6 +9239,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON WITH FOLDED HANDS",
     "file": "1f64f"
   },
   {
@@ -8092,6 +9247,7 @@
     "alt_names": [
 
     ],
+    "description": "PRAYER BEADS",
     "file": "1f4ff"
   },
   {
@@ -8099,6 +9255,7 @@
     "alt_names": [
 
     ],
+    "description": "PREGNANT WOMAN",
     "file": "1f930"
   },
   {
@@ -8106,6 +9263,7 @@
     "alt_names": [
 
     ],
+    "description": "PRETZEL",
     "file": "1f968"
   },
   {
@@ -8113,6 +9271,7 @@
     "alt_names": [
 
     ],
+    "description": "PRINCE",
     "file": "1f934"
   },
   {
@@ -8120,6 +9279,7 @@
     "alt_names": [
 
     ],
+    "description": "PRINCESS",
     "file": "1f478"
   },
   {
@@ -8127,6 +9287,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5a8"
   },
   {
@@ -8134,6 +9295,7 @@
     "alt_names": [
 
     ],
+    "description": "PURPLE HEART",
     "file": "1f49c"
   },
   {
@@ -8141,6 +9303,7 @@
     "alt_names": [
 
     ],
+    "description": "PURSE",
     "file": "1f45b"
   },
   {
@@ -8148,6 +9311,7 @@
     "alt_names": [
 
     ],
+    "description": "PUSHPIN",
     "file": "1f4cc"
   },
   {
@@ -8155,6 +9319,7 @@
     "alt_names": [
 
     ],
+    "description": "PUT LITTER IN ITS PLACE SYMBOL",
     "file": "1f6ae"
   },
   {
@@ -8162,6 +9327,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK QUESTION MARK ORNAMENT",
     "file": "2753"
   },
   {
@@ -8169,6 +9335,7 @@
     "alt_names": [
 
     ],
+    "description": "RABBIT FACE",
     "file": "1f430"
   },
   {
@@ -8176,6 +9343,7 @@
     "alt_names": [
 
     ],
+    "description": "RABBIT",
     "file": "1f407"
   },
   {
@@ -8183,6 +9351,7 @@
     "alt_names": [
 
     ],
+    "description": "HORSE",
     "file": "1f40e"
   },
   {
@@ -8190,6 +9359,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3ce"
   },
   {
@@ -8197,6 +9367,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cd"
   },
   {
@@ -8204,6 +9375,7 @@
     "alt_names": [
 
     ],
+    "description": "RADIO",
     "file": "1f4fb"
   },
   {
@@ -8211,6 +9383,7 @@
     "alt_names": [
 
     ],
+    "description": "RADIO BUTTON",
     "file": "1f518"
   },
   {
@@ -8218,6 +9391,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2622"
   },
   {
@@ -8225,6 +9399,7 @@
     "alt_names": [
 
     ],
+    "description": "POUTING FACE",
     "file": "1f621"
   },
   {
@@ -8232,6 +9407,7 @@
     "alt_names": [
 
     ],
+    "description": "RAILWAY CAR",
     "file": "1f683"
   },
   {
@@ -8239,6 +9415,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e4"
   },
   {
@@ -8246,6 +9423,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f327"
   },
   {
@@ -8253,6 +9431,7 @@
     "alt_names": [
 
     ],
+    "description": "RAINBOW",
     "file": "1f308"
   },
   {
@@ -8260,6 +9439,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3f3-fe0f-200d-1f308"
   },
   {
@@ -8267,6 +9447,7 @@
     "alt_names": [
 
     ],
+    "description": "RAISED BACK OF HAND",
     "file": "1f91a"
   },
   {
@@ -8274,6 +9455,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f590"
   },
   {
@@ -8281,6 +9463,7 @@
     "alt_names": [
 
     ],
+    "description": "PERSON RAISING BOTH HANDS IN CELEBRATION",
     "file": "1f64c"
   },
   {
@@ -8288,6 +9471,7 @@
     "alt_names": [
 
     ],
+    "description": "HAPPY PERSON RAISING ONE HAND",
     "file": "1f64b"
   },
   {
@@ -8295,6 +9479,7 @@
     "alt_names": [
 
     ],
+    "description": "RAM",
     "file": "1f40f"
   },
   {
@@ -8302,6 +9487,7 @@
     "alt_names": [
 
     ],
+    "description": "STEAMING BOWL",
     "file": "1f35c"
   },
   {
@@ -8309,6 +9495,7 @@
     "alt_names": [
 
     ],
+    "description": "RAT",
     "file": "1f400"
   },
   {
@@ -8316,6 +9503,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK UNIVERSAL RECYCLING SYMBOL",
     "file": "267b"
   },
   {
@@ -8323,6 +9511,7 @@
     "alt_names": [
 
     ],
+    "description": "LARGE RED CIRCLE",
     "file": "1f534"
   },
   {
@@ -8330,6 +9519,7 @@
     "alt_names": [
 
     ],
+    "description": "REGISTERED SIGN",
     "file": "ae"
   },
   {
@@ -8337,6 +9527,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE SMILING FACE",
     "file": "263a"
   },
   {
@@ -8344,6 +9535,7 @@
     "alt_names": [
 
     ],
+    "description": "RELIEVED FACE",
     "file": "1f60c"
   },
   {
@@ -8351,6 +9543,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f397"
   },
   {
@@ -8358,6 +9551,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
     "file": "1f501"
   },
   {
@@ -8365,6 +9559,7 @@
     "alt_names": [
 
     ],
+    "description": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
     "file": "1f502"
   },
   {
@@ -8372,6 +9567,7 @@
     "alt_names": [
 
     ],
+    "description": "RESTROOM",
     "file": "1f6bb"
   },
   {
@@ -8379,6 +9575,7 @@
     "alt_names": [
 
     ],
+    "description": "REVOLVING HEARTS",
     "file": "1f49e"
   },
   {
@@ -8386,6 +9583,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
     "file": "23ea"
   },
   {
@@ -8393,6 +9591,7 @@
     "alt_names": [
 
     ],
+    "description": "RHINOCEROS",
     "file": "1f98f"
   },
   {
@@ -8400,6 +9599,7 @@
     "alt_names": [
 
     ],
+    "description": "RIBBON",
     "file": "1f380"
   },
   {
@@ -8407,6 +9607,7 @@
     "alt_names": [
 
     ],
+    "description": "COOKED RICE",
     "file": "1f35a"
   },
   {
@@ -8414,6 +9615,7 @@
     "alt_names": [
 
     ],
+    "description": "RICE BALL",
     "file": "1f359"
   },
   {
@@ -8421,6 +9623,7 @@
     "alt_names": [
 
     ],
+    "description": "RICE CRACKER",
     "file": "1f358"
   },
   {
@@ -8428,6 +9631,7 @@
     "alt_names": [
 
     ],
+    "description": "MOON VIEWING CEREMONY",
     "file": "1f391"
   },
   {
@@ -8435,6 +9639,7 @@
     "alt_names": [
 
     ],
+    "description": "RIGHT-FACING FIST",
     "file": "1f91c"
   },
   {
@@ -8442,6 +9647,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5ef"
   },
   {
@@ -8449,6 +9655,7 @@
     "alt_names": [
 
     ],
+    "description": "RING",
     "file": "1f48d"
   },
   {
@@ -8456,6 +9663,7 @@
     "alt_names": [
 
     ],
+    "description": "ROBOT FACE",
     "file": "1f916"
   },
   {
@@ -8463,6 +9671,7 @@
     "alt_names": [
 
     ],
+    "description": "ROCKET",
     "file": "1f680"
   },
   {
@@ -8470,6 +9679,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5de"
   },
   {
@@ -8477,6 +9687,7 @@
     "alt_names": [
 
     ],
+    "description": "ROLLER COASTER",
     "file": "1f3a2"
   },
   {
@@ -8484,6 +9695,7 @@
     "alt_names": [
 
     ],
+    "description": "ROLLING ON THE FLOOR LAUGHING",
     "file": "1f923"
   },
   {
@@ -8491,6 +9703,7 @@
     "alt_names": [
 
     ],
+    "description": "ROOSTER",
     "file": "1f413"
   },
   {
@@ -8498,6 +9711,7 @@
     "alt_names": [
 
     ],
+    "description": "ROSE",
     "file": "1f339"
   },
   {
@@ -8505,6 +9719,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3f5"
   },
   {
@@ -8512,6 +9727,7 @@
     "alt_names": [
 
     ],
+    "description": "POLICE CARS REVOLVING LIGHT",
     "file": "1f6a8"
   },
   {
@@ -8519,6 +9735,7 @@
     "alt_names": [
 
     ],
+    "description": "ROUND PUSHPIN",
     "file": "1f4cd"
   },
   {
@@ -8526,6 +9743,7 @@
     "alt_names": [
 
     ],
+    "description": "ROWBOAT",
     "file": "1f6a3"
   },
   {
@@ -8533,6 +9751,7 @@
     "alt_names": [
       "flag-ru"
     ],
+    "description": "Russia Flag",
     "file": "1f1f7-1f1fa"
   },
   {
@@ -8540,6 +9759,7 @@
     "alt_names": [
 
     ],
+    "description": "RUGBY FOOTBALL",
     "file": "1f3c9"
   },
   {
@@ -8547,6 +9767,7 @@
     "alt_names": [
       "running"
     ],
+    "description": "RUNNER",
     "file": "1f3c3"
   },
   {
@@ -8554,6 +9775,7 @@
     "alt_names": [
 
     ],
+    "description": "RUNNING SHIRT WITH SASH",
     "file": "1f3bd"
   },
   {
@@ -8561,6 +9783,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED KATAKANA SA",
     "file": "1f202"
   },
   {
@@ -8568,6 +9791,7 @@
     "alt_names": [
 
     ],
+    "description": "SAGITTARIUS",
     "file": "2650"
   },
   {
@@ -8575,6 +9799,7 @@
     "alt_names": [
 
     ],
+    "description": "SAKE BOTTLE AND CUP",
     "file": "1f376"
   },
   {
@@ -8582,6 +9807,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMANS SANDAL",
     "file": "1f461"
   },
   {
@@ -8589,6 +9815,7 @@
     "alt_names": [
 
     ],
+    "description": "SANDWICH",
     "file": "1f96a"
   },
   {
@@ -8596,6 +9823,7 @@
     "alt_names": [
 
     ],
+    "description": "FATHER CHRISTMAS",
     "file": "1f385"
   },
   {
@@ -8603,6 +9831,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6f0"
   },
   {
@@ -8610,6 +9839,7 @@
     "alt_names": [
 
     ],
+    "description": "SATELLITE ANTENNA",
     "file": "1f4e1"
   },
   {
@@ -8617,6 +9847,7 @@
     "alt_names": [
 
     ],
+    "description": "SAUROPOD",
     "file": "1f995"
   },
   {
@@ -8624,6 +9855,7 @@
     "alt_names": [
 
     ],
+    "description": "SAXOPHONE",
     "file": "1f3b7"
   },
   {
@@ -8631,6 +9863,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2696"
   },
   {
@@ -8638,6 +9871,7 @@
     "alt_names": [
 
     ],
+    "description": "SCARF",
     "file": "1f9e3"
   },
   {
@@ -8645,6 +9879,7 @@
     "alt_names": [
 
     ],
+    "description": "SCHOOL",
     "file": "1f3eb"
   },
   {
@@ -8652,6 +9887,7 @@
     "alt_names": [
 
     ],
+    "description": "SCHOOL SATCHEL",
     "file": "1f392"
   },
   {
@@ -8659,6 +9895,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK SCISSORS",
     "file": "2702"
   },
   {
@@ -8666,6 +9903,7 @@
     "alt_names": [
 
     ],
+    "description": "SCOOTER",
     "file": "1f6f4"
   },
   {
@@ -8673,6 +9911,7 @@
     "alt_names": [
 
     ],
+    "description": "SCORPION",
     "file": "1f982"
   },
   {
@@ -8680,6 +9919,7 @@
     "alt_names": [
 
     ],
+    "description": "SCORPIUS",
     "file": "264f"
   },
   {
@@ -8687,6 +9927,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE SCREAMING IN FEAR",
     "file": "1f631"
   },
   {
@@ -8694,6 +9935,7 @@
     "alt_names": [
 
     ],
+    "description": "WEARY CAT FACE",
     "file": "1f640"
   },
   {
@@ -8701,6 +9943,7 @@
     "alt_names": [
 
     ],
+    "description": "SCROLL",
     "file": "1f4dc"
   },
   {
@@ -8708,6 +9951,7 @@
     "alt_names": [
 
     ],
+    "description": "SEAT",
     "file": "1f4ba"
   },
   {
@@ -8715,6 +9959,7 @@
     "alt_names": [
 
     ],
+    "description": "SECOND PLACE MEDAL",
     "file": "1f948"
   },
   {
@@ -8722,6 +9967,7 @@
     "alt_names": [
 
     ],
+    "description": "CIRCLED IDEOGRAPH SECRET",
     "file": "3299"
   },
   {
@@ -8729,6 +9975,7 @@
     "alt_names": [
 
     ],
+    "description": "SEE-NO-EVIL MONKEY",
     "file": "1f648"
   },
   {
@@ -8736,6 +9983,7 @@
     "alt_names": [
 
     ],
+    "description": "SEEDLING",
     "file": "1f331"
   },
   {
@@ -8743,6 +9991,7 @@
     "alt_names": [
 
     ],
+    "description": "SELFIE",
     "file": "1f933"
   },
   {
@@ -8750,6 +9999,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 7",
     "file": "37-20e3"
   },
   {
@@ -8757,6 +10007,7 @@
     "alt_names": [
 
     ],
+    "description": "SHALLOW PAN OF FOOD",
     "file": "1f958"
   },
   {
@@ -8764,6 +10015,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2618"
   },
   {
@@ -8771,6 +10023,7 @@
     "alt_names": [
 
     ],
+    "description": "SHARK",
     "file": "1f988"
   },
   {
@@ -8778,6 +10031,7 @@
     "alt_names": [
 
     ],
+    "description": "SHAVED ICE",
     "file": "1f367"
   },
   {
@@ -8785,6 +10039,7 @@
     "alt_names": [
 
     ],
+    "description": "SHEEP",
     "file": "1f411"
   },
   {
@@ -8792,6 +10047,7 @@
     "alt_names": [
 
     ],
+    "description": "SPIRAL SHELL",
     "file": "1f41a"
   },
   {
@@ -8799,6 +10055,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e1"
   },
   {
@@ -8806,6 +10063,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26e9"
   },
   {
@@ -8813,6 +10071,7 @@
     "alt_names": [
 
     ],
+    "description": "SHIP",
     "file": "1f6a2"
   },
   {
@@ -8820,6 +10079,7 @@
     "alt_names": [
       "tshirt"
     ],
+    "description": "T-SHIRT",
     "file": "1f455"
   },
   {
@@ -8827,6 +10087,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6cd"
   },
   {
@@ -8834,6 +10095,7 @@
     "alt_names": [
 
     ],
+    "description": "SHOPPING TROLLEY",
     "file": "1f6d2"
   },
   {
@@ -8841,6 +10103,7 @@
     "alt_names": [
 
     ],
+    "description": "SHOWER",
     "file": "1f6bf"
   },
   {
@@ -8848,6 +10111,7 @@
     "alt_names": [
 
     ],
+    "description": "SHRIMP",
     "file": "1f990"
   },
   {
@@ -8855,6 +10119,7 @@
     "alt_names": [
 
     ],
+    "description": "SHRUG",
     "file": "1f937"
   },
   {
@@ -8862,6 +10127,7 @@
     "alt_names": [
       "face_with_finger_covering_closed_lips"
     ],
+    "description": "FACE WITH FINGER COVERING CLOSED LIPS",
     "file": "1f92b"
   },
   {
@@ -8869,6 +10135,7 @@
     "alt_names": [
 
     ],
+    "description": "ANTENNA WITH BARS",
     "file": "1f4f6"
   },
   {
@@ -8876,6 +10143,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 6",
     "file": "36-20e3"
   },
   {
@@ -8883,6 +10151,7 @@
     "alt_names": [
 
     ],
+    "description": "SIX POINTED STAR WITH MIDDLE DOT",
     "file": "1f52f"
   },
   {
@@ -8890,6 +10159,7 @@
     "alt_names": [
 
     ],
+    "description": "SKI AND SKI BOOT",
     "file": "1f3bf"
   },
   {
@@ -8897,6 +10167,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f7"
   },
   {
@@ -8904,6 +10175,7 @@
     "alt_names": [
 
     ],
+    "description": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
     "file": "1f3fb"
   },
   {
@@ -8911,6 +10183,7 @@
     "alt_names": [
 
     ],
+    "description": "EMOJI MODIFIER FITZPATRICK TYPE-3",
     "file": "1f3fc"
   },
   {
@@ -8918,6 +10191,7 @@
     "alt_names": [
 
     ],
+    "description": "EMOJI MODIFIER FITZPATRICK TYPE-4",
     "file": "1f3fd"
   },
   {
@@ -8925,6 +10199,7 @@
     "alt_names": [
 
     ],
+    "description": "EMOJI MODIFIER FITZPATRICK TYPE-5",
     "file": "1f3fe"
   },
   {
@@ -8932,6 +10207,7 @@
     "alt_names": [
 
     ],
+    "description": "EMOJI MODIFIER FITZPATRICK TYPE-6",
     "file": "1f3ff"
   },
   {
@@ -8939,6 +10215,7 @@
     "alt_names": [
 
     ],
+    "description": "SKULL",
     "file": "1f480"
   },
   {
@@ -8946,6 +10223,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2620"
   },
   {
@@ -8953,6 +10231,7 @@
     "alt_names": [
 
     ],
+    "description": "SLED",
     "file": "1f6f7"
   },
   {
@@ -8960,6 +10239,7 @@
     "alt_names": [
 
     ],
+    "description": "SLEEPING FACE",
     "file": "1f634"
   },
   {
@@ -8967,6 +10247,7 @@
     "alt_names": [
 
     ],
+    "description": "SLEEPING ACCOMMODATION",
     "file": "1f6cc"
   },
   {
@@ -8974,6 +10255,7 @@
     "alt_names": [
 
     ],
+    "description": "SLEEPY FACE",
     "file": "1f62a"
   },
   {
@@ -8981,6 +10263,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f575"
   },
   {
@@ -8988,6 +10271,7 @@
     "alt_names": [
 
     ],
+    "description": "SLIGHTLY FROWNING FACE",
     "file": "1f641"
   },
   {
@@ -8995,6 +10279,7 @@
     "alt_names": [
 
     ],
+    "description": "SLIGHTLY SMILING FACE",
     "file": "1f642"
   },
   {
@@ -9002,6 +10287,7 @@
     "alt_names": [
 
     ],
+    "description": "SLOT MACHINE",
     "file": "1f3b0"
   },
   {
@@ -9009,6 +10295,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6e9"
   },
   {
@@ -9016,6 +10303,7 @@
     "alt_names": [
 
     ],
+    "description": "SMALL BLUE DIAMOND",
     "file": "1f539"
   },
   {
@@ -9023,6 +10311,7 @@
     "alt_names": [
 
     ],
+    "description": "SMALL ORANGE DIAMOND",
     "file": "1f538"
   },
   {
@@ -9030,6 +10319,7 @@
     "alt_names": [
 
     ],
+    "description": "UP-POINTING RED TRIANGLE",
     "file": "1f53a"
   },
   {
@@ -9037,6 +10327,7 @@
     "alt_names": [
 
     ],
+    "description": "DOWN-POINTING RED TRIANGLE",
     "file": "1f53b"
   },
   {
@@ -9044,6 +10335,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
     "file": "1f604"
   },
   {
@@ -9051,6 +10343,7 @@
     "alt_names": [
 
     ],
+    "description": "GRINNING CAT FACE WITH SMILING EYES",
     "file": "1f638"
   },
   {
@@ -9058,6 +10351,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH OPEN MOUTH",
     "file": "1f603"
   },
   {
@@ -9065,6 +10359,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING CAT FACE WITH OPEN MOUTH",
     "file": "1f63a"
   },
   {
@@ -9072,6 +10367,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH HORNS",
     "file": "1f608"
   },
   {
@@ -9079,6 +10375,7 @@
     "alt_names": [
 
     ],
+    "description": "SMIRKING FACE",
     "file": "1f60f"
   },
   {
@@ -9086,6 +10383,7 @@
     "alt_names": [
 
     ],
+    "description": "CAT FACE WITH WRY SMILE",
     "file": "1f63c"
   },
   {
@@ -9093,6 +10391,7 @@
     "alt_names": [
 
     ],
+    "description": "SMOKING SYMBOL",
     "file": "1f6ac"
   },
   {
@@ -9100,6 +10399,7 @@
     "alt_names": [
 
     ],
+    "description": "SNAIL",
     "file": "1f40c"
   },
   {
@@ -9107,6 +10407,7 @@
     "alt_names": [
 
     ],
+    "description": "SNAKE",
     "file": "1f40d"
   },
   {
@@ -9114,6 +10415,7 @@
     "alt_names": [
 
     ],
+    "description": "SNEEZING FACE",
     "file": "1f927"
   },
   {
@@ -9121,6 +10423,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3d4"
   },
   {
@@ -9128,6 +10431,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f328"
   },
   {
@@ -9135,6 +10439,7 @@
     "alt_names": [
 
     ],
+    "description": "SNOWBOARDER",
     "file": "1f3c2"
   },
   {
@@ -9142,6 +10447,7 @@
     "alt_names": [
 
     ],
+    "description": "SNOWFLAKE",
     "file": "2744"
   },
   {
@@ -9149,6 +10455,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2603"
   },
   {
@@ -9156,6 +10463,7 @@
     "alt_names": [
 
     ],
+    "description": "SNOWMAN WITHOUT SNOW",
     "file": "26c4"
   },
   {
@@ -9163,6 +10471,7 @@
     "alt_names": [
 
     ],
+    "description": "LOUDLY CRYING FACE",
     "file": "1f62d"
   },
   {
@@ -9170,6 +10479,7 @@
     "alt_names": [
 
     ],
+    "description": "SOCCER BALL",
     "file": "26bd"
   },
   {
@@ -9177,6 +10487,7 @@
     "alt_names": [
 
     ],
+    "description": "SOCKS",
     "file": "1f9e6"
   },
   {
@@ -9184,6 +10495,7 @@
     "alt_names": [
 
     ],
+    "description": "SOON WITH RIGHTWARDS ARROW ABOVE",
     "file": "1f51c"
   },
   {
@@ -9191,6 +10503,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED SOS",
     "file": "1f198"
   },
   {
@@ -9198,6 +10511,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEAKER WITH ONE SOUND WAVE",
     "file": "1f509"
   },
   {
@@ -9205,6 +10519,7 @@
     "alt_names": [
 
     ],
+    "description": "ALIEN MONSTER",
     "file": "1f47e"
   },
   {
@@ -9212,6 +10527,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK SPADE SUIT",
     "file": "2660"
   },
   {
@@ -9219,6 +10535,7 @@
     "alt_names": [
 
     ],
+    "description": "SPAGHETTI",
     "file": "1f35d"
   },
   {
@@ -9226,6 +10543,7 @@
     "alt_names": [
 
     ],
+    "description": "SPARKLE",
     "file": "2747"
   },
   {
@@ -9233,6 +10551,7 @@
     "alt_names": [
 
     ],
+    "description": "FIREWORK SPARKLER",
     "file": "1f387"
   },
   {
@@ -9240,6 +10559,7 @@
     "alt_names": [
 
     ],
+    "description": "SPARKLES",
     "file": "2728"
   },
   {
@@ -9247,6 +10567,7 @@
     "alt_names": [
 
     ],
+    "description": "SPARKLING HEART",
     "file": "1f496"
   },
   {
@@ -9254,6 +10575,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEAK-NO-EVIL MONKEY",
     "file": "1f64a"
   },
   {
@@ -9261,6 +10583,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEAKER",
     "file": "1f508"
   },
   {
@@ -9268,6 +10591,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5e3"
   },
   {
@@ -9275,6 +10599,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEECH BALLOON",
     "file": "1f4ac"
   },
   {
@@ -9282,6 +10607,7 @@
     "alt_names": [
 
     ],
+    "description": "SPEEDBOAT",
     "file": "1f6a4"
   },
   {
@@ -9289,6 +10615,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f577"
   },
   {
@@ -9296,6 +10623,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f578"
   },
   {
@@ -9303,6 +10631,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5d3"
   },
   {
@@ -9310,6 +10639,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5d2"
   },
   {
@@ -9317,6 +10647,7 @@
     "alt_names": [
 
     ],
+    "description": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
     "file": "1f596"
   },
   {
@@ -9324,6 +10655,7 @@
     "alt_names": [
 
     ],
+    "description": "SPOON",
     "file": "1f944"
   },
   {
@@ -9331,6 +10663,7 @@
     "alt_names": [
 
     ],
+    "description": "SPORTS MEDAL",
     "file": "1f3c5"
   },
   {
@@ -9338,6 +10671,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUID",
     "file": "1f991"
   },
   {
@@ -9345,6 +10679,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3df"
   },
   {
@@ -9352,6 +10687,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE MEDIUM STAR",
     "file": "2b50"
   },
   {
@@ -9359,6 +10695,7 @@
     "alt_names": [
       "grinning_face_with_star_eyes"
     ],
+    "description": "GRINNING FACE WITH STAR EYES",
     "file": "1f929"
   },
   {
@@ -9366,6 +10703,7 @@
     "alt_names": [
 
     ],
+    "description": "GLOWING STAR",
     "file": "1f31f"
   },
   {
@@ -9373,6 +10711,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "262a"
   },
   {
@@ -9380,6 +10719,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2721"
   },
   {
@@ -9387,6 +10727,7 @@
     "alt_names": [
 
     ],
+    "description": "SHOOTING STAR",
     "file": "1f320"
   },
   {
@@ -9394,6 +10735,7 @@
     "alt_names": [
 
     ],
+    "description": "STATION",
     "file": "1f689"
   },
   {
@@ -9401,6 +10743,7 @@
     "alt_names": [
 
     ],
+    "description": "STATUE OF LIBERTY",
     "file": "1f5fd"
   },
   {
@@ -9408,6 +10751,7 @@
     "alt_names": [
 
     ],
+    "description": "STEAM LOCOMOTIVE",
     "file": "1f682"
   },
   {
@@ -9415,6 +10759,7 @@
     "alt_names": [
 
     ],
+    "description": "POT OF FOOD",
     "file": "1f372"
   },
   {
@@ -9422,6 +10767,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23f1"
   },
   {
@@ -9429,6 +10775,7 @@
     "alt_names": [
 
     ],
+    "description": "STRAIGHT RULER",
     "file": "1f4cf"
   },
   {
@@ -9436,6 +10783,7 @@
     "alt_names": [
 
     ],
+    "description": "STRAWBERRY",
     "file": "1f353"
   },
   {
@@ -9443,6 +10791,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH STUCK-OUT TONGUE",
     "file": "1f61b"
   },
   {
@@ -9450,6 +10799,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
     "file": "1f61d"
   },
   {
@@ -9457,6 +10807,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
     "file": "1f61c"
   },
   {
@@ -9464,6 +10815,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f399"
   },
   {
@@ -9471,6 +10823,7 @@
     "alt_names": [
 
     ],
+    "description": "STUFFED FLATBREAD",
     "file": "1f959"
   },
   {
@@ -9478,6 +10831,7 @@
     "alt_names": [
 
     ],
+    "description": "SUN WITH FACE",
     "file": "1f31e"
   },
   {
@@ -9485,6 +10839,7 @@
     "alt_names": [
 
     ],
+    "description": "SUNFLOWER",
     "file": "1f33b"
   },
   {
@@ -9492,6 +10847,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH SUNGLASSES",
     "file": "1f60e"
   },
   {
@@ -9499,6 +10855,7 @@
     "alt_names": [
 
     ],
+    "description": "BLACK SUN WITH RAYS",
     "file": "2600"
   },
   {
@@ -9506,6 +10863,7 @@
     "alt_names": [
 
     ],
+    "description": "SUNRISE",
     "file": "1f305"
   },
   {
@@ -9513,6 +10871,7 @@
     "alt_names": [
 
     ],
+    "description": "SUNRISE OVER MOUNTAINS",
     "file": "1f304"
   },
   {
@@ -9520,6 +10879,7 @@
     "alt_names": [
 
     ],
+    "description": "SURFER",
     "file": "1f3c4"
   },
   {
@@ -9527,6 +10887,7 @@
     "alt_names": [
 
     ],
+    "description": "SUSHI",
     "file": "1f363"
   },
   {
@@ -9534,6 +10895,7 @@
     "alt_names": [
 
     ],
+    "description": "SUSPENSION RAILWAY",
     "file": "1f69f"
   },
   {
@@ -9541,6 +10903,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH COLD SWEAT",
     "file": "1f613"
   },
   {
@@ -9548,6 +10911,7 @@
     "alt_names": [
 
     ],
+    "description": "SPLASHING SWEAT SYMBOL",
     "file": "1f4a6"
   },
   {
@@ -9555,6 +10919,7 @@
     "alt_names": [
 
     ],
+    "description": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
     "file": "1f605"
   },
   {
@@ -9562,6 +10927,7 @@
     "alt_names": [
 
     ],
+    "description": "ROASTED SWEET POTATO",
     "file": "1f360"
   },
   {
@@ -9569,6 +10935,7 @@
     "alt_names": [
 
     ],
+    "description": "SWIMMER",
     "file": "1f3ca"
   },
   {
@@ -9576,6 +10943,7 @@
     "alt_names": [
 
     ],
+    "description": "INPUT SYMBOL FOR SYMBOLS",
     "file": "1f523"
   },
   {
@@ -9583,6 +10951,7 @@
     "alt_names": [
 
     ],
+    "description": "SYNAGOGUE",
     "file": "1f54d"
   },
   {
@@ -9590,6 +10959,7 @@
     "alt_names": [
 
     ],
+    "description": "SYRINGE",
     "file": "1f489"
   },
   {
@@ -9597,6 +10967,7 @@
     "alt_names": [
 
     ],
+    "description": "T-REX",
     "file": "1f996"
   },
   {
@@ -9604,6 +10975,7 @@
     "alt_names": [
 
     ],
+    "description": "TABLE TENNIS PADDLE AND BALL",
     "file": "1f3d3"
   },
   {
@@ -9611,6 +10983,7 @@
     "alt_names": [
 
     ],
+    "description": "TACO",
     "file": "1f32e"
   },
   {
@@ -9618,6 +10991,7 @@
     "alt_names": [
 
     ],
+    "description": "PARTY POPPER",
     "file": "1f389"
   },
   {
@@ -9625,6 +10999,7 @@
     "alt_names": [
 
     ],
+    "description": "TAKEOUT BOX",
     "file": "1f961"
   },
   {
@@ -9632,6 +11007,7 @@
     "alt_names": [
 
     ],
+    "description": "TANABATA TREE",
     "file": "1f38b"
   },
   {
@@ -9639,6 +11015,7 @@
     "alt_names": [
 
     ],
+    "description": "TANGERINE",
     "file": "1f34a"
   },
   {
@@ -9646,6 +11023,7 @@
     "alt_names": [
 
     ],
+    "description": "TAURUS",
     "file": "2649"
   },
   {
@@ -9653,6 +11031,7 @@
     "alt_names": [
 
     ],
+    "description": "TAXI",
     "file": "1f695"
   },
   {
@@ -9660,6 +11039,7 @@
     "alt_names": [
 
     ],
+    "description": "TEACUP WITHOUT HANDLE",
     "file": "1f375"
   },
   {
@@ -9667,6 +11047,7 @@
     "alt_names": [
 
     ],
+    "description": "TELEPHONE RECEIVER",
     "file": "1f4de"
   },
   {
@@ -9674,6 +11055,7 @@
     "alt_names": [
 
     ],
+    "description": "TELESCOPE",
     "file": "1f52d"
   },
   {
@@ -9681,6 +11063,7 @@
     "alt_names": [
 
     ],
+    "description": "TENNIS RACQUET AND BALL",
     "file": "1f3be"
   },
   {
@@ -9688,6 +11071,7 @@
     "alt_names": [
 
     ],
+    "description": "TENT",
     "file": "26fa"
   },
   {
@@ -9695,6 +11079,7 @@
     "alt_names": [
       "sign_of_the_horns"
     ],
+    "description": "SIGN OF THE HORNS",
     "file": "1f918"
   },
   {
@@ -9702,6 +11087,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f321"
   },
   {
@@ -9709,6 +11095,7 @@
     "alt_names": [
 
     ],
+    "description": "THINKING FACE",
     "file": "1f914"
   },
   {
@@ -9716,6 +11103,7 @@
     "alt_names": [
 
     ],
+    "description": "THIRD PLACE MEDAL",
     "file": "1f949"
   },
   {
@@ -9723,6 +11111,7 @@
     "alt_names": [
 
     ],
+    "description": "THOUGHT BALLOON",
     "file": "1f4ad"
   },
   {
@@ -9730,6 +11119,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 3",
     "file": "33-20e3"
   },
   {
@@ -9737,6 +11127,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5b1"
   },
   {
@@ -9744,6 +11135,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26c8"
   },
   {
@@ -9751,6 +11143,7 @@
     "alt_names": [
 
     ],
+    "description": "TICKET",
     "file": "1f3ab"
   },
   {
@@ -9758,6 +11151,7 @@
     "alt_names": [
 
     ],
+    "description": "TIGER FACE",
     "file": "1f42f"
   },
   {
@@ -9765,6 +11159,7 @@
     "alt_names": [
 
     ],
+    "description": "TIGER",
     "file": "1f405"
   },
   {
@@ -9772,6 +11167,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "23f2"
   },
   {
@@ -9779,6 +11175,7 @@
     "alt_names": [
 
     ],
+    "description": "TIRED FACE",
     "file": "1f62b"
   },
   {
@@ -9786,6 +11183,7 @@
     "alt_names": [
 
     ],
+    "description": "TRADE MARK SIGN",
     "file": "2122"
   },
   {
@@ -9793,6 +11191,7 @@
     "alt_names": [
 
     ],
+    "description": "TOILET",
     "file": "1f6bd"
   },
   {
@@ -9800,6 +11199,7 @@
     "alt_names": [
 
     ],
+    "description": "TOKYO TOWER",
     "file": "1f5fc"
   },
   {
@@ -9807,6 +11207,7 @@
     "alt_names": [
 
     ],
+    "description": "TOMATO",
     "file": "1f345"
   },
   {
@@ -9814,6 +11215,7 @@
     "alt_names": [
 
     ],
+    "description": "TONGUE",
     "file": "1f445"
   },
   {
@@ -9821,6 +11223,7 @@
     "alt_names": [
 
     ],
+    "description": "TOP WITH UPWARDS ARROW ABOVE",
     "file": "1f51d"
   },
   {
@@ -9828,6 +11231,7 @@
     "alt_names": [
 
     ],
+    "description": "TOP HAT",
     "file": "1f3a9"
   },
   {
@@ -9835,6 +11239,7 @@
     "alt_names": [
       "tornado_cloud"
     ],
+    "description": null,
     "file": "1f32a"
   },
   {
@@ -9842,6 +11247,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5b2"
   },
   {
@@ -9849,6 +11255,7 @@
     "alt_names": [
 
     ],
+    "description": "TRACTOR",
     "file": "1f69c"
   },
   {
@@ -9856,6 +11263,7 @@
     "alt_names": [
 
     ],
+    "description": "HORIZONTAL TRAFFIC LIGHT",
     "file": "1f6a5"
   },
   {
@@ -9863,6 +11271,7 @@
     "alt_names": [
 
     ],
+    "description": "TRAM CAR",
     "file": "1f68b"
   },
   {
@@ -9870,6 +11279,7 @@
     "alt_names": [
 
     ],
+    "description": "TRAIN",
     "file": "1f686"
   },
   {
@@ -9877,6 +11287,7 @@
     "alt_names": [
 
     ],
+    "description": "TRAM",
     "file": "1f68a"
   },
   {
@@ -9884,6 +11295,7 @@
     "alt_names": [
 
     ],
+    "description": "TRIANGULAR FLAG ON POST",
     "file": "1f6a9"
   },
   {
@@ -9891,6 +11303,7 @@
     "alt_names": [
 
     ],
+    "description": "TRIANGULAR RULER",
     "file": "1f4d0"
   },
   {
@@ -9898,6 +11311,7 @@
     "alt_names": [
 
     ],
+    "description": "TRIDENT EMBLEM",
     "file": "1f531"
   },
   {
@@ -9905,6 +11319,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE WITH LOOK OF TRIUMPH",
     "file": "1f624"
   },
   {
@@ -9912,6 +11327,7 @@
     "alt_names": [
 
     ],
+    "description": "TROLLEYBUS",
     "file": "1f68e"
   },
   {
@@ -9919,6 +11335,7 @@
     "alt_names": [
 
     ],
+    "description": "TROPHY",
     "file": "1f3c6"
   },
   {
@@ -9926,6 +11343,7 @@
     "alt_names": [
 
     ],
+    "description": "TROPICAL DRINK",
     "file": "1f379"
   },
   {
@@ -9933,6 +11351,7 @@
     "alt_names": [
 
     ],
+    "description": "TROPICAL FISH",
     "file": "1f420"
   },
   {
@@ -9940,6 +11359,7 @@
     "alt_names": [
 
     ],
+    "description": "DELIVERY TRUCK",
     "file": "1f69a"
   },
   {
@@ -9947,6 +11367,7 @@
     "alt_names": [
 
     ],
+    "description": "TRUMPET",
     "file": "1f3ba"
   },
   {
@@ -9954,6 +11375,7 @@
     "alt_names": [
 
     ],
+    "description": "TULIP",
     "file": "1f337"
   },
   {
@@ -9961,6 +11383,7 @@
     "alt_names": [
 
     ],
+    "description": "TUMBLER GLASS",
     "file": "1f943"
   },
   {
@@ -9968,6 +11391,7 @@
     "alt_names": [
 
     ],
+    "description": "TURKEY",
     "file": "1f983"
   },
   {
@@ -9975,6 +11399,7 @@
     "alt_names": [
 
     ],
+    "description": "TURTLE",
     "file": "1f422"
   },
   {
@@ -9982,6 +11407,7 @@
     "alt_names": [
 
     ],
+    "description": "TELEVISION",
     "file": "1f4fa"
   },
   {
@@ -9989,6 +11415,7 @@
     "alt_names": [
 
     ],
+    "description": "TWISTED RIGHTWARDS ARROWS",
     "file": "1f500"
   },
   {
@@ -9996,6 +11423,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 2",
     "file": "32-20e3"
   },
   {
@@ -10003,6 +11431,7 @@
     "alt_names": [
 
     ],
+    "description": "TWO HEARTS",
     "file": "1f495"
   },
   {
@@ -10010,6 +11439,7 @@
     "alt_names": [
 
     ],
+    "description": "TWO MEN HOLDING HANDS",
     "file": "1f46c"
   },
   {
@@ -10017,6 +11447,7 @@
     "alt_names": [
 
     ],
+    "description": "TWO WOMEN HOLDING HANDS",
     "file": "1f46d"
   },
   {
@@ -10024,6 +11455,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
     "file": "1f239"
   },
   {
@@ -10031,6 +11463,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
     "file": "1f234"
   },
   {
@@ -10038,6 +11471,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
     "file": "1f23a"
   },
   {
@@ -10045,6 +11479,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
     "file": "1f22f"
   },
   {
@@ -10052,6 +11487,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
     "file": "1f237"
   },
   {
@@ -10059,6 +11495,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
     "file": "1f236"
   },
   {
@@ -10066,6 +11503,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
     "file": "1f235"
   },
   {
@@ -10073,6 +11511,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
     "file": "1f21a"
   },
   {
@@ -10080,6 +11519,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
     "file": "1f238"
   },
   {
@@ -10087,6 +11527,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
     "file": "1f232"
   },
   {
@@ -10094,6 +11535,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
     "file": "1f233"
   },
   {
@@ -10101,6 +11543,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2602"
   },
   {
@@ -10108,6 +11551,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f1"
   },
   {
@@ -10115,6 +11559,7 @@
     "alt_names": [
 
     ],
+    "description": "UMBRELLA WITH RAIN DROPS",
     "file": "2614"
   },
   {
@@ -10122,6 +11567,7 @@
     "alt_names": [
 
     ],
+    "description": "UNAMUSED FACE",
     "file": "1f612"
   },
   {
@@ -10129,6 +11575,7 @@
     "alt_names": [
 
     ],
+    "description": "NO ONE UNDER EIGHTEEN SYMBOL",
     "file": "1f51e"
   },
   {
@@ -10136,6 +11583,7 @@
     "alt_names": [
 
     ],
+    "description": "UNICORN FACE",
     "file": "1f984"
   },
   {
@@ -10143,6 +11591,7 @@
     "alt_names": [
 
     ],
+    "description": "OPEN LOCK",
     "file": "1f513"
   },
   {
@@ -10150,6 +11599,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED UP WITH EXCLAMATION MARK",
     "file": "1f199"
   },
   {
@@ -10157,6 +11607,7 @@
     "alt_names": [
 
     ],
+    "description": "UPSIDE-DOWN FACE",
     "file": "1f643"
   },
   {
@@ -10164,6 +11615,7 @@
     "alt_names": [
       "flag-us"
     ],
+    "description": "United States Flag",
     "file": "1f1fa-1f1f8"
   },
   {
@@ -10171,6 +11623,7 @@
     "alt_names": [
 
     ],
+    "description": "VICTORY HAND",
     "file": "270c"
   },
   {
@@ -10178,6 +11631,7 @@
     "alt_names": [
 
     ],
+    "description": "VAMPIRE",
     "file": "1f9db"
   },
   {
@@ -10185,6 +11639,7 @@
     "alt_names": [
 
     ],
+    "description": "VERTICAL TRAFFIC LIGHT",
     "file": "1f6a6"
   },
   {
@@ -10192,6 +11647,7 @@
     "alt_names": [
 
     ],
+    "description": "VIDEOCASSETTE",
     "file": "1f4fc"
   },
   {
@@ -10199,6 +11655,7 @@
     "alt_names": [
 
     ],
+    "description": "VIBRATION MODE",
     "file": "1f4f3"
   },
   {
@@ -10206,6 +11663,7 @@
     "alt_names": [
 
     ],
+    "description": "VIDEO CAMERA",
     "file": "1f4f9"
   },
   {
@@ -10213,6 +11671,7 @@
     "alt_names": [
 
     ],
+    "description": "VIDEO GAME",
     "file": "1f3ae"
   },
   {
@@ -10220,6 +11679,7 @@
     "alt_names": [
 
     ],
+    "description": "VIOLIN",
     "file": "1f3bb"
   },
   {
@@ -10227,6 +11687,7 @@
     "alt_names": [
 
     ],
+    "description": "VIRGO",
     "file": "264d"
   },
   {
@@ -10234,6 +11695,7 @@
     "alt_names": [
 
     ],
+    "description": "VOLCANO",
     "file": "1f30b"
   },
   {
@@ -10241,6 +11703,7 @@
     "alt_names": [
 
     ],
+    "description": "VOLLEYBALL",
     "file": "1f3d0"
   },
   {
@@ -10248,6 +11711,7 @@
     "alt_names": [
 
     ],
+    "description": "SQUARED VS",
     "file": "1f19a"
   },
   {
@@ -10255,6 +11719,7 @@
     "alt_names": [
 
     ],
+    "description": "PEDESTRIAN",
     "file": "1f6b6"
   },
   {
@@ -10262,6 +11727,7 @@
     "alt_names": [
 
     ],
+    "description": "WANING CRESCENT MOON SYMBOL",
     "file": "1f318"
   },
   {
@@ -10269,6 +11735,7 @@
     "alt_names": [
 
     ],
+    "description": "WANING GIBBOUS MOON SYMBOL",
     "file": "1f316"
   },
   {
@@ -10276,6 +11743,7 @@
     "alt_names": [
 
     ],
+    "description": "WARNING SIGN",
     "file": "26a0"
   },
   {
@@ -10283,6 +11751,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5d1"
   },
   {
@@ -10290,6 +11759,7 @@
     "alt_names": [
 
     ],
+    "description": "WATCH",
     "file": "231a"
   },
   {
@@ -10297,6 +11767,7 @@
     "alt_names": [
 
     ],
+    "description": "WATER BUFFALO",
     "file": "1f403"
   },
   {
@@ -10304,6 +11775,7 @@
     "alt_names": [
 
     ],
+    "description": "WATER POLO",
     "file": "1f93d"
   },
   {
@@ -10311,6 +11783,7 @@
     "alt_names": [
 
     ],
+    "description": "WATERMELON",
     "file": "1f349"
   },
   {
@@ -10318,6 +11791,7 @@
     "alt_names": [
 
     ],
+    "description": "WAVING HAND SIGN",
     "file": "1f44b"
   },
   {
@@ -10325,6 +11799,7 @@
     "alt_names": [
 
     ],
+    "description": "WAVING BLACK FLAG",
     "file": "1f3f4"
   },
   {
@@ -10332,6 +11807,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3f3"
   },
   {
@@ -10339,6 +11815,7 @@
     "alt_names": [
 
     ],
+    "description": "WAVY DASH",
     "file": "3030"
   },
   {
@@ -10346,6 +11823,7 @@
     "alt_names": [
 
     ],
+    "description": "WAXING CRESCENT MOON SYMBOL",
     "file": "1f312"
   },
   {
@@ -10353,6 +11831,7 @@
     "alt_names": [
 
     ],
+    "description": "WATER CLOSET",
     "file": "1f6be"
   },
   {
@@ -10360,6 +11839,7 @@
     "alt_names": [
 
     ],
+    "description": "WEARY FACE",
     "file": "1f629"
   },
   {
@@ -10367,6 +11847,7 @@
     "alt_names": [
 
     ],
+    "description": "WEDDING",
     "file": "1f492"
   },
   {
@@ -10374,6 +11855,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cb"
   },
   {
@@ -10381,6 +11863,7 @@
     "alt_names": [
 
     ],
+    "description": "SPOUTING WHALE",
     "file": "1f433"
   },
   {
@@ -10388,6 +11871,7 @@
     "alt_names": [
 
     ],
+    "description": "WHALE",
     "file": "1f40b"
   },
   {
@@ -10395,6 +11879,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2638"
   },
   {
@@ -10402,6 +11887,7 @@
     "alt_names": [
 
     ],
+    "description": "WHEELCHAIR SYMBOL",
     "file": "267f"
   },
   {
@@ -10409,6 +11895,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE HEAVY CHECK MARK",
     "file": "2705"
   },
   {
@@ -10416,6 +11903,7 @@
     "alt_names": [
 
     ],
+    "description": "MEDIUM WHITE CIRCLE",
     "file": "26aa"
   },
   {
@@ -10423,6 +11911,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE FLOWER",
     "file": "1f4ae"
   },
   {
@@ -10430,6 +11919,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "2639"
   },
   {
@@ -10437,6 +11927,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE LARGE SQUARE",
     "file": "2b1c"
   },
   {
@@ -10444,6 +11935,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE MEDIUM SMALL SQUARE",
     "file": "25fd"
   },
   {
@@ -10451,6 +11943,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE MEDIUM SQUARE",
     "file": "25fb"
   },
   {
@@ -10458,6 +11951,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE SMALL SQUARE",
     "file": "25ab"
   },
   {
@@ -10465,6 +11959,7 @@
     "alt_names": [
 
     ],
+    "description": "WHITE SQUARE BUTTON",
     "file": "1f533"
   },
   {
@@ -10472,6 +11967,7 @@
     "alt_names": [
 
     ],
+    "description": "WILTED FLOWER",
     "file": "1f940"
   },
   {
@@ -10479,6 +11975,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f32c"
   },
   {
@@ -10486,6 +11983,7 @@
     "alt_names": [
 
     ],
+    "description": "WIND CHIME",
     "file": "1f390"
   },
   {
@@ -10493,6 +11991,7 @@
     "alt_names": [
 
     ],
+    "description": "WINE GLASS",
     "file": "1f377"
   },
   {
@@ -10500,6 +11999,7 @@
     "alt_names": [
 
     ],
+    "description": "WINKING FACE",
     "file": "1f609"
   },
   {
@@ -10507,6 +12007,7 @@
     "alt_names": [
 
     ],
+    "description": "WOLF FACE",
     "file": "1f43a"
   },
   {
@@ -10514,6 +12015,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMAN",
     "file": "1f469"
   },
   {
@@ -10521,6 +12023,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b4-200d-2640-fe0f"
   },
   {
@@ -10528,6 +12031,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "26f9-fe0f-200d-2640-fe0f"
   },
   {
@@ -10535,6 +12039,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f647-200d-2640-fe0f"
   },
   {
@@ -10542,6 +12047,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f466"
   },
   {
@@ -10549,6 +12055,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f466-200d-1f466"
   },
   {
@@ -10556,6 +12063,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f938-200d-2640-fe0f"
   },
   {
@@ -10563,6 +12071,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f926-200d-2640-fe0f"
   },
   {
@@ -10570,6 +12079,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64d-200d-2640-fe0f"
   },
   {
@@ -10577,6 +12087,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f645-200d-2640-fe0f"
   },
   {
@@ -10584,6 +12095,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f646-200d-2640-fe0f"
   },
   {
@@ -10591,6 +12103,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f487-200d-2640-fe0f"
   },
   {
@@ -10598,6 +12111,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f486-200d-2640-fe0f"
   },
   {
@@ -10605,6 +12119,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f467"
   },
   {
@@ -10612,6 +12127,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f467-200d-1f466"
   },
   {
@@ -10619,6 +12135,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f467-200d-1f467"
   },
   {
@@ -10626,6 +12143,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cc-fe0f-200d-2640-fe0f"
   },
   {
@@ -10633,6 +12151,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2764-fe0f-200d-1f468"
   },
   {
@@ -10640,6 +12159,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2764-fe0f-200d-1f469"
   },
   {
@@ -10647,6 +12167,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f939-200d-2640-fe0f"
   },
   {
@@ -10654,6 +12175,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
   },
   {
@@ -10661,6 +12183,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
   },
   {
@@ -10668,6 +12191,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3cb-fe0f-200d-2640-fe0f"
   },
   {
@@ -10675,6 +12199,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b5-200d-2640-fe0f"
   },
   {
@@ -10682,6 +12207,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93e-200d-2640-fe0f"
   },
   {
@@ -10689,6 +12215,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93d-200d-2640-fe0f"
   },
   {
@@ -10696,6 +12223,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64e-200d-2640-fe0f"
   },
   {
@@ -10703,6 +12231,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f64b-200d-2640-fe0f"
   },
   {
@@ -10710,6 +12239,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6a3-200d-2640-fe0f"
   },
   {
@@ -10717,6 +12247,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3c3-200d-2640-fe0f"
   },
   {
@@ -10724,6 +12255,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f937-200d-2640-fe0f"
   },
   {
@@ -10731,6 +12263,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3c4-200d-2640-fe0f"
   },
   {
@@ -10738,6 +12271,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f3ca-200d-2640-fe0f"
   },
   {
@@ -10745,6 +12279,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f481-200d-2640-fe0f"
   },
   {
@@ -10752,6 +12287,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f6b6-200d-2640-fe0f"
   },
   {
@@ -10759,6 +12295,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f473-200d-2640-fe0f"
   },
   {
@@ -10766,6 +12303,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f46f-200d-2640-fe0f"
   },
   {
@@ -10773,6 +12311,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f469-200d-1f466"
   },
   {
@@ -10780,6 +12319,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f469-200d-1f466-200d-1f466"
   },
   {
@@ -10787,6 +12327,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f469-200d-1f467"
   },
   {
@@ -10794,6 +12335,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f469-200d-1f467-200d-1f466"
   },
   {
@@ -10801,6 +12343,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f469-200d-1f469-200d-1f467-200d-1f467"
   },
   {
@@ -10808,6 +12351,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f93c-200d-2640-fe0f"
   },
   {
@@ -10815,6 +12359,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d7-200d-2640-fe0f"
   },
   {
@@ -10822,6 +12367,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d8-200d-2640-fe0f"
   },
   {
@@ -10829,6 +12375,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f9d6-200d-2640-fe0f"
   },
   {
@@ -10836,6 +12383,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMANS CLOTHES",
     "file": "1f45a"
   },
   {
@@ -10843,6 +12391,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMANS HAT",
     "file": "1f452"
   },
   {
@@ -10850,6 +12399,7 @@
     "alt_names": [
 
     ],
+    "description": "WOMENS SYMBOL",
     "file": "1f6ba"
   },
   {
@@ -10857,6 +12407,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "1f5fa"
   },
   {
@@ -10864,6 +12415,7 @@
     "alt_names": [
 
     ],
+    "description": "WORRIED FACE",
     "file": "1f61f"
   },
   {
@@ -10871,6 +12423,7 @@
     "alt_names": [
 
     ],
+    "description": "WRENCH",
     "file": "1f527"
   },
   {
@@ -10878,6 +12431,7 @@
     "alt_names": [
 
     ],
+    "description": "WRESTLERS",
     "file": "1f93c"
   },
   {
@@ -10885,6 +12439,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "270d"
   },
   {
@@ -10892,6 +12447,7 @@
     "alt_names": [
 
     ],
+    "description": "CROSS MARK",
     "file": "274c"
   },
   {
@@ -10899,6 +12455,7 @@
     "alt_names": [
 
     ],
+    "description": "YELLOW HEART",
     "file": "1f49b"
   },
   {
@@ -10906,6 +12463,7 @@
     "alt_names": [
 
     ],
+    "description": "BANKNOTE WITH YEN SIGN",
     "file": "1f4b4"
   },
   {
@@ -10913,6 +12471,7 @@
     "alt_names": [
 
     ],
+    "description": null,
     "file": "262f"
   },
   {
@@ -10920,6 +12479,7 @@
     "alt_names": [
 
     ],
+    "description": "FACE SAVOURING DELICIOUS FOOD",
     "file": "1f60b"
   },
   {
@@ -10927,6 +12487,7 @@
     "alt_names": [
       "grinning_face_with_one_large_and_one_small_eye"
     ],
+    "description": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
     "file": "1f92a"
   },
   {
@@ -10934,6 +12495,7 @@
     "alt_names": [
 
     ],
+    "description": "HIGH VOLTAGE SIGN",
     "file": "26a1"
   },
   {
@@ -10941,6 +12503,7 @@
     "alt_names": [
 
     ],
+    "description": "ZEBRA FACE",
     "file": "1f993"
   },
   {
@@ -10948,6 +12511,7 @@
     "alt_names": [
 
     ],
+    "description": "KEYCAP 0",
     "file": "30-20e3"
   },
   {
@@ -10955,6 +12519,7 @@
     "alt_names": [
 
     ],
+    "description": "ZIPPER-MOUTH FACE",
     "file": "1f910"
   },
   {
@@ -10962,6 +12527,7 @@
     "alt_names": [
 
     ],
+    "description": "ZOMBIE",
     "file": "1f9df"
   },
   {
@@ -10969,6 +12535,7 @@
     "alt_names": [
 
     ],
+    "description": "SLEEPING SYMBOL",
     "file": "1f4a4"
   }
 ]

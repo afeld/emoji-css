@@ -45,9 +45,16 @@ $(function() {
   }
 
   function isElementMatching(element, needle) {
+    var name = $(element).text().toLowerCase();
     var alternatives = element.attr("data-alternative-names");
-    return ($(element).text().toLowerCase().indexOf(needle) >= 0) ||
-      (alternatives != null && alternatives.toLowerCase().indexOf(needle) >= 0);
+    return (
+      // name match
+      name.indexOf(needle) >= 0 ||
+      // class match
+      ('em-' + name).indexOf(needle) >= 0 ||
+      // alt match
+      (alternatives != null && alternatives.toLowerCase().indexOf(needle) >= 0)
+    );
   }
 
   function highlightElements(needle) {

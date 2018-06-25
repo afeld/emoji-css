@@ -70,6 +70,7 @@ end_emoji = Dir.glob('tmp/twitter-twemoji-*/2/72x72/*.png').map do |file|
     {
       name: name,
       alt_names: alt_names,
+      description: e['name'],
       file: unicode
     }
   else
