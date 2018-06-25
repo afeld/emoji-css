@@ -1954,6 +1954,13 @@
     "file": "1f950"
   },
   {
+    "name": "crossed_fingers",
+    "alt_names": [
+      "hand_with_index_and_middle_fingers_crossed"
+    ],
+    "file": "1f91e"
+  },
+  {
     "name": "crossed_flags",
     "alt_names": [
 
@@ -2542,6 +2549,13 @@
     "file": "2757"
   },
   {
+    "name": "exploding_head",
+    "alt_names": [
+      "shocked_face_with_exploding_head"
+    ],
+    "file": "1f92f"
+  },
+  {
     "name": "expressionless",
     "alt_names": [
 
@@ -2577,6 +2591,13 @@
     "file": "1f926"
   },
   {
+    "name": "face_vomiting",
+    "alt_names": [
+      "face_with_open_mouth_vomiting"
+    ],
+    "file": "1f92e"
+  },
+  {
     "name": "face_with_cowboy_hat",
     "alt_names": [
 
@@ -2584,11 +2605,11 @@
     "file": "1f920"
   },
   {
-    "name": "face_with_finger_covering_closed_lips",
+    "name": "face_with_hand_over_mouth",
     "alt_names": [
-
+      "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
     ],
-    "file": "1f92b"
+    "file": "1f92d"
   },
   {
     "name": "face_with_head_bandage",
@@ -2605,18 +2626,11 @@
     "file": "1f9d0"
   },
   {
-    "name": "face_with_one_eyebrow_raised",
+    "name": "face_with_raised_eyebrow",
     "alt_names": [
-
+      "face_with_one_eyebrow_raised"
     ],
     "file": "1f928"
-  },
-  {
-    "name": "face_with_open_mouth_vomiting",
-    "alt_names": [
-
-    ],
-    "file": "1f92e"
   },
   {
     "name": "face_with_rolling_eyes",
@@ -2624,6 +2638,13 @@
 
     ],
     "file": "1f644"
+  },
+  {
+    "name": "face_with_symbols_on_mouth",
+    "alt_names": [
+      "serious_face_with_symbols_covering_mouth"
+    ],
+    "file": "1f92c"
   },
   {
     "name": "face_with_thermometer",
@@ -5182,20 +5203,6 @@
     "file": "1f600"
   },
   {
-    "name": "grinning_face_with_one_large_and_one_small_eye",
-    "alt_names": [
-
-    ],
-    "file": "1f92a"
-  },
-  {
-    "name": "grinning_face_with_star_eyes",
-    "alt_names": [
-
-    ],
-    "file": "1f929"
-  },
-  {
     "name": "guardsman",
     "alt_names": [
 
@@ -5264,13 +5271,6 @@
       "raised_hand"
     ],
     "file": "270b"
-  },
-  {
-    "name": "hand_with_index_and_middle_fingers_crossed",
-    "alt_names": [
-
-    ],
-    "file": "1f91e"
   },
   {
     "name": "handbag",
@@ -6898,6 +6898,13 @@
     "file": "1f396"
   },
   {
+    "name": "medical_symbol",
+    "alt_names": [
+      "staff_of_aesculapius"
+    ],
+    "file": "2695"
+  },
+  {
     "name": "mega",
     "alt_names": [
 
@@ -7080,13 +7087,6 @@
     "file": "1f324"
   },
   {
-    "name": "mother_christmas",
-    "alt_names": [
-
-    ],
-    "file": "1f936"
-  },
-  {
     "name": "motor_boat",
     "alt_names": [
 
@@ -7169,6 +7169,13 @@
 
     ],
     "file": "1f5ff"
+  },
+  {
+    "name": "mrs_claus",
+    "alt_names": [
+      "mother_christmas"
+    ],
+    "file": "1f936"
   },
   {
     "name": "muscle",
@@ -8739,13 +8746,6 @@
     "file": "1f933"
   },
   {
-    "name": "serious_face_with_symbols_covering_mouth",
-    "alt_names": [
-
-    ],
-    "file": "1f92c"
-  },
-  {
     "name": "seven",
     "alt_names": [
 
@@ -8823,13 +8823,6 @@
     "file": "1f455"
   },
   {
-    "name": "shocked_face_with_exploding_head",
-    "alt_names": [
-
-    ],
-    "file": "1f92f"
-  },
-  {
     "name": "shopping_bags",
     "alt_names": [
 
@@ -8863,6 +8856,13 @@
 
     ],
     "file": "1f937"
+  },
+  {
+    "name": "shushing_face",
+    "alt_names": [
+      "face_with_finger_covering_closed_lips"
+    ],
+    "file": "1f92b"
   },
   {
     "name": "signal_strength",
@@ -9066,13 +9066,6 @@
 
     ],
     "file": "1f63a"
-  },
-  {
-    "name": "smiling_face_with_smiling_eyes_and_hand_covering_mouth",
-    "alt_names": [
-
-    ],
-    "file": "1f92d"
   },
   {
     "name": "smiling_imp",
@@ -9355,18 +9348,18 @@
     "file": "1f3df"
   },
   {
-    "name": "staff_of_aesculapius",
-    "alt_names": [
-
-    ],
-    "file": "2695"
-  },
-  {
     "name": "star",
     "alt_names": [
 
     ],
     "file": "2b50"
+  },
+  {
+    "name": "star-struck",
+    "alt_names": [
+      "grinning_face_with_star_eyes"
+    ],
+    "file": "1f929"
   },
   {
     "name": "star2",
@@ -10928,6 +10921,13 @@
 
     ],
     "file": "1f60b"
+  },
+  {
+    "name": "zany_face",
+    "alt_names": [
+      "grinning_face_with_one_large_and_one_small_eye"
+    ],
+    "file": "1f92a"
   },
   {
     "name": "zap",
