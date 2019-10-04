@@ -29,9 +29,10 @@
       By default, the emoji will be served as PNGs. To use SVG instead, use the <code>em-svg</code> class instead of <code>em</code>. This will scale better, but has larger file size.
     </p>
     <ul class="emojis">
-      {% for emo in site.data.emoji %}
-        <li class="emoji" data-clipboard-text="&lt;i class=&quot;em em-{{ emo.name }}&quot;&gt;&lt;/i&gt;">
-          <i class="em em-{{ emo.name }}"></i> em-<span class="name" data-alternative-names="{{ emo.description | split: '#' | concat: emo.alt_names | join: ',' }}">{{ emo.name }}</span>
+      {% for emoji in site.data.emoji %}
+        {% capture clipboard_text %}{% include emoji-icon.html %}{% endcapture %}
+        <li class="emoji" data-clipboard-text="{{ clipboard_text | replace:'"','&quot;' | replace:'<','&lt;' | replace:'>','&gt;' }}">
+          {% include emoji.html %}
         </li>
       {% endfor %}
     </ul>

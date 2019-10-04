@@ -1,0 +1,5 @@
+{% capture alternative_names %}
+{% if emoji.alt_names.size > 1 %}{{ emoji.alt_names | join:',' }}{% else %}{{ emoji.name }}
+{% endif %}
+{% endcapture %}
+{% include emoji-icon.html emoji=emoji %} em-<span class="name" data-alternative-names="{{ alternative_names | strip }}">{{ emoji.name }}</span>
