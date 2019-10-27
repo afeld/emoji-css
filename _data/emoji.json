@@ -57,6 +57,14 @@
     "file": "1f18e"
   },
   {
+    "name": "abacus",
+    "alt_names": [
+
+    ],
+    "description": "ABACUS",
+    "file": "1f9ee"
+  },
+  {
     "name": "abc",
     "alt_names": [
 
@@ -513,12 +521,28 @@
     "file": "1f953"
   },
   {
+    "name": "badger",
+    "alt_names": [
+
+    ],
+    "description": "BADGER",
+    "file": "1f9a1"
+  },
+  {
     "name": "badminton_racquet_and_shuttlecock",
     "alt_names": [
 
     ],
     "description": "BADMINTON RACQUET AND SHUTTLECOCK",
     "file": "1f3f8"
+  },
+  {
+    "name": "bagel",
+    "alt_names": [
+
+    ],
+    "description": "BAGEL",
+    "file": "1f96f"
   },
   {
     "name": "baggage_claim",
@@ -623,6 +647,14 @@
     ],
     "description": "BASEBALL",
     "file": "26be"
+  },
+  {
+    "name": "basket",
+    "alt_names": [
+
+    ],
+    "description": "BASKET",
+    "file": "1f9fa"
   },
   {
     "name": "basketball",
@@ -1017,6 +1049,14 @@
     "file": "1f4a3"
   },
   {
+    "name": "bone",
+    "alt_names": [
+
+    ],
+    "description": "BONE",
+    "file": "1f9b4"
+  },
+  {
     "name": "book",
     "alt_names": [
       "open_book"
@@ -1145,6 +1185,14 @@
     "file": "1f931"
   },
   {
+    "name": "bricks",
+    "alt_names": [
+
+    ],
+    "description": "BRICK",
+    "file": "1f9f1"
+  },
+  {
     "name": "bride_with_veil",
     "alt_names": [
 
@@ -1183,6 +1231,14 @@
     ],
     "description": "BROKEN HEART",
     "file": "1f494"
+  },
+  {
+    "name": "broom",
+    "alt_names": [
+
+    ],
+    "description": "BROOM",
+    "file": "1f9f9"
   },
   {
     "name": "bug",
@@ -1543,6 +1599,14 @@
     ],
     "description": "CHERRY BLOSSOM",
     "file": "1f338"
+  },
+  {
+    "name": "chess_pawn",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "265f"
   },
   {
     "name": "chestnut",
@@ -1993,6 +2057,14 @@
     "file": "26b0"
   },
   {
+    "name": "cold_face",
+    "alt_names": [
+
+    ],
+    "description": "FREEZING FACE",
+    "file": "1f976"
+  },
+  {
     "name": "cold_sweat",
     "alt_names": [
 
@@ -2007,6 +2079,14 @@
     ],
     "description": null,
     "file": "2604"
+  },
+  {
+    "name": "compass",
+    "alt_names": [
+
+    ],
+    "description": "COMPASS",
+    "file": "1f9ed"
   },
   {
     "name": "compression",
@@ -2305,6 +2385,14 @@
     "file": "1f964"
   },
   {
+    "name": "cupcake",
+    "alt_names": [
+
+    ],
+    "description": "CUPCAKE",
+    "file": "1f9c1"
+  },
+  {
     "name": "cupid",
     "alt_names": [
 
@@ -2446,7 +2534,7 @@
       "flag-de"
     ],
     "description": "Germany Flag",
-    "file": "1f1e9-1f1ea"
+    "file": "1f1e9"
   },
   {
     "name": "deciduous_tree",
@@ -2551,6 +2639,14 @@
     ],
     "description": "DIZZY FACE",
     "file": "1f635"
+  },
+  {
+    "name": "dna",
+    "alt_names": [
+
+    ],
+    "description": "DNA DOUBLE HELIX",
+    "file": "1f9ec"
   },
   {
     "name": "do_not_litter",
@@ -3265,6 +3361,22 @@
     "file": "1f469-200d-1f4bb"
   },
   {
+    "name": "female_bald",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f469-200d-1f9b2"
+  },
+  {
+    "name": "female_curly_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f469-200d-1f9b1"
+  },
+  {
     "name": "female_elf",
     "alt_names": [
 
@@ -3297,6 +3409,14 @@
     "file": "1f9d9-200d-2640-fe0f"
   },
   {
+    "name": "female_red_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f469-200d-1f9b0"
+  },
+  {
     "name": "female_sign",
     "alt_names": [
 
@@ -3305,12 +3425,36 @@
     "file": "2640"
   },
   {
+    "name": "female_superhero",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f9b8"
+  },
+  {
+    "name": "female_supervillain",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f9b9"
+  },
+  {
     "name": "female_vampire",
     "alt_names": [
 
     ],
     "description": null,
     "file": "1f9db-200d-2640-fe0f"
+  },
+  {
+    "name": "female_white_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f469-200d-1f9b3"
   },
   {
     "name": "female_zombie",
@@ -3401,6 +3545,22 @@
     "file": "1f692"
   },
   {
+    "name": "fire_extinguisher",
+    "alt_names": [
+
+    ],
+    "description": "FIRE EXTINGUISHER",
+    "file": "1f9ef"
+  },
+  {
+    "name": "firecracker",
+    "alt_names": [
+
+    ],
+    "description": "FIRECRACKER",
+    "file": "1f9e8"
+  },
+  {
     "name": "fireworks",
     "alt_names": [
 
@@ -3478,7 +3638,7 @@
 
     ],
     "description": "Ascension Island Flag",
-    "file": "1f1e6-1f1e8"
+    "file": "1f1e6"
   },
   {
     "name": "flag-ad",
@@ -4054,7 +4214,7 @@
 
     ],
     "description": "Finland Flag",
-    "file": "1f1eb-1f1ee"
+    "file": "1f1eb"
   },
   {
     "name": "flag-fj",
@@ -4094,7 +4254,7 @@
 
     ],
     "description": "Gabon Flag",
-    "file": "1f1ec-1f1e6"
+    "file": "1f1ec"
   },
   {
     "name": "flag-gd",
@@ -4238,7 +4398,7 @@
 
     ],
     "description": "Hong Kong SAR China Flag",
-    "file": "1f1ed-1f1f0"
+    "file": "1f1ed"
   },
   {
     "name": "flag-hm",
@@ -4390,7 +4550,7 @@
 
     ],
     "description": "Kenya Flag",
-    "file": "1f1f0-1f1ea"
+    "file": "1f1f0"
   },
   {
     "name": "flag-kg",
@@ -4470,7 +4630,7 @@
 
     ],
     "description": "Laos Flag",
-    "file": "1f1f1-1f1e6"
+    "file": "1f1f1"
   },
   {
     "name": "flag-lb",
@@ -4838,7 +4998,7 @@
 
     ],
     "description": "Oman Flag",
-    "file": "1f1f4-1f1f2"
+    "file": "1f1f4"
   },
   {
     "name": "flag-pa",
@@ -4966,7 +5126,7 @@
 
     ],
     "description": "Réunion Flag",
-    "file": "1f1f7-1f1ea"
+    "file": "1f1f7"
   },
   {
     "name": "flag-ro",
@@ -4998,7 +5158,7 @@
 
     ],
     "description": "Saudi Arabia Flag",
-    "file": "1f1f8-1f1e6"
+    "file": "1f1f8"
   },
   {
     "name": "flag-sb",
@@ -5462,7 +5622,7 @@
 
     ],
     "description": "South Africa Flag",
-    "file": "1f1ff-1f1e6"
+    "file": "1f1ff"
   },
   {
     "name": "flag-zm",
@@ -5529,6 +5689,14 @@
     "file": "1f633"
   },
   {
+    "name": "flying_disc",
+    "alt_names": [
+
+    ],
+    "description": "FLYING DISC",
+    "file": "1f94f"
+  },
+  {
     "name": "flying_saucer",
     "alt_names": [
 
@@ -5551,6 +5719,14 @@
     ],
     "description": "FOGGY",
     "file": "1f301"
+  },
+  {
+    "name": "foot",
+    "alt_names": [
+
+    ],
+    "description": "FOOT",
+    "file": "1f9b6"
   },
   {
     "name": "football",
@@ -5840,6 +6016,14 @@
     ],
     "description": "GOAT",
     "file": "1f410"
+  },
+  {
+    "name": "goggles",
+    "alt_names": [
+
+    ],
+    "description": "GOGGLES",
+    "file": "1f97d"
   },
   {
     "name": "golf",
@@ -6267,6 +6451,22 @@
     "file": "1f460"
   },
   {
+    "name": "hiking_boot",
+    "alt_names": [
+
+    ],
+    "description": "HIKING BOOT",
+    "file": "1f97e"
+  },
+  {
+    "name": "hippopotamus",
+    "alt_names": [
+
+    ],
+    "description": "HIPPOPOTAMUS",
+    "file": "1f99b"
+  },
+  {
     "name": "hocho",
     "alt_names": [
       "knife"
@@ -6313,6 +6513,14 @@
     ],
     "description": "HOSPITAL",
     "file": "1f3e5"
+  },
+  {
+    "name": "hot_face",
+    "alt_names": [
+
+    ],
+    "description": "OVERHEATED FACE",
+    "file": "1f975"
   },
   {
     "name": "hot_pepper",
@@ -6483,6 +6691,14 @@
     "file": "1f4e8"
   },
   {
+    "name": "infinity",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "267e"
+  },
+  {
     "name": "information_desk_person",
     "alt_names": [
 
@@ -6587,6 +6803,14 @@
     "file": "1f456"
   },
   {
+    "name": "jigsaw",
+    "alt_names": [
+
+    ],
+    "description": "JIGSAW PUZZLE PIECE",
+    "file": "1f9e9"
+  },
+  {
     "name": "joy",
     "alt_names": [
 
@@ -6633,6 +6857,14 @@
     ],
     "description": "KAABA",
     "file": "1f54b"
+  },
+  {
+    "name": "kangaroo",
+    "alt_names": [
+
+    ],
+    "description": "KANGAROO",
+    "file": "1f998"
   },
   {
     "name": "key",
@@ -6763,12 +6995,28 @@
     "file": "1f1f0-1f1f7"
   },
   {
+    "name": "lab_coat",
+    "alt_names": [
+
+    ],
+    "description": "LAB COAT",
+    "file": "1f97c"
+  },
+  {
     "name": "label",
     "alt_names": [
 
     ],
     "description": null,
     "file": "1f3f7"
+  },
+  {
+    "name": "lacrosse",
+    "alt_names": [
+
+    ],
+    "description": "LACROSSE STICK AND BALL",
+    "file": "1f94d"
   },
   {
     "name": "large_blue_circle",
@@ -6827,6 +7075,14 @@
     "file": "1f606"
   },
   {
+    "name": "leafy_green",
+    "alt_names": [
+
+    ],
+    "description": "LEAFY GREEN",
+    "file": "1f96c"
+  },
+  {
     "name": "leaves",
     "alt_names": [
 
@@ -6881,6 +7137,14 @@
     ],
     "description": "LEFTWARDS ARROW WITH HOOK",
     "file": "21a9"
+  },
+  {
+    "name": "leg",
+    "alt_names": [
+
+    ],
+    "description": "LEG",
+    "file": "1f9b5"
   },
   {
     "name": "lemon",
@@ -6987,6 +7251,22 @@
     "file": "1f98e"
   },
   {
+    "name": "llama",
+    "alt_names": [
+
+    ],
+    "description": "LLAMA",
+    "file": "1f999"
+  },
+  {
+    "name": "lobster",
+    "alt_names": [
+
+    ],
+    "description": "LOBSTER",
+    "file": "1f99e"
+  },
+  {
     "name": "lock",
     "alt_names": [
 
@@ -7017,6 +7297,14 @@
     ],
     "description": "DOUBLE CURLY LOOP",
     "file": "27bf"
+  },
+  {
+    "name": "lotion_bottle",
+    "alt_names": [
+
+    ],
+    "description": "LOTION BOTTLE",
+    "file": "1f9f4"
   },
   {
     "name": "loud_sound",
@@ -7091,6 +7379,14 @@
     "file": "1f58c"
   },
   {
+    "name": "luggage",
+    "alt_names": [
+
+    ],
+    "description": "LUGGAGE",
+    "file": "1f9f3"
+  },
+  {
     "name": "lying_face",
     "alt_names": [
 
@@ -7129,6 +7425,14 @@
     ],
     "description": "MAGE",
     "file": "1f9d9"
+  },
+  {
+    "name": "magnet",
+    "alt_names": [
+
+    ],
+    "description": "MAGNET",
+    "file": "1f9f2"
   },
   {
     "name": "mahjong",
@@ -7331,6 +7635,22 @@
     "file": "1f468-200d-1f4bb"
   },
   {
+    "name": "male_bald",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f468-200d-1f9b2"
+  },
+  {
+    "name": "male_curly_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f468-200d-1f9b1"
+  },
+  {
     "name": "male_elf",
     "alt_names": [
 
@@ -7363,6 +7683,14 @@
     "file": "1f9d9-200d-2642-fe0f"
   },
   {
+    "name": "male_red_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f468-200d-1f9b0"
+  },
+  {
     "name": "male_sign",
     "alt_names": [
 
@@ -7371,12 +7699,36 @@
     "file": "2642"
   },
   {
+    "name": "male_superhero",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f9b8-200d-2642-fe0f"
+  },
+  {
+    "name": "male_supervillain",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f9b9-200d-2642-fe0f"
+  },
+  {
     "name": "male_vampire",
     "alt_names": [
 
     ],
     "description": null,
     "file": "1f9db-200d-2642-fe0f"
+  },
+  {
+    "name": "male_white_haired",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f468-200d-1f9b3"
   },
   {
     "name": "male_zombie",
@@ -7819,6 +8171,14 @@
     "file": "1f473"
   },
   {
+    "name": "mango",
+    "alt_names": [
+
+    ],
+    "description": "MANGO",
+    "file": "1f96d"
+  },
+  {
     "name": "mans_shoe",
     "alt_names": [
       "shoe"
@@ -7963,6 +8323,14 @@
     "file": "1f687"
   },
   {
+    "name": "microbe",
+    "alt_names": [
+
+    ],
+    "description": "MICROBE",
+    "file": "1f9a0"
+  },
+  {
     "name": "microphone",
     "alt_names": [
 
@@ -8075,6 +8443,14 @@
     "file": "1f314"
   },
   {
+    "name": "moon_cake",
+    "alt_names": [
+
+    ],
+    "description": "MOON CAKE",
+    "file": "1f96e"
+  },
+  {
     "name": "mortar_board",
     "alt_names": [
 
@@ -8089,6 +8465,14 @@
     ],
     "description": "MOSQUE",
     "file": "1f54c"
+  },
+  {
+    "name": "mosquito",
+    "alt_names": [
+
+    ],
+    "description": "MOSQUITO",
+    "file": "1f99f"
   },
   {
     "name": "mostly_sunny",
@@ -8281,6 +8665,14 @@
     ],
     "description": "NAUSEATED FACE",
     "file": "1f922"
+  },
+  {
+    "name": "nazar_amulet",
+    "alt_names": [
+
+    ],
+    "description": "NAZAR AMULET",
+    "file": "1f9ff"
   },
   {
     "name": "necktie",
@@ -8827,6 +9219,14 @@
     "file": "1f17f"
   },
   {
+    "name": "parrot",
+    "alt_names": [
+
+    ],
+    "description": "PARROT",
+    "file": "1f99c"
+  },
+  {
     "name": "part_alternation_mark",
     "alt_names": [
 
@@ -8849,6 +9249,14 @@
     ],
     "description": null,
     "file": "1f326"
+  },
+  {
+    "name": "partying_face",
+    "alt_names": [
+
+    ],
+    "description": "FACE WITH PARTY HORN AND PARTY HAT",
+    "file": "1f973"
   },
   {
     "name": "passenger_ship",
@@ -8881,6 +9289,14 @@
     ],
     "description": "PEACH",
     "file": "1f351"
+  },
+  {
+    "name": "peacock",
+    "alt_names": [
+
+    ],
+    "description": "PEACOCK",
+    "file": "1f99a"
   },
   {
     "name": "peanuts",
@@ -9011,6 +9427,14 @@
     "file": "1f64e"
   },
   {
+    "name": "petri_dish",
+    "alt_names": [
+
+    ],
+    "description": "PETRI DISH",
+    "file": "1f9eb"
+  },
+  {
     "name": "phone",
     "alt_names": [
       "telephone"
@@ -9075,6 +9499,14 @@
     "file": "1f34d"
   },
   {
+    "name": "pirate_flag",
+    "alt_names": [
+
+    ],
+    "description": null,
+    "file": "1f3f4-200d-2620-fe0f"
+  },
+  {
     "name": "pisces",
     "alt_names": [
 
@@ -9097,6 +9529,14 @@
     ],
     "description": "PLACE OF WORSHIP",
     "file": "1f6d0"
+  },
+  {
+    "name": "pleading_face",
+    "alt_names": [
+
+    ],
+    "description": "FACE WITH PLEADING EYES",
+    "file": "1f97a"
   },
   {
     "name": "point_down",
@@ -9347,6 +9787,14 @@
     "file": "1f407"
   },
   {
+    "name": "raccoon",
+    "alt_names": [
+
+    ],
+    "description": "RACCOON",
+    "file": "1f99d"
+  },
+  {
     "name": "racehorse",
     "alt_names": [
 
@@ -9499,6 +9947,14 @@
     "file": "1f400"
   },
   {
+    "name": "receipt",
+    "alt_names": [
+
+    ],
+    "description": "RECEIPT",
+    "file": "1f9fe"
+  },
+  {
     "name": "recycle",
     "alt_names": [
 
@@ -9513,6 +9969,14 @@
     ],
     "description": "LARGE RED CIRCLE",
     "file": "1f534"
+  },
+  {
+    "name": "red_envelope",
+    "alt_names": [
+
+    ],
+    "description": "RED GIFT ENVELOPE",
+    "file": "1f9e7"
   },
   {
     "name": "registered",
@@ -9675,6 +10139,14 @@
     "file": "1f680"
   },
   {
+    "name": "roll_of_paper",
+    "alt_names": [
+
+    ],
+    "description": "ROLL OF PAPER",
+    "file": "1f9fb"
+  },
+  {
     "name": "rolled_up_newspaper",
     "alt_names": [
 
@@ -9787,6 +10259,14 @@
     "file": "1f202"
   },
   {
+    "name": "safety_pin",
+    "alt_names": [
+
+    ],
+    "description": "SAFETY PIN",
+    "file": "1f9f7"
+  },
+  {
     "name": "sagittarius",
     "alt_names": [
 
@@ -9801,6 +10281,14 @@
     ],
     "description": "SAKE BOTTLE AND CUP",
     "file": "1f376"
+  },
+  {
+    "name": "salt",
+    "alt_names": [
+
+    ],
+    "description": "SALT SHAKER",
+    "file": "1f9c2"
   },
   {
     "name": "sandal",
@@ -10155,6 +10643,14 @@
     "file": "1f52f"
   },
   {
+    "name": "skateboard",
+    "alt_names": [
+
+    ],
+    "description": "SKATEBOARD",
+    "file": "1f6f9"
+  },
+  {
     "name": "ski",
     "alt_names": [
 
@@ -10363,6 +10859,14 @@
     "file": "1f63a"
   },
   {
+    "name": "smiling_face_with_3_hearts",
+    "alt_names": [
+
+    ],
+    "description": "SMILING FACE WITH SMILING EYES AND THREE HEARTS",
+    "file": "1f970"
+  },
+  {
     "name": "smiling_imp",
     "alt_names": [
 
@@ -10467,6 +10971,14 @@
     "file": "26c4"
   },
   {
+    "name": "soap",
+    "alt_names": [
+
+    ],
+    "description": "BAR OF SOAP",
+    "file": "1f9fc"
+  },
+  {
     "name": "sob",
     "alt_names": [
 
@@ -10489,6 +11001,14 @@
     ],
     "description": "SOCKS",
     "file": "1f9e6"
+  },
+  {
+    "name": "softball",
+    "alt_names": [
+
+    ],
+    "description": "SOFTBALL",
+    "file": "1f94e"
   },
   {
     "name": "soon",
@@ -10649,6 +11169,14 @@
     ],
     "description": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
     "file": "1f596"
+  },
+  {
+    "name": "sponge",
+    "alt_names": [
+
+    ],
+    "description": "SPONGE",
+    "file": "1f9fd"
   },
   {
     "name": "spoon",
@@ -10899,6 +11427,14 @@
     "file": "1f69f"
   },
   {
+    "name": "swan",
+    "alt_names": [
+
+    ],
+    "description": "SWAN",
+    "file": "1f9a2"
+  },
+  {
     "name": "sweat",
     "alt_names": [
 
@@ -11043,6 +11579,14 @@
     "file": "1f375"
   },
   {
+    "name": "teddy_bear",
+    "alt_names": [
+
+    ],
+    "description": "TEDDY BEAR",
+    "file": "1f9f8"
+  },
+  {
     "name": "telephone_receiver",
     "alt_names": [
 
@@ -11073,6 +11617,14 @@
     ],
     "description": "TENT",
     "file": "26fa"
+  },
+  {
+    "name": "test_tube",
+    "alt_names": [
+
+    ],
+    "description": "TEST TUBE",
+    "file": "1f9ea"
   },
   {
     "name": "the_horns",
@@ -11113,6 +11665,14 @@
     ],
     "description": "THOUGHT BALLOON",
     "file": "1f4ad"
+  },
+  {
+    "name": "thread",
+    "alt_names": [
+
+    ],
+    "description": "SPOOL OF THREAD",
+    "file": "1f9f5"
   },
   {
     "name": "three",
@@ -11217,6 +11777,22 @@
     ],
     "description": "TONGUE",
     "file": "1f445"
+  },
+  {
+    "name": "toolbox",
+    "alt_names": [
+
+    ],
+    "description": "TOOLBOX",
+    "file": "1f9f0"
+  },
+  {
+    "name": "tooth",
+    "alt_names": [
+
+    ],
+    "description": "TOOTH",
+    "file": "1f9b7"
   },
   {
     "name": "top",
@@ -12387,6 +12963,14 @@
     "file": "1f45a"
   },
   {
+    "name": "womans_flat_shoe",
+    "alt_names": [
+
+    ],
+    "description": "FLAT SHOE",
+    "file": "1f97f"
+  },
+  {
     "name": "womans_hat",
     "alt_names": [
 
@@ -12401,6 +12985,14 @@
     ],
     "description": "WOMENS SYMBOL",
     "file": "1f6ba"
+  },
+  {
+    "name": "woozy_face",
+    "alt_names": [
+
+    ],
+    "description": "FACE WITH UNEVEN EYES AND WAVY MOUTH",
+    "file": "1f974"
   },
   {
     "name": "world_map",
@@ -12449,6 +13041,14 @@
     ],
     "description": "CROSS MARK",
     "file": "274c"
+  },
+  {
+    "name": "yarn",
+    "alt_names": [
+
+    ],
+    "description": "BALL OF YARN",
+    "file": "1f9f6"
   },
   {
     "name": "yellow_heart",

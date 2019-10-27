@@ -52,7 +52,7 @@ end
 ############################################
 
 
-end_emoji = Dir.glob('tmp/twitter-twemoji-*/2/72x72/*.png').map do |file|
+end_emoji = Dir.glob('tmp/twitter-twemoji-*/assets/72x72/*.png').map do |file|
   unicode = File.basename(file, '.*')
   e = emoji_by_unicode[unicode]
   if e.nil?
