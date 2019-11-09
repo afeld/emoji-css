@@ -45,6 +45,7 @@ end
 
 ############################################
 
+num_missing = 0
 
 end_emoji = Dir.glob('tmp/twitter-twemoji-*/assets/72x72/*.png').map do |file|
   unicode = File.basename(file, '.*')
@@ -69,9 +70,12 @@ end_emoji = Dir.glob('tmp/twitter-twemoji-*/assets/72x72/*.png').map do |file|
     }
   else
     puts "Missing emoji data: #{unicode}"
+    num_missing += 1
     nil
   end
 end
+
+puts "#{num_missing} missing"
 
 end_emoji.compact!
 end_emoji.uniq! { |e| e[:name] }
