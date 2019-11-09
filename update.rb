@@ -43,12 +43,6 @@ emoji.each do |e|
   end
 end
 
-# unified, first part
-emoji.each do |e|
-  unified = e['unified'].downcase.split('-').first
-  emoji_by_unicode[unified] ||= e
-end
-
 ############################################
 
 
