@@ -12,6 +12,8 @@ Note that the images under [`emoji/`](emoji/) are only there for legacy reasons,
 
 ### Running Locally
 
+Install Ruby 2.x, then run:
+
 ```sh
 bundle
 bundle exec jekyll serve -w
