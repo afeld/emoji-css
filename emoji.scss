@@ -12,7 +12,7 @@
   vertical-align: middle;
 }
 
-{% assign host = 'https://twemoji.maxcdn.com' %}
+{% assign host = 'https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2' %}
 {% for emo in site.data.emoji %}
   {% assign names = emo.name | split: ',' | concat: emo.alt_names | join: ', .em-' %}
   .em-{{ names }} {
@@ -20,8 +20,8 @@
 
     &.em-svg {
       {% comment %} SVG support https://css-tricks.com/using-svg/#article-header-id-5 {% endcomment %}
-      background: url('{{ host }}/2/72x72/{{ emo.file }}.png');
-      background-image: url('{{ host }}/2/svg/{{ emo.file }}.svg'), none;
+      background: url('{{ host }}/72x72/{{ emo.file }}.png');
+      background-image: url('{{ host }}/svg/{{ emo.file }}.svg'), none;
     }
   }
 {% endfor %}
