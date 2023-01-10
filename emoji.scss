@@ -12,15 +12,16 @@
   vertical-align: middle;
 }
 
+{% assign base = 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets' %}
 {% for emo in site.data.emoji %}
   {% assign names = emo.name | split: ',' | concat: emo.alt_names | join: ', .em-' %}
   .em-{{ names }} {
-    background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/{{ emo.file }}.png');
+    background-image: url('{{ base }}/72x72/{{ emo.file }}.png');
 
     &.em-svg {
       {% comment %} SVG support https://css-tricks.com/using-svg/#article-header-id-5 {% endcomment %}
-      background: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/{{ emo.file }}.png');
-      background-image: url('https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/{{ emo.file }}.svg'), none;
+      background: url('{{ base }}/72x72/{{ emo.file }}.png');
+      background-image: url('{{ base }}/svg/{{ emo.file }}.svg'), none;
     }
   }
 {% endfor %}
